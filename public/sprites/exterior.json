@@ -1,0 +1,291 @@
+ {
+     "imageUrl": "img/Exterior-Tileset.png",
+     "tileW": 16,
+     "tileH": 16,
+
+
+     "tiles": [
+     {
+         "name": "green",
+         "type": "",
+         "index": [1, 0]
+     },
+     {
+         "name": "bald-grass-1",
+         "type": "",
+         "index": [64, 3]
+     },
+     {
+         "name": "bald-grass-2",
+         "type": "",
+         "index": [65, 3]
+     },
+     {
+         "name": "bald-grass-3",
+         "type": "",
+         "index": [66, 3]
+     },
+     {
+         "name": "bald-grass-4",
+         "type": "",
+         "index": [64, 4]
+     },
+     {
+         "name": "bald-grass-5",
+         "type": "",
+         "index": [65, 4]
+     },
+     {
+         "name": "bald-grass-6",
+         "type": "",
+         "index": [66, 4]
+     },
+     {
+         "name": "bald-grass-7",
+         "type": "",
+         "index": [64, 5]
+     },
+     {
+         "name": "bald-grass-8",
+         "type": "",
+         "index": [65, 5]
+     },
+     {
+         "name": "bald-grass-9",
+         "type": "",
+         "index": [66, 5]
+     },
+     {
+         "name": "flower",
+         "type": "",
+         "index": [70, 0]
+     },
+     {
+         "name": "flower-1",
+         "type": "",
+         "index": [70, 0]
+     },
+     {
+         "name": "flower-2",
+         "type": "",
+         "index": [70, 2]
+     },
+     {
+         "name": "flower-3",
+         "type": "",
+         "index": [71, 2]
+     },
+     {
+         "name": "sign",
+         "type": "solid",
+         "index": [3, 0]
+     },
+     {
+         "name": "grassy-sand",
+         "type": "",
+         "index": [17, 0]
+     },
+     {
+         "name": "bush",
+         "type": "solid",
+         "index": [10, 0]
+     },
+     {
+         "name": "wooden-door",
+         "type": "portal",
+         "index": [16, 9]
+     },
+     {
+         "name": "green-door",
+         "type": "portal",
+         "index": [17, 9]
+     },
+     {
+         "name": "step-down-left",
+         "type": "solid",
+         "index": [36, 0]
+     },
+     {
+         "name": "step-down-middle",
+         "type": "solid",
+         "index": [33, 1]
+     },
+     {
+         "name": "step-down-right",
+         "type": "solid",
+         "index": [37, 0]
+     },
+     {
+         "name": "step-down-right-up",
+         "type": "solid",
+         "index": [35, 1]
+     },
+     {
+         "name": "step-down-up-left",
+         "type": "solid",
+         "index": [36, 1]
+     },
+     {
+         "name": "grass",
+         "type": "grass",
+         "index": [5, 1]
+     },
+     {
+         "name": "wooden-roof",
+         "size": [5, 3],
+         "type": "portal",
+         "index": [16, 9]
+     }],
+     "objects": [
+     {
+         "name": "big-tree",
+         "size": [2, 2],
+         "type": "solid",
+         "indexes": [
+             [6, 3],
+             [7, 3],
+             [6, 4],
+             [7, 4]
+         ]
+     },
+     {
+         "name": "wooden-roof-top",
+         "size": [5, 1],
+         "type": "overlay",
+         "indexes": [
+             [16, 1],
+             [17, 1],
+             [17, 1],
+             [17, 1],
+             [18, 1]
+         ]
+     },
+     {
+         "name": "brendan-house",
+         "size": [5, 4],
+         "type": "solid",
+         "indexes": [
+             [16, 2],
+             [17, 2],
+             [17, 2],
+             [17, 2],
+             [18, 2],
+
+             [16, 3],
+             [17, 3],
+             [17, 3],
+             [17, 3],
+             [18, 3],
+
+             [18, 4],
+             [18, 6],
+             [16, 6],
+             [16, 8],
+             [17, 4],
+
+             [18, 5],
+             [18, 7],
+             [16, 7],
+             [0, 0],
+             [17, 5]
+         ]
+     },
+     {
+         "name": "may-house",
+         "size": [5, 4],
+         "type": "solid",
+         "indexes": [
+             [16, 2],
+             [17, 2],
+             [17, 2],
+             [17, 2],
+             [18, 2],
+             [16, 3],
+             [17, 3],
+             [17, 3],
+             [17, 3],
+             [18, 3],
+
+             [16, 4],
+             [16, 8],
+             [17, 6],
+             [18, 6],
+             [19, 4],
+
+             [16, 5],
+             [0, 0],
+             [17, 7],
+             [18, 7],
+             [19, 5]
+         ]
+     },
+     {
+         "name": "proffesor-house",
+         "size": [7, 5],
+         "type": "solid",
+         "indexes": [
+             [20, 1],
+             [18, 8],
+             [19, 8],
+             [21, 1],
+             [21, 1],
+             [21, 1],
+             [22, 1],
+
+             [20, 2],
+             [18, 9],
+             [19, 9],
+             [21, 2],
+             [21, 2],
+             [21, 2],
+             [22, 2],
+
+             [20, 2],
+             [21, 2],
+             [21, 2],
+             [21, 2],
+             [21, 2],
+             [21, 2],
+             [22, 2],
+
+             [22, 3],
+             [23, 1],
+             [23, 1],
+             [20, 5],
+             [17, 8],
+             [21, 5],
+             [23, 3],
+
+             [22, 4],
+             [23, 2],
+             [23, 2],
+             [20, 6],
+             [17, 9],
+             [21, 6],
+             [23, 4]
+         ]
+     }],
+     "animations": [
+     {
+         "name": "flower",
+         "frameLen": 0.3,
+         "frames": [
+             "flower-1",
+             "flower-2",
+             "flower-1",
+             "flower-3"
+         ]
+     }],
+     "patterns": [
+     {
+         "name": "big-tree",
+         "size": [2, 2],
+         "type": "solid",
+         "indexes": [
+             [6, 3],
+             [7, 3],
+             [6, 4],
+             [7, 4]
+         ]
+     }]
+ }

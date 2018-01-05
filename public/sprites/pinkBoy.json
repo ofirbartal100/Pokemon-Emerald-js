@@ -1,0 +1,99 @@
+ {
+     "imageUrl": "img/NPC.png",
+
+     "frames": [
+     {
+         "name": "looking-down",
+         "type": "player",
+         "rect": [2, 151, 16, 20]
+     },
+     {
+         "name": "looking-up",
+         "type": "player",
+         "rect": [22, 151, 16, 20]
+     },
+     {
+         "name": "looking-left",
+         "type": "player",
+         "rect": [40, 151, 15, 20]
+     },
+     {
+         "name": "walk-down-1",
+         "type": "player",
+         "rect": [56, 151, 16, 20]
+     },
+     {
+         "name": "walk-down-2",
+         "type": "player",
+         "rect": [56, 151, 16, 20]
+     },
+     {
+         "name": "walk-up-1",
+         "type": "player",
+         "rect": [74, 151, 16, 20]
+     },
+     {
+         "name": "walk-up-2",
+         "type": "player",
+         "rect": [74, 151, 16, 20]
+     },
+     {
+         "name": "walk-left-1",
+         "type": "player",
+         "rect": [92, 151, 15, 20]
+     },
+     {
+         "name": "walk-left-2",
+         "type": "player",
+         "rect": [108, 151, 15, 20]
+     }],
+     "animations": [
+     {
+         "name": "walk-down",
+         "frameLen": 8,
+         "frames": [
+             "looking-down",
+             "walk-down-1",
+             "looking-down",
+             "walk-down-2"
+         ],
+         "offsets": [
+             [1, -5],
+             [1, -4],
+             [1, -5],
+             [1, -4]
+         ]
+     },
+     {
+         "name": "walk-up",
+         "frameLen": 8,
+         "frames": [
+             "looking-up",
+             "walk-up-1",
+             "looking-up",
+             "walk-up-2"
+         ],
+         "offsets": [
+             [1, -5],
+             [1, -4],
+             [1, -5],
+             [1, -4]
+         ]
+     },
+     {
+         "name": "walk-left",
+         "frameLen": 8,
+         "frames": [
+             "looking-left",
+             "walk-left-1",
+             "looking-left",
+             "walk-left-2"
+         ],
+         "offsets": [
+             [1, -5],
+             [1, -4],
+             [1, -5],
+             [1, -4]
+         ]
+     }]
+ }
