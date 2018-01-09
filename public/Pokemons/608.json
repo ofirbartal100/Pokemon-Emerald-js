@@ -1,0 +1,112 @@
+{
+    "ID": 608,
+    "Name": "Lampent",
+    "InternalName": "LAMPENT",
+    "Type1": "GHOST",
+    "Type2": "FIRE",
+    "BaseStats": [60, 40, 60, 55, 95, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "130",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["FLASHFIRE","FLAMEBODY"],
+    "HiddenAbility": "SHADOWTAG",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "MINIMIZE"
+    },
+    {
+        "level": 1,
+        "move": "SMOG"
+    },
+    {
+        "level": 3,
+        "move": "MINIMIZE"
+    },
+    {
+        "level": 5,
+        "move": "SMOG"
+    },
+    {
+        "level": 7,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 10,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 13,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 16,
+        "move": "WILLOWISP"
+    },
+    {
+        "level": 20,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 24,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 28,
+        "move": "HEX"
+    },
+    {
+        "level": 33,
+        "move": "MEMENTO"
+    },
+    {
+        "level": 38,
+        "move": "INFERNO"
+    },
+    {
+        "level": 45,
+        "move": "CURSE"
+    },
+    {
+        "level": 53,
+        "move": "SHADOWBALL"
+    },
+    {
+        "level": 61,
+        "move": "PAINSPLIT"
+    },
+    {
+        "level": 69,
+        "move": "OVERHEAT"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "13.0",
+    "Color": "White",
+    "Shape": "4",
+    "Kind": "Lamp",
+    "Pokedex": "It arrives near the moment of death and steals spirit from the body.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "9",
+    "Evolutions": [
+    {
+        "to": "CHANDELURE",
+        "by":
+        {
+            "Item": "DUSKSTONE"
+        }
+    }]
+}

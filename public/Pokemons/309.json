@@ -1,0 +1,93 @@
+{
+    "ID": 309,
+    "Name": "Electrike",
+    "InternalName": "ELECTRIKE",
+    "Type1": "ELECTRIC",
+    "BaseStats": [40, 45, 40, 65, 65, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "59",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["STATIC","LIGHTNINGROD"],
+    "HiddenAbility": "MINUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 9,
+        "move": "LEER"
+    },
+    {
+        "level": 12,
+        "move": "HOWL"
+    },
+    {
+        "level": 17,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 20,
+        "move": "SPARK"
+    },
+    {
+        "level": 25,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 28,
+        "move": "BITE"
+    },
+    {
+        "level": 33,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 36,
+        "move": "ROAR"
+    },
+    {
+        "level": 41,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 44,
+        "move": "CHARGE"
+    },
+    {
+        "level": 49,
+        "move": "WILDCHARGE"
+    },
+    {
+        "level": 52,
+        "move": "THUNDER"
+    }],
+    "EggMoves": ["CRUNCH", "CURSE", "DISCHARGE", "ELECTROBALL", "FIREFANG", "FLAMEBURST", "HEADBUTT", "ICEFANG", "SHOCKWAVE", "SWIFT", "SWITCHEROO", "THUNDERFANG", "UPROAR"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "15.2",
+    "Color": "Green",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "Kind": "Lightning",
+    "Pokedex": "It generates electricity using friction from the atmosphere. In seasons with especially arid air, its entire body blazes with violent showers of sparks.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MANECTRIC",
+        "by":
+        {
+            "Level": 26
+        }
+    }]
+}

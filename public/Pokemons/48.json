@@ -1,0 +1,95 @@
+{
+    "ID": 48,
+    "Name": "Venonat",
+    "InternalName": "VENONAT",
+    "Type1": "BUG",
+    "Type2": "POISON",
+    "BaseStats": [60, 55, 50, 45, 40, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["COMPOUNDEYES","TINTEDLENS"],
+    "HiddenAbility": "RUNAWAY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "DISABLE"
+    },
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 5,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 11,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 13,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 17,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 23,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 25,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 29,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 35,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 37,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 41,
+        "move": "POISONFANG"
+    },
+    {
+        "level": 47,
+        "move": "PSYCHIC"
+    }],
+    "EggMoves": ["AGILITY", "BATONPASS", "BUGBITE", "GIGADRAIN", "MORNINGSUN", "RAGEPOWDER", "SCREECH", "SECRETPOWER", "SIGNALBEAM", "SKILLSWAP", "TOXICSPIKES"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "30.0",
+    "Color": "Purple",
+    "Shape": "12",
+    "Habitat": "Forest",
+    "RegionalNumbers": [48, 109],
+    "Kind": "Insect",
+    "Pokedex": "Its coat of thin, stiff hair that covers its entire body is said to have evolved for protection. Its large eyes never fail to spot even miniscule prey.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "VENOMOTH",
+        "by":
+        {
+            "Level": 31
+        }
+    }]
+}

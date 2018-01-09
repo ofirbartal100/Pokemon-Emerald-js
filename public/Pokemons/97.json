@@ -1,0 +1,114 @@
+{
+    "ID": 97,
+    "Name": "Hypno",
+    "InternalName": "HYPNO",
+    "Type1": "PSYCHIC",
+    "BaseStats": [85, 73, 70, 67, 73, 115],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "169",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["INSOMNIA","FOREWARN"],
+    "HiddenAbility": "INNERFOCUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "NIGHTMARE"
+    },
+    {
+        "level": 1,
+        "move": "SWITCHEROO"
+    },
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 1,
+        "move": "DISABLE"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 5,
+        "move": "DISABLE"
+    },
+    {
+        "level": 9,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 13,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 17,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 21,
+        "move": "MEDITATE"
+    },
+    {
+        "level": 25,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 29,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 33,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 37,
+        "move": "SYNCHRONOISE"
+    },
+    {
+        "level": 41,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 45,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 49,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 53,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 57,
+        "move": "PSYSHOCK"
+    },
+    {
+        "level": 61,
+        "move": "FUTURESIGHT"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.6",
+    "Weight": "75.6",
+    "Color": "Yellow",
+    "Shape": "12",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [97, 88],
+    "Kind": "Hypnosis",
+    "Pokedex": "The arcing movement and glitter of the pendulum in a Hypno's hand lull the foe into deep hypnosis. While searching for prey, it polishes the pendulum.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

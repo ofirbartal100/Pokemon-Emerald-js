@@ -1,0 +1,100 @@
+{
+    "ID": 633,
+    "Name": "Deino",
+    "InternalName": "DEINO",
+    "Type1": "DARK",
+    "Type2": "DRAGON",
+    "BaseStats": [52, 65, 50, 38, 45, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "HUSTLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 4,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 9,
+        "move": "BITE"
+    },
+    {
+        "level": 12,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 17,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 20,
+        "move": "ROAR"
+    },
+    {
+        "level": 25,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 28,
+        "move": "SLAM"
+    },
+    {
+        "level": 32,
+        "move": "DRAGONPULSE"
+    },
+    {
+        "level": 38,
+        "move": "WORKUP"
+    },
+    {
+        "level": 42,
+        "move": "DRAGONRUSH"
+    },
+    {
+        "level": 48,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 52,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 58,
+        "move": "HYPERVOICE"
+    },
+    {
+        "level": 62,
+        "move": "OUTRAGE"
+    }],
+    "EggMoves": ["ASSURANCE", "ASTONISH", "DARKPULSE", "DOUBLEHIT", "EARTHPOWER", "FIREFANG", "HEADSMASH", "ICEFANG", "SCREECH", "THUNDERFANG"],
+    "Compatibility": ["Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "0.8",
+    "Weight": "17.3",
+    "Color": "Blue",
+    "Shape": "8",
+    "Kind": "Irate",
+    "Pokedex": "They cannot see, so they tackle and bite to learn about their surroundings. Their bodies are covered in wounds.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "31",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ZWEILOUS",
+        "by":
+        {
+            "Level": 50
+        }
+    }]
+}

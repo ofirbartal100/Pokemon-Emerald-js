@@ -1,0 +1,124 @@
+{
+    "ID": 122,
+    "Name": "Mr. Mime",
+    "InternalName": "MRMIME",
+    "Type1": "PSYCHIC",
+    "BaseStats": [40, 45, 65, 90, 100, 120],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "161",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["SOUNDPROOF","FILTER"],
+    "HiddenAbility": "TECHNICIAN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 1,
+        "move": "QUICKGUARD"
+    },
+    {
+        "level": 1,
+        "move": "WIDEGUARD"
+    },
+    {
+        "level": 1,
+        "move": "POWERSWAP"
+    },
+    {
+        "level": 1,
+        "move": "GUARDSWAP"
+    },
+    {
+        "level": 1,
+        "move": "BARRIER"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 4,
+        "move": "COPYCAT"
+    },
+    {
+        "level": 8,
+        "move": "MEDITATE"
+    },
+    {
+        "level": 11,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 15,
+        "move": "MIMIC"
+    },
+    {
+        "level": 15,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 18,
+        "move": "ENCORE"
+    },
+    {
+        "level": 22,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 22,
+        "move": "REFLECT"
+    },
+    {
+        "level": 25,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 29,
+        "move": "SUBSTITUTE"
+    },
+    {
+        "level": 32,
+        "move": "RECYCLE"
+    },
+    {
+        "level": 36,
+        "move": "TRICK"
+    },
+    {
+        "level": 39,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 43,
+        "move": "ROLEPLAY"
+    },
+    {
+        "level": 46,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 50,
+        "move": "SAFEGUARD"
+    }],
+    "EggMoves": ["CONFUSERAY", "FAKEOUT", "FUTURESIGHT", "HYPNOSIS", "ICYWIND", "MAGICROOM", "MIMIC", "NASTYPLOT", "POWERSPLIT", "TEETERDANCE", "TRICK", "WAKEUPSLAP"],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "6630",
+    "Height": "1.3",
+    "Weight": "54.5",
+    "Color": "Pink",
+    "Shape": "12",
+    "Habitat": "Urban",
+    "RegionalNumbers": [122, 158],
+    "Kind": "Barrier",
+    "Pokedex": "A Mr. Mime is a master of pantomime. It can convince others that something unseeable actually exists. Once believed, the imaginary object does become real.",
+    "WildItemUncommon": "LEPPABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

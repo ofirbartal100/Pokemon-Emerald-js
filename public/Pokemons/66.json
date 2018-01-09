@@ -1,0 +1,94 @@
+{
+    "ID": 66,
+    "Name": "Machop",
+    "InternalName": "MACHOP",
+    "Type1": "FIGHTING",
+    "BaseStats": [70, 80, 50, 35, 35, 35],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "180",
+    "Happiness": "70",
+    "Abilities": ["GUTS","NOGUARD"],
+    "HiddenAbility": "STEADFAST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 10,
+        "move": "KARATECHOP"
+    },
+    {
+        "level": 13,
+        "move": "LOWSWEEP"
+    },
+    {
+        "level": 19,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 22,
+        "move": "SEISMICTOSS"
+    },
+    {
+        "level": 25,
+        "move": "REVENGE"
+    },
+    {
+        "level": 31,
+        "move": "VITALTHROW"
+    },
+    {
+        "level": 34,
+        "move": "SUBMISSION"
+    },
+    {
+        "level": 37,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 43,
+        "move": "CROSSCHOP"
+    },
+    {
+        "level": 46,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 49,
+        "move": "DYNAMICPUNCH"
+    }],
+    "EggMoves": ["BULLETPUNCH", "CLOSECOMBAT", "COUNTER", "ENCORE", "FIREPUNCH", "HEAVYSLAM", "ICEPUNCH", "KNOCKOFF", "MEDITATE", "POWERTRICK", "ROLLINGKICK", "SMELLINGSALTS", "THUNDERPUNCH", "TICKLE"],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "19.5",
+    "Color": "Gray",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [66, 142],
+    "Kind": "Superpower",
+    "Pokedex": "It continually undertakes strenuous training to master all forms of martial arts. Its strength lets it easily hoist a sumo wrestler onto its shoulders.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MACHOKE",
+        "by":
+        {
+            "Level": 28
+        }
+    }]
+}

@@ -1,0 +1,122 @@
+{
+    "ID": 188,
+    "Name": "Skiploom",
+    "InternalName": "SKIPLOOM",
+    "Type1": "GRASS",
+    "Type2": "FLYING",
+    "BaseStats": [55, 45, 50, 80, 45, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "119",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","LEAFGUARD"],
+    "HiddenAbility": "INFILTRATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SPLASH"
+    },
+    {
+        "level": 1,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 7,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 10,
+        "move": "TACKLE"
+    },
+    {
+        "level": 12,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 14,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 16,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 20,
+        "move": "BULLETSEED"
+    },
+    {
+        "level": 24,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 28,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 32,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 36,
+        "move": "RAGEPOWDER"
+    },
+    {
+        "level": 40,
+        "move": "COTTONSPORE"
+    },
+    {
+        "level": 44,
+        "move": "UTURN"
+    },
+    {
+        "level": 48,
+        "move": "WORRYSEED"
+    },
+    {
+        "level": 52,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 56,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 60,
+        "move": "MEMENTO"
+    }],
+    "Compatibility": ["Fairy", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "1.0",
+    "Color": "Green",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 68],
+    "Kind": "Cottonweed",
+    "Pokedex": "It blossoms when the temperature rises above 64 degrees F. Because its flower's blooming changes with the temperature, it is sometimes used as a thermometer.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "15",
+    "Evolutions": [
+    {
+        "to": "JUMPLUFF",
+        "by":
+        {
+            "Level": 27
+        }
+    }]
+}

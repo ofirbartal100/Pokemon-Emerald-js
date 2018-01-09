@@ -1,0 +1,104 @@
+{
+    "ID": 584,
+    "Name": "Vanilluxe",
+    "InternalName": "VANILLUXE",
+    "Type1": "ICE",
+    "BaseStats": [71, 95, 85, 79, 110, 95],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "241",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "ICEBODY",
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WEATHERBALL"
+    },
+    {
+        "level": 1,
+        "move": "ICICLESPEAR"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "UPROAR"
+    },
+    {
+        "level": 4,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 10,
+        "move": "UPROAR"
+    },
+    {
+        "level": 13,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 16,
+        "move": "MIST"
+    },
+    {
+        "level": 19,
+        "move": "AVALANCHE"
+    },
+    {
+        "level": 22,
+        "move": "TAUNT"
+    },
+    {
+        "level": 26,
+        "move": "MIRRORSHOT"
+    },
+    {
+        "level": 31,
+        "move": "ACIDARMOR"
+    },
+    {
+        "level": 36,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 42,
+        "move": "HAIL"
+    },
+    {
+        "level": 50,
+        "move": "MIRRORCOAT"
+    },
+    {
+        "level": 59,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 67,
+        "move": "SHEERCOLD"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "57.5",
+    "Color": "White",
+    "Shape": "11",
+    "Kind": "Snowstorm",
+    "Pokedex": "If both heads get angry simultaneously, this Pokémon expels a blizzard, burying everything in snow.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

@@ -1,0 +1,96 @@
+{
+    "ID": 391,
+    "Name": "Monferno",
+    "InternalName": "MONFERNO",
+    "Type1": "FIRE",
+    "Type2": "FIGHTING",
+    "BaseStats": [64, 78, 52, 81, 78, 52],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 0, 0, 1, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "IRONFIST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 7,
+        "move": "EMBER"
+    },
+    {
+        "level": 9,
+        "move": "TAUNT"
+    },
+    {
+        "level": 14,
+        "move": "MACHPUNCH"
+    },
+    {
+        "level": 16,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 19,
+        "move": "FLAMEWHEEL"
+    },
+    {
+        "level": 26,
+        "move": "FEINT"
+    },
+    {
+        "level": 29,
+        "move": "TORMENT"
+    },
+    {
+        "level": 36,
+        "move": "CLOSECOMBAT"
+    },
+    {
+        "level": 39,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 46,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 49,
+        "move": "SLACKOFF"
+    },
+    {
+        "level": 56,
+        "move": "FLAREBLITZ"
+    }],
+    "Compatibility": ["Field", "Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "22.0",
+    "Color": "Brown",
+    "Shape": "6",
+    "Kind": "Playful",
+    "Pokedex": "To intimidate attackers, it stretches the fire on its tail to make itself appear bigger.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "INFERNAPE",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

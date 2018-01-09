@@ -1,12 +1,24 @@
 import TileResolver from './TileResolver.js'
+import WildBattle from './battles/WildBattle.js'
 import { Sides } from './Entity.js';
 export default class TileCollider {
     constructor(tileMatrix) {
         this.tiles = new TileResolver(tileMatrix)
+        this.battleAreas = new Map()
+    }
+
+    addToArea(area, pokemon) {
+        if (this.battleAreas.has(area)) {
+            const areaMap = this.battleAreas.get(area)
+            areaMap.set(pokemon.name, pokemon)
+        } else {
+            this.battleAreas.set(area, new Map())
+            this.addToArea(area, pokemon)
+        }
     }
 
     checkY(entity) {
-         let y
+        let y
         if (entity.vel.y > 0) {
             y = entity.bounds.bottom
         } else if (entity.vel.y < 0) {
@@ -18,9 +30,33 @@ export default class TileCollider {
             entity.bounds.left, entity.bounds.right,
             y, y)
         matches.forEach(match => {
-            if (match.tile.type !== 'solid' && match.tile.type !== 'portal') {
+            if (match.tile.type !== 'solid' && match.tile.type !== 'portal' && !this.battleAreas.has(match.tile.type)) {
                 return
             }
+            if (match.tile.type == 'portal' && entity.role == "Player") {
+                entity.warp(match.tile.portal)
+                return
+            }
+
+            if (entity.role == "Player"  && !entity.inBattle && this.battleAreas.has(match.tile.type)) {
+                const encounter = Math.random() * 16
+                const encounterRate = 0.2
+                if (encounter < encounterRate) {
+                    const areaMap = this.battleAreas.get(match.tile.type)
+                    let randPokemon = Math.random()
+                    for (let [name, encounterPokemonSpec] of areaMap) {
+                        if (randPokemon < encounterPokemonSpec.rate) {
+                            let randPokemonLevel = Math.round(Math.random() * (encounterPokemonSpec.levels[1] - encounterPokemonSpec.levels[0])) + encounterPokemonSpec.levels[0]
+                            entity.battle(new WildBattle(match.tile.type, encounterPokemonSpec.id, randPokemonLevel, entity))
+                            return
+                        } else {
+                            randPokemon -= encounterPokemonSpec.rate
+                        }
+                    }
+                }
+                return
+            }
+
             if (entity.vel.y > 0) {
                 if (entity.bounds.bottom > match.y1) {
                     entity.obstruct(Sides.BOTTOM, match);
@@ -47,7 +83,31 @@ export default class TileCollider {
             x, x,
             entity.bounds.top, entity.bounds.bottom)
         matches.forEach(match => {
-            if (match.tile.type !== 'solid' && match.tile.type !== 'portal') {
+            if (match.tile.type !== 'solid' && match.tile.type !== 'portal' && !this.battleAreas.has(match.tile.type)) {
+                return
+            }
+
+            if (match.tile.type == 'portal' && entity.role == "Player") {
+                entity.warp(match.tile.portal)
+                return
+            }
+
+            if (entity.role == "Player" && !entity.inBattle && this.battleAreas.has(match.tile.type)) {
+                const encounter = Math.random() * 16
+                const encounterRate = 0.2
+                if (encounter < encounterRate) {
+                    const areaMap = this.battleAreas.get(match.tile.type)
+                    let randPokemon = Math.random()
+                    for (let [name, encounterPokemonSpec] of areaMap) {
+                        if (randPokemon < encounterPokemonSpec.rate) {
+                            let randPokemonLevel = Math.round(Math.random() * (encounterPokemonSpec.levels[1] - encounterPokemonSpec.levels[0])) + encounterPokemonSpec.levels[0]
+                            entity.battle(new WildBattle(match.tile.type, encounterPokemonSpec.id, randPokemonLevel, entity))
+                            return
+                        } else {
+                            randPokemon -= encounterPokemonSpec.rate
+                        }
+                    }
+                }
                 return
             }
 

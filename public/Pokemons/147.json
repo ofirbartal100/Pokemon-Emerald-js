@@ -1,0 +1,95 @@
+{
+    "ID": 147,
+    "Name": "Dratini",
+    "InternalName": "DRATINI",
+    "Type1": "DRAGON",
+    "BaseStats": [41, 64, 45, 50, 50, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "SHEDSKIN",
+    "HiddenAbility": "MARVELSCALE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WRAP"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 11,
+        "move": "TWISTER"
+    },
+    {
+        "level": 15,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 21,
+        "move": "SLAM"
+    },
+    {
+        "level": 25,
+        "move": "AGILITY"
+    },
+    {
+        "level": 31,
+        "move": "DRAGONTAIL"
+    },
+    {
+        "level": 35,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 41,
+        "move": "DRAGONRUSH"
+    },
+    {
+        "level": 45,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 51,
+        "move": "DRAGONDANCE"
+    },
+    {
+        "level": 55,
+        "move": "OUTRAGE"
+    },
+    {
+        "level": 61,
+        "move": "HYPERBEAM"
+    }],
+    "EggMoves": ["AQUAJET", "DRAGONBREATH", "DRAGONDANCE", "DRAGONPULSE", "DRAGONRUSH", "EXTREMESPEED", "HAZE", "IRONTAIL", "MIST", "SUPERSONIC", "WATERPULSE"],
+    "Compatibility": ["Water1", "Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "1.8",
+    "Weight": "3.3",
+    "Color": "Blue",
+    "Shape": "2",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [147, 246],
+    "Kind": "Dragon",
+    "Pokedex": "A Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.",
+    "WildItemUncommon": "DRAGONSCALE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "DRAGONAIR",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

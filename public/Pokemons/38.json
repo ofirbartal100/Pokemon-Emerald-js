@@ -1,0 +1,53 @@
+{
+    "ID": 38,
+    "Name": "Ninetales",
+    "InternalName": "NINETALES",
+    "Type1": "FIRE",
+    "BaseStats": [73, 76, 75, 100, 81, 100],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "177",
+    "EffortPoints": [0, 0, 0, 1, 0, 1],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "FLASHFIRE",
+    "HiddenAbility": "DROUGHT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 1,
+        "move": "SAFEGUARD"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "19.9",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [38, 128],
+    "Kind": "Fox",
+    "Pokedex": "It has long been said that each of the nine tails embody an enchanted power. A long-lived Ninetales will have fur that shines like gold.",
+    "WildItemCommon": "RAWSTBERRY",
+    "WildItemUncommon": "RAWSTBERRY",
+    "WildItemRare": "RAWSTBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

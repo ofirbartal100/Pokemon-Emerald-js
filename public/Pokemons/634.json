@@ -1,0 +1,107 @@
+{
+    "ID": 634,
+    "Name": "Zweilous",
+    "InternalName": "ZWEILOUS",
+    "Type1": "DARK",
+    "Type2": "DRAGON",
+    "BaseStats": [72, 85, 70, 58, 65, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "147",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "HUSTLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "DOUBLEHIT"
+    },
+    {
+        "level": 1,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 4,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 9,
+        "move": "BITE"
+    },
+    {
+        "level": 12,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 17,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 20,
+        "move": "ROAR"
+    },
+    {
+        "level": 25,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 28,
+        "move": "SLAM"
+    },
+    {
+        "level": 32,
+        "move": "DRAGONPULSE"
+    },
+    {
+        "level": 38,
+        "move": "WORKUP"
+    },
+    {
+        "level": 42,
+        "move": "DRAGONRUSH"
+    },
+    {
+        "level": 48,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 55,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 64,
+        "move": "HYPERVOICE"
+    },
+    {
+        "level": 71,
+        "move": "OUTRAGE"
+    }],
+    "Compatibility": ["Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "1.4",
+    "Weight": "50.0",
+    "Color": "Blue",
+    "Shape": "8",
+    "Kind": "Hostile",
+    "Pokedex": "Since their two heads do not get along and compete with each other for food, they always eat too much.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "HYDREIGON",
+        "by":
+        {
+            "Level": 64
+        }
+    }]
+}

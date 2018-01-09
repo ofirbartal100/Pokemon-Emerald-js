@@ -1,0 +1,106 @@
+{
+    "ID": 300,
+    "Name": "Skitty",
+    "InternalName": "SKITTY",
+    "Type1": "NORMAL",
+    "BaseStats": [50, 45, 45, 50, 35, 35],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "52",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["CUTECHARM","NORMALIZE"],
+    "HiddenAbility": "WONDERSKIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 8,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 11,
+        "move": "SING"
+    },
+    {
+        "level": 15,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 18,
+        "move": "COPYCAT"
+    },
+    {
+        "level": 22,
+        "move": "ASSIST"
+    },
+    {
+        "level": 25,
+        "move": "CHARM"
+    },
+    {
+        "level": 29,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 32,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 36,
+        "move": "COVET"
+    },
+    {
+        "level": 39,
+        "move": "HEALBELL"
+    },
+    {
+        "level": 42,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 46,
+        "move": "CAPTIVATE"
+    }],
+    "EggMoves": ["BATONPASS", "CAPTIVATE", "FAKEOUT", "FAKETEARS", "HELPINGHAND", "LASTRESORT", "MUDBOMB", "SIMPLEBEAM", "SUCKERPUNCH", "TICKLE", "UPROAR", "WISH", "ZENHEADBUTT"],
+    "Compatibility": ["Field", "Fairy"],
+    "StepsToHatch": "4080",
+    "Height": "0.6",
+    "Weight": "11.0",
+    "Color": "Pink",
+    "Shape": "8",
+    "Habitat": "Forest",
+    "Kind": "Kitten",
+    "Pokedex": "A Skitty's adorably cute behavior makes it highly popular. In battle, it makes its tail puff out. It threatens foes with a sharp growl.",
+    "WildItemUncommon": "LEPPABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "DELCATTY",
+        "by":
+        {
+            "Item": "MOONSTONE"
+        }
+    }]
+}

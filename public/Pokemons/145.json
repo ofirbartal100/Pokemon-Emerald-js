@@ -1,0 +1,91 @@
+{
+    "ID": 145,
+    "Name": "Zapdos",
+    "InternalName": "ZAPDOS",
+    "Type1": "ELECTRIC",
+    "Type2": "FLYING",
+    "BaseStats": [90, 90, 85, 100, 125, 90],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "LIGHTNINGROD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 8,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 15,
+        "move": "DETECT"
+    },
+    {
+        "level": 22,
+        "move": "PLUCK"
+    },
+    {
+        "level": 29,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 36,
+        "move": "CHARGE"
+    },
+    {
+        "level": 43,
+        "move": "AGILITY"
+    },
+    {
+        "level": 50,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 57,
+        "move": "ROOST"
+    },
+    {
+        "level": 64,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 71,
+        "move": "DRILLPECK"
+    },
+    {
+        "level": 78,
+        "move": "THUNDER"
+    },
+    {
+        "level": 85,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 92,
+        "move": "ZAPCANNON"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "1.6",
+    "Weight": "52.6",
+    "Color": "Yellow",
+    "Shape": "9",
+    "Habitat": "Rare",
+    "RegionalNumbers": [145, 241],
+    "Kind": "Electric",
+    "Pokedex": "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. It gains power if it is stricken by lightning bolts.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

@@ -1,0 +1,87 @@
+{
+    "ID": 303,
+    "Name": "Mawile",
+    "InternalName": "MAWILE",
+    "Type1": "STEEL",
+    "BaseStats": [50, 85, 85, 50, 55, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "133",
+    "EffortPoints": [0, 1, 1, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["HYPERCUTTER","INTIMIDATE"],
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 6,
+        "move": "FAKETEARS"
+    },
+    {
+        "level": 11,
+        "move": "BITE"
+    },
+    {
+        "level": 16,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 21,
+        "move": "VICEGRIP"
+    },
+    {
+        "level": 26,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 31,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 36,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 41,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 46,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 51,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 51,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 51,
+        "move": "SPITUP"
+    },
+    {
+        "level": 56,
+        "move": "IRONHEAD"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "CAPTIVATE", "FIREFANG", "GUARDSWAP", "ICEFANG", "METALBURST", "POISONFANG", "PUNISHMENT", "SLAM", "SUCKERPUNCH", "THUNDERFANG", "TICKLE"],
+    "Compatibility": ["Field", "Fairy"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "11.5",
+    "Color": "Black",
+    "Shape": "12",
+    "Habitat": "Cave",
+    "Kind": "Deceiver",
+    "Pokedex": "Its giant jaws are actually steel horns that transformed. It fools foes into complacency with its adorable gestures, then chomps them with its huge jaws.",
+    "WildItemUncommon": "OCCABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

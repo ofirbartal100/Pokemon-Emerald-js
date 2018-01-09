@@ -1,0 +1,84 @@
+{
+    "ID": 493,
+    "Name": "Arceus",
+    "InternalName": "ARCEUS",
+    "Type1": "NORMAL",
+    "BaseStats": [120, 120, 120, 120, 120, 120],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "324",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "MULTITYPE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SEISMICTOSS"
+    },
+    {
+        "level": 1,
+        "move": "COSMICPOWER"
+    },
+    {
+        "level": 1,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 1,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 10,
+        "move": "GRAVITY"
+    },
+    {
+        "level": 20,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 30,
+        "move": "HYPERVOICE"
+    },
+    {
+        "level": 40,
+        "move": "EXTREMESPEED"
+    },
+    {
+        "level": 50,
+        "move": "REFRESH"
+    },
+    {
+        "level": 60,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 70,
+        "move": "RECOVER"
+    },
+    {
+        "level": 80,
+        "move": "HYPERBEAM"
+    },
+    {
+        "level": 90,
+        "move": "PERISHSONG"
+    },
+    {
+        "level": 100,
+        "move": "JUDGMENT"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "3.2",
+    "Weight": "320.0",
+    "Color": "Gray",
+    "Shape": "8",
+    "Kind": "Alpha",
+    "Pokedex": "It is described in mythology as the Pokémon that shaped the universe with its 1,000 arms.",
+    "FormName": "Normal Type",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "8",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

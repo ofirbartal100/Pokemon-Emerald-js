@@ -1,0 +1,100 @@
+{
+    "ID": 615,
+    "Name": "Cryogonal",
+    "InternalName": "CRYOGONAL",
+    "Type1": "ICE",
+    "BaseStats": [70, 50, 30, 105, 95, 135],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "170",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "25",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BIND"
+    },
+    {
+        "level": 5,
+        "move": "ICESHARD"
+    },
+    {
+        "level": 9,
+        "move": "SHARPEN"
+    },
+    {
+        "level": 13,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 17,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 21,
+        "move": "MIST"
+    },
+    {
+        "level": 21,
+        "move": "HAZE"
+    },
+    {
+        "level": 25,
+        "move": "AURORABEAM"
+    },
+    {
+        "level": 29,
+        "move": "ACIDARMOR"
+    },
+    {
+        "level": 33,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 37,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 37,
+        "move": "REFLECT"
+    },
+    {
+        "level": 41,
+        "move": "SLASH"
+    },
+    {
+        "level": 45,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 49,
+        "move": "RECOVER"
+    },
+    {
+        "level": 53,
+        "move": "SOLARBEAM"
+    },
+    {
+        "level": 57,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 61,
+        "move": "SHEERCOLD"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "6630",
+    "Height": "1.1",
+    "Weight": "148.0",
+    "Color": "Blue",
+    "Shape": "1",
+    "Kind": "Crystallizing",
+    "Pokedex": "They are born in snow clouds. They use chains made of ice crystals to capture prey.",
+    "WildItemUncommon": "NEVERMELTICE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "7",
+    "Evolutions": []
+}

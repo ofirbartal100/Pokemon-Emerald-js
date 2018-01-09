@@ -1,0 +1,91 @@
+{
+    "ID": 19,
+    "Name": "Rattata",
+    "InternalName": "RATTATA",
+    "Type1": "NORMAL",
+    "BaseStats": [30, 56, 35, 72, 25, 35],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "51",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["RUNAWAY","GUTS"],
+    "HiddenAbility": "HUSTLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 4,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 7,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 10,
+        "move": "BITE"
+    },
+    {
+        "level": 13,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 16,
+        "move": "HYPERFANG"
+    },
+    {
+        "level": 19,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 22,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 25,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 28,
+        "move": "SUPERFANG"
+    },
+    {
+        "level": 31,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 34,
+        "move": "ENDEAVOR"
+    }],
+    "EggMoves": ["BITE", "COUNTER", "FINALGAMBIT", "FLAMEWHEEL", "FURYSWIPES", "LASTRESORT", "MEFIRST", "REVENGE", "REVERSAL", "SCREECH", "UPROAR"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.3",
+    "Weight": "3.5",
+    "Color": "Purple",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [19, 17],
+    "Kind": "Mouse",
+    "Pokedex": "A Rattata is cautious in the extreme. Even while it is asleep, it constantly moves its ears and listens for danger. It will make its nest anywhere.",
+    "WildItemUncommon": "CHILANBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "RATICATE",
+        "by":
+        {
+            "Level": 20
+        }
+    }]
+}

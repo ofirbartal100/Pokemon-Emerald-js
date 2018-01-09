@@ -1,0 +1,80 @@
+{
+    "ID": 449,
+    "Name": "Hippopotas",
+    "InternalName": "HIPPOPOTAS",
+    "Type1": "GROUND",
+    "BaseStats": [68, 72, 78, 32, 38, 42],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "140",
+    "Happiness": "70",
+    "Abilities": "SANDSTREAM",
+    "HiddenAbility": "SANDFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 7,
+        "move": "BITE"
+    },
+    {
+        "level": 13,
+        "move": "YAWN"
+    },
+    {
+        "level": 19,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 19,
+        "move": "DIG"
+    },
+    {
+        "level": 25,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 31,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 37,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 44,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 50,
+        "move": "FISSURE"
+    }],
+    "EggMoves": ["BODYSLAM", "CURSE", "REVENGE", "SANDTOMB", "SLACKOFF", "SLEEPTALK", "SPITUP", "STOCKPILE", "SWALLOW", "WHIRLWIND"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "7905",
+    "Height": "0.8",
+    "Weight": "49.5",
+    "Color": "Brown",
+    "Shape": "8",
+    "Kind": "Hippo",
+    "Pokedex": "It lives in arid places. Instead of perspiration, it expels grainy sand from its body.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "HIPPOWDON",
+        "by":
+        {
+            "Level": 34
+        }
+    }]
+}

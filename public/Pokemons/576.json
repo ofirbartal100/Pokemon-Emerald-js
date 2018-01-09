@@ -1,0 +1,104 @@
+{
+    "ID": 576,
+    "Name": "Gothitelle",
+    "InternalName": "GOTHITELLE",
+    "Type1": "PSYCHIC",
+    "BaseStats": [70, 55, 95, 65, 95, 110],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "221",
+    "EffortPoints": [0, 0, 0, 0, 0, 3],
+    "Rareness": "50",
+    "Happiness": "70",
+    "Abilities": "FRISK",
+    "HiddenAbility": "SHADOWTAG",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "TICKLE"
+    },
+    {
+        "level": 1,
+        "move": "FAKETEARS"
+    },
+    {
+        "level": 3,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 7,
+        "move": "TICKLE"
+    },
+    {
+        "level": 10,
+        "move": "FAKETEARS"
+    },
+    {
+        "level": 14,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 16,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 19,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 24,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 25,
+        "move": "PSYSHOCK"
+    },
+    {
+        "level": 28,
+        "move": "FLATTER"
+    },
+    {
+        "level": 31,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 34,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 39,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 45,
+        "move": "TELEKINESIS"
+    },
+    {
+        "level": 54,
+        "move": "CHARM"
+    },
+    {
+        "level": 59,
+        "move": "MAGICROOM"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "44.0",
+    "Color": "Purple",
+    "Shape": "12",
+    "Kind": "Astral Body",
+    "Pokedex": "They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

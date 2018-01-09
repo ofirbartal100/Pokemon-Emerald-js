@@ -4,6 +4,19 @@ export default class TileResolver {
         this.tileSize = tileSize
     }
 
+    searchByType(type) {
+        let portals = []
+        for (let x = 0; x < this.matrix.grid.length; x++) {
+            for (let y = 0; y < this.matrix.grid[0].length; y++) {
+
+                if (this.matrix.grid[x][y].type == type){
+                    portals.push({x,y,portal:this.matrix.grid[x][y].portal})
+                }
+            }
+        }
+        return portals
+    }
+
     toIndex(pos) {
         return Math.floor(pos / this.tileSize)
     }

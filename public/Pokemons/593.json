@@ -1,0 +1,93 @@
+{
+    "ID": 593,
+    "Name": "Jellicent",
+    "InternalName": "JELLICENT",
+    "Type1": "WATER",
+    "Type2": "GHOST",
+    "BaseStats": [100, 60, 70, 60, 85, 105],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "168",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["WATERABSORB","CURSEDBODY"],
+    "HiddenAbility": "DAMP",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 1,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 5,
+        "move": "ABSORB"
+    },
+    {
+        "level": 9,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 13,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 17,
+        "move": "RECOVER"
+    },
+    {
+        "level": 22,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 27,
+        "move": "OMINOUSWIND"
+    },
+    {
+        "level": 32,
+        "move": "BRINE"
+    },
+    {
+        "level": 37,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 45,
+        "move": "HEX"
+    },
+    {
+        "level": 53,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 61,
+        "move": "WRINGOUT"
+    },
+    {
+        "level": 69,
+        "move": "WATERSPOUT"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "2.2",
+    "Weight": "135.0",
+    "Color": "White",
+    "Shape": "10",
+    "Kind": "Floating",
+    "Pokedex": "They propel themselves by expelling absorbed seawater from their bodies. Their favorite food is life energy.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

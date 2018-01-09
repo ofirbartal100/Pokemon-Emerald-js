@@ -1,0 +1,45 @@
+{
+    "ID": 468,
+    "Name": "Togekiss",
+    "InternalName": "TOGEKISS",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [85, 50, 95, 80, 120, 115],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Fast",
+    "BaseEXP": "245",
+    "EffortPoints": [0, 0, 0, 0, 2, 1],
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": ["HUSTLE","SERENEGRACE"],
+    "HiddenAbility": "SUPERLUCK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SKYATTACK"
+    },
+    {
+        "level": 1,
+        "move": "EXTREMESPEED"
+    },
+    {
+        "level": 1,
+        "move": "AURASPHERE"
+    },
+    {
+        "level": 1,
+        "move": "AIRSLASH"
+    }],
+    "Compatibility": ["Flying", "Fairy"],
+    "StepsToHatch": "2805",
+    "Height": "1.5",
+    "Weight": "38.0",
+    "Color": "White",
+    "Shape": "9",
+    "Kind": "Jubilee",
+    "Pokedex": "It will never appear where there is strife. Its sightings have become rare recently.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "18",
+    "Evolutions": []
+}

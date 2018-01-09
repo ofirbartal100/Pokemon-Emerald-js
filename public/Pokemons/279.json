@@ -1,0 +1,110 @@
+{
+    "ID": 279,
+    "Name": "Pelipper",
+    "InternalName": "PELIPPER",
+    "Type1": "WATER",
+    "Type2": "FLYING",
+    "BaseStats": [60, 50, 100, 65, 85, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "151",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "KEENEYE",
+    "HiddenAbility": "RAINDISH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SOAK"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 1,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 6,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 9,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 14,
+        "move": "MIST"
+    },
+    {
+        "level": 17,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 22,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 25,
+        "move": "PROTECT"
+    },
+    {
+        "level": 28,
+        "move": "ROOST"
+    },
+    {
+        "level": 34,
+        "move": "BRINE"
+    },
+    {
+        "level": 39,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 39,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 39,
+        "move": "SPITUP"
+    },
+    {
+        "level": 46,
+        "move": "FLING"
+    },
+    {
+        "level": 52,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 58,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 63,
+        "move": "HURRICANE"
+    }],
+    "Compatibility": ["Water1", "Flying"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "28.0",
+    "Color": "Yellow",
+    "Shape": "9",
+    "Habitat": "Sea",
+    "Kind": "Water Bird",
+    "Pokedex": "It skims the tops of waves as it flies. When it spots prey, it uses its large beak to scoop up the victim with water. It protects its eggs in its beak.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "9",
+    "BattlerAltitude": "8",
+    "Evolutions": []
+}

@@ -1,0 +1,96 @@
+{
+    "ID": 498,
+    "Name": "Tepig",
+    "InternalName": "TEPIG",
+    "Type1": "FIRE",
+    "BaseStats": [65, 63, 45, 45, 45, 45],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "28",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "THICKFAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 3,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 7,
+        "move": "EMBER"
+    },
+    {
+        "level": 9,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 13,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 15,
+        "move": "FLAMECHARGE"
+    },
+    {
+        "level": 19,
+        "move": "SMOG"
+    },
+    {
+        "level": 21,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 25,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 27,
+        "move": "HEATCRASH"
+    },
+    {
+        "level": 31,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 33,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 37,
+        "move": "HEADSMASH"
+    },
+    {
+        "level": 39,
+        "move": "ROAR"
+    },
+    {
+        "level": 43,
+        "move": "FLAREBLITZ"
+    }],
+    "EggMoves": ["BODYSLAM", "COVET", "CURSE", "ENDEAVOR", "HEAVYSLAM", "MAGNITUDE", "SLEEPTALK", "SUPERPOWER", "THRASH", "YAWN"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "9.9",
+    "Color": "Red",
+    "Shape": "8",
+    "Kind": "Fire Pig",
+    "Pokedex": "It blows fire through its nose. When it catches a cold, the fire becomes pitch-black smoke instead.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "34",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "PIGNITE",
+        "by":
+        {
+            "Level": 17
+        }
+    }]
+}

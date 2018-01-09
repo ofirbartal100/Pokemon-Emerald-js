@@ -1,0 +1,80 @@
+{
+    "ID": 382,
+    "Name": "Kyogre",
+    "InternalName": "KYOGRE",
+    "Type1": "WATER",
+    "BaseStats": [100, 100, 90, 90, 150, 140],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "302",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "5",
+    "Happiness": "0",
+    "Abilities": "DRIZZLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 5,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 15,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 20,
+        "move": "MUDDYWATER"
+    },
+    {
+        "level": 30,
+        "move": "AQUARING"
+    },
+    {
+        "level": 35,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 45,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 50,
+        "move": "WATERSPOUT"
+    },
+    {
+        "level": 60,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 65,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 75,
+        "move": "SHEERCOLD"
+    },
+    {
+        "level": 80,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 90,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "4.5",
+    "Weight": "352.0",
+    "Color": "Blue",
+    "Shape": "3",
+    "Habitat": "Sea",
+    "Kind": "Sea Basin",
+    "Pokedex": "Kyogre has appeared in mythology as the creator of the sea. After long years of feuding with Groudon, it took to sleep at the bottom of the sea.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "6",
+    "BattlerAltitude": "4",
+    "Evolutions": []
+}

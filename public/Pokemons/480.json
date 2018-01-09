@@ -1,0 +1,75 @@
+{
+    "ID": 480,
+    "Name": "Uxie",
+    "InternalName": "UXIE",
+    "Type1": "PSYCHIC",
+    "BaseStats": [75, 75, 130, 95, 75, 130],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": [0, 0, 2, 0, 0, 1],
+    "Rareness": "3",
+    "Happiness": "140",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "REST"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 6,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 16,
+        "move": "ENDURE"
+    },
+    {
+        "level": 21,
+        "move": "SWIFT"
+    },
+    {
+        "level": 31,
+        "move": "YAWN"
+    },
+    {
+        "level": 36,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 46,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 51,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 61,
+        "move": "FLAIL"
+    },
+    {
+        "level": 66,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 76,
+        "move": "MEMENTO"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "0.3",
+    "Weight": "0.3",
+    "Color": "Yellow",
+    "Shape": "6",
+    "Kind": "Knowledge",
+    "Pokedex": "Known as “The Being of Knowledge.” It is said that it can wipe out the memory of those who see its eyes.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "18",
+    "Evolutions": []
+}

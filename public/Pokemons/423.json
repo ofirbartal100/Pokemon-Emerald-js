@@ -1,0 +1,82 @@
+{
+    "ID": 423,
+    "Name": "Gastrodon",
+    "InternalName": "GASTRODON",
+    "Type1": "WATER",
+    "Type2": "GROUND",
+    "BaseStats": [111, 83, 68, 39, 92, 82],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "166",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["STICKYHOLD","STORMDRAIN"],
+    "HiddenAbility": "SANDFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 1,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 2,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 4,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 11,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 16,
+        "move": "HIDDENPOWER"
+    },
+    {
+        "level": 22,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 29,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 41,
+        "move": "MUDDYWATER"
+    },
+    {
+        "level": 54,
+        "move": "RECOVER"
+    }],
+    "Compatibility": ["Water1", "Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "29.9",
+    "Color": "Purple",
+    "Shape": "2",
+    "Kind": "Sea Slug",
+    "Pokedex": "It has a pliable body without any bones. If any part of its body is torn off, it grows right back.",
+    "FormName": "West Sea",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

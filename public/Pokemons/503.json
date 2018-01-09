@@ -1,0 +1,108 @@
+{
+    "ID": 503,
+    "Name": "Samurott",
+    "InternalName": "SAMUROTT",
+    "Type1": "WATER",
+    "BaseStats": [95, 100, 85, 70, 108, 70],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "238",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "SHELLARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MEGAHORN"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 5,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 7,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 11,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 13,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 17,
+        "move": "RAZORSHELL"
+    },
+    {
+        "level": 20,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 25,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 28,
+        "move": "REVENGE"
+    },
+    {
+        "level": 33,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 36,
+        "move": "SLASH"
+    },
+    {
+        "level": 38,
+        "move": "ENCORE"
+    },
+    {
+        "level": 45,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 50,
+        "move": "RETALIATE"
+    },
+    {
+        "level": 57,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 62,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "94.6",
+    "Color": "Blue",
+    "Shape": "8",
+    "Kind": "Formidable",
+    "Pokedex": "Part of the armor on its anterior legs becomes a giant sword. Its cry alone is enough to intimidate most enemies.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

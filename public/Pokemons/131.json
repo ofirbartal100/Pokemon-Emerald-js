@@ -1,0 +1,92 @@
+{
+    "ID": 131,
+    "Name": "Lapras",
+    "InternalName": "LAPRAS",
+    "Type1": "WATER",
+    "Type2": "ICE",
+    "BaseStats": [130, 85, 80, 60, 85, 95],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "187",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["WATERABSORB","SHELLARMOR"],
+    "HiddenAbility": "HYDRATION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SING"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 4,
+        "move": "MIST"
+    },
+    {
+        "level": 7,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 10,
+        "move": "ICESHARD"
+    },
+    {
+        "level": 14,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 18,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 22,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 27,
+        "move": "PERISHSONG"
+    },
+    {
+        "level": 32,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 37,
+        "move": "BRINE"
+    },
+    {
+        "level": 43,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 49,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 55,
+        "move": "SHEERCOLD"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "AVALANCHE", "CURSE", "DRAGONDANCE", "DRAGONPULSE", "FISSURE", "FORESIGHT", "FUTURESIGHT", "HORNDRILL", "REFRESH", "SLEEPTALK", "TICKLE", "WHIRLPOOL"],
+    "Compatibility": ["Monster", "Water1"],
+    "StepsToHatch": "10455",
+    "Height": "2.5",
+    "Weight": "220.0",
+    "Color": "Blue",
+    "Shape": "3",
+    "Habitat": "Sea",
+    "RegionalNumbers": [131, 224],
+    "Kind": "Transport",
+    "Pokedex": "People have driven Lapras almost to the point of extinction. In the evenings, it is said to sing plaintively as it seeks what few others of its kind still remain.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

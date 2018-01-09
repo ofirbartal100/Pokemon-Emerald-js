@@ -1,0 +1,105 @@
+{
+    "ID": 93,
+    "Name": "Haunter",
+    "InternalName": "HAUNTER",
+    "Type1": "GHOST",
+    "Type2": "POISON",
+    "BaseStats": [45, 50, 45, 95, 115, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 1,
+        "move": "LICK"
+    },
+    {
+        "level": 1,
+        "move": "SPITE"
+    },
+    {
+        "level": 5,
+        "move": "SPITE"
+    },
+    {
+        "level": 8,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 12,
+        "move": "CURSE"
+    },
+    {
+        "level": 15,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 19,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 22,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 25,
+        "move": "SHADOWPUNCH"
+    },
+    {
+        "level": 28,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 33,
+        "move": "SHADOWBALL"
+    },
+    {
+        "level": 39,
+        "move": "DREAMEATER"
+    },
+    {
+        "level": 44,
+        "move": "DARKPULSE"
+    },
+    {
+        "level": 50,
+        "move": "DESTINYBOND"
+    },
+    {
+        "level": 55,
+        "move": "HEX"
+    },
+    {
+        "level": 61,
+        "move": "NIGHTMARE"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "1.6",
+    "Weight": "0.1",
+    "Color": "Purple",
+    "Shape": "4",
+    "Habitat": "Cave",
+    "RegionalNumbers": [93, 59],
+    "Kind": "Gas",
+    "Pokedex": "If a Haunter beckons you while it is floating in darkness, don't approach it. This Pokémon will try to lick you with its tongue and steal your life away.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "15",
+    "Evolutions": [
+    {
+        "to": "GENGAR",
+        "by":
+        {
+            "Trade": "Trade"
+        }
+    }]
+}

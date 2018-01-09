@@ -1,0 +1,120 @@
+{
+    "ID": 356,
+    "Name": "Dusclops",
+    "InternalName": "DUSCLOPS",
+    "Type1": "GHOST",
+    "BaseStats": [40, 70, 130, 25, 60, 130],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "159",
+    "EffortPoints": [0, 0, 1, 0, 0, 1],
+    "Rareness": "90",
+    "Happiness": "35",
+    "Abilities": "PRESSURE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "ICEPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "GRAVITY"
+    },
+    {
+        "level": 1,
+        "move": "BIND"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 1,
+        "move": "DISABLE"
+    },
+    {
+        "level": 6,
+        "move": "DISABLE"
+    },
+    {
+        "level": 9,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 14,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 17,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 22,
+        "move": "SHADOWSNEAK"
+    },
+    {
+        "level": 25,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 30,
+        "move": "CURSE"
+    },
+    {
+        "level": 33,
+        "move": "WILLOWISP"
+    },
+    {
+        "level": 37,
+        "move": "SHADOWPUNCH"
+    },
+    {
+        "level": 42,
+        "move": "HEX"
+    },
+    {
+        "level": 49,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 58,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 61,
+        "move": "FUTURESIGHT"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "6630",
+    "Height": "1.6",
+    "Weight": "30.6",
+    "Color": "Black",
+    "Shape": "12",
+    "Habitat": "Forest",
+    "Kind": "Beckon",
+    "Pokedex": "It is thought that its body is hollow with only a spectral ball of fire burning inside. However, no one has been able to confirm this theory as fact.",
+    "WildItemUncommon": "KASIBBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "9",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "DUSKNOIR",
+        "by":
+        {
+            "TradeItem": "REAPERCLOTH"
+        }
+    }]
+}

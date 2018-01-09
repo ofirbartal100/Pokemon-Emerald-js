@@ -1,0 +1,93 @@
+{
+    "ID": 592,
+    "Name": "Frillish",
+    "InternalName": "FRILLISH",
+    "Type1": "WATER",
+    "Type2": "GHOST",
+    "BaseStats": [55, 40, 50, 40, 65, 85],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "67",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["WATERABSORB","CURSEDBODY"],
+    "HiddenAbility": "DAMP",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 5,
+        "move": "ABSORB"
+    },
+    {
+        "level": 9,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 13,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 17,
+        "move": "RECOVER"
+    },
+    {
+        "level": 22,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 27,
+        "move": "OMINOUSWIND"
+    },
+    {
+        "level": 32,
+        "move": "BRINE"
+    },
+    {
+        "level": 37,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 43,
+        "move": "HEX"
+    },
+    {
+        "level": 49,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 55,
+        "move": "WRINGOUT"
+    },
+    {
+        "level": 61,
+        "move": "WATERSPOUT"
+    }],
+    "EggMoves": ["ACIDARMOR", "CONFUSERAY", "CONSTRICT", "MIST", "PAINSPLIT", "RECOVER"],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "33.0",
+    "Color": "White",
+    "Shape": "10",
+    "Kind": "Floating",
+    "Pokedex": "They paralyze prey with poison, then drag them down to their lairs, five miles below the surface.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "8",
+    "Evolutions": [
+    {
+        "to": "JELLICENT",
+        "by":
+        {
+            "Level": 40
+        }
+    }]
+}

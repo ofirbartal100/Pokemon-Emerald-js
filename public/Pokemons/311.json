@@ -1,0 +1,101 @@
+{
+    "ID": 311,
+    "Name": "Plusle",
+    "InternalName": "PLUSLE",
+    "Type1": "ELECTRIC",
+    "BaseStats": [60, 50, 40, 95, 85, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": "PLUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 3,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 7,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 10,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 15,
+        "move": "SPARK"
+    },
+    {
+        "level": 17,
+        "move": "ENCORE"
+    },
+    {
+        "level": 21,
+        "move": "FAKETEARS"
+    },
+    {
+        "level": 24,
+        "move": "COPYCAT"
+    },
+    {
+        "level": 29,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 31,
+        "move": "SWIFT"
+    },
+    {
+        "level": 35,
+        "move": "FAKETEARS"
+    },
+    {
+        "level": 38,
+        "move": "CHARGE"
+    },
+    {
+        "level": 42,
+        "move": "THUNDER"
+    },
+    {
+        "level": 44,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 48,
+        "move": "AGILITY"
+    },
+    {
+        "level": 51,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 56,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 63,
+        "move": "ENTRAINMENT"
+    }],
+    "EggMoves": ["DISCHARGE", "LUCKYCHANT", "SING", "SWEETKISS", "WISH"],
+    "Compatibility": ["Fairy"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "4.2",
+    "Color": "Yellow",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "Kind": "Cheering",
+    "Pokedex": "It has the trait of cheering on its fellow Pokémon. By shorting out the electricity it releases from its paws, it creates pom-poms for cheering.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

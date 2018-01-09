@@ -1,0 +1,92 @@
+{
+    "ID": 648,
+    "Name": "Meloetta",
+    "InternalName": "MELOETTA",
+    "Type1": "NORMAL",
+    "Type2": "PSYCHIC",
+    "BaseStats": [100, 77, 77, 90, 128, 128],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "14",
+    "EffortPoints": [0, 0, 0, 1, 1, 1],
+    "Rareness": "3",
+    "Happiness": "100",
+    "Abilities": "SERENEGRACE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ROUND"
+    },
+    {
+        "level": 6,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 11,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 16,
+        "move": "SING"
+    },
+    {
+        "level": 21,
+        "move": "TEETERDANCE"
+    },
+    {
+        "level": 26,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 31,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 36,
+        "move": "ECHOEDVOICE"
+    },
+    {
+        "level": 43,
+        "move": "UTURN"
+    },
+    {
+        "level": 50,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 57,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 64,
+        "move": "HYPERVOICE"
+    },
+    {
+        "level": 71,
+        "move": "ROLEPLAY"
+    },
+    {
+        "level": 78,
+        "move": "CLOSECOMBAT"
+    },
+    {
+        "level": 85,
+        "move": "PERISHSONG"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "0.6",
+    "Weight": "6.5",
+    "Color": "White",
+    "Shape": "12",
+    "Kind": "Melody",
+    "Pokedex": "Many famous songs have been inspired by the melodies that Meloetta plays.",
+    "FormName": "Aria Forme",
+    "WildItemCommon": "STARPIECE",
+    "WildItemUncommon": "STARPIECE",
+    "WildItemRare": "STARPIECE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "11",
+    "Evolutions": []
+}

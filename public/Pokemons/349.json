@@ -1,0 +1,46 @@
+{
+    "ID": 349,
+    "Name": "Feebas",
+    "InternalName": "FEEBAS",
+    "Type1": "WATER",
+    "BaseStats": [20, 15, 20, 80, 10, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "40",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "SWIFTSWIM",
+    "HiddenAbility": "ADAPTABILITY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SPLASH"
+    },
+    {
+        "level": 15,
+        "move": "TACKLE"
+    },
+    {
+        "level": 30,
+        "move": "FLAIL"
+    }],
+    "EggMoves": ["BRINE", "CAPTIVATE", "CONFUSERAY", "DRAGONPULSE", "DRAGONBREATH", "HAZE", "HYPNOSIS", "IRONTAIL", "MIRRORCOAT", "MIST", "MUDSPORT", "TICKLE"],
+    "Compatibility": ["Water1", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "7.4",
+    "Color": "Brown",
+    "Shape": "3",
+    "Habitat": "WatersEdge",
+    "Kind": "Fish",
+    "Pokedex": "Feebas live in ponds that are heavily infested with weeds. Because of its hopelessly shabby appearance, it seems as if few trainers raise it.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "12",
+    "Evolutions": ["MILOTIC", "Beauty",
+    {
+        "level": 170,
+        "move": "MILOTIC"
+    }, "TradeItem", "PRISMSCALE"]
+}

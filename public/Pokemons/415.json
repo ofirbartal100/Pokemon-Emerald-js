@@ -1,0 +1,55 @@
+{
+    "ID": 415,
+    "Name": "Combee",
+    "InternalName": "COMBEE",
+    "Type1": "BUG",
+    "Type2": "FLYING",
+    "BaseStats": [30, 30, 42, 70, 30, 42],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "49",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "HONEYGATHER",
+    "HiddenAbility": "HUSTLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 13,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 29,
+        "move": "BUGBUZZ"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.3",
+    "Weight": "5.5",
+    "Color": "Yellow",
+    "Shape": "11",
+    "Kind": "Tiny Bee",
+    "Pokedex": "A Pokémon formed by three others. It busily carries sweet floral honey to Vespiquen.",
+    "WildItemCommon": "HONEY",
+    "WildItemUncommon": "HONEY",
+    "WildItemRare": "HONEY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "15",
+    "Evolutions": [
+    {
+        "to": "VESPIQUEN",
+        "by":
+        {
+            "LevelFemale": 21
+        }
+    }]
+}

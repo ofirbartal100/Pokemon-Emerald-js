@@ -1,0 +1,98 @@
+{
+    "ID": 117,
+    "Name": "Seadra",
+    "InternalName": "SEADRA",
+    "Type1": "WATER",
+    "BaseStats": [55, 65, 95, 85, 95, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "154",
+    "EffortPoints": [0, 0, 1, 0, 1, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["POISONPOINT","SNIPER"],
+    "HiddenAbility": "DAMP",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 4,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 8,
+        "move": "LEER"
+    },
+    {
+        "level": 11,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 14,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 18,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 23,
+        "move": "AGILITY"
+    },
+    {
+        "level": 26,
+        "move": "TWISTER"
+    },
+    {
+        "level": 30,
+        "move": "BRINE"
+    },
+    {
+        "level": 40,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 48,
+        "move": "DRAGONDANCE"
+    },
+    {
+        "level": 57,
+        "move": "DRAGONPULSE"
+    }],
+    "Compatibility": ["Water1", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "25.0",
+    "Color": "Blue",
+    "Shape": "5",
+    "Habitat": "Sea",
+    "RegionalNumbers": [117, 191],
+    "Kind": "Dragon",
+    "Pokedex": "The poisonous barbs all over its body are highly valued as ingredients for making traditional herbal medicine. It shows no mercy to anything approaching its nest.",
+    "WildItemUncommon": "DRAGONSCALE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "11",
+    "Evolutions": [
+    {
+        "to": "KINGDRA",
+        "by":
+        {
+            "TradeItem": "DRAGONSCALE"
+        }
+    }]
+}

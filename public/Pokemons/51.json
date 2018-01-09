@@ -1,0 +1,103 @@
+{
+    "ID": 51,
+    "Name": "Dugtrio",
+    "InternalName": "DUGTRIO",
+    "Type1": "GROUND",
+    "BaseStats": [35, 80, 50, 120, 50, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "50",
+    "Happiness": "70",
+    "Abilities": ["SANDVEIL","ARENATRAP"],
+    "HiddenAbility": "SANDFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 1,
+        "move": "TRIATTACK"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 12,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 15,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 18,
+        "move": "BULLDOZE"
+    },
+    {
+        "level": 23,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 26,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 28,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 33,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 40,
+        "move": "DIG"
+    },
+    {
+        "level": 45,
+        "move": "SLASH"
+    },
+    {
+        "level": 50,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 57,
+        "move": "FISSURE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "33.3",
+    "Color": "Brown",
+    "Shape": "11",
+    "Habitat": "Cave",
+    "RegionalNumbers": [51, 135],
+    "Kind": "Mole",
+    "Pokedex": "Because the triplets originally split from one body, they think exactly alike. They work cooperatively to burrow endlessly through the ground.",
+    "WildItemUncommon": "SOFTSAND",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

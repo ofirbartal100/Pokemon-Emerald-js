@@ -1,0 +1,94 @@
+{
+    "ID": 339,
+    "Name": "Barboach",
+    "InternalName": "BARBOACH",
+    "Type1": "WATER",
+    "Type2": "GROUND",
+    "BaseStats": [50, 48, 43, 60, 46, 41],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "58",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["OBLIVIOUS","ANTICIPATION"],
+    "HiddenAbility": "HYDRATION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 6,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 6,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 10,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 14,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 18,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 22,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 26,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 31,
+        "move": "REST"
+    },
+    {
+        "level": 31,
+        "move": "SNORE"
+    },
+    {
+        "level": 35,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 39,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 43,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 47,
+        "move": "FISSURE"
+    }],
+    "EggMoves": ["DRAGONDANCE", "EARTHPOWER", "FLAIL", "HYDROPUMP", "MUDSHOT", "MUDDYWATER", "SPARK", "TAKEDOWN", "THRASH", "WHIRLPOOL"],
+    "Compatibility": ["Water2"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "1.9",
+    "Color": "Gray",
+    "Shape": "3",
+    "Habitat": "WatersEdge",
+    "Kind": "Whiskers",
+    "Pokedex": "Its body is covered with a slimy film. The film acts as a barrier to prevent germs in muddy water from entering the Barboach's body.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "30",
+    "BattlerAltitude": "12",
+    "Evolutions": [
+    {
+        "to": "WHISCASH",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

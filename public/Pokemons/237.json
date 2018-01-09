@@ -1,0 +1,94 @@
+{
+    "ID": 237,
+    "Name": "Hitmontop",
+    "InternalName": "HITMONTOP",
+    "Type1": "FIGHTING",
+    "BaseStats": [50, 95, 95, 70, 35, 110],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "159",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","TECHNICIAN"],
+    "HiddenAbility": "STEADFAST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "REVENGE"
+    },
+    {
+        "level": 1,
+        "move": "ROLLINGKICK"
+    },
+    {
+        "level": 6,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 10,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 15,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 19,
+        "move": "TRIPLEKICK"
+    },
+    {
+        "level": 24,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 28,
+        "move": "COUNTER"
+    },
+    {
+        "level": 33,
+        "move": "FEINT"
+    },
+    {
+        "level": 37,
+        "move": "AGILITY"
+    },
+    {
+        "level": 42,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 46,
+        "move": "WIDEGUARD"
+    },
+    {
+        "level": 46,
+        "move": "QUICKGUARD"
+    },
+    {
+        "level": 51,
+        "move": "DETECT"
+    },
+    {
+        "level": 55,
+        "move": "CLOSECOMBAT"
+    },
+    {
+        "level": 60,
+        "move": "ENDEAVOR"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "6630",
+    "Height": "1.4",
+    "Weight": "48.0",
+    "Color": "Brown",
+    "Shape": "6",
+    "Habitat": "Urban",
+    "RegionalNumbers": [0, 148],
+    "Kind": "Handstand",
+    "Pokedex": "Its technique of kicking while spinning is a remarkable mix of both offense and defense. Hitmontop travel faster spinning than they do walking.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

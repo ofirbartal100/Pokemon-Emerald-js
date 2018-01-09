@@ -1,0 +1,103 @@
+{
+    "ID": 3,
+    "Name": "Venusaur",
+    "InternalName": "VENUSAUR",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": [80, 82, 83, 80, 100, 100],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "236",
+    "EffortPoints": [0, 0, 0, 0, 2, 1],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "CHLOROPHYLL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 1,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 3,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 9,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 13,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 13,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 15,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 20,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 23,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 28,
+        "move": "GROWTH"
+    },
+    {
+        "level": 31,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 32,
+        "move": "PETALDANCE"
+    },
+    {
+        "level": 39,
+        "move": "WORRYSEED"
+    },
+    {
+        "level": 45,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 53,
+        "move": "SOLARBEAM"
+    }],
+    "Compatibility": ["Monster", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "2.0",
+    "Weight": "100.0",
+    "Color": "Green",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [3, 233],
+    "Kind": "Seed",
+    "Pokedex": "Venusaur's flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower's aroma soothes the emotions of people.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

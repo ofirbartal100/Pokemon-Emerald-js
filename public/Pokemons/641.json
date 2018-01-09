@@ -1,0 +1,97 @@
+{
+    "ID": 641,
+    "Name": "Tornadus",
+    "InternalName": "TORNADUS",
+    "Type1": "FLYING",
+    "BaseStats": [79, 115, 70, 111, 125, 80],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "5",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "90",
+    "Abilities": "PRANKSTER",
+    "HiddenAbility": "DEFIANT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "UPROAR"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 7,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 13,
+        "move": "BITE"
+    },
+    {
+        "level": 19,
+        "move": "REVENGE"
+    },
+    {
+        "level": 25,
+        "move": "AIRCUTTER"
+    },
+    {
+        "level": 31,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 37,
+        "move": "AGILITY"
+    },
+    {
+        "level": 43,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 49,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 55,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 61,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 67,
+        "move": "HURRICANE"
+    },
+    {
+        "level": 73,
+        "move": "DARKPULSE"
+    },
+    {
+        "level": 79,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 85,
+        "move": "THRASH"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "1.5",
+    "Weight": "63.0",
+    "Color": "Green",
+    "Shape": "4",
+    "Kind": "Cyclone",
+    "Pokedex": "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+    "FormName": "Incarnate Forme",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

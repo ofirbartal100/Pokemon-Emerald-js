@@ -1,0 +1,101 @@
+{
+    "ID": 294,
+    "Name": "Loudred",
+    "InternalName": "LOUDRED",
+    "Type1": "NORMAL",
+    "BaseStats": [84, 71, 43, 48, 71, 43],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "126",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "SOUNDPROOF",
+    "HiddenAbility": "SCRAPPY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "UPROAR"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "HOWL"
+    },
+    {
+        "level": 5,
+        "move": "UPROAR"
+    },
+    {
+        "level": 11,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 15,
+        "move": "HOWL"
+    },
+    {
+        "level": 20,
+        "move": "BITE"
+    },
+    {
+        "level": 23,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 29,
+        "move": "STOMP"
+    },
+    {
+        "level": 37,
+        "move": "SCREECH"
+    },
+    {
+        "level": 43,
+        "move": "ROAR"
+    },
+    {
+        "level": 51,
+        "move": "SYNCHRONOISE"
+    },
+    {
+        "level": 57,
+        "move": "REST"
+    },
+    {
+        "level": 57,
+        "move": "SLEEPTALK"
+    },
+    {
+        "level": 65,
+        "move": "HYPERVOICE"
+    }],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "40.5",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "Cave",
+    "Kind": "Big Voice",
+    "Pokedex": "It positions the round speakers on its head to assail foes with ultrasonic waves at massive volume. It builds power by stomping the ground.",
+    "WildItemUncommon": "CHESTOBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "EXPLOUD",
+        "by":
+        {
+            "Level": 40
+        }
+    }]
+}

@@ -1,0 +1,90 @@
+{
+    "ID": 542,
+    "Name": "Leavanny",
+    "InternalName": "LEAVANNY",
+    "Type1": "BUG",
+    "Type2": "GRASS",
+    "BaseStats": [75, 103, 80, 92, 70, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "221",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["SWARM","CHLOROPHYLL"],
+    "HiddenAbility": "OVERCOAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "STRINGSHOT"
+    },
+    {
+        "level": 1,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 1,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 8,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 15,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 22,
+        "move": "STRUGGLEBUG"
+    },
+    {
+        "level": 29,
+        "move": "SLASH"
+    },
+    {
+        "level": 32,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 36,
+        "move": "LEAFBLADE"
+    },
+    {
+        "level": 39,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 43,
+        "move": "ENTRAINMENT"
+    },
+    {
+        "level": 46,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 50,
+        "move": "LEAFSTORM"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "1.2",
+    "Weight": "20.5",
+    "Color": "Yellow",
+    "Shape": "12",
+    "Kind": "Nurturing",
+    "Pokedex": "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
+    "WildItemUncommon": "MENTALHERB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "9",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

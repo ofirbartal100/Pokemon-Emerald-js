@@ -1,0 +1,81 @@
+{
+    "ID": 484,
+    "Name": "Palkia",
+    "InternalName": "PALKIA",
+    "Type1": "WATER",
+    "Type2": "DRAGON",
+    "BaseStats": [90, 120, 100, 100, 150, 120],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "306",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "30",
+    "Happiness": "0",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 1,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 6,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 10,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 15,
+        "move": "SLASH"
+    },
+    {
+        "level": 19,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 24,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 28,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 33,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 37,
+        "move": "AURASPHERE"
+    },
+    {
+        "level": 42,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 46,
+        "move": "SPACIALREND"
+    },
+    {
+        "level": 50,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "4.2",
+    "Weight": "336.0",
+    "Color": "Purple",
+    "Shape": "6",
+    "Kind": "Spatial",
+    "Pokedex": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "8",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

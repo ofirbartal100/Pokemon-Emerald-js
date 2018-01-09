@@ -1,0 +1,99 @@
+{
+    "ID": 178,
+    "Name": "Xatu",
+    "InternalName": "XATU",
+    "Type1": "PSYCHIC",
+    "Type2": "FLYING",
+    "BaseStats": [65, 75, 70, 95, 95, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "165",
+    "EffortPoints": [0, 0, 0, 1, 1, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["SYNCHRONIZE","EARLYBIRD"],
+    "HiddenAbility": "MAGICBOUNCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 6,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 9,
+        "move": "TELEPORT"
+    },
+    {
+        "level": 12,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 17,
+        "move": "MIRACLEEYE"
+    },
+    {
+        "level": 20,
+        "move": "MEFIRST"
+    },
+    {
+        "level": 23,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 27,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 30,
+        "move": "WISH"
+    },
+    {
+        "level": 37,
+        "move": "PSYCHOSHIFT"
+    },
+    {
+        "level": 42,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 47,
+        "move": "STOREDPOWER"
+    },
+    {
+        "level": 54,
+        "move": "OMINOUSWIND"
+    },
+    {
+        "level": 54,
+        "move": "POWERSWAP"
+    },
+    {
+        "level": 59,
+        "move": "GUARDSWAP"
+    },
+    {
+        "level": 66,
+        "move": "PSYCHIC"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "15.0",
+    "Color": "Green",
+    "Shape": "9",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 162],
+    "Kind": "Mystic",
+    "Pokedex": "It has the enigmatic power of foreseeing the future. Some people in different lands have long believed that Xatu are emissaries from another world.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

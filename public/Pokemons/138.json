@@ -1,0 +1,95 @@
+{
+    "ID": 138,
+    "Name": "Omanyte",
+    "InternalName": "OMANYTE",
+    "Type1": "ROCK",
+    "Type2": "WATER",
+    "BaseStats": [35, 40, 100, 35, 90, 55],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "71",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","SHELLARMOR"],
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 1,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 7,
+        "move": "BITE"
+    },
+    {
+        "level": 10,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 16,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 19,
+        "move": "LEER"
+    },
+    {
+        "level": 25,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 28,
+        "move": "BRINE"
+    },
+    {
+        "level": 34,
+        "move": "PROTECT"
+    },
+    {
+        "level": 37,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 43,
+        "move": "TICKLE"
+    },
+    {
+        "level": 46,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 52,
+        "move": "SHELLSMASH"
+    },
+    {
+        "level": 55,
+        "move": "HYDROPUMP"
+    }],
+    "EggMoves": ["AURORABEAM", "BIDE", "BUBBLEBEAM", "HAZE", "KNOCKOFF", "MUDDYWATER", "SLAM", "SPIKES", "SUPERSONIC", "TOXICSPIKES", "WATERPULSE", "WHIRLPOOL", "WRINGOUT"],
+    "Compatibility": ["Water1", "Water3"],
+    "StepsToHatch": "7905",
+    "Height": "0.4",
+    "Weight": "7.5",
+    "Color": "Blue",
+    "Shape": "10",
+    "Habitat": "Sea",
+    "RegionalNumbers": [138, 225],
+    "Kind": "Spiral",
+    "Pokedex": "One of the ancient and long-since-extinct Pokémon that have been regenerated from fossils by humans. If attacked, it withdraws into its hard shell.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "OMASTAR",
+        "by":
+        {
+            "Level": 40
+        }
+    }]
+}

@@ -1,0 +1,90 @@
+{
+    "ID": 478,
+    "Name": "Froslass",
+    "InternalName": "FROSLASS",
+    "Type1": "ICE",
+    "Type2": "GHOST",
+    "BaseStats": [70, 80, 70, 110, 80, 70],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "168",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "SNOWCLOAK",
+    "HiddenAbility": "CURSEDBODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 4,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 10,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 13,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 19,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 22,
+        "move": "OMINOUSWIND"
+    },
+    {
+        "level": 28,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 31,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 37,
+        "move": "ICESHARD"
+    },
+    {
+        "level": 40,
+        "move": "HAIL"
+    },
+    {
+        "level": 51,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 59,
+        "move": "DESTINYBOND"
+    }],
+    "Compatibility": ["Fairy", "Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "26.6",
+    "Color": "White",
+    "Shape": "4",
+    "Kind": "Snow Land",
+    "Pokedex": "It freezes foes with an icy breath nearly -60 degrees F. What seems to be its body is actually hollow.",
+    "WildItemUncommon": "BABIRIBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

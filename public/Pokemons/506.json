@@ -1,0 +1,88 @@
+{
+    "ID": 506,
+    "Name": "Lillipup",
+    "InternalName": "LILLIPUP",
+    "Type1": "NORMAL",
+    "BaseStats": [45, 60, 45, 55, 25, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "55",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["VITALSPIRIT","PICKUP"],
+    "HiddenAbility": "RUNAWAY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 5,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 8,
+        "move": "BITE"
+    },
+    {
+        "level": 12,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 15,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 19,
+        "move": "WORKUP"
+    },
+    {
+        "level": 22,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 26,
+        "move": "ROAR"
+    },
+    {
+        "level": 29,
+        "move": "RETALIATE"
+    },
+    {
+        "level": 33,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 36,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 40,
+        "move": "GIGAIMPACT"
+    }],
+    "EggMoves": ["CHARM", "ENDURE", "FIREFANG", "HOWL", "ICEFANG", "LICK", "MUDSLAP", "PURSUIT", "SANDATTACK", "THUNDERFANG", "YAWN"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.4",
+    "Weight": "4.1",
+    "Color": "Brown",
+    "Shape": "8",
+    "Kind": "Puppy",
+    "Pokedex": "The long hair around its face provides an amazing radar that lets it sense subtle changes in its surroundings.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "HERDIER",
+        "by":
+        {
+            "Level": 16
+        }
+    }]
+}

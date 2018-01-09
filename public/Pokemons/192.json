@@ -1,0 +1,98 @@
+{
+    "ID": 192,
+    "Name": "Sunflora",
+    "InternalName": "SUNFLORA",
+    "Type1": "GRASS",
+    "BaseStats": [75, 75, 55, 30, 105, 85],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "149",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","SOLARPOWER"],
+    "HiddenAbility": "EARLYBIRD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "GROWTH"
+    },
+    {
+        "level": 4,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 7,
+        "move": "GRASSWHISTLE"
+    },
+    {
+        "level": 10,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 13,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 16,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 19,
+        "move": "WORRYSEED"
+    },
+    {
+        "level": 22,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 25,
+        "move": "BULLETSEED"
+    },
+    {
+        "level": 28,
+        "move": "PETALDANCE"
+    },
+    {
+        "level": 31,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 34,
+        "move": "SOLARBEAM"
+    },
+    {
+        "level": 37,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 40,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 43,
+        "move": "LEAFSTORM"
+    }],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "8.5",
+    "Color": "Yellow",
+    "Shape": "12",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 104],
+    "Kind": "Sun",
+    "Pokedex": "Sunflora convert solar energy into nutrition. They are highly active in the warm daytime but suddenly stop moving as soon as the sun sets.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

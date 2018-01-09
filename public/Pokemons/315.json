@@ -1,0 +1,103 @@
+{
+    "ID": 315,
+    "Name": "Roselia",
+    "InternalName": "ROSELIA",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": [50, 60, 45, 65, 100, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "140",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "150",
+    "Happiness": "70",
+    "Abilities": ["NATURALCURE","POISONPOINT"],
+    "HiddenAbility": "LEAFGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 4,
+        "move": "GROWTH"
+    },
+    {
+        "level": 7,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 10,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 13,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 16,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 19,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 22,
+        "move": "GRASSWHISTLE"
+    },
+    {
+        "level": 25,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 28,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 31,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 34,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 37,
+        "move": "PETALDANCE"
+    },
+    {
+        "level": 40,
+        "move": "TOXIC"
+    },
+    {
+        "level": 43,
+        "move": "AROMATHERAPY"
+    },
+    {
+        "level": 46,
+        "move": "SYNTHESIS"
+    }],
+    "EggMoves": ["COTTONSPORE", "GIGADRAIN", "GRASSWHISTLE", "LEAFSTORM", "MINDREADER", "NATURALGIFT", "PINMISSILE", "RAZORLEAF", "SEEDBOMB", "SLEEPPOWDER", "SPIKES", "SYNTHESIS"],
+    "Compatibility": ["Fairy", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "2.0",
+    "Color": "Green",
+    "Shape": "12",
+    "Habitat": "Grassland",
+    "Kind": "Thorn",
+    "Pokedex": "A Roselia that drinks nutritionally rich springwater blooms with lovely flowers. The fragrance of its flowers has the effect of making its foes careless.",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ROSERADE",
+        "by":
+        {
+            "Item": "SHINYSTONE"
+        }
+    }]
+}

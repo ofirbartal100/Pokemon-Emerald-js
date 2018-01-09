@@ -1,0 +1,106 @@
+{
+    "ID": 124,
+    "Name": "Jynx",
+    "InternalName": "JYNX",
+    "Type1": "ICE",
+    "Type2": "PSYCHIC",
+    "BaseStats": [65, 50, 35, 95, 115, 95],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "159",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["OBLIVIOUS","FOREWARN"],
+    "HiddenAbility": "DRYSKIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "LICK"
+    },
+    {
+        "level": 1,
+        "move": "LOVELYKISS"
+    },
+    {
+        "level": 1,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 5,
+        "move": "LICK"
+    },
+    {
+        "level": 8,
+        "move": "LOVELYKISS"
+    },
+    {
+        "level": 11,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 15,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 18,
+        "move": "ICEPUNCH"
+    },
+    {
+        "level": 21,
+        "move": "HEARTSTAMP"
+    },
+    {
+        "level": 25,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 28,
+        "move": "FAKETEARS"
+    },
+    {
+        "level": 33,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 39,
+        "move": "AVALANCHE"
+    },
+    {
+        "level": 44,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 49,
+        "move": "WRINGOUT"
+    },
+    {
+        "level": 55,
+        "move": "PERISHSONG"
+    },
+    {
+        "level": 60,
+        "move": "BLIZZARD"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "6630",
+    "Height": "1.4",
+    "Weight": "40.6",
+    "Color": "Red",
+    "Shape": "12",
+    "Habitat": "Urban",
+    "RegionalNumbers": [124, 155],
+    "Kind": "Human Shape",
+    "Pokedex": "A Jynx sashays rhythmically as if it were dancing. Its motions are so bouncingly alluring, people seeing it are compelled to shake their hips without noticing.",
+    "WildItemCommon": "ASPEARBERRY",
+    "WildItemUncommon": "ASPEARBERRY",
+    "WildItemRare": "ASPEARBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

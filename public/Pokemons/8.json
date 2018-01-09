@@ -1,0 +1,101 @@
+{
+    "ID": 8,
+    "Name": "Wartortle",
+    "InternalName": "WARTORTLE",
+    "Type1": "WATER",
+    "BaseStats": [59, 63, 80, 58, 65, 80],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 0, 1, 0, 0, 1],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "RAINDISH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 4,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 7,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 10,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 13,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 16,
+        "move": "BITE"
+    },
+    {
+        "level": 20,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 24,
+        "move": "PROTECT"
+    },
+    {
+        "level": 28,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 32,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 36,
+        "move": "SKULLBASH"
+    },
+    {
+        "level": 40,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 44,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 48,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Monster", "Water1"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "22.5",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [8, 238],
+    "Kind": "Turtle",
+    "Pokedex": "Its large tail is covered with rich, thick fur that deepens in color with age. The scratches on its shell are evidence of this Pokémon's toughness in battle.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BLASTOISE",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

@@ -1,0 +1,91 @@
+{
+    "ID": 234,
+    "Name": "Stantler",
+    "InternalName": "STANTLER",
+    "Type1": "NORMAL",
+    "BaseStats": [73, 95, 62, 85, 85, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "163",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","FRISK"],
+    "HiddenAbility": "SAPSIPPER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 3,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 10,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 13,
+        "move": "STOMP"
+    },
+    {
+        "level": 16,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 21,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 23,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 27,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 33,
+        "move": "ROLEPLAY"
+    },
+    {
+        "level": 38,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 43,
+        "move": "JUMPKICK"
+    },
+    {
+        "level": 49,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 53,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 55,
+        "move": "MEFIRST"
+    }],
+    "EggMoves": ["BITE", "DISABLE", "DOUBLEKICK", "EXTRASENSORY", "MEFIRST", "MEGAHORN", "MUDSPORT", "RAGE", "SPITE", "THRASH", "ZENHEADBUTT"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "71.2",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 131],
+    "Kind": "Big Horn",
+    "Pokedex": "Stantler's magnificent antlers were once traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "9",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

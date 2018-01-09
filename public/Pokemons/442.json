@@ -1,0 +1,82 @@
+{
+    "ID": 442,
+    "Name": "Spiritomb",
+    "InternalName": "SPIRITOMB",
+    "Type1": "GHOST",
+    "Type2": "DARK",
+    "BaseStats": [50, 92, 108, 35, 92, 108],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "170",
+    "EffortPoints": [0, 0, 1, 0, 0, 1],
+    "Rareness": "100",
+    "Happiness": "70",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "INFILTRATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CURSE"
+    },
+    {
+        "level": 1,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 1,
+        "move": "SPITE"
+    },
+    {
+        "level": 1,
+        "move": "SHADOWSNEAK"
+    },
+    {
+        "level": 7,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 13,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 19,
+        "move": "DREAMEATER"
+    },
+    {
+        "level": 25,
+        "move": "OMINOUSWIND"
+    },
+    {
+        "level": 31,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 37,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 43,
+        "move": "MEMENTO"
+    },
+    {
+        "level": 49,
+        "move": "DARKPULSE"
+    }],
+    "EggMoves": ["CAPTIVATE", "DESTINYBOND", "GRUDGE", "IMPRISON", "NIGHTMARE", "PAINSPLIT", "SHADOWSNEAK", "SMOKESCREEN"],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "7905",
+    "Height": "1.0",
+    "Weight": "108.0",
+    "Color": "Purple",
+    "Shape": "5",
+    "Kind": "Forbidden",
+    "Pokedex": "A Pokémon that was formed by 108 spirits. It is bound to a fissure in an odd keystone.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "14",
+    "Evolutions": []
+}

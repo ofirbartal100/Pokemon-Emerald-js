@@ -1,0 +1,83 @@
+{
+    "ID": 327,
+    "Name": "Spinda",
+    "InternalName": "SPINDA",
+    "Type1": "NORMAL",
+    "BaseStats": [60, 60, 60, 60, 60, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "126",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["OWNTEMPO","TANGLEDFEET"],
+    "HiddenAbility": "CONTRARY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 5,
+        "move": "UPROAR"
+    },
+    {
+        "level": 10,
+        "move": "COPYCAT"
+    },
+    {
+        "level": 14,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 19,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 23,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 28,
+        "move": "DIZZYPUNCH"
+    },
+    {
+        "level": 32,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 37,
+        "move": "TEETERDANCE"
+    },
+    {
+        "level": 41,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 46,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 50,
+        "move": "FLAIL"
+    },
+    {
+        "level": 55,
+        "move": "THRASH"
+    }],
+    "EggMoves": ["ASSIST", "BATONPASS", "DISABLE", "ENCORE", "FAKEOUT", "FAKETEARS", "ICYWIND", "PSYCHOCUT", "RAPIDSPIN", "ROLEPLAY", "SMELLINGSALTS", "TRICK", "WATERPULSE", "WISH"],
+    "Compatibility": ["Field", "Humanlike"],
+    "StepsToHatch": "4080",
+    "Height": "1.1",
+    "Weight": "5.0",
+    "Color": "Brown",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "Kind": "Spot Panda",
+    "Pokedex": "It is distinguished by a pattern of spots that is always different. Its unsteady, tottering walk has the effect of fouling its foe's aim.",
+    "WildItemUncommon": "CHESTOBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

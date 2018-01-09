@@ -1,0 +1,98 @@
+{
+    "ID": 561,
+    "Name": "Sigilyph",
+    "InternalName": "SIGILYPH",
+    "Type1": "PSYCHIC",
+    "Type2": "FLYING",
+    "BaseStats": [72, 58, 80, 97, 103, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "172",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["WONDERSKIN","MAGICGUARD"],
+    "HiddenAbility": "TINTEDLENS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 1,
+        "move": "MIRACLEEYE"
+    },
+    {
+        "level": 4,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 8,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 11,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 14,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 18,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 21,
+        "move": "AIRCUTTER"
+    },
+    {
+        "level": 24,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 28,
+        "move": "REFLECT"
+    },
+    {
+        "level": 31,
+        "move": "SYNCHRONOISE"
+    },
+    {
+        "level": 34,
+        "move": "MIRRORMOVE"
+    },
+    {
+        "level": 38,
+        "move": "GRAVITY"
+    },
+    {
+        "level": 41,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 44,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 48,
+        "move": "COSMICPOWER"
+    },
+    {
+        "level": 51,
+        "move": "SKYATTACK"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "PSYCHOSHIFT", "ROOST", "SKILLSWAP", "STEELWING", "STOREDPOWER"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "14.0",
+    "Color": "Black",
+    "Shape": "9",
+    "Kind": "Avianoid",
+    "Pokedex": "The guardians of an ancient city, they use their psychic power to attack enemies that invade their territory.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "7",
+    "BattlerAltitude": "3",
+    "Evolutions": []
+}

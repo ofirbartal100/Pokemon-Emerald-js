@@ -1,0 +1,94 @@
+{
+    "ID": 336,
+    "Name": "Seviper",
+    "InternalName": "SEVIPER",
+    "Type1": "POISON",
+    "BaseStats": [73, 100, 60, 65, 100, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fluctuating",
+    "BaseEXP": "160",
+    "EffortPoints": [0, 1, 0, 0, 1, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": "SHEDSKIN",
+    "HiddenAbility": "INFILTRATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WRAP"
+    },
+    {
+        "level": 1,
+        "move": "LICK"
+    },
+    {
+        "level": 5,
+        "move": "BITE"
+    },
+    {
+        "level": 9,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 12,
+        "move": "POISONTAIL"
+    },
+    {
+        "level": 16,
+        "move": "SCREECH"
+    },
+    {
+        "level": 20,
+        "move": "VENOSHOCK"
+    },
+    {
+        "level": 23,
+        "move": "GLARE"
+    },
+    {
+        "level": 27,
+        "move": "POISONFANG"
+    },
+    {
+        "level": 31,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 34,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 38,
+        "move": "HAZE"
+    },
+    {
+        "level": 42,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 45,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 49,
+        "move": "COIL"
+    },
+    {
+        "level": 53,
+        "move": "WRINGOUT"
+    }],
+    "EggMoves": ["ASSURANCE", "BODYSLAM", "FINALGAMBIT", "IRONTAIL", "NIGHTSLASH", "PUNISHMENT", "SCARYFACE", "SPITUP", "STOCKPILE", "SWALLOW", "SWITCHEROO", "WRINGOUT"],
+    "Compatibility": ["Field", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "2.7",
+    "Weight": "52.5",
+    "Color": "Black",
+    "Shape": "2",
+    "Habitat": "Grassland",
+    "Kind": "Fang Snake",
+    "Pokedex": "Seviper and Zangoose are eternal rivals. It counters a Zangoose's dazzling agility with its swordlike tail, which also oozes a horrible poison.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

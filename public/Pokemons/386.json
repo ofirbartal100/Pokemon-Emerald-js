@@ -1,0 +1,85 @@
+{
+    "ID": 386,
+    "Name": "Deoxys",
+    "InternalName": "DEOXYS",
+    "Type1": "PSYCHIC",
+    "BaseStats": [50, 150, 50, 150, 150, 50],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": [0, 1, 0, 1, 1, 0],
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "PRESSURE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "WRAP"
+    },
+    {
+        "level": 9,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 17,
+        "move": "TELEPORT"
+    },
+    {
+        "level": 25,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 33,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 41,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 49,
+        "move": "SNATCH"
+    },
+    {
+        "level": 57,
+        "move": "PSYCHOSHIFT"
+    },
+    {
+        "level": 65,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 73,
+        "move": "COSMICPOWER"
+    },
+    {
+        "level": 81,
+        "move": "RECOVER"
+    },
+    {
+        "level": 89,
+        "move": "PSYCHOBOOST"
+    },
+    {
+        "level": 97,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "1.7",
+    "Weight": "60.8",
+    "Color": "Red",
+    "Shape": "12",
+    "Habitat": "Rare",
+    "Kind": "DNA",
+    "Pokedex": "A Pokémon that mutated from an extraterrestrial virus exposed to a laser beam. Its body is configured for superior agility and speed.",
+    "FormName": "Normal Forme",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "8",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

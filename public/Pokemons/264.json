@@ -1,0 +1,99 @@
+{
+    "ID": 264,
+    "Name": "Linoone",
+    "InternalName": "LINOONE",
+    "Type1": "NORMAL",
+    "BaseStats": [78, 70, 61, 100, 50, 61],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "147",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["PICKUP","GLUTTONY"],
+    "HiddenAbility": "QUICKFEET",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SWITCHEROO"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 5,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 9,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 13,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 17,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 23,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 29,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 35,
+        "move": "COVET"
+    },
+    {
+        "level": 41,
+        "move": "BESTOW"
+    },
+    {
+        "level": 47,
+        "move": "SLASH"
+    },
+    {
+        "level": 53,
+        "move": "REST"
+    },
+    {
+        "level": 59,
+        "move": "BELLYDRUM"
+    },
+    {
+        "level": 65,
+        "move": "FLING"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.5",
+    "Weight": "32.5",
+    "Color": "White",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "Kind": "Rushing",
+    "Pokedex": "It is exceedingly fast if it only has to run in a straight line. When it spots pond- dwelling prey underwater, it quickly leaps in and catches it with its sharp claws.",
+    "WildItemCommon": "ORANBERRY",
+    "WildItemUncommon": "SITRUSBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

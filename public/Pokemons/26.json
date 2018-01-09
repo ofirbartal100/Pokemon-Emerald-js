@@ -1,0 +1,47 @@
+{
+    "ID": 26,
+    "Name": "Raichu",
+    "InternalName": "RAICHU",
+    "Type1": "ELECTRIC",
+    "BaseStats": [60, 90, 55, 100, 90, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "214",
+    "EffortPoints": [0, 0, 0, 3, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "STATIC",
+    "HiddenAbility": "LIGHTNINGROD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERBOLT"
+    }],
+    "Compatibility": ["Field", "Fairy"],
+    "StepsToHatch": "2805",
+    "Height": "0.8",
+    "Weight": "30.0",
+    "Color": "Yellow",
+    "Shape": "6",
+    "Habitat": "Forest",
+    "RegionalNumbers": [26, 23],
+    "Kind": "Mouse",
+    "Pokedex": "If it stores too much electricity, its behavior turns aggressive. To avoid this, it occasionally discharges excess energy and calms itself down.",
+    "WildItemCommon": "ORANBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

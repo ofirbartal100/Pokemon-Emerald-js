@@ -1,0 +1,86 @@
+{
+    "ID": 293,
+    "Name": "Whismur",
+    "InternalName": "WHISMUR",
+    "Type1": "NORMAL",
+    "BaseStats": [64, 51, 23, 28, 51, 23],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "48",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "SOUNDPROOF",
+    "HiddenAbility": "RATTLED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 5,
+        "move": "UPROAR"
+    },
+    {
+        "level": 11,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 15,
+        "move": "HOWL"
+    },
+    {
+        "level": 21,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 25,
+        "move": "STOMP"
+    },
+    {
+        "level": 31,
+        "move": "SCREECH"
+    },
+    {
+        "level": 35,
+        "move": "ROAR"
+    },
+    {
+        "level": 41,
+        "move": "SYNCHRONOISE"
+    },
+    {
+        "level": 45,
+        "move": "REST"
+    },
+    {
+        "level": 45,
+        "move": "SLEEPTALK"
+    },
+    {
+        "level": 51,
+        "move": "HYPERVOICE"
+    }],
+    "EggMoves": ["CIRCLETHROW", "ENDEAVOR", "EXTRASENSORY", "FAKETEARS", "HAMMERARM", "SMELLINGSALTS", "SMOKESCREEN", "SNORE", "TAKEDOWN"],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "16.3",
+    "Color": "Pink",
+    "Shape": "6",
+    "Habitat": "Cave",
+    "Kind": "Whisper",
+    "Pokedex": "Its cries equal a jet plane in volume. It inhales through its ear canals. Because of this system, it can cry continually without having to catch its breath.",
+    "WildItemUncommon": "CHESTOBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "LOUDRED",
+        "by":
+        {
+            "Level": 20
+        }
+    }]
+}

@@ -1,0 +1,85 @@
+{
+    "ID": 444,
+    "Name": "Gabite",
+    "InternalName": "GABITE",
+    "Type1": "DRAGON",
+    "Type2": "GROUND",
+    "BaseStats": [68, 90, 65, 82, 50, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "144",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "SANDVEIL",
+    "HiddenAbility": "ROUGHSKIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 3,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 7,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 13,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 15,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 19,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 24,
+        "move": "DUALCHOP"
+    },
+    {
+        "level": 28,
+        "move": "SLASH"
+    },
+    {
+        "level": 33,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 40,
+        "move": "DIG"
+    },
+    {
+        "level": 49,
+        "move": "DRAGONRUSH"
+    }],
+    "Compatibility": ["Monster", "Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "1.4",
+    "Weight": "56.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Cave",
+    "Pokedex": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
+    "WildItemUncommon": "HABANBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GARCHOMP",
+        "by":
+        {
+            "Level": 48
+        }
+    }]
+}

@@ -1,0 +1,96 @@
+{
+    "ID": 385,
+    "Name": "Jirachi",
+    "InternalName": "JIRACHI",
+    "Type1": "STEEL",
+    "Type2": "PSYCHIC",
+    "BaseStats": [100, 100, 100, 100, 100, 100],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "100",
+    "Abilities": "SERENEGRACE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WISH"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 5,
+        "move": "REST"
+    },
+    {
+        "level": 10,
+        "move": "SWIFT"
+    },
+    {
+        "level": 15,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 20,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 25,
+        "move": "REFRESH"
+    },
+    {
+        "level": 30,
+        "move": "REST"
+    },
+    {
+        "level": 35,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 40,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 45,
+        "move": "GRAVITY"
+    },
+    {
+        "level": 50,
+        "move": "HEALINGWISH"
+    },
+    {
+        "level": 55,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 60,
+        "move": "COSMICPOWER"
+    },
+    {
+        "level": 65,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 70,
+        "move": "DOOMDESIRE"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "0.3",
+    "Weight": "1.1",
+    "Color": "Yellow",
+    "Shape": "12",
+    "Habitat": "Mountain",
+    "Kind": "Wish",
+    "Pokedex": "Jirachi is said to make wishes come true. While it sleeps, a tough crystalline shell envelops the body to protect it from enemies.",
+    "WildItemCommon": "STARPIECE",
+    "WildItemUncommon": "STARPIECE",
+    "WildItemRare": "STARPIECE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "14",
+    "Evolutions": []
+}

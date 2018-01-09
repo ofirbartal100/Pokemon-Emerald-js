@@ -1,0 +1,98 @@
+{
+    "ID": 125,
+    "Name": "Electabuzz",
+    "InternalName": "ELECTABUZZ",
+    "Type1": "ELECTRIC",
+    "BaseStats": [65, 83, 57, 105, 95, 85],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "172",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "STATIC",
+    "HiddenAbility": "VITALSPIRIT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 5,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 8,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 12,
+        "move": "SWIFT"
+    },
+    {
+        "level": 15,
+        "move": "SHOCKWAVE"
+    },
+    {
+        "level": 19,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 22,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 26,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 29,
+        "move": "THUNDERPUNCH"
+    },
+    {
+        "level": 36,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 42,
+        "move": "SCREECH"
+    },
+    {
+        "level": 49,
+        "move": "THUNDERBOLT"
+    },
+    {
+        "level": 55,
+        "move": "THUNDER"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "6630",
+    "Height": "1.1",
+    "Weight": "30.0",
+    "Color": "Yellow",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [125, 157],
+    "Kind": "Electric",
+    "Pokedex": "When a storm approaches, it competes with others to scale heights that are likely to be stricken by lightning. Some towns use Electabuzz in place of lightning rods.",
+    "WildItemUncommon": "ELECTIRIZER",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ELECTIVIRE",
+        "by":
+        {
+            "TradeItem": "ELECTIRIZER"
+        }
+    }]
+}

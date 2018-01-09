@@ -1,0 +1,104 @@
+{
+    "ID": 612,
+    "Name": "Haxorus",
+    "InternalName": "HAXORUS",
+    "Type1": "DRAGON",
+    "BaseStats": [76, 147, 90, 97, 60, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "243",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": ["RIVALRY","MOLDBREAKER"],
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 1,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 4,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 10,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 13,
+        "move": "DUALCHOP"
+    },
+    {
+        "level": 16,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 20,
+        "move": "SLASH"
+    },
+    {
+        "level": 24,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 28,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 32,
+        "move": "DRAGONDANCE"
+    },
+    {
+        "level": 36,
+        "move": "TAUNT"
+    },
+    {
+        "level": 42,
+        "move": "DRAGONPULSE"
+    },
+    {
+        "level": 50,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 58,
+        "move": "GUILLOTINE"
+    },
+    {
+        "level": 66,
+        "move": "OUTRAGE"
+    },
+    {
+        "level": 74,
+        "move": "GIGAIMPACT"
+    }],
+    "Compatibility": ["Monster", "Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "1.8",
+    "Weight": "105.5",
+    "Color": "Yellow",
+    "Shape": "6",
+    "Kind": "Axe Jaw",
+    "Pokedex": "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

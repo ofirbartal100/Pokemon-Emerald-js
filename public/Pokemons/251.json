@@ -1,0 +1,89 @@
+{
+    "ID": 251,
+    "Name": "Celebi",
+    "InternalName": "CELEBI",
+    "Type1": "PSYCHIC",
+    "Type2": "GRASS",
+    "BaseStats": [100, 100, 100, 100, 100, 100],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "270",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "100",
+    "Abilities": "NATURALCURE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "RECOVER"
+    },
+    {
+        "level": 1,
+        "move": "HEALBELL"
+    },
+    {
+        "level": 10,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 19,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 28,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 37,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 46,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 55,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 64,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 73,
+        "move": "HEALINGWISH"
+    },
+    {
+        "level": 82,
+        "move": "LEAFSTORM"
+    },
+    {
+        "level": 91,
+        "move": "PERISHSONG"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "0.6",
+    "Weight": "5.0",
+    "Color": "Green",
+    "Shape": "12",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 256],
+    "Kind": "Time Travel",
+    "Pokedex": "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
+    "WildItemCommon": "LUMBERRY",
+    "WildItemUncommon": "LUMBERRY",
+    "WildItemRare": "LUMBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "13",
+    "Evolutions": []
+}

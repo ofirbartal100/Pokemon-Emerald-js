@@ -1,0 +1,102 @@
+{
+    "ID": 17,
+    "Name": "Pidgeotto",
+    "InternalName": "PIDGEOTTO",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [63, 60, 55, 71, 50, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "122",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["KEENEYE","TANGLEDFEET"],
+    "HiddenAbility": "BIGPECKS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 5,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "GUST"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 17,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 22,
+        "move": "TWISTER"
+    },
+    {
+        "level": 27,
+        "move": "FEATHERDANCE"
+    },
+    {
+        "level": 32,
+        "move": "AGILITY"
+    },
+    {
+        "level": 37,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 42,
+        "move": "ROOST"
+    },
+    {
+        "level": 47,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 52,
+        "move": "MIRRORMOVE"
+    },
+    {
+        "level": 57,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 62,
+        "move": "HURRICANE"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "1.1",
+    "Weight": "30.0",
+    "Color": "Brown",
+    "Shape": "9",
+    "Habitat": "Forest",
+    "RegionalNumbers": [17, 11],
+    "Kind": "Bird",
+    "Pokedex": "This Pokémon flies around, patrolling its large territory. If its living space is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "PIDGEOT",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

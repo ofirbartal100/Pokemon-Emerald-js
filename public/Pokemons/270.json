@@ -1,0 +1,82 @@
+{
+    "ID": 270,
+    "Name": "Lotad",
+    "InternalName": "LOTAD",
+    "Type1": "WATER",
+    "Type2": "GRASS",
+    "BaseStats": [40, 30, 30, 30, 40, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "44",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","RAINDISH"],
+    "HiddenAbility": "OWNTEMPO",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 3,
+        "move": "GROWL"
+    },
+    {
+        "level": 5,
+        "move": "ABSORB"
+    },
+    {
+        "level": 7,
+        "move": "NATUREPOWER"
+    },
+    {
+        "level": 11,
+        "move": "MIST"
+    },
+    {
+        "level": 15,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 19,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 25,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 31,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 37,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 45,
+        "move": "ENERGYBALL"
+    }],
+    "EggMoves": ["COUNTER", "FLAIL", "GIGADRAIN", "LEECHSEED", "RAZORLEAF", "SWEETSCENT", "SYNTHESIS", "TEETERDANCE", "TICKLE", "WATERGUN"],
+    "Compatibility": ["Water1", "Grass"],
+    "StepsToHatch": "4080",
+    "Height": "0.5",
+    "Weight": "2.6",
+    "Color": "Green",
+    "Shape": "14",
+    "Habitat": "WatersEdge",
+    "Kind": "Water Weed",
+    "Pokedex": "This Pokémon lives in ponds with clean water. It is known to ferry small Pokémon across ponds by carrying them on the broad leaf on its head.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "29",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "LOMBRE",
+        "by":
+        {
+            "Level": 14
+        }
+    }]
+}

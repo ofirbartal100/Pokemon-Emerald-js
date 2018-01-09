@@ -1,0 +1,95 @@
+{
+    "ID": 286,
+    "Name": "Breloom",
+    "InternalName": "BRELOOM",
+    "Type1": "GRASS",
+    "Type2": "FIGHTING",
+    "BaseStats": [60, 130, 80, 70, 60, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fluctuating",
+    "BaseEXP": "161",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["EFFECTSPORE","POISONHEAL"],
+    "HiddenAbility": "TECHNICIAN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 1,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 5,
+        "move": "TACKLE"
+    },
+    {
+        "level": 9,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 13,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 17,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 21,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 23,
+        "move": "MACHPUNCH"
+    },
+    {
+        "level": 25,
+        "move": "COUNTER"
+    },
+    {
+        "level": 29,
+        "move": "FORCEPALM"
+    },
+    {
+        "level": 33,
+        "move": "SKYUPPERCUT"
+    },
+    {
+        "level": 37,
+        "move": "MINDREADER"
+    },
+    {
+        "level": 41,
+        "move": "SEEDBOMB"
+    },
+    {
+        "level": 45,
+        "move": "DYNAMICPUNCH"
+    }],
+    "Compatibility": ["Fairy", "Grass"],
+    "StepsToHatch": "4080",
+    "Height": "1.2",
+    "Weight": "39.2",
+    "Color": "Green",
+    "Shape": "6",
+    "Habitat": "Forest",
+    "Kind": "Mushroom",
+    "Pokedex": "It scatters spores from holes in the cap on its head. It loves warm and humid climates. It feeds on trees and plants in fields and forests.",
+    "WildItemUncommon": "KEBIABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

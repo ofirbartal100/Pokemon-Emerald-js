@@ -1,0 +1,101 @@
+{
+    "ID": 153,
+    "Name": "Bayleef",
+    "InternalName": "BAYLEEF",
+    "Type1": "GRASS",
+    "BaseStats": [60, 62, 80, 60, 63, 80],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 0, 1, 0, 0, 1],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "LEAFGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 1,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 6,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 9,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 12,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 18,
+        "move": "REFLECT"
+    },
+    {
+        "level": 22,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 26,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 32,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 36,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 40,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 46,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 50,
+        "move": "AROMATHERAPY"
+    },
+    {
+        "level": 54,
+        "move": "SOLARBEAM"
+    }],
+    "Compatibility": ["Monster", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "15.8",
+    "Color": "Green",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 2],
+    "Kind": "Leaf",
+    "Pokedex": "A Bayleef's neck is ringed by curled-up leaves. Inside each leaf is a small tree shoot. The fragrance of this shoot makes people peppy.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MEGANIUM",
+        "by":
+        {
+            "Level": 32
+        }
+    }]
+}

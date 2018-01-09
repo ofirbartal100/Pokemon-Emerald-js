@@ -1,0 +1,106 @@
+{
+    "ID": 96,
+    "Name": "Drowzee",
+    "InternalName": "DROWZEE",
+    "Type1": "PSYCHIC",
+    "BaseStats": [60, 48, 45, 42, 43, 90],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["INSOMNIA","FOREWARN"],
+    "HiddenAbility": "INNERFOCUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 5,
+        "move": "DISABLE"
+    },
+    {
+        "level": 9,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 13,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 17,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 21,
+        "move": "MEDITATE"
+    },
+    {
+        "level": 25,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 29,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 33,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 37,
+        "move": "SYNCHRONOISE"
+    },
+    {
+        "level": 41,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 45,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 49,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 53,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 57,
+        "move": "PSYSHOCK"
+    },
+    {
+        "level": 61,
+        "move": "FUTURESIGHT"
+    }],
+    "EggMoves": ["ASSIST", "BARRIER", "FIREPUNCH", "FLATTER", "GUARDSWAP", "ICEPUNCH", "NASTYPLOT", "PSYCHOCUT", "ROLEPLAY", "SECRETPOWER", "SKILLSWAP", "THUNDERPUNCH"],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "32.4",
+    "Color": "Yellow",
+    "Shape": "12",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [96, 87],
+    "Kind": "Hypnosis",
+    "Pokedex": "If your nose becomes itchy while you are sleeping, it's a sure sign that a Drowzee is standing above your pillow and trying to eat your dream through your nostrils.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "HYPNO",
+        "by":
+        {
+            "Level": 26
+        }
+    }]
+}

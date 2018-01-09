@@ -1,0 +1,78 @@
+{
+    "ID": 368,
+    "Name": "Gorebyss",
+    "InternalName": "GOREBYSS",
+    "Type1": "WATER",
+    "BaseStats": [55, 84, 105, 52, 114, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "170",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": "SWIFTSWIM",
+    "HiddenAbility": "HYDRATION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 6,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 10,
+        "move": "AGILITY"
+    },
+    {
+        "level": 15,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 19,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 24,
+        "move": "AQUARING"
+    },
+    {
+        "level": 28,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 33,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 37,
+        "move": "DIVE"
+    },
+    {
+        "level": 42,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 46,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 51,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Water1"],
+    "StepsToHatch": "5355",
+    "Height": "1.8",
+    "Weight": "22.6",
+    "Color": "Pink",
+    "Shape": "2",
+    "Habitat": "Sea",
+    "Kind": "South Sea",
+    "Pokedex": "A Gorebyss siphons the body fluids of prey through its thin, tubular mouth. Its light pink body color turns vivid when it finishes feeding.",
+    "WildItemUncommon": "DEEPSEASCALE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

@@ -1,0 +1,90 @@
+{
+    "ID": 60,
+    "Name": "Poliwag",
+    "InternalName": "POLIWAG",
+    "Type1": "WATER",
+    "BaseStats": [40, 50, 40, 90, 40, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["WATERABSORB","DAMP"],
+    "HiddenAbility": "SWIFTSWIM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 5,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 8,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 11,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 15,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 18,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 21,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 25,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 28,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 31,
+        "move": "BELLYDRUM"
+    },
+    {
+        "level": 35,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 38,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 41,
+        "move": "MUDBOMB"
+    }],
+    "EggMoves": ["BUBBLEBEAM", "ENCORE", "ENDEAVOR", "ENDURE", "HAZE", "ICEBALL", "MINDREADER", "MIST", "MUDSHOT", "REFRESH", "SPLASH", "WATERPULSE", "WATERSPORT"],
+    "Compatibility": ["Water1"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "12.4",
+    "Color": "Blue",
+    "Shape": "7",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [60, 72],
+    "Kind": "Tadpole",
+    "Pokedex": "It is possible to see this Pokémon's spiral innards right through its thin skin. However, the skin is also very flexible. Even sharp fangs bounce right off it.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "POLIWHIRL",
+        "by":
+        {
+            "Level": 25
+        }
+    }]
+}

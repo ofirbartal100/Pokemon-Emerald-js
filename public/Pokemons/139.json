@@ -1,0 +1,95 @@
+{
+    "ID": 139,
+    "Name": "Omastar",
+    "InternalName": "OMASTAR",
+    "Type1": "ROCK",
+    "Type2": "WATER",
+    "BaseStats": [70, 60, 125, 55, 115, 70],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","SHELLARMOR"],
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 1,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 7,
+        "move": "BITE"
+    },
+    {
+        "level": 10,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 16,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 19,
+        "move": "LEER"
+    },
+    {
+        "level": 25,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 28,
+        "move": "BRINE"
+    },
+    {
+        "level": 34,
+        "move": "PROTECT"
+    },
+    {
+        "level": 37,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 40,
+        "move": "SPIKECANNON"
+    },
+    {
+        "level": 48,
+        "move": "TICKLE"
+    },
+    {
+        "level": 56,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 67,
+        "move": "SHELLSMASH"
+    },
+    {
+        "level": 75,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Water1", "Water3"],
+    "StepsToHatch": "7905",
+    "Height": "1.0",
+    "Weight": "35.0",
+    "Color": "Blue",
+    "Shape": "10",
+    "Habitat": "Sea",
+    "RegionalNumbers": [139, 226],
+    "Kind": "Spiral",
+    "Pokedex": "An Omastar uses its tentacles to capture its prey. It is believed to have become extinct because its shell grew too large, making its movements slow and ponderous.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

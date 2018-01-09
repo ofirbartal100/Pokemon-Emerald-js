@@ -1,0 +1,107 @@
+{
+    "ID": 27,
+    "Name": "Sandshrew",
+    "InternalName": "SANDSHREW",
+    "Type1": "GROUND",
+    "BaseStats": [50, 75, 85, 40, 20, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "SANDVEIL",
+    "HiddenAbility": "SANDRUSH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 3,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 5,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 7,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 9,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 11,
+        "move": "SWIFT"
+    },
+    {
+        "level": 14,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 17,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 20,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 23,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 26,
+        "move": "SLASH"
+    },
+    {
+        "level": 30,
+        "move": "DIG"
+    },
+    {
+        "level": 34,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 38,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 42,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 46,
+        "move": "EARTHQUAKE"
+    }],
+    "EggMoves": ["CHIPAWAY", "COUNTER", "CRUSHCLAW", "ENDURE", "FLAIL", "METALCLAW", "MUDSHOT", "NIGHTSLASH", "RAPIDSPIN", "ROCKCLIMB"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "12.0",
+    "Color": "Yellow",
+    "Shape": "6",
+    "Habitat": "RoughTerrain",
+    "RegionalNumbers": [27, 48],
+    "Kind": "Mouse",
+    "Pokedex": "When it curls up in a ball, it can make any attack bounce off harmlessly. Its hide has turned tough and solid as a result of living in the desert.",
+    "WildItemUncommon": "QUICKCLAW",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SANDSLASH",
+        "by":
+        {
+            "Level": 22
+        }
+    }]
+}

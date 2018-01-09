@@ -1,0 +1,103 @@
+{
+    "ID": 306,
+    "Name": "Aggron",
+    "InternalName": "AGGRON",
+    "Type1": "STEEL",
+    "Type2": "ROCK",
+    "BaseStats": [70, 110, 180, 50, 60, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "239",
+    "EffortPoints": [0, 0, 3, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": ["STURDY","ROCKHEAD"],
+    "HiddenAbility": "HEAVYMETAL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 1,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 4,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 8,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 11,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 15,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 18,
+        "move": "ROAR"
+    },
+    {
+        "level": 22,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 25,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 29,
+        "move": "PROTECT"
+    },
+    {
+        "level": 34,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 40,
+        "move": "IRONTAIL"
+    },
+    {
+        "level": 48,
+        "move": "AUTOTOMIZE"
+    },
+    {
+        "level": 57,
+        "move": "HEAVYSLAM"
+    },
+    {
+        "level": 65,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 74,
+        "move": "METALBURST"
+    }],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "9180",
+    "Height": "2.1",
+    "Weight": "360.0",
+    "Color": "Gray",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "Kind": "Iron Armor",
+    "Pokedex": "Its iron horns grow longer a little at a time. They are used to determine the Aggron's age. The gouges in its armor are worn with pride as mementos from battles.",
+    "WildItemUncommon": "HARDSTONE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

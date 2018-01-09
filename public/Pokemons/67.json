@@ -1,0 +1,101 @@
+{
+    "ID": 67,
+    "Name": "Machoke",
+    "InternalName": "MACHOKE",
+    "Type1": "FIGHTING",
+    "BaseStats": [80, 100, 70, 45, 50, 60],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["GUTS","NOGUARD"],
+    "HiddenAbility": "STEADFAST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "KARATECHOP"
+    },
+    {
+        "level": 7,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 10,
+        "move": "KARATECHOP"
+    },
+    {
+        "level": 13,
+        "move": "LOWSWEEP"
+    },
+    {
+        "level": 19,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 22,
+        "move": "SEISMICTOSS"
+    },
+    {
+        "level": 25,
+        "move": "REVENGE"
+    },
+    {
+        "level": 32,
+        "move": "VITALTHROW"
+    },
+    {
+        "level": 36,
+        "move": "SUBMISSION"
+    },
+    {
+        "level": 40,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 44,
+        "move": "CROSSCHOP"
+    },
+    {
+        "level": 51,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 55,
+        "move": "DYNAMICPUNCH"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "70.5",
+    "Color": "Gray",
+    "Shape": "12",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [67, 143],
+    "Kind": "Superpower",
+    "Pokedex": "A belt is worn by a Machoke to keep its overwhelming power under control. Because it is so dangerous, no one has ever removed the belt.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MACHAMP",
+        "by":
+        {
+            "Trade": "Trade"
+        }
+    }]
+}

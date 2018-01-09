@@ -1,0 +1,83 @@
+{
+    "ID": 21,
+    "Name": "Spearow",
+    "InternalName": "SPEAROW",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [40, 60, 30, 70, 31, 31],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "52",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "KEENEYE",
+    "HiddenAbility": "SNIPER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 5,
+        "move": "LEER"
+    },
+    {
+        "level": 9,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 13,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 17,
+        "move": "AERIALACE"
+    },
+    {
+        "level": 21,
+        "move": "MIRRORMOVE"
+    },
+    {
+        "level": 25,
+        "move": "AGILITY"
+    },
+    {
+        "level": 29,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 33,
+        "move": "ROOST"
+    },
+    {
+        "level": 37,
+        "move": "DRILLPECK"
+    }],
+    "EggMoves": ["ASTONISH", "FEINTATTACK", "FEATHERDANCE", "QUICKATTACK", "RAZORWIND", "SCARYFACE", "SKYATTACK", "STEELWING", "TRIATTACK", "UPROAR", "WHIRLWIND"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "0.3",
+    "Weight": "2.0",
+    "Color": "Brown",
+    "Shape": "9",
+    "Habitat": "RoughTerrain",
+    "RegionalNumbers": [21, 13],
+    "Kind": "Tiny Bird",
+    "Pokedex": "Its loud cry can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "FEAROW",
+        "by":
+        {
+            "Level": 20
+        }
+    }]
+}

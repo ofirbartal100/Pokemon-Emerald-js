@@ -1,0 +1,49 @@
+{
+    "ID": 265,
+    "Name": "Wurmple",
+    "InternalName": "WURMPLE",
+    "Type1": "BUG",
+    "BaseStats": [45, 45, 35, 20, 20, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "39",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "SHIELDDUST",
+    "HiddenAbility": "RUNAWAY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "STRINGSHOT"
+    },
+    {
+        "level": 5,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 15,
+        "move": "BUGBITE"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.3",
+    "Weight": "3.6",
+    "Color": "Red",
+    "Shape": "14",
+    "Habitat": "Forest",
+    "Kind": "Worm",
+    "Pokedex": "It sticks to tree branches and eats leaves. The thread it spits from its mouth, which becomes gooey when it touches air, slows the movement of its foes.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": ["SILCOON", "Silcoon",
+    {
+        "level": 7,
+        "move": "CASCOON"
+    }, "Cascoon", 7]
+}

@@ -1,0 +1,110 @@
+{
+    "ID": 305,
+    "Name": "Lairon",
+    "InternalName": "LAIRON",
+    "Type1": "STEEL",
+    "Type2": "ROCK",
+    "BaseStats": [60, 90, 140, 40, 50, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "151",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "35",
+    "Abilities": ["STURDY","ROCKHEAD"],
+    "HiddenAbility": "HEAVYMETAL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 1,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 4,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 8,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 11,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 15,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 18,
+        "move": "ROAR"
+    },
+    {
+        "level": 22,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 25,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 29,
+        "move": "PROTECT"
+    },
+    {
+        "level": 34,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 40,
+        "move": "IRONTAIL"
+    },
+    {
+        "level": 45,
+        "move": "AUTOTOMIZE"
+    },
+    {
+        "level": 51,
+        "move": "HEAVYSLAM"
+    },
+    {
+        "level": 56,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 62,
+        "move": "METALBURST"
+    }],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "9180",
+    "Height": "0.9",
+    "Weight": "120.0",
+    "Color": "Gray",
+    "Shape": "8",
+    "Habitat": "Mountain",
+    "Kind": "Iron Armor",
+    "Pokedex": "When two Lairon meet in the wild, they fight for territory by bashing into each other with their steel bodies. The sound of their collision carries for miles.",
+    "WildItemUncommon": "HARDSTONE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "AGGRON",
+        "by":
+        {
+            "Level": 42
+        }
+    }]
+}

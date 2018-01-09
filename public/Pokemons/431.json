@@ -1,0 +1,89 @@
+{
+    "ID": 431,
+    "Name": "Glameow",
+    "InternalName": "GLAMEOW",
+    "Type1": "NORMAL",
+    "BaseStats": [49, 55, 42, 85, 42, 37],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "62",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["LIMBER","OWNTEMPO"],
+    "HiddenAbility": "KEENEYE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 5,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 8,
+        "move": "GROWL"
+    },
+    {
+        "level": 13,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 17,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 20,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 25,
+        "move": "CHARM"
+    },
+    {
+        "level": 29,
+        "move": "ASSIST"
+    },
+    {
+        "level": 32,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 37,
+        "move": "SLASH"
+    },
+    {
+        "level": 41,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 44,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 48,
+        "move": "HONECLAWS"
+    }],
+    "EggMoves": ["ASSURANCE", "BITE", "FAKETEARS", "FLAIL", "LASTRESORT", "QUICKATTACK", "SANDATTACK", "SNATCH", "TAILWHIP", "WAKEUPSLAP"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "3.9",
+    "Color": "Gray",
+    "Shape": "8",
+    "Kind": "Catty",
+    "Pokedex": "It claws if displeased and purrs when affectionate. Its fickleness is very popular among some.",
+    "WildItemUncommon": "CHERIBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "PURUGLY",
+        "by":
+        {
+            "Level": 38
+        }
+    }]
+}

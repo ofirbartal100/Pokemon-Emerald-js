@@ -1,0 +1,91 @@
+{
+    "ID": 618,
+    "Name": "Stunfisk",
+    "InternalName": "STUNFISK",
+    "Type1": "GROUND",
+    "Type2": "ELECTRIC",
+    "BaseStats": [109, 66, 84, 32, 81, 99],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "165",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["STATIC","LIMBER"],
+    "HiddenAbility": "SANDVEIL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 1,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 5,
+        "move": "BIDE"
+    },
+    {
+        "level": 9,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 13,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 17,
+        "move": "CAMOUFLAGE"
+    },
+    {
+        "level": 21,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 25,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 30,
+        "move": "ENDURE"
+    },
+    {
+        "level": 35,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 40,
+        "move": "MUDDYWATER"
+    },
+    {
+        "level": 45,
+        "move": "THUNDERBOLT"
+    },
+    {
+        "level": 50,
+        "move": "REVENGE"
+    },
+    {
+        "level": 55,
+        "move": "FLAIL"
+    },
+    {
+        "level": 61,
+        "move": "FISSURE"
+    }],
+    "EggMoves": ["ASTONISH", "CURSE", "EARTHPOWER", "PAINSPLIT", "SHOCKWAVE", "SLEEPTALK", "SPARK", "SPITE", "YAWN"],
+    "Compatibility": ["Water1", "Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "11.0",
+    "Color": "Brown",
+    "Shape": "3",
+    "Kind": "Trap",
+    "Pokedex": "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of energy.",
+    "WildItemUncommon": "SOFTSAND",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "34",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

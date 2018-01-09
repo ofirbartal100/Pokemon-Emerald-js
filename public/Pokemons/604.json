@@ -1,0 +1,47 @@
+{
+    "ID": 604,
+    "Name": "Eelektross",
+    "InternalName": "EELEKTROSS",
+    "Type1": "ELECTRIC",
+    "BaseStats": [85, 115, 80, 50, 105, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "232",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CRUSHCLAW"
+    },
+    {
+        "level": 1,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 1,
+        "move": "ACID"
+    },
+    {
+        "level": 1,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 1,
+        "move": "CRUNCH"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "2.1",
+    "Weight": "80.5",
+    "Color": "Blue",
+    "Shape": "3",
+    "Kind": "EleFish",
+    "Pokedex": "With their sucker mouths, they suck in prey. Then they use their fangs to shock the prey with electricity.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

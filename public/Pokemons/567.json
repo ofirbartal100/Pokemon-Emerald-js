@@ -1,0 +1,104 @@
+{
+    "ID": 567,
+    "Name": "Archeops",
+    "InternalName": "ARCHEOPS",
+    "Type1": "ROCK",
+    "Type2": "FLYING",
+    "BaseStats": [75, 140, 65, 110, 112, 65],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "177",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "DEFEATIST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 1,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 5,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 8,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 11,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 15,
+        "move": "PLUCK"
+    },
+    {
+        "level": 18,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 21,
+        "move": "AGILITY"
+    },
+    {
+        "level": 25,
+        "move": "QUICKGUARD"
+    },
+    {
+        "level": 28,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 31,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 35,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 40,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 45,
+        "move": "UTURN"
+    },
+    {
+        "level": 51,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 56,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 61,
+        "move": "THRASH"
+    }],
+    "Compatibility": ["Flying", "Water3"],
+    "StepsToHatch": "7905",
+    "Height": "1.4",
+    "Weight": "32.0",
+    "Color": "Yellow",
+    "Shape": "9",
+    "Kind": "First Bird",
+    "Pokedex": "It runs better than it flies. It catches prey by running at speeds comparable to those of an automobile.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "8",
+    "BattlerAltitude": "1",
+    "Evolutions": []
+}

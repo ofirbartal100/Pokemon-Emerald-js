@@ -1,0 +1,94 @@
+{
+    "ID": 204,
+    "Name": "Pineco",
+    "InternalName": "PINECO",
+    "Type1": "BUG",
+    "BaseStats": [50, 65, 90, 15, 35, 35],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "58",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "STURDY",
+    "HiddenAbility": "OVERCOAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "PROTECT"
+    },
+    {
+        "level": 6,
+        "move": "SELFDESTRUCT"
+    },
+    {
+        "level": 9,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 12,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 17,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 20,
+        "move": "BIDE"
+    },
+    {
+        "level": 23,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 28,
+        "move": "SPIKES"
+    },
+    {
+        "level": 31,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 34,
+        "move": "EXPLOSION"
+    },
+    {
+        "level": 39,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 42,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 45,
+        "move": "DOUBLEEDGE"
+    }],
+    "EggMoves": ["COUNTER", "DOUBLEEDGE", "ENDURE", "FLAIL", "PINMISSILE", "POWERTRICK", "REVENGE", "SANDTOMB", "STEALTHROCK", "SWIFT", "TOXICSPIKES"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "7.2",
+    "Color": "Gray",
+    "Shape": "1",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 93],
+    "Kind": "Bagworm",
+    "Pokedex": "A Pineco hangs from a tree branch and waits for prey. While eating, if it is disturbed by someone shaking its tree, it falls on the ground and suddenly explodes.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "9",
+    "Evolutions": [
+    {
+        "to": "FORRETRESS",
+        "by":
+        {
+            "Level": 31
+        }
+    }]
+}

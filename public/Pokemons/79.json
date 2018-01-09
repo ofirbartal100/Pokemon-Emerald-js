@@ -1,0 +1,101 @@
+{
+    "ID": 79,
+    "Name": "Slowpoke",
+    "InternalName": "SLOWPOKE",
+    "Type1": "WATER",
+    "Type2": "PSYCHIC",
+    "BaseStats": [90, 65, 65, 15, 40, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "63",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["OBLIVIOUS","OWNTEMPO"],
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CURSE"
+    },
+    {
+        "level": 1,
+        "move": "YAWN"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 5,
+        "move": "GROWL"
+    },
+    {
+        "level": 9,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 14,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 19,
+        "move": "DISABLE"
+    },
+    {
+        "level": 23,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 28,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 32,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 36,
+        "move": "SLACKOFF"
+    },
+    {
+        "level": 41,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 45,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 49,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 54,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 58,
+        "move": "HEALPULSE"
+    }],
+    "EggMoves": ["BELLYDRUM", "BLOCK", "FUTURESIGHT", "MEFIRST", "MUDSPORT", "SLEEPTALK", "SNORE", "STOMP", "WONDERROOM", "ZENHEADBUTT"],
+    "Compatibility": ["Monster", "Water1"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "36.0",
+    "Color": "Pink",
+    "Shape": "8",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [79, 80],
+    "Kind": "Dopey",
+    "Pokedex": "It catches prey by dipping its tail in water at the side of a river. But it often forgets what it is doing and spends entire days just loafing at water's edge.",
+    "WildItemUncommon": "LAGGINGTAIL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "31",
+    "BattlerAltitude": "0",
+    "Evolutions": ["SLOWBRO", "Level",
+    {
+        "level": 37,
+        "move": "SLOWKING"
+    }, "TradeItem", "KINGSROCK"]
+}

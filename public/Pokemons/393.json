@@ -1,0 +1,88 @@
+{
+    "ID": 393,
+    "Name": "Piplup",
+    "InternalName": "PIPLUP",
+    "Type1": "WATER",
+    "BaseStats": [53, 51, 53, 40, 61, 56],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "63",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "DEFIANT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 8,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 11,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 15,
+        "move": "PECK"
+    },
+    {
+        "level": 18,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 22,
+        "move": "BIDE"
+    },
+    {
+        "level": 25,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 29,
+        "move": "BRINE"
+    },
+    {
+        "level": 32,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 36,
+        "move": "MIST"
+    },
+    {
+        "level": 39,
+        "move": "DRILLPECK"
+    },
+    {
+        "level": 43,
+        "move": "HYDROPUMP"
+    }],
+    "EggMoves": ["AGILITY", "AQUARING", "BIDE", "DOUBLEHIT", "FEATHERDANCE", "FLAIL", "HYDROPUMP", "ICYWIND", "MUDSLAP", "MUDSPORT", "SNORE", "SUPERSONIC", "YAWN"],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "5.2",
+    "Color": "Blue",
+    "Shape": "12",
+    "Kind": "Penguin",
+    "Pokedex": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "PRINPLUP",
+        "by":
+        {
+            "Level": 16
+        }
+    }]
+}

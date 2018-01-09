@@ -1,0 +1,91 @@
+{
+    "ID": 165,
+    "Name": "Ledyba",
+    "InternalName": "LEDYBA",
+    "Type1": "BUG",
+    "Type2": "FLYING",
+    "BaseStats": [40, 20, 30, 55, 40, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "53",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["SWARM","EARLYBIRD"],
+    "HiddenAbility": "RATTLED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 6,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 9,
+        "move": "COMETPUNCH"
+    },
+    {
+        "level": 14,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 14,
+        "move": "REFLECT"
+    },
+    {
+        "level": 14,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 17,
+        "move": "MACHPUNCH"
+    },
+    {
+        "level": 22,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 25,
+        "move": "SILVERWIND"
+    },
+    {
+        "level": 30,
+        "move": "AGILITY"
+    },
+    {
+        "level": 33,
+        "move": "SWIFT"
+    },
+    {
+        "level": 38,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 41,
+        "move": "BUGBUZZ"
+    }],
+    "EggMoves": ["BIDE", "BUGBITE", "BUGBUZZ", "DIZZYPUNCH", "DRAINPUNCH", "ENCORE", "FOCUSPUNCH", "KNOCKOFF", "PSYBEAM", "SCREECH", "SILVERWIND"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "1.0",
+    "Weight": "10.8",
+    "Color": "Red",
+    "Shape": "9",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 30],
+    "Kind": "Five Star",
+    "Pokedex": "Ledyba communicate using a fluid that they secrete from where the legs join the body. They are said to convey feelings to others by altering the fluid's scent.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "LEDIAN",
+        "by":
+        {
+            "Level": 18
+        }
+    }]
+}

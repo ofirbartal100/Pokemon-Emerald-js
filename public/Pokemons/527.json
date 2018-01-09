@@ -1,0 +1,93 @@
+{
+    "ID": 527,
+    "Name": "Woobat",
+    "InternalName": "WOOBAT",
+    "Type1": "PSYCHIC",
+    "Type2": "FLYING",
+    "BaseStats": [55, 45, 43, 72, 55, 43],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "63",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["UNAWARE","KLUTZ"],
+    "HiddenAbility": "SIMPLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 4,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 8,
+        "move": "GUST"
+    },
+    {
+        "level": 12,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 15,
+        "move": "HEARTSTAMP"
+    },
+    {
+        "level": 19,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 21,
+        "move": "AIRCUTTER"
+    },
+    {
+        "level": 25,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 29,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 29,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 32,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 36,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 41,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 47,
+        "move": "ENDEAVOR"
+    }],
+    "EggMoves": ["CHARM", "FAKETEARS", "FLATTER", "HELPINGHAND", "KNOCKOFF", "ROOST", "STOREDPOWER", "SUPERSONIC", "SYNCHRONOISE"],
+    "Compatibility": ["Flying", "Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.4",
+    "Weight": "2.1",
+    "Color": "Blue",
+    "Shape": "9",
+    "Kind": "Bat",
+    "Pokedex": "Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "35",
+    "BattlerAltitude": "19",
+    "Evolutions": [
+    {
+        "to": "SWOOBAT",
+        "by":
+        {
+            "Happiness": "Happiness"
+        }
+    }]
+}

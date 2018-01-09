@@ -1,0 +1,108 @@
+{
+    "ID": 605,
+    "Name": "Elgyem",
+    "InternalName": "ELGYEM",
+    "Type1": "PSYCHIC",
+    "BaseStats": [55, 55, 55, 30, 85, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "67",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["TELEPATHY","SYNCHRONIZE"],
+    "HiddenAbility": "ANALYTIC",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 8,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 11,
+        "move": "MIRACLEEYE"
+    },
+    {
+        "level": 15,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 18,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 22,
+        "move": "HIDDENPOWER"
+    },
+    {
+        "level": 25,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 29,
+        "move": "SIMPLEBEAM"
+    },
+    {
+        "level": 32,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 36,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 39,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 43,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 46,
+        "move": "RECOVER"
+    },
+    {
+        "level": 50,
+        "move": "GUARDSPLIT"
+    },
+    {
+        "level": 50,
+        "move": "POWERSPLIT"
+    },
+    {
+        "level": 53,
+        "move": "SYNCHRONOISE"
+    },
+    {
+        "level": 56,
+        "move": "WONDERROOM"
+    }],
+    "EggMoves": ["ASTONISH", "BARRIER", "DISABLE", "GUARDSWAP", "NASTYPLOT", "POWERSWAP", "SKILLSWAP", "TELEPORT"],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "9.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Cerebral",
+    "Pokedex": "This Pokémon had never been seen until it appeared from far in the desert 50 years ago.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BEHEEYEM",
+        "by":
+        {
+            "Level": 42
+        }
+    }]
+}

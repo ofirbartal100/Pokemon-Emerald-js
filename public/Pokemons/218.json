@@ -1,0 +1,94 @@
+{
+    "ID": 218,
+    "Name": "Slugma",
+    "InternalName": "SLUGMA",
+    "Type1": "FIRE",
+    "BaseStats": [40, 40, 40, 20, 70, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "50",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["MAGMAARMOR","FLAMEBODY"],
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "YAWN"
+    },
+    {
+        "level": 1,
+        "move": "SMOG"
+    },
+    {
+        "level": 5,
+        "move": "EMBER"
+    },
+    {
+        "level": 10,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 14,
+        "move": "HARDEN"
+    },
+    {
+        "level": 19,
+        "move": "RECOVER"
+    },
+    {
+        "level": 23,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 28,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 32,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 37,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 41,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 46,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 50,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 55,
+        "move": "EARTHPOWER"
+    }],
+    "EggMoves": ["ACIDARMOR", "CURSE", "EARTHPOWER", "HEATWAVE", "INFERNO", "MEMENTO", "ROLLOUT", "SMOKESCREEN", "SPITUP", "STOCKPILE", "SWALLOW"],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "35.0",
+    "Color": "Red",
+    "Shape": "2",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [0, 216],
+    "Kind": "Lava",
+    "Pokedex": "It is a species of Pokémon that lives in volcanic areas. If its body cools, its skin hardens and immobilizes it. To avoid that, it sleeps near magma.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MAGCARGO",
+        "by":
+        {
+            "Level": 38
+        }
+    }]
+}

@@ -1,0 +1,95 @@
+{
+    "ID": 16,
+    "Name": "Pidgey",
+    "InternalName": "PIDGEY",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [40, 45, 40, 56, 35, 35],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "50",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["KEENEYE","TANGLEDFEET"],
+    "HiddenAbility": "BIGPECKS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 5,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "GUST"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 17,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 21,
+        "move": "TWISTER"
+    },
+    {
+        "level": 25,
+        "move": "FEATHERDANCE"
+    },
+    {
+        "level": 29,
+        "move": "AGILITY"
+    },
+    {
+        "level": 33,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 37,
+        "move": "ROOST"
+    },
+    {
+        "level": 41,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 45,
+        "move": "MIRRORMOVE"
+    },
+    {
+        "level": 49,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 53,
+        "move": "HURRICANE"
+    }],
+    "EggMoves": ["AIRCUTTER", "AIRSLASH", "BRAVEBIRD", "DEFOG", "FEINTATTACK", "FORESIGHT", "PURSUIT", "STEELWING", "UPROAR"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "0.3",
+    "Weight": "1.8",
+    "Color": "Brown",
+    "Shape": "9",
+    "Habitat": "Forest",
+    "RegionalNumbers": [16, 10],
+    "Kind": "Tiny Bird",
+    "Pokedex": "It has an extremely sharp sense of direction. It can unerringly return home to its nest, however far it may be removed from its familiar surroundings.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "PIDGEOTTO",
+        "by":
+        {
+            "Level": 18
+        }
+    }]
+}

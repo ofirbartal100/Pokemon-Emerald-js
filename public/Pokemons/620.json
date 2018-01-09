@@ -1,0 +1,104 @@
+{
+    "ID": 620,
+    "Name": "Mienshao",
+    "InternalName": "MIENSHAO",
+    "Type1": "FIGHTING",
+    "BaseStats": [65, 125, 60, 105, 95, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "179",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["INNERFOCUS","REGENERATOR"],
+    "HiddenAbility": "RECKLESS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "MEDITATE"
+    },
+    {
+        "level": 1,
+        "move": "DETECT"
+    },
+    {
+        "level": 1,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 5,
+        "move": "MEDITATE"
+    },
+    {
+        "level": 9,
+        "move": "DETECT"
+    },
+    {
+        "level": 13,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 17,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 21,
+        "move": "SWIFT"
+    },
+    {
+        "level": 25,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 29,
+        "move": "FORCEPALM"
+    },
+    {
+        "level": 33,
+        "move": "DRAINPUNCH"
+    },
+    {
+        "level": 37,
+        "move": "JUMPKICK"
+    },
+    {
+        "level": 41,
+        "move": "UTURN"
+    },
+    {
+        "level": 45,
+        "move": "WIDEGUARD"
+    },
+    {
+        "level": 49,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 56,
+        "move": "HIGHJUMPKICK"
+    },
+    {
+        "level": 63,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 70,
+        "move": "AURASPHERE"
+    }],
+    "Compatibility": ["Field", "Humanlike"],
+    "StepsToHatch": "6630",
+    "Height": "1.4",
+    "Weight": "35.5",
+    "Color": "Purple",
+    "Shape": "6",
+    "Kind": "Martial Arts",
+    "Pokedex": "They use the long fur on their arms as a whip to strike their opponents.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

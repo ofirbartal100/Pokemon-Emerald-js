@@ -1,0 +1,109 @@
+{
+    "ID": 344,
+    "Name": "Claydol",
+    "InternalName": "CLAYDOL",
+    "Type1": "GROUND",
+    "Type2": "PSYCHIC",
+    "BaseStats": [60, 70, 105, 75, 70, 120],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "175",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TELEPORT"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 4,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 7,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 10,
+        "move": "ROCKTOMB"
+    },
+    {
+        "level": 13,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 17,
+        "move": "POWERTRICK"
+    },
+    {
+        "level": 21,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 25,
+        "move": "SELFDESTRUCT"
+    },
+    {
+        "level": 28,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 31,
+        "move": "COSMICPOWER"
+    },
+    {
+        "level": 34,
+        "move": "GUARDSPLIT"
+    },
+    {
+        "level": 34,
+        "move": "POWERSPLIT"
+    },
+    {
+        "level": 36,
+        "move": "HYPERBEAM"
+    },
+    {
+        "level": 40,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 47,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 54,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 61,
+        "move": "EXPLOSION"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "108.0",
+    "Color": "Black",
+    "Shape": "4",
+    "Habitat": "RoughTerrain",
+    "Kind": "Clay Doll",
+    "Pokedex": "A Claydol sleeps while hovering in midair. Its arms are separate from its body. They are kept floating by the Pokémon's manipulation of psychic power.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "11",
+    "Evolutions": []
+}

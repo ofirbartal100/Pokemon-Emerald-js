@@ -1,0 +1,87 @@
+{
+    "ID": 140,
+    "Name": "Kabuto",
+    "InternalName": "KABUTO",
+    "Type1": "ROCK",
+    "Type2": "WATER",
+    "BaseStats": [30, 80, 90, 55, 55, 45],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "71",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","BATTLEARMOR"],
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 6,
+        "move": "ABSORB"
+    },
+    {
+        "level": 11,
+        "move": "LEER"
+    },
+    {
+        "level": 16,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 21,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 26,
+        "move": "ENDURE"
+    },
+    {
+        "level": 31,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 36,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 41,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 46,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 51,
+        "move": "WRINGOUT"
+    }],
+    "EggMoves": ["AURORABEAM", "BUBBLEBEAM", "CONFUSERAY", "FLAIL", "FORESIGHT", "GIGADRAIN", "ICYWIND", "KNOCKOFF", "MUDSHOT", "RAPIDSPIN", "SCREECH"],
+    "Compatibility": ["Water1", "Water3"],
+    "StepsToHatch": "7905",
+    "Height": "0.5",
+    "Weight": "11.5",
+    "Color": "Brown",
+    "Shape": "14",
+    "Habitat": "Sea",
+    "RegionalNumbers": [140, 227],
+    "Kind": "Shellfish",
+    "Pokedex": "It is a Pokémon that has been regenerated from a fossil. However, in rare cases, living examples have been discovered. Kabuto have not changed for 300 million years.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "30",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "KABUTOPS",
+        "by":
+        {
+            "Level": 40
+        }
+    }]
+}

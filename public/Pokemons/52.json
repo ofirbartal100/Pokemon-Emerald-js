@@ -1,0 +1,99 @@
+{
+    "ID": 52,
+    "Name": "Meowth",
+    "InternalName": "MEOWTH",
+    "Type1": "NORMAL",
+    "BaseStats": [40, 45, 35, 90, 40, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "58",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["PICKUP","TECHNICIAN"],
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 6,
+        "move": "BITE"
+    },
+    {
+        "level": 9,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 14,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 17,
+        "move": "SCREECH"
+    },
+    {
+        "level": 22,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 25,
+        "move": "TAUNT"
+    },
+    {
+        "level": 30,
+        "move": "PAYDAY"
+    },
+    {
+        "level": 33,
+        "move": "SLASH"
+    },
+    {
+        "level": 38,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 41,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 46,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 49,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 54,
+        "move": "FEINT"
+    }],
+    "EggMoves": ["AMNESIA", "ASSIST", "CHARM", "FLAIL", "FOULPLAY", "HYPNOSIS", "IRONTAIL", "LASTRESORT", "ODORSLEUTH", "PUNISHMENT", "SNATCH", "SPITE", "TAILWHIP"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "4.2",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Urban",
+    "RegionalNumbers": [52, 138],
+    "Kind": "Scratch Cat",
+    "Pokedex": "Meowth withdraw their sharp claws into their paws to silently sneak about. For some reason, this Pokémon loves shiny coins that glitter with light.",
+    "WildItemUncommon": "QUICKCLAW",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "PERSIAN",
+        "by":
+        {
+            "Level": 28
+        }
+    }]
+}

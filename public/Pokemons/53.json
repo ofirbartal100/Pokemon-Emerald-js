@@ -1,0 +1,107 @@
+{
+    "ID": 53,
+    "Name": "Persian",
+    "InternalName": "PERSIAN",
+    "Type1": "NORMAL",
+    "BaseStats": [65, 70, 60, 115, 65, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "154",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["LIMBER","TECHNICIAN"],
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SWITCHEROO"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 6,
+        "move": "BITE"
+    },
+    {
+        "level": 9,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 14,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 17,
+        "move": "SCREECH"
+    },
+    {
+        "level": 22,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 25,
+        "move": "TAUNT"
+    },
+    {
+        "level": 28,
+        "move": "SWIFT"
+    },
+    {
+        "level": 32,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 37,
+        "move": "SLASH"
+    },
+    {
+        "level": 44,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 49,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 56,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 61,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 68,
+        "move": "FEINT"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "32.0",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Urban",
+    "RegionalNumbers": [53, 139],
+    "Kind": "Classy Cat",
+    "Pokedex": "A Persian's six bold whiskers sense air movements to determine what is in its vicinity. It becomes docile if grabbed by the whiskers.",
+    "WildItemUncommon": "QUICKCLAW",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

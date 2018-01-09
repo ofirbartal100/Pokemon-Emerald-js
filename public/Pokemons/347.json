@@ -1,0 +1,86 @@
+{
+    "ID": 347,
+    "Name": "Anorith",
+    "InternalName": "ANORITH",
+    "Type1": "ROCK",
+    "Type2": "BUG",
+    "BaseStats": [45, 95, 50, 75, 40, 50],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "71",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BATTLEARMOR",
+    "HiddenAbility": "SWIFTSWIM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 13,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 19,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 25,
+        "move": "PROTECT"
+    },
+    {
+        "level": 31,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 37,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 43,
+        "move": "SLASH"
+    },
+    {
+        "level": 49,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 55,
+        "move": "CRUSHCLAW"
+    },
+    {
+        "level": 61,
+        "move": "XSCISSOR"
+    }],
+    "EggMoves": ["CROSSPOISON", "CURSE", "IRONDEFENSE", "KNOCKOFF", "RAPIDSPIN", "SANDATTACK", "SCREECH", "WATERPULSE"],
+    "Compatibility": ["Water3"],
+    "StepsToHatch": "7905",
+    "Height": "0.7",
+    "Weight": "12.5",
+    "Color": "Gray",
+    "Shape": "14",
+    "Habitat": "WatersEdge",
+    "Kind": "Old Shrimp",
+    "Pokedex": "It was resurrected from a fossil using the power of science. It swims by undulating the eight wings at its sides. They were feet that adapted to life in the sea.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ARMALDO",
+        "by":
+        {
+            "Level": 40
+        }
+    }]
+}

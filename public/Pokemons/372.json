@@ -1,0 +1,101 @@
+{
+    "ID": 372,
+    "Name": "Shelgon",
+    "InternalName": "SHELGON",
+    "Type1": "DRAGON",
+    "BaseStats": [65, 95, 100, 50, 60, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "147",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "ROCKHEAD",
+    "HiddenAbility": "OVERCOAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "RAGE"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 5,
+        "move": "BITE"
+    },
+    {
+        "level": 10,
+        "move": "LEER"
+    },
+    {
+        "level": 16,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 20,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 25,
+        "move": "EMBER"
+    },
+    {
+        "level": 30,
+        "move": "PROTECT"
+    },
+    {
+        "level": 32,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 37,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 43,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 50,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 55,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 61,
+        "move": "DOUBLEEDGE"
+    }],
+    "Compatibility": ["Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "1.1",
+    "Weight": "110.5",
+    "Color": "White",
+    "Shape": "8",
+    "Habitat": "RoughTerrain",
+    "Kind": "Endurance",
+    "Pokedex": "It hardly eats while it awaits evolution. It becomes hardier by enduring hunger. Its shell peels off the instant it begins to evolve.",
+    "WildItemUncommon": "DRAGONFANG",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SALAMENCE",
+        "by":
+        {
+            "Level": 50
+        }
+    }]
+}

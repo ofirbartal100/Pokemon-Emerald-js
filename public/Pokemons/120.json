@@ -1,0 +1,103 @@
+{
+    "ID": 120,
+    "Name": "Staryu",
+    "InternalName": "STARYU",
+    "Type1": "WATER",
+    "BaseStats": [30, 45, 55, 85, 70, 55],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "68",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "225",
+    "Happiness": "70",
+    "Abilities": ["ILLUMINATE","NATURALCURE"],
+    "HiddenAbility": "ANALYTIC",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 6,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 10,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 12,
+        "move": "RECOVER"
+    },
+    {
+        "level": 15,
+        "move": "CAMOUFLAGE"
+    },
+    {
+        "level": 18,
+        "move": "SWIFT"
+    },
+    {
+        "level": 22,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 25,
+        "move": "MINIMIZE"
+    },
+    {
+        "level": 30,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 33,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 36,
+        "move": "BRINE"
+    },
+    {
+        "level": 40,
+        "move": "REFLECTTYPE"
+    },
+    {
+        "level": 43,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 48,
+        "move": "COSMICPOWER"
+    },
+    {
+        "level": 52,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Water3"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "34.5",
+    "Color": "Brown",
+    "Shape": "5",
+    "Habitat": "Sea",
+    "RegionalNumbers": [120, 169],
+    "Kind": "Star Shape",
+    "Pokedex": "It gathers with others in the night and makes its red core glow on and off with the twinkling stars. It can regenerate limbs if they are severed from its body.",
+    "WildItemCommon": "STARDUST",
+    "WildItemUncommon": "STARPIECE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "7",
+    "Evolutions": [
+    {
+        "to": "STARMIE",
+        "by":
+        {
+            "Item": "WATERSTONE"
+        }
+    }]
+}

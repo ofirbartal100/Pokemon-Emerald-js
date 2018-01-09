@@ -1,0 +1,98 @@
+{
+    "ID": 143,
+    "Name": "Snorlax",
+    "InternalName": "SNORLAX",
+    "Type1": "NORMAL",
+    "BaseStats": [160, 110, 65, 30, 65, 110],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Slow",
+    "BaseEXP": "189",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "25",
+    "Happiness": "70",
+    "Abilities": ["IMMUNITY","THICKFAT"],
+    "HiddenAbility": "GLUTTONY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 9,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 12,
+        "move": "LICK"
+    },
+    {
+        "level": 17,
+        "move": "BELLYDRUM"
+    },
+    {
+        "level": 20,
+        "move": "YAWN"
+    },
+    {
+        "level": 25,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 28,
+        "move": "REST"
+    },
+    {
+        "level": 28,
+        "move": "SNORE"
+    },
+    {
+        "level": 33,
+        "move": "SLEEPTALK"
+    },
+    {
+        "level": 36,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 41,
+        "move": "BLOCK"
+    },
+    {
+        "level": 44,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 49,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 52,
+        "move": "HEAVYSLAM"
+    },
+    {
+        "level": 57,
+        "move": "GIGAIMPACT"
+    }],
+    "EggMoves": ["AFTERYOU", "CHARM", "COUNTER", "CURSE", "DOUBLEEDGE", "FISSURE", "LICK", "NATURALGIFT", "PURSUIT", "SELFDESTRUCT", "WHIRLWIND", "ZENHEADBUTT"],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "10455",
+    "Height": "2.1",
+    "Weight": "460.0",
+    "Color": "Black",
+    "Shape": "12",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [143, 230],
+    "Kind": "Sleeping",
+    "Pokedex": "Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its big belly as a place to play.",
+    "WildItemCommon": "LEFTOVERS",
+    "WildItemUncommon": "LEFTOVERS",
+    "WildItemRare": "LEFTOVERS",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

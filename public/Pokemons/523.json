@@ -1,0 +1,93 @@
+{
+    "ID": 523,
+    "Name": "Zebstrika",
+    "InternalName": "ZEBSTRIKA",
+    "Type1": "ELECTRIC",
+    "BaseStats": [75, 100, 63, 116, 80, 63],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "174",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["LIGHTNINGROD","MOTORDRIVE"],
+    "HiddenAbility": "SAPSIPPER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "CHARGE"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 4,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 8,
+        "move": "CHARGE"
+    },
+    {
+        "level": 11,
+        "move": "SHOCKWAVE"
+    },
+    {
+        "level": 15,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 18,
+        "move": "FLAMECHARGE"
+    },
+    {
+        "level": 22,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 25,
+        "move": "SPARK"
+    },
+    {
+        "level": 31,
+        "move": "STOMP"
+    },
+    {
+        "level": 36,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 42,
+        "move": "AGILITY"
+    },
+    {
+        "level": 47,
+        "move": "WILDCHARGE"
+    },
+    {
+        "level": 53,
+        "move": "THRASH"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.6",
+    "Weight": "79.5",
+    "Color": "Black",
+    "Shape": "8",
+    "Kind": "Thunderbolt",
+    "Pokedex": "This ill-tempered Pokémon is dangerous because when it's angry, it shoots lightning from its mane in all directions.",
+    "WildItemCommon": "CHERIBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

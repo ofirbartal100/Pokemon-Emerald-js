@@ -1,0 +1,98 @@
+{
+    "ID": 175,
+    "Name": "Togepi",
+    "InternalName": "TOGEPI",
+    "Type1": "NORMAL",
+    "BaseStats": [35, 20, 65, 20, 40, 65],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Fast",
+    "BaseEXP": "49",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["HUSTLE","SERENEGRACE"],
+    "HiddenAbility": "SUPERLUCK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "CHARM"
+    },
+    {
+        "level": 5,
+        "move": "METRONOME"
+    },
+    {
+        "level": 9,
+        "move": "SWEETKISS"
+    },
+    {
+        "level": 13,
+        "move": "YAWN"
+    },
+    {
+        "level": 17,
+        "move": "ENCORE"
+    },
+    {
+        "level": 21,
+        "move": "FOLLOWME"
+    },
+    {
+        "level": 25,
+        "move": "BESTOW"
+    },
+    {
+        "level": 29,
+        "move": "WISH"
+    },
+    {
+        "level": 33,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 37,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 41,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 45,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 49,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 53,
+        "move": "AFTERYOU"
+    }],
+    "EggMoves": ["EXTRASENSORY", "FORESIGHT", "FUTURESIGHT", "LUCKYCHANT", "MIRRORMOVE", "MORNINGSUN", "NASTYPLOT", "PECK", "PRESENT", "PSYCHOSHIFT", "SECRETPOWER", "STOREDPOWER"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "2805",
+    "Height": "0.3",
+    "Weight": "1.5",
+    "Color": "White",
+    "Shape": "12",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 46],
+    "Kind": "Spike Ball",
+    "Pokedex": "As its energy, it uses the feelings of compassion and pleasure exuded by people and Pokémon. It stores up happy feelings in its shell, then shares them out.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "TOGETIC",
+        "by":
+        {
+            "Happiness": "Happiness"
+        }
+    }]
+}

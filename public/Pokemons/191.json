@@ -1,0 +1,103 @@
+{
+    "ID": 191,
+    "Name": "Sunkern",
+    "InternalName": "SUNKERN",
+    "Type1": "GRASS",
+    "BaseStats": [30, 30, 30, 30, 30, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "36",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "235",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","SOLARPOWER"],
+    "HiddenAbility": "EARLYBIRD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 1,
+        "move": "GROWTH"
+    },
+    {
+        "level": 4,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 7,
+        "move": "GRASSWHISTLE"
+    },
+    {
+        "level": 10,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 13,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 16,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 19,
+        "move": "WORRYSEED"
+    },
+    {
+        "level": 22,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 25,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 28,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 31,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 34,
+        "move": "SOLARBEAM"
+    },
+    {
+        "level": 37,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 40,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 43,
+        "move": "SEEDBOMB"
+    }],
+    "EggMoves": ["BIDE", "CURSE", "ENCORE", "ENDURE", "GRASSWHISTLE", "HELPINGHAND", "INGRAIN", "LEECHSEED", "MORNINGSUN", "NATURALGIFT", "NATUREPOWER", "SWEETSCENT"],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "1.8",
+    "Color": "Yellow",
+    "Shape": "1",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 103],
+    "Kind": "Seed",
+    "Pokedex": "Sunkern try to minimize movement to conserve the nutrients they have stored in their bodies for evolution. They will not eat, subsisting only on morning dew.",
+    "WildItemUncommon": "COBABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SUNFLORA",
+        "by":
+        {
+            "Item": "SUNSTONE"
+        }
+    }]
+}

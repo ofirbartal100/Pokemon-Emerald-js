@@ -1,0 +1,89 @@
+{
+    "ID": 30,
+    "Name": "Nidorina",
+    "InternalName": "NIDORINA",
+    "Type1": "POISON",
+    "BaseStats": [70, 62, 67, 56, 55, 55],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "128",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["POISONPOINT","RIVALRY"],
+    "HiddenAbility": "HUSTLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 7,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 9,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 13,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 20,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 23,
+        "move": "BITE"
+    },
+    {
+        "level": 28,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 35,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 38,
+        "move": "FLATTER"
+    },
+    {
+        "level": 43,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 50,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 58,
+        "move": "POISONFANG"
+    }],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "20.0",
+    "Color": "Blue",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [30, 96],
+    "Kind": "Poison Pin",
+    "Pokedex": "When it is with its friends or family, its barbs are tucked away to prevent injury. It appears to become nervous if separated from the others.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "NIDOQUEEN",
+        "by":
+        {
+            "Item": "MOONSTONE"
+        }
+    }]
+}

@@ -1,0 +1,108 @@
+{
+    "ID": 579,
+    "Name": "Reuniclus",
+    "InternalName": "REUNICLUS",
+    "Type1": "PSYCHIC",
+    "BaseStats": [110, 65, 75, 30, 125, 85],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "221",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "50",
+    "Happiness": "70",
+    "Abilities": ["OVERCOAT","MAGICGUARD"],
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 1,
+        "move": "REFLECT"
+    },
+    {
+        "level": 1,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 1,
+        "move": "SNATCH"
+    },
+    {
+        "level": 3,
+        "move": "REFLECT"
+    },
+    {
+        "level": 7,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 10,
+        "move": "SNATCH"
+    },
+    {
+        "level": 14,
+        "move": "HIDDENPOWER"
+    },
+    {
+        "level": 16,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 19,
+        "move": "CHARM"
+    },
+    {
+        "level": 24,
+        "move": "RECOVER"
+    },
+    {
+        "level": 25,
+        "move": "PSYSHOCK"
+    },
+    {
+        "level": 28,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 31,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 34,
+        "move": "PAINSPLIT"
+    },
+    {
+        "level": 39,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 41,
+        "move": "DIZZYPUNCH"
+    },
+    {
+        "level": 45,
+        "move": "SKILLSWAP"
+    },
+    {
+        "level": 54,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 59,
+        "move": "WONDERROOM"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "20.1",
+    "Color": "Green",
+    "Shape": "4",
+    "Kind": "Multiplying",
+    "Pokedex": "These remarkably intelligent Pokémon fight by controlling arms that can grip with rock-crushing power.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "14",
+    "Evolutions": []
+}

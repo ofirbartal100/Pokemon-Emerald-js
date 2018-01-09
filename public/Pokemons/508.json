@@ -1,0 +1,100 @@
+{
+    "ID": 508,
+    "Name": "Stoutland",
+    "InternalName": "STOUTLAND",
+    "Type1": "NORMAL",
+    "BaseStats": [85, 100, 90, 80, 45, 90],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "221",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","SANDRUSH"],
+    "HiddenAbility": "SCRAPPY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 5,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 8,
+        "move": "BITE"
+    },
+    {
+        "level": 12,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 15,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 20,
+        "move": "WORKUP"
+    },
+    {
+        "level": 24,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 29,
+        "move": "ROAR"
+    },
+    {
+        "level": 36,
+        "move": "RETALIATE"
+    },
+    {
+        "level": 42,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 51,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 59,
+        "move": "GIGAIMPACT"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "1.2",
+    "Weight": "61.0",
+    "Color": "Gray",
+    "Shape": "8",
+    "Kind": "Big-Hearted",
+    "Pokedex": "This extremely wise Pokémon excels at rescuing people stranded at sea or in the mountains.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

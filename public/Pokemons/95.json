@@ -1,0 +1,123 @@
+{
+    "ID": 95,
+    "Name": "Onix",
+    "InternalName": "ONIX",
+    "Type1": "ROCK",
+    "Type2": "GROUND",
+    "BaseStats": [35, 45, 160, 70, 30, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "77",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["ROCKHEAD","STURDY"],
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "BIND"
+    },
+    {
+        "level": 4,
+        "move": "CURSE"
+    },
+    {
+        "level": 7,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 10,
+        "move": "RAGE"
+    },
+    {
+        "level": 13,
+        "move": "ROCKTOMB"
+    },
+    {
+        "level": 16,
+        "move": "STEALTHROCK"
+    },
+    {
+        "level": 19,
+        "move": "ROCKPOLISH"
+    },
+    {
+        "level": 22,
+        "move": "SMACKDOWN"
+    },
+    {
+        "level": 25,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 28,
+        "move": "SLAM"
+    },
+    {
+        "level": 31,
+        "move": "SCREECH"
+    },
+    {
+        "level": 34,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 37,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 40,
+        "move": "IRONTAIL"
+    },
+    {
+        "level": 43,
+        "move": "DIG"
+    },
+    {
+        "level": 46,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 49,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 52,
+        "move": "SANDSTORM"
+    }],
+    "EggMoves": ["BLOCK", "DEFENSECURL", "FLAIL", "HEAVYSLAM", "ROCKBLAST", "ROCKCLIMB", "ROLLOUT", "STEALTHROCK"],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "6630",
+    "Height": "8.8",
+    "Weight": "210.0",
+    "Color": "Gray",
+    "Shape": "2",
+    "Habitat": "Cave",
+    "RegionalNumbers": [95, 62],
+    "Kind": "Rock Snake",
+    "Pokedex": "There is a magnet in its brain that prevents an Onix from losing direction while tunneling. As it grows older, its body becomes steadily rounder and smoother.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "6",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "STEELIX",
+        "by":
+        {
+            "TradeItem": "METALCOAT"
+        }
+    }]
+}

@@ -1,0 +1,98 @@
+{
+    "ID": 155,
+    "Name": "Cyndaquil",
+    "InternalName": "CYNDAQUIL",
+    "Type1": "FIRE",
+    "BaseStats": [39, 52, 43, 65, 60, 50],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "62",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "FLASHFIRE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 6,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 10,
+        "move": "EMBER"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 19,
+        "move": "FLAMEWHEEL"
+    },
+    {
+        "level": 22,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 28,
+        "move": "FLAMECHARGE"
+    },
+    {
+        "level": 31,
+        "move": "SWIFT"
+    },
+    {
+        "level": 37,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 40,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 46,
+        "move": "INFERNO"
+    },
+    {
+        "level": 49,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 55,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 58,
+        "move": "ERUPTION"
+    }],
+    "EggMoves": ["COVET", "CRUSHCLAW", "DOUBLEEDGE", "DOUBLEKICK", "EXTRASENSORY", "FLAMEBURST", "FLAREBLITZ", "FORESIGHT", "FURYSWIPES", "HOWL", "NATUREPOWER", "QUICKATTACK", "REVERSAL", "THRASH"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "7.9",
+    "Color": "Yellow",
+    "Shape": "12",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 4],
+    "Kind": "Fire Mouse",
+    "Pokedex": "It flares flames from its back to protect itself. The fire burns vigorously if the Pokémon is angry. When it is tired, it sputters with incomplete combustion.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "QUILAVA",
+        "by":
+        {
+            "Level": 14
+        }
+    }]
+}

@@ -1,0 +1,65 @@
+{
+    "ID": 360,
+    "Name": "Wynaut",
+    "InternalName": "WYNAUT",
+    "Type1": "PSYCHIC",
+    "BaseStats": [95, 23, 48, 23, 23, 48],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "52",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "125",
+    "Happiness": "70",
+    "Abilities": "SHADOWTAG",
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SPLASH"
+    },
+    {
+        "level": 1,
+        "move": "CHARM"
+    },
+    {
+        "level": 1,
+        "move": "ENCORE"
+    },
+    {
+        "level": 15,
+        "move": "COUNTER"
+    },
+    {
+        "level": 15,
+        "move": "MIRRORCOAT"
+    },
+    {
+        "level": 15,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 15,
+        "move": "DESTINYBOND"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "14.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "Cave",
+    "Kind": "Bright",
+    "Pokedex": "A Wynaut loves to eat sweet fruits. It cleverly picks fruits using its earlike arms. They gather in fruit gardens, drawn by the fragrance.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "WOBBUFFET",
+        "by":
+        {
+            "Level": 15
+        }
+    }],
+    "Incense": "LAXINCENSE"
+}

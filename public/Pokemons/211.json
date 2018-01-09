@@ -1,0 +1,105 @@
+{
+    "ID": 211,
+    "Name": "Qwilfish",
+    "InternalName": "QWILFISH",
+    "Type1": "WATER",
+    "Type2": "POISON",
+    "BaseStats": [65, 95, 75, 85, 55, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "86",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["POISONPOINT","SWIFTSWIM"],
+    "HiddenAbility": "INTIMIDATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SPIKES"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 9,
+        "move": "HARDEN"
+    },
+    {
+        "level": 9,
+        "move": "MINIMIZE"
+    },
+    {
+        "level": 13,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 17,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 21,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 25,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 25,
+        "move": "SPITUP"
+    },
+    {
+        "level": 29,
+        "move": "REVENGE"
+    },
+    {
+        "level": 33,
+        "move": "BRINE"
+    },
+    {
+        "level": 37,
+        "move": "PINMISSILE"
+    },
+    {
+        "level": 41,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 45,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 49,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 53,
+        "move": "DESTINYBOND"
+    },
+    {
+        "level": 57,
+        "move": "HYDROPUMP"
+    }],
+    "EggMoves": ["ACIDSPRAY", "AQUAJET", "ASTONISH", "BRINE", "BUBBLEBEAM", "FLAIL", "HAZE", "SIGNALBEAM", "SUPERSONIC", "WATERPULSE"],
+    "Compatibility": ["Water2"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "3.9",
+    "Color": "Gray",
+    "Shape": "3",
+    "Habitat": "Sea",
+    "RegionalNumbers": [0, 163],
+    "Kind": "Balloon",
+    "Pokedex": "A Qwilfish uses the pressure of water it swallows to shoot toxic quills all at once from all over its body. It finds swimming to be somewhat challenging.",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "11",
+    "Evolutions": []
+}

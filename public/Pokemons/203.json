@@ -1,0 +1,97 @@
+{
+    "ID": 203,
+    "Name": "Girafarig",
+    "InternalName": "GIRAFARIG",
+    "Type1": "NORMAL",
+    "Type2": "PSYCHIC",
+    "BaseStats": [70, 80, 65, 85, 90, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "159",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["INNERFOCUS","EARLYBIRD"],
+    "HiddenAbility": "SAPSIPPER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POWERSWAP"
+    },
+    {
+        "level": 1,
+        "move": "GUARDSWAP"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 5,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 10,
+        "move": "STOMP"
+    },
+    {
+        "level": 14,
+        "move": "AGILITY"
+    },
+    {
+        "level": 19,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 23,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 28,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 32,
+        "move": "DOUBLEHIT"
+    },
+    {
+        "level": 37,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 41,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 46,
+        "move": "CRUNCH"
+    }],
+    "EggMoves": ["AMNESIA", "BEATUP", "DOUBLEKICK", "FORESIGHT", "FUTURESIGHT", "MAGICCOAT", "MEANLOOK", "MIRRORCOAT", "RAZORWIND", "SECRETPOWER", "SKILLSWAP", "TAKEDOWN", "WISH"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "41.5",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 149],
+    "Kind": "Long Neck",
+    "Pokedex": "A Girafarig is an herbivore--it eats grass and tree shoots. While it is eating, its tail makes chewing and swallowing motions as if it were also eating.",
+    "WildItemUncommon": "PERSIMBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

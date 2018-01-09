@@ -1,0 +1,123 @@
+{
+    "ID": 133,
+    "Name": "Eevee",
+    "InternalName": "EEVEE",
+    "Type1": "NORMAL",
+    "BaseStats": [55, 55, 50, 55, 45, 65],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "65",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["RUNAWAY","ADAPTABILITY"],
+    "HiddenAbility": "ANTICIPATION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 5,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "GROWL"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 17,
+        "move": "BITE"
+    },
+    {
+        "level": 21,
+        "move": "COVET"
+    },
+    {
+        "level": 25,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 29,
+        "move": "CHARM"
+    },
+    {
+        "level": 33,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 37,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 41,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 45,
+        "move": "TRUMPCARD"
+    }],
+    "EggMoves": ["CHARM", "COVET", "CURSE", "DETECT", "ENDURE", "FAKETEARS", "FLAIL", "NATURALGIFT", "STOREDPOWER", "SYNCHRONOISE", "TICKLE", "WISH", "YAWN"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "9180",
+    "Height": "0.3",
+    "Weight": "6.5",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Urban",
+    "RegionalNumbers": [133, 184],
+    "Kind": "Evolution",
+    "Pokedex": "An Eevee has an unstable genetic makeup that suddenly mutates due to its environment. Radiation from various stones causes this Pokémon to evolve.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "VAPOREON",
+        "by":
+        {
+            "Item": "WATERSTONE"
+        }
+    },
+    {
+        "to": "JOLTEON",
+        "by":
+        {
+            "Item": "THUNDERSTONE"
+        }
+    },
+    {
+        "to": "FLAREON",
+        "by":
+        {
+            "Item": "FIRESTONE"
+        }
+    }, "LEAFEON", "Location",
+    {
+        "level": 28,
+        "move": "GLACEON"
+    }, "Location",
+    {
+        "level": 34,
+        "move": "ESPEON"
+    }, "HappinessDay", ,
+    {
+        "to": "UMBREON",
+        "by":
+        {
+            "HappinessNight": "HappinessNight"
+        }
+    }]
+}

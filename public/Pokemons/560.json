@@ -1,0 +1,102 @@
+{
+    "ID": 560,
+    "Name": "Scrafty",
+    "InternalName": "SCRAFTY",
+    "Type1": "DARK",
+    "Type2": "FIGHTING",
+    "BaseStats": [65, 90, 115, 58, 45, 115],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "171",
+    "EffortPoints": [0, 0, 1, 0, 0, 1],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["SHEDSKIN","MOXIE"],
+    "HiddenAbility": "INTIMIDATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 5,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 12,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 16,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 20,
+        "move": "BRICKBREAK"
+    },
+    {
+        "level": 23,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 27,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 31,
+        "move": "HIGHJUMPKICK"
+    },
+    {
+        "level": 34,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 38,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 45,
+        "move": "FACADE"
+    },
+    {
+        "level": 51,
+        "move": "ROCKCLIMB"
+    },
+    {
+        "level": 58,
+        "move": "FOCUSPUNCH"
+    },
+    {
+        "level": 65,
+        "move": "HEADSMASH"
+    }],
+    "Compatibility": ["Field", "Dragon"],
+    "StepsToHatch": "4080",
+    "Height": "1.1",
+    "Weight": "30.0",
+    "Color": "Red",
+    "Shape": "6",
+    "Kind": "Hoodlum",
+    "Pokedex": "It can smash concrete blocks with its kicking attacks. The one with the biggest crest is the group leader.",
+    "WildItemUncommon": "SHEDSHELL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

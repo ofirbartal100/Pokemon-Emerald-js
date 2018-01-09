@@ -1,0 +1,84 @@
+{
+    "ID": 470,
+    "Name": "Leafeon",
+    "InternalName": "LEAFEON",
+    "Type1": "GRASS",
+    "BaseStats": [65, 110, 130, 95, 60, 65],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "184",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "LEAFGUARD",
+    "HiddenAbility": "CHLOROPHYLL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 5,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 17,
+        "move": "GRASSWHISTLE"
+    },
+    {
+        "level": 21,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 25,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 29,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 33,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 37,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 41,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 45,
+        "move": "LEAFBLADE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "9180",
+    "Height": "1.0",
+    "Weight": "25.5",
+    "Color": "Green",
+    "Shape": "8",
+    "Kind": "Verdant",
+    "Pokedex": "Just like a plant, it uses photosynthesis. As a result, it is always enveloped in clear air.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

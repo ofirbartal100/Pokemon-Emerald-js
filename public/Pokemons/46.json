@@ -1,0 +1,90 @@
+{
+    "ID": 46,
+    "Name": "Paras",
+    "InternalName": "PARAS",
+    "Type1": "BUG",
+    "Type2": "GRASS",
+    "BaseStats": [35, 70, 55, 25, 45, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "57",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["EFFECTSPORE","DRYSKIN"],
+    "HiddenAbility": "DAMP",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 6,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 6,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 11,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 17,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 22,
+        "move": "SPORE"
+    },
+    {
+        "level": 27,
+        "move": "SLASH"
+    },
+    {
+        "level": 33,
+        "move": "GROWTH"
+    },
+    {
+        "level": 38,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 43,
+        "move": "AROMATHERAPY"
+    },
+    {
+        "level": 49,
+        "move": "RAGEPOWDER"
+    },
+    {
+        "level": 54,
+        "move": "XSCISSOR"
+    }],
+    "EggMoves": ["AGILITY", "BUGBITE", "COUNTER", "CROSSPOISON", "ENDURE", "FLAIL", "LEECHSEED", "METALCLAW", "NATURALGIFT", "PSYBEAM", "PURSUIT", "SCREECH", "SWEETSCENT"],
+    "Compatibility": ["Bug", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "5.4",
+    "Color": "Red",
+    "Shape": "14",
+    "Habitat": "Forest",
+    "RegionalNumbers": [46, 70],
+    "Kind": "Mushroom",
+    "Pokedex": "A Paras has parasitic tochukaso mushrooms growing on its back. They grow by drawing nutrients from the host. They are valued as a medicine for long life.",
+    "WildItemCommon": "TINYMUSHROOM",
+    "WildItemUncommon": "BIGMUSHROOM",
+    "WildItemRare": "BALMMUSHROOM",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "33",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "PARASECT",
+        "by":
+        {
+            "Level": 24
+        }
+    }]
+}

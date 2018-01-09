@@ -1,0 +1,49 @@
+{
+    "ID": 10,
+    "Name": "Caterpie",
+    "InternalName": "CATERPIE",
+    "Type1": "BUG",
+    "BaseStats": [45, 30, 35, 45, 20, 20],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "39",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "SHIELDDUST",
+    "HiddenAbility": "RUNAWAY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "STRINGSHOT"
+    },
+    {
+        "level": 15,
+        "move": "BUGBITE"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.3",
+    "Weight": "2.9",
+    "Color": "Green",
+    "Shape": "14",
+    "Habitat": "Forest",
+    "RegionalNumbers": [10, 24],
+    "Kind": "Worm",
+    "Pokedex": "Its voracious appetite compels it to devour leaves bigger than itself without hesitation. It releases a terribly strong odor from its antennae.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "METAPOD",
+        "by":
+        {
+            "Level": 7
+        }
+    }]
+}

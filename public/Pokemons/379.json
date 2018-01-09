@@ -1,0 +1,89 @@
+{
+    "ID": 379,
+    "Name": "Registeel",
+    "InternalName": "REGISTEEL",
+    "Type1": "STEEL",
+    "BaseStats": [80, 75, 150, 50, 75, 150],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": [0, 0, 2, 0, 0, 1],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "CLEARBODY",
+    "HiddenAbility": "LIGHTMETAL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "EXPLOSION"
+    },
+    {
+        "level": 1,
+        "move": "STOMP"
+    },
+    {
+        "level": 9,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 17,
+        "move": "CURSE"
+    },
+    {
+        "level": 25,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 33,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 41,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 41,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 49,
+        "move": "CHARGEBEAM"
+    },
+    {
+        "level": 57,
+        "move": "LOCKON"
+    },
+    {
+        "level": 65,
+        "move": "ZAPCANNON"
+    },
+    {
+        "level": 73,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 73,
+        "move": "FLASHCANNON"
+    },
+    {
+        "level": 81,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 89,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "1.9",
+    "Weight": "205.0",
+    "Color": "Gray",
+    "Shape": "12",
+    "Habitat": "Cave",
+    "Kind": "Iron",
+    "Pokedex": "Its body is harder than any other kind of metal. The body metal is composed of a mysterious substance. Not only is it hard, it shrinks and stretches flexibly.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

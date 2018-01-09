@@ -1,0 +1,46 @@
+{
+    "ID": 512,
+    "Name": "Simisage",
+    "InternalName": "SIMISAGE",
+    "Type1": "GRASS",
+    "BaseStats": [75, 98, 63, 101, 98, 63],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "174",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "GLUTTONY",
+    "HiddenAbility": "OVERGROW",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "LICK"
+    },
+    {
+        "level": 1,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 1,
+        "move": "SEEDBOMB"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "30.5",
+    "Color": "Green",
+    "Shape": "6",
+    "Kind": "Thorn Monkey",
+    "Pokedex": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
+    "WildItemCommon": "ORANBERRY",
+    "WildItemUncommon": "OCCABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

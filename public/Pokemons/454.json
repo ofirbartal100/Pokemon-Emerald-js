@@ -1,0 +1,98 @@
+{
+    "ID": 454,
+    "Name": "Toxicroak",
+    "InternalName": "TOXICROAK",
+    "Type1": "POISON",
+    "Type2": "FIGHTING",
+    "BaseStats": [83, 106, 65, 85, 86, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "172",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["ANTICIPATION","DRYSKIN"],
+    "HiddenAbility": "POISONTOUCH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 3,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 8,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 10,
+        "move": "TAUNT"
+    },
+    {
+        "level": 15,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 17,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 22,
+        "move": "REVENGE"
+    },
+    {
+        "level": 24,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 29,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 31,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 36,
+        "move": "VENOSHOCK"
+    },
+    {
+        "level": 41,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 49,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 54,
+        "move": "SLUDGEBOMB"
+    },
+    {
+        "level": 62,
+        "move": "FLATTER"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "44.4",
+    "Color": "Blue",
+    "Shape": "12",
+    "Kind": "Toxic Mouth",
+    "Pokedex": "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
+    "WildItemUncommon": "BLACKSLUDGE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

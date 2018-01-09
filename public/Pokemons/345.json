@@ -1,0 +1,91 @@
+{
+    "ID": 345,
+    "Name": "Lileep",
+    "InternalName": "LILEEP",
+    "Type1": "ROCK",
+    "Type2": "GRASS",
+    "BaseStats": [66, 41, 77, 23, 61, 87],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "71",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "SUCTIONCUPS",
+    "HiddenAbility": "STORMDRAIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 8,
+        "move": "ACID"
+    },
+    {
+        "level": 15,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 22,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 29,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 36,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 43,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 50,
+        "move": "ENERGYBALL"
+    },
+    {
+        "level": 57,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 57,
+        "move": "SPITUP"
+    },
+    {
+        "level": 57,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 64,
+        "move": "WRINGOUT"
+    }],
+    "EggMoves": ["BARRIER", "CURSE", "ENDURE", "MEGADRAIN", "MIRRORCOAT", "RECOVER", "STEALTHROCK", "TICKLE", "WRINGOUT"],
+    "Compatibility": ["Water3"],
+    "StepsToHatch": "7905",
+    "Height": "1.0",
+    "Weight": "23.8",
+    "Color": "Purple",
+    "Shape": "5",
+    "Habitat": "Sea",
+    "Kind": "Sea Lily",
+    "Pokedex": "It disguises itself as seaweed by making its tentacles sway. Unsuspecting prey that come too close are swallowed whole. It became extinct 100 million years ago.",
+    "WildItemUncommon": "BIGROOT",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CRADILY",
+        "by":
+        {
+            "Level": 40
+        }
+    }]
+}

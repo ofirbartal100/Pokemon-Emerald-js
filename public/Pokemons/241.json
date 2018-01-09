@@ -1,0 +1,86 @@
+{
+    "ID": 241,
+    "Name": "Miltank",
+    "InternalName": "MILTANK",
+    "Type1": "NORMAL",
+    "BaseStats": [95, 80, 105, 100, 40, 70],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "172",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["THICKFAT","SCRAPPY"],
+    "HiddenAbility": "SAPSIPPER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 3,
+        "move": "GROWL"
+    },
+    {
+        "level": 5,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 8,
+        "move": "STOMP"
+    },
+    {
+        "level": 11,
+        "move": "MILKDRINK"
+    },
+    {
+        "level": 15,
+        "move": "BIDE"
+    },
+    {
+        "level": 19,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 24,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 29,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 35,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 41,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 48,
+        "move": "HEALBELL"
+    },
+    {
+        "level": 55,
+        "move": "WAKEUPSLAP"
+    }],
+    "EggMoves": ["CURSE", "DIZZYPUNCH", "DOUBLEEDGE", "ENDURE", "HAMMERARM", "HEARTSTAMP", "HELPINGHAND", "NATURALGIFT", "PRESENT", "PUNISHMENT", "REVERSAL", "SEISMICTOSS", "SLEEPTALK"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "75.5",
+    "Color": "Pink",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 151],
+    "Kind": "Milk Cow",
+    "Pokedex": "It gives over five gallons of milk daily. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead.",
+    "WildItemCommon": "MOOMOOMILK",
+    "WildItemUncommon": "MOOMOOMILK",
+    "WildItemRare": "MOOMOOMILK",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

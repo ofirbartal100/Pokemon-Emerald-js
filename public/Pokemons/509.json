@@ -1,0 +1,100 @@
+{
+    "ID": 509,
+    "Name": "Purrloin",
+    "InternalName": "PURRLOIN",
+    "Type1": "DARK",
+    "BaseStats": [41, 50, 37, 66, 50, 37],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "56",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["LIMBER","UNBURDEN"],
+    "HiddenAbility": "PRANKSTER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 3,
+        "move": "GROWL"
+    },
+    {
+        "level": 6,
+        "move": "ASSIST"
+    },
+    {
+        "level": 10,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 12,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 15,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 19,
+        "move": "TORMENT"
+    },
+    {
+        "level": 21,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 24,
+        "move": "HONECLAWS"
+    },
+    {
+        "level": 28,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 30,
+        "move": "SLASH"
+    },
+    {
+        "level": 33,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 37,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 39,
+        "move": "SNATCH"
+    },
+    {
+        "level": 42,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 46,
+        "move": "SUCKERPUNCH"
+    }],
+    "EggMoves": ["CHARM", "COVET", "ENCORE", "FEINTATTACK", "FAKETEARS", "FOULPLAY", "PAYDAY", "YAWN"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "10.1",
+    "Color": "Purple",
+    "Shape": "8",
+    "Kind": "Devious",
+    "Pokedex": "Its cute act is a ruse. When victims let down their guard, they find their items taken. It attacks with sharp claws.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "LIEPARD",
+        "by":
+        {
+            "Level": 20
+        }
+    }]
+}

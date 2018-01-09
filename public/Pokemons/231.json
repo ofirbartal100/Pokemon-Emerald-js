@@ -1,0 +1,91 @@
+{
+    "ID": 231,
+    "Name": "Phanpy",
+    "InternalName": "PHANPY",
+    "Type1": "GROUND",
+    "BaseStats": [90, 60, 60, 40, 40, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "66",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "PICKUP",
+    "HiddenAbility": "SANDVEIL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 6,
+        "move": "FLAIL"
+    },
+    {
+        "level": 10,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 15,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 19,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 24,
+        "move": "SLAM"
+    },
+    {
+        "level": 28,
+        "move": "ENDURE"
+    },
+    {
+        "level": 33,
+        "move": "CHARM"
+    },
+    {
+        "level": 37,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 42,
+        "move": "DOUBLEEDGE"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "BODYSLAM", "COUNTER", "ENDEAVOR", "FISSURE", "FOCUSENERGY", "HEADSMASH", "HEAVYSLAM", "ICESHARD", "MUDSLAP", "SNORE"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "33.5",
+    "Color": "Blue",
+    "Shape": "8",
+    "Habitat": "RoughTerrain",
+    "RegionalNumbers": [0, 200],
+    "Kind": "Long Nose",
+    "Pokedex": "Phanpy's big ears serve as broad fans. When it becomes hot, it flaps the ears busily to cool down. Even the young are very strong.",
+    "WildItemUncommon": "PASSHOBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "DONPHAN",
+        "by":
+        {
+            "Level": 25
+        }
+    }]
+}

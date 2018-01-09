@@ -1,0 +1,86 @@
+{
+    "ID": 245,
+    "Name": "Suicune",
+    "InternalName": "SUICUNE",
+    "Type1": "WATER",
+    "BaseStats": [100, 75, 115, 85, 90, 115],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": [0, 0, 1, 0, 0, 2],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "WATERABSORB",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 8,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 15,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 22,
+        "move": "GUST"
+    },
+    {
+        "level": 29,
+        "move": "AURORABEAM"
+    },
+    {
+        "level": 36,
+        "move": "MIST"
+    },
+    {
+        "level": 43,
+        "move": "MIRRORCOAT"
+    },
+    {
+        "level": 50,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 57,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 64,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 71,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 78,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 85,
+        "move": "BLIZZARD"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "2.0",
+    "Weight": "187.0",
+    "Color": "Blue",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 245],
+    "Kind": "Aurora",
+    "Pokedex": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gliding elegance. It has the power to purify dirty water.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

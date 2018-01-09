@@ -1,0 +1,85 @@
+{
+    "ID": 258,
+    "Name": "Mudkip",
+    "InternalName": "MUDKIP",
+    "Type1": "WATER",
+    "BaseStats": [50, 70, 50, 40, 50, 50],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "62",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "DAMP",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 6,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 10,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 15,
+        "move": "BIDE"
+    },
+    {
+        "level": 19,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 24,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 28,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 33,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 37,
+        "move": "PROTECT"
+    },
+    {
+        "level": 42,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 46,
+        "move": "ENDEAVOR"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "AVALANCHE", "BITE", "COUNTER", "CURSE", "DOUBLEEDGE", "ICEBALL", "MIRRORCOAT", "MUDBOMB", "REFRESH", "SLUDGE", "STOMP", "UPROAR", "WHIRLPOOL", "WIDEGUARD", "YAWN"],
+    "Compatibility": ["Monster", "Water1"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "7.6",
+    "Color": "Blue",
+    "Shape": "8",
+    "Habitat": "WatersEdge",
+    "Kind": "Mud Fish",
+    "Pokedex": "On land, it can powerfully lift large boulders by planting its four feet and heaving. It sleeps by burying itself in soil at the water's edge.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MARSHTOMP",
+        "by":
+        {
+            "Level": 16
+        }
+    }]
+}

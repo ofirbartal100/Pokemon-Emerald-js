@@ -1,0 +1,99 @@
+{
+    "ID": 167,
+    "Name": "Spinarak",
+    "InternalName": "SPINARAK",
+    "Type1": "BUG",
+    "Type2": "POISON",
+    "BaseStats": [40, 60, 40, 30, 40, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "50",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["SWARM","INSOMNIA"],
+    "HiddenAbility": "SNIPER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 1,
+        "move": "STRINGSHOT"
+    },
+    {
+        "level": 5,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 8,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 12,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 15,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 19,
+        "move": "SHADOWSNEAK"
+    },
+    {
+        "level": 22,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 26,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 29,
+        "move": "SPIDERWEB"
+    },
+    {
+        "level": 33,
+        "move": "AGILITY"
+    },
+    {
+        "level": 36,
+        "move": "PINMISSILE"
+    },
+    {
+        "level": 40,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 43,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 47,
+        "move": "CROSSPOISON"
+    }],
+    "EggMoves": ["BATONPASS", "DISABLE", "ELECTROWEB", "NIGHTSLASH", "PSYBEAM", "PURSUIT", "RAGEPOWDER", "SIGNALBEAM", "SONICBOOM", "TOXICSPIKES", "TWINEEDLE"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.5",
+    "Weight": "8.5",
+    "Color": "Green",
+    "Shape": "14",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 32],
+    "Kind": "String Spit",
+    "Pokedex": "The web it spins can be considered its second nervous system. It is said that a Spinarak determines its prey by the tiny vibrations it feels through the web.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "32",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ARIADOS",
+        "by":
+        {
+            "Level": 22
+        }
+    }]
+}

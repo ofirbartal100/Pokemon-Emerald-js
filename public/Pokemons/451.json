@@ -1,0 +1,102 @@
+{
+    "ID": 451,
+    "Name": "Skorupi",
+    "InternalName": "SKORUPI",
+    "Type1": "POISON",
+    "Type2": "BUG",
+    "BaseStats": [40, 50, 90, 65, 30, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["BATTLEARMOR","SNIPER"],
+    "HiddenAbility": "KEENEYE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 9,
+        "move": "PINMISSILE"
+    },
+    {
+        "level": 13,
+        "move": "ACUPRESSURE"
+    },
+    {
+        "level": 16,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 20,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 23,
+        "move": "POISONFANG"
+    },
+    {
+        "level": 27,
+        "move": "VENOSHOCK"
+    },
+    {
+        "level": 30,
+        "move": "HONECLAWS"
+    },
+    {
+        "level": 34,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 38,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 41,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 45,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 49,
+        "move": "CROSSPOISON"
+    }],
+    "EggMoves": ["AGILITY", "CONFUSERAY", "FEINTATTACK", "IRONTAIL", "NIGHTSLASH", "POISONTAIL", "PURSUIT", "SANDATTACK", "SCREECH", "SLASH", "TWINEEDLE", "WHIRLWIND"],
+    "Compatibility": ["Bug", "Water3"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "12.0",
+    "Color": "Purple",
+    "Shape": "14",
+    "Kind": "Scorpion",
+    "Pokedex": "It grips prey with its tail claws and injects poison. It tenaciously hangs on until the poison takes.",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "DRAPION",
+        "by":
+        {
+            "Level": 40
+        }
+    }]
+}

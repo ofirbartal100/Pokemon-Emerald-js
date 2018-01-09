@@ -1,0 +1,94 @@
+{
+    "ID": 110,
+    "Name": "Weezing",
+    "InternalName": "WEEZING",
+    "Type1": "POISON",
+    "BaseStats": [65, 90, 120, 60, 85, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "172",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "SMOG"
+    },
+    {
+        "level": 1,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 4,
+        "move": "SMOG"
+    },
+    {
+        "level": 7,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 12,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 15,
+        "move": "CLEARSMOG"
+    },
+    {
+        "level": 18,
+        "move": "SLUDGE"
+    },
+    {
+        "level": 23,
+        "move": "SELFDESTRUCT"
+    },
+    {
+        "level": 26,
+        "move": "HAZE"
+    },
+    {
+        "level": 29,
+        "move": "DOUBLEHIT"
+    },
+    {
+        "level": 34,
+        "move": "SLUDGEBOMB"
+    },
+    {
+        "level": 40,
+        "move": "EXPLOSION"
+    },
+    {
+        "level": 46,
+        "move": "DESTINYBOND"
+    },
+    {
+        "level": 54,
+        "move": "MEMENTO"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "9.5",
+    "Color": "Purple",
+    "Shape": "11",
+    "Habitat": "Urban",
+    "RegionalNumbers": [110, 116],
+    "Kind": "Poison Gas",
+    "Pokedex": "By diluting its toxic gases with a special process, the highest grade of perfume can be extracted. To Weezing, gases emanating from garbage are the ultimate feast.",
+    "WildItemUncommon": "SMOKEBALL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "8",
+    "BattlerAltitude": "7",
+    "Evolutions": []
+}

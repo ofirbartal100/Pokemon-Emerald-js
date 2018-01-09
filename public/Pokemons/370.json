@@ -1,0 +1,87 @@
+{
+    "ID": 370,
+    "Name": "Luvdisc",
+    "InternalName": "LUVDISC",
+    "Type1": "WATER",
+    "BaseStats": [43, 30, 55, 97, 40, 65],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "116",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "225",
+    "Happiness": "70",
+    "Abilities": "SWIFTSWIM",
+    "HiddenAbility": "HYDRATION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "CHARM"
+    },
+    {
+        "level": 7,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 9,
+        "move": "AGILITY"
+    },
+    {
+        "level": 14,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 17,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 22,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 27,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 31,
+        "move": "FLAIL"
+    },
+    {
+        "level": 37,
+        "move": "SWEETKISS"
+    },
+    {
+        "level": 40,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 46,
+        "move": "AQUARING"
+    },
+    {
+        "level": 51,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 55,
+        "move": "SAFEGUARD"
+    }],
+    "EggMoves": ["AQUAJET", "AQUARING", "BRINE", "CAPTIVATE", "HEALPULSE", "MUDSPORT", "SPLASH", "SUPERSONIC", "WATERSPORT"],
+    "Compatibility": ["Water2"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "8.7",
+    "Color": "Pink",
+    "Shape": "3",
+    "Habitat": "Sea",
+    "Kind": "Rendezvous",
+    "Pokedex": "Luvdisc make the branches of Corsola their nests. There is a custom from long ago of giving a Luvdisc as a gift to express one's feelings of love.",
+    "WildItemCommon": "HEARTSCALE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "14",
+    "Evolutions": []
+}

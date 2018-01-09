@@ -1,0 +1,109 @@
+{
+    "ID": 475,
+    "Name": "Gallade",
+    "InternalName": "GALLADE",
+    "Type1": "PSYCHIC",
+    "Type2": "FIGHTING",
+    "BaseStats": [68, 125, 65, 80, 65, 115],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "233",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "STEADFAST",
+    "HiddenAbility": "JUSTIFIED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEAFBLADE"
+    },
+    {
+        "level": 1,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 1,
+        "move": "TELEPORT"
+    },
+    {
+        "level": 6,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 10,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 12,
+        "move": "TELEPORT"
+    },
+    {
+        "level": 17,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 22,
+        "move": "SLASH"
+    },
+    {
+        "level": 25,
+        "move": "HEALPULSE"
+    },
+    {
+        "level": 31,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 36,
+        "move": "PSYCHOCUT"
+    },
+    {
+        "level": 39,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 45,
+        "move": "FEINT"
+    },
+    {
+        "level": 50,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 53,
+        "move": "PROTECT"
+    },
+    {
+        "level": 59,
+        "move": "CLOSECOMBAT"
+    },
+    {
+        "level": 64,
+        "move": "STOREDPOWER"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "1.6",
+    "Weight": "52.0",
+    "Color": "White",
+    "Shape": "12",
+    "Kind": "Blade",
+    "Pokedex": "A master of courtesy and swordsmanship, it fights using extending swords on its elbows.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

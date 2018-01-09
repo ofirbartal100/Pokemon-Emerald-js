@@ -341,15 +341,35 @@
     {
         "grass": [
         {
+            "name": "??",
+            "id": 433,
+            "levels": [
+                2, 3
+            ],
+            "rate": 0.99
+        },
+        {
             "name": "Poochyena",
+            "id": 261,
+            "levels": [
+                2, 3
+            ],
             "rate": 0.45
         },
         {
             "name": "Zigzagoon",
+            "id": 263,
+            "levels": [
+                2, 3
+            ],
             "rate": 0.10
         },
         {
             "name": "Wurmple",
+            "id": 265,
+            "levels": [
+                2, 3
+            ],
             "rate": 0.45
         }]
     }

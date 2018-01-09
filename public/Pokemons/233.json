@@ -1,0 +1,97 @@
+{
+    "ID": 233,
+    "Name": "Porygon2",
+    "InternalName": "PORYGON2",
+    "Type1": "NORMAL",
+    "BaseStats": [85, 80, 90, 60, 105, 95],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "180",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["TRACE","DOWNLOAD"],
+    "HiddenAbility": "ANALYTIC",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CONVERSION"
+    }, 1, "CONVERSION2",
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 7,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 12,
+        "move": "AGILITY"
+    },
+    {
+        "level": 18,
+        "move": "RECOVER"
+    },
+    {
+        "level": 23,
+        "move": "MAGNETRISE"
+    },
+    {
+        "level": 29,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 34,
+        "move": "RECYCLE"
+    },
+    {
+        "level": 40,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 45,
+        "move": "LOCKON"
+    },
+    {
+        "level": 51,
+        "move": "TRIATTACK"
+    },
+    {
+        "level": 56,
+        "move": "MAGICCOAT"
+    },
+    {
+        "level": 62,
+        "move": "ZAPCANNON"
+    },
+    {
+        "level": 67,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "32.5",
+    "Color": "Red",
+    "Shape": "7",
+    "Habitat": "Urban",
+    "RegionalNumbers": [0, 221],
+    "Kind": "Virtual",
+    "Pokedex": "It was created by humans using the power of science. It has been given artificial intelligence that enables it to learn new gestures and emotions on its own.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "11",
+    "Evolutions": [
+    {
+        "to": "PORYGONZ",
+        "by":
+        {
+            "TradeItem": "DUBIOUSDISC"
+        }
+    }]
+}

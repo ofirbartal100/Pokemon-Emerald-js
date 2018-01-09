@@ -1,0 +1,99 @@
+{
+    "ID": 376,
+    "Name": "Metagross",
+    "InternalName": "METAGROSS",
+    "Type1": "STEEL",
+    "Type2": "PSYCHIC",
+    "BaseStats": [80, 135, 130, 70, 95, 90],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": [0, 0, 3, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "CLEARBODY",
+    "HiddenAbility": "LIGHTMETAL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MAGNETRISE"
+    },
+    {
+        "level": 1,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 1,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 20,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 20,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 23,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 26,
+        "move": "MIRACLEEYE"
+    },
+    {
+        "level": 29,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 32,
+        "move": "BULLETPUNCH"
+    },
+    {
+        "level": 35,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 38,
+        "move": "AGILITY"
+    },
+    {
+        "level": 41,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 44,
+        "move": "METEORMASH"
+    },
+    {
+        "level": 45,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 53,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 62,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "10455",
+    "Height": "1.6",
+    "Weight": "550.0",
+    "Color": "Blue",
+    "Shape": "11",
+    "Habitat": "RoughTerrain",
+    "Kind": "Iron Leg",
+    "Pokedex": "Metagross has four brains that are joined by a complex neural network. As a result of integration, this Pokémon is smarter than a supercomputer.",
+    "WildItemUncommon": "METALCOAT",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

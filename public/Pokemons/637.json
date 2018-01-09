@@ -1,0 +1,92 @@
+{
+    "ID": 637,
+    "Name": "Volcarona",
+    "InternalName": "VOLCARONA",
+    "Type1": "BUG",
+    "Type2": "FIRE",
+    "BaseStats": [85, 60, 65, 100, 135, 105],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "248",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "15",
+    "Happiness": "70",
+    "Abilities": "FLAMEBODY",
+    "HiddenAbility": "SWARM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 1,
+        "move": "STRINGSHOT"
+    },
+    {
+        "level": 1,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 10,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 20,
+        "move": "GUST"
+    },
+    {
+        "level": 30,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 40,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 50,
+        "move": "SILVERWIND"
+    },
+    {
+        "level": 59,
+        "move": "QUIVERDANCE"
+    },
+    {
+        "level": 60,
+        "move": "HEATWAVE"
+    },
+    {
+        "level": 70,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 80,
+        "move": "RAGEPOWDER"
+    },
+    {
+        "level": 90,
+        "move": "HURRICANE"
+    },
+    {
+        "level": 100,
+        "move": "FIERYDANCE"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "10455",
+    "Height": "1.6",
+    "Weight": "46.0",
+    "Color": "White",
+    "Shape": "13",
+    "Kind": "Sun",
+    "Pokedex": "A sea of fire engulfs the surroundings of their battles, since they use their six wings to scatter their ember scales.",
+    "WildItemCommon": "SILVERPOWDER",
+    "WildItemUncommon": "SILVERPOWDER",
+    "WildItemRare": "SILVERPOWDER",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "12",
+    "Evolutions": []
+}

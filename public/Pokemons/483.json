@@ -1,0 +1,81 @@
+{
+    "ID": 483,
+    "Name": "Dialga",
+    "InternalName": "DIALGA",
+    "Type1": "STEEL",
+    "Type2": "DRAGON",
+    "BaseStats": [100, 120, 120, 90, 150, 100],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "306",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "30",
+    "Happiness": "0",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 1,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 6,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 10,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 15,
+        "move": "SLASH"
+    },
+    {
+        "level": 19,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 24,
+        "move": "METALBURST"
+    },
+    {
+        "level": 28,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 33,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 37,
+        "move": "AURASPHERE"
+    },
+    {
+        "level": 42,
+        "move": "IRONTAIL"
+    },
+    {
+        "level": 46,
+        "move": "ROAROFTIME"
+    },
+    {
+        "level": 50,
+        "move": "FLASHCANNON"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "5.4",
+    "Weight": "683.0",
+    "Color": "White",
+    "Shape": "8",
+    "Kind": "Temporal",
+    "Pokedex": "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "7",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

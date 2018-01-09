@@ -1,0 +1,106 @@
+{
+    "ID": 317,
+    "Name": "Swalot",
+    "InternalName": "SWALOT",
+    "Type1": "POISON",
+    "BaseStats": [100, 73, 83, 55, 73, 83],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fluctuating",
+    "BaseEXP": "163",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["LIQUIDOOZE","STICKYHOLD"],
+    "HiddenAbility": "GLUTTONY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "YAWN"
+    },
+    {
+        "level": 1,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 1,
+        "move": "SLUDGE"
+    },
+    {
+        "level": 6,
+        "move": "YAWN"
+    },
+    {
+        "level": 9,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 14,
+        "move": "SLUDGE"
+    },
+    {
+        "level": 17,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 23,
+        "move": "ENCORE"
+    },
+    {
+        "level": 26,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 30,
+        "move": "TOXIC"
+    },
+    {
+        "level": 38,
+        "move": "ACIDSPRAY"
+    },
+    {
+        "level": 45,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 45,
+        "move": "SPITUP"
+    },
+    {
+        "level": 45,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 52,
+        "move": "SLUDGEBOMB"
+    },
+    {
+        "level": 59,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 66,
+        "move": "WRINGOUT"
+    },
+    {
+        "level": 73,
+        "move": "GUNKSHOT"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "1.7",
+    "Weight": "80.0",
+    "Color": "Purple",
+    "Shape": "4",
+    "Habitat": "Grassland",
+    "Kind": "Poison Bag",
+    "Pokedex": "Its powerful stomach acid is capable of digesting almost anything. The one thing in the whole world a Swalot can't digest is its own stomach.",
+    "WildItemUncommon": "BIGPEARL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

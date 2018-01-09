@@ -1,0 +1,98 @@
+{
+    "ID": 126,
+    "Name": "Magmar",
+    "InternalName": "MAGMAR",
+    "Type1": "FIRE",
+    "BaseStats": [65, 95, 57, 93, 100, 85],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "FLAMEBODY",
+    "HiddenAbility": "VITALSPIRIT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SMOG"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 5,
+        "move": "EMBER"
+    },
+    {
+        "level": 8,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 12,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 15,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 19,
+        "move": "CLEARSMOG"
+    },
+    {
+        "level": 22,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 26,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 29,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 36,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 42,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 49,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 55,
+        "move": "FIREBLAST"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "6630",
+    "Height": "1.3",
+    "Weight": "44.5",
+    "Color": "Red",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [126, 153],
+    "Kind": "Spitfire",
+    "Pokedex": "In battle, it blows out intense flames from all over its body to intimidate its foe. These fiery bursts create heat waves that ignite grass and trees in the area.",
+    "WildItemUncommon": "MAGMARIZER",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MAGMORTAR",
+        "by":
+        {
+            "TradeItem": "MAGMARIZER"
+        }
+    }]
+}

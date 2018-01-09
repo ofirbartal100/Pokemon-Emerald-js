@@ -1,0 +1,85 @@
+{
+    "ID": 479,
+    "Name": "Rotom",
+    "InternalName": "ROTOM",
+    "Type1": "ELECTRIC",
+    "Type2": "GHOST",
+    "BaseStats": [50, 50, 77, 91, 95, 77],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "154",
+    "EffortPoints": [0, 0, 0, 1, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TRICK"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 8,
+        "move": "UPROAR"
+    },
+    {
+        "level": 15,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 22,
+        "move": "SHOCKWAVE"
+    },
+    {
+        "level": 29,
+        "move": "OMINOUSWIND"
+    },
+    {
+        "level": 36,
+        "move": "SUBSTITUTE"
+    },
+    {
+        "level": 43,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 50,
+        "move": "HEX"
+    },
+    {
+        "level": 57,
+        "move": "CHARGE"
+    },
+    {
+        "level": 64,
+        "move": "DISCHARGE"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "0.3",
+    "Color": "Red",
+    "Shape": "1",
+    "Kind": "Plasma",
+    "Pokedex": "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+    "FormName": "Normal Rotom",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

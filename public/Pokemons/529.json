@@ -1,0 +1,96 @@
+{
+    "ID": 529,
+    "Name": "Drilbur",
+    "InternalName": "DRILBUR",
+    "Type1": "GROUND",
+    "BaseStats": [60, 85, 40, 68, 30, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["SANDRUSH","SANDFORCE"],
+    "HiddenAbility": "MOLDBREAKER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 5,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 8,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 12,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 15,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 19,
+        "move": "DIG"
+    },
+    {
+        "level": 22,
+        "move": "HONECLAWS"
+    },
+    {
+        "level": 26,
+        "move": "SLASH"
+    },
+    {
+        "level": 29,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 33,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 36,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 40,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 43,
+        "move": "DRILLRUN"
+    },
+    {
+        "level": 47,
+        "move": "FISSURE"
+    }],
+    "EggMoves": ["CRUSHCLAW", "EARTHPOWER", "IRONDEFENSE", "METALSOUND", "RAPIDSPIN", "ROCKCLIMB", "SKULLBASH", "SUBMISSION"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "8.5",
+    "Color": "Gray",
+    "Shape": "6",
+    "Kind": "Mole",
+    "Pokedex": "It makes its way swiftly through the soil by putting both claws together and rotating at high speed.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "EXCADRILL",
+        "by":
+        {
+            "Level": 31
+        }
+    }]
+}

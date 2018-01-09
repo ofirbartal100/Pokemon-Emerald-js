@@ -1,0 +1,87 @@
+{
+    "ID": 116,
+    "Name": "Horsea",
+    "InternalName": "HORSEA",
+    "Type1": "WATER",
+    "BaseStats": [30, 40, 70, 60, 70, 25],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "59",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "225",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","SNIPER"],
+    "HiddenAbility": "DAMP",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 4,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 8,
+        "move": "LEER"
+    },
+    {
+        "level": 11,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 14,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 18,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 23,
+        "move": "AGILITY"
+    },
+    {
+        "level": 26,
+        "move": "TWISTER"
+    },
+    {
+        "level": 30,
+        "move": "BRINE"
+    },
+    {
+        "level": 35,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 38,
+        "move": "DRAGONDANCE"
+    },
+    {
+        "level": 42,
+        "move": "DRAGONPULSE"
+    }],
+    "EggMoves": ["AURORABEAM", "CLEARSMOG", "DISABLE", "DRAGONRAGE", "DRAGONBREATH", "FLAIL", "MUDDYWATER", "OCTAZOOKA", "OUTRAGE", "RAZORWIND", "SIGNALBEAM", "SPLASH", "WATERPULSE"],
+    "Compatibility": ["Water1", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "8.0",
+    "Color": "Blue",
+    "Shape": "5",
+    "Habitat": "Sea",
+    "RegionalNumbers": [116, 190],
+    "Kind": "Dragon",
+    "Pokedex": "By cleverly flicking the fins on its back side to side, it moves in any direction while facing forward. It spits ink to escape if it senses danger.",
+    "WildItemUncommon": "DRAGONSCALE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "13",
+    "Evolutions": [
+    {
+        "to": "SEADRA",
+        "by":
+        {
+            "Level": 32
+        }
+    }]
+}

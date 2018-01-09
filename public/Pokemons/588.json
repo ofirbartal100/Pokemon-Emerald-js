@@ -1,0 +1,96 @@
+{
+    "ID": 588,
+    "Name": "Karrablast",
+    "InternalName": "KARRABLAST",
+    "Type1": "BUG",
+    "BaseStats": [50, 75, 45, 60, 40, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "63",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": ["SWARM","SHEDSKIN"],
+    "HiddenAbility": "NOGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 4,
+        "move": "LEER"
+    },
+    {
+        "level": 8,
+        "move": "ENDURE"
+    },
+    {
+        "level": 13,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 16,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 20,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 25,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 28,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 32,
+        "move": "SLASH"
+    },
+    {
+        "level": 37,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 40,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 44,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 49,
+        "move": "FLAIL"
+    },
+    {
+        "level": 52,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 56,
+        "move": "DOUBLEEDGE"
+    }],
+    "EggMoves": ["BUGBITE", "COUNTER", "FEINTATTACK", "HORNATTACK", "KNOCKOFF", "MEGAHORN", "PURSUIT", "SCREECH"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.5",
+    "Weight": "5.9",
+    "Color": "Blue",
+    "Shape": "12",
+    "Kind": "Clamping",
+    "Pokedex": "When they feel threatened, they spit an acidic liquid to drive attackers away. This Pokémon targets Shelmet.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "34",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ESCAVALIER",
+        "by":
+        {
+            "TradeSpecies": "SHELMET"
+        }
+    }]
+}

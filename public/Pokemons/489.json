@@ -1,0 +1,71 @@
+{
+    "ID": 489,
+    "Name": "Phione",
+    "InternalName": "PHIONE",
+    "Type1": "WATER",
+    "BaseStats": [80, 80, 80, 80, 80, 80],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "216",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "HYDRATION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 9,
+        "move": "CHARM"
+    },
+    {
+        "level": 16,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 24,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 31,
+        "move": "ACIDARMOR"
+    },
+    {
+        "level": 39,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 46,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 54,
+        "move": "AQUARING"
+    },
+    {
+        "level": 61,
+        "move": "DIVE"
+    },
+    {
+        "level": 69,
+        "move": "RAINDANCE"
+    }],
+    "Compatibility": ["Water1", "Fairy"],
+    "StepsToHatch": "10455",
+    "Height": "0.4",
+    "Weight": "3.1",
+    "Color": "Blue",
+    "Shape": "4",
+    "Kind": "Sea Drifter",
+    "Pokedex": "A Pokémon that lives in warm seas. It inflates the flotation sac on its head to drift and search for food.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "13",
+    "Evolutions": []
+}

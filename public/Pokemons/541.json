@@ -1,0 +1,61 @@
+{
+    "ID": 541,
+    "Name": "Swadloon",
+    "InternalName": "SWADLOON",
+    "Type1": "BUG",
+    "Type2": "GRASS",
+    "BaseStats": [55, 63, 90, 42, 50, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "133",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["LEAFGUARD","CHLOROPHYLL"],
+    "HiddenAbility": "OVERCOAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GRASSWHISTLE"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "STRINGSHOT"
+    },
+    {
+        "level": 1,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 1,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 20,
+        "move": "PROTECT"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.5",
+    "Weight": "7.3",
+    "Color": "Green",
+    "Shape": "4",
+    "Kind": "Leaf-Wrapped",
+    "Pokedex": "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
+    "WildItemUncommon": "MENTALHERB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "34",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "LEAVANNY",
+        "by":
+        {
+            "Happiness": "Happiness"
+        }
+    }]
+}

@@ -1,0 +1,109 @@
+{
+    "ID": 500,
+    "Name": "Emboar",
+    "InternalName": "EMBOAR",
+    "Type1": "FIRE",
+    "Type2": "FIGHTING",
+    "BaseStats": [110, 123, 65, 65, 100, 65],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "238",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "RECKLESS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 1,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 3,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 7,
+        "move": "EMBER"
+    },
+    {
+        "level": 9,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 13,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 15,
+        "move": "FLAMECHARGE"
+    },
+    {
+        "level": 17,
+        "move": "ARMTHRUST"
+    },
+    {
+        "level": 20,
+        "move": "SMOG"
+    },
+    {
+        "level": 23,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 28,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 31,
+        "move": "HEATCRASH"
+    },
+    {
+        "level": 38,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 43,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 50,
+        "move": "HEADSMASH"
+    },
+    {
+        "level": 55,
+        "move": "ROAR"
+    },
+    {
+        "level": 62,
+        "move": "FLAREBLITZ"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.6",
+    "Weight": "150.0",
+    "Color": "Red",
+    "Shape": "6",
+    "Kind": "Mega Fire Pig",
+    "Pokedex": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

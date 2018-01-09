@@ -1,0 +1,98 @@
+{
+    "ID": 183,
+    "Name": "Marill",
+    "InternalName": "MARILL",
+    "Type1": "WATER",
+    "BaseStats": [70, 20, 50, 40, 20, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "88",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["THICKFAT","HUGEPOWER"],
+    "HiddenAbility": "SAPSIPPER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 2,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 5,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 7,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 10,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 10,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 13,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 16,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 20,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 23,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 28,
+        "move": "AQUARING"
+    },
+    {
+        "level": 31,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 37,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 40,
+        "move": "HYDROPUMP"
+    }],
+    "EggMoves": ["AMNESIA", "AQUAJET", "BELLYDRUM", "BODYSLAM", "FUTURESIGHT", "MUDDYWATER", "PERISHSONG", "PRESENT", "REFRESH", "SUPERPOWER", "SUPERSONIC", "WATERSPORT"],
+    "Compatibility": ["Water1", "Fairy"],
+    "StepsToHatch": "2805",
+    "Height": "0.4",
+    "Weight": "8.5",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [0, 132],
+    "Kind": "Aqua Mouse",
+    "Pokedex": "Its body is covered with water-repellent fur. Because of the fur, it can swim through water at high speed without being slowed by the water's resistance.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "AZUMARILL",
+        "by":
+        {
+            "Level": 18
+        }
+    }]
+}

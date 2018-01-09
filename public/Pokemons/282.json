@@ -1,0 +1,105 @@
+{
+    "ID": 282,
+    "Name": "Gardevoir",
+    "InternalName": "GARDEVOIR",
+    "Type1": "PSYCHIC",
+    "BaseStats": [68, 65, 65, 80, 125, 115],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "233",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": ["SYNCHRONIZE","TRACE"],
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HEALINGWISH"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 1,
+        "move": "TELEPORT"
+    },
+    {
+        "level": 6,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 10,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 12,
+        "move": "TELEPORT"
+    },
+    {
+        "level": 17,
+        "move": "WISH"
+    },
+    {
+        "level": 22,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 25,
+        "move": "HEALPULSE"
+    },
+    {
+        "level": 33,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 40,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 45,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 53,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 60,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 65,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 73,
+        "move": "DREAMEATER"
+    },
+    {
+        "level": 80,
+        "move": "STOREDPOWER"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "1.6",
+    "Weight": "48.4",
+    "Color": "White",
+    "Shape": "12",
+    "Habitat": "Urban",
+    "Kind": "Embrace",
+    "Pokedex": "It apparently does not feel the pull of gravity because it supports itself with psychic power. It will give its life to protect its trainer.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

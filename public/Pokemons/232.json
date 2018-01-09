@@ -1,0 +1,95 @@
+{
+    "ID": 232,
+    "Name": "Donphan",
+    "InternalName": "DONPHAN",
+    "Type1": "GROUND",
+    "BaseStats": [90, 120, 120, 50, 60, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "175",
+    "EffortPoints": [0, 1, 1, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": "STURDY",
+    "HiddenAbility": "SANDVEIL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "HORNATTACK"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 1,
+        "move": "BULLDOZE"
+    },
+    {
+        "level": 6,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 10,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 15,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 19,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 24,
+        "move": "SLAM"
+    },
+    {
+        "level": 25,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 31,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 39,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 46,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 54,
+        "move": "GIGAIMPACT"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "120.0",
+    "Color": "Gray",
+    "Shape": "8",
+    "Habitat": "RoughTerrain",
+    "RegionalNumbers": [0, 201],
+    "Kind": "Armor",
+    "Pokedex": "A Donphan is so strong it can easily haul a dump truck. Its hide has toughened to a rock-hard state. An ordinary sort of attack won't even leave a scratch.",
+    "WildItemUncommon": "PASSHOBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

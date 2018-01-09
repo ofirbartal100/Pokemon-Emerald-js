@@ -1,0 +1,93 @@
+{
+    "ID": 418,
+    "Name": "Buizel",
+    "InternalName": "BUIZEL",
+    "Type1": "WATER",
+    "BaseStats": [55, 65, 35, 85, 60, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "SWIFTSWIM",
+    "HiddenAbility": "WATERVEIL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SONICBOOM"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 11,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 15,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 18,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 21,
+        "move": "SWIFT"
+    },
+    {
+        "level": 24,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 27,
+        "move": "DOUBLEHIT"
+    },
+    {
+        "level": 31,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 35,
+        "move": "RAZORWIND"
+    },
+    {
+        "level": 38,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 41,
+        "move": "AGILITY"
+    },
+    {
+        "level": 45,
+        "move": "HYDROPUMP"
+    }],
+    "EggMoves": ["AQUARING", "AQUATAIL", "BATONPASS", "DOUBLESLAP", "FURYCUTTER", "FURYSWIPES", "HEADBUTT", "MEFIRST", "MUDSLAP", "ODORSLEUTH", "SLASH", "SWITCHEROO", "TAILSLAP"],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "29.5",
+    "Color": "Brown",
+    "Shape": "8",
+    "Kind": "Sea Weasel",
+    "Pokedex": "It has a flotation sac that is like an inflatable collar. It floats on water with its head out.",
+    "WildItemUncommon": "WACANBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "FLOATZEL",
+        "by":
+        {
+            "Level": 26
+        }
+    }]
+}

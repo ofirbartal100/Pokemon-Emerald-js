@@ -1,0 +1,97 @@
+{
+    "ID": 596,
+    "Name": "Galvantula",
+    "InternalName": "GALVANTULA",
+    "Type1": "BUG",
+    "Type2": "ELECTRIC",
+    "BaseStats": [70, 77, 60, 108, 97, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "165",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["COMPOUNDEYES","UNNERVE"],
+    "HiddenAbility": "SWARM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "STRINGSHOT"
+    },
+    {
+        "level": 1,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 1,
+        "move": "SPIDERWEB"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 4,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 7,
+        "move": "SCREECH"
+    },
+    {
+        "level": 12,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 15,
+        "move": "ELECTROWEB"
+    },
+    {
+        "level": 18,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 23,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 26,
+        "move": "SLASH"
+    },
+    {
+        "level": 29,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 34,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 40,
+        "move": "AGILITY"
+    },
+    {
+        "level": 46,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 54,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 60,
+        "move": "BUGBUZZ"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "14.3",
+    "Color": "Yellow",
+    "Shape": "14",
+    "Kind": "EleSpider",
+    "Pokedex": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "32",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

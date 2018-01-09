@@ -1,0 +1,94 @@
+{
+    "ID": 216,
+    "Name": "Teddiursa",
+    "InternalName": "TEDDIURSA",
+    "Type1": "NORMAL",
+    "BaseStats": [60, 80, 50, 40, 50, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["PICKUP","QUICKFEET"],
+    "HiddenAbility": "HONEYGATHER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "COVET"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "LICK"
+    },
+    {
+        "level": 1,
+        "move": "FAKETEARS"
+    },
+    {
+        "level": 8,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 15,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 22,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 29,
+        "move": "SLASH"
+    },
+    {
+        "level": 36,
+        "move": "CHARM"
+    },
+    {
+        "level": 43,
+        "move": "REST"
+    },
+    {
+        "level": 43,
+        "move": "SNORE"
+    },
+    {
+        "level": 50,
+        "move": "THRASH"
+    },
+    {
+        "level": 57,
+        "move": "FLING"
+    }],
+    "EggMoves": ["BELLYDRUM", "CHIPAWAY", "CLOSECOMBAT", "COUNTER", "CROSSCHOP", "CRUNCH", "DOUBLEEDGE", "FAKETEARS", "METALCLAW", "NIGHTSLASH", "SEISMICTOSS", "SLEEPTALK", "TAKEDOWN", "YAWN"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "8.8",
+    "Color": "Brown",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [0, 198],
+    "Kind": "Little Bear",
+    "Pokedex": "It licks its palms that are sweetened by being soaked in honey. A Teddiursa makes its own honey by blending fruits and pollen collected by Beedrill.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "URSARING",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

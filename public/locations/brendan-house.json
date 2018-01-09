@@ -1,0 +1,87 @@
+{
+    "spriteSheet": "interior",
+    "audio": "../audio/005 Littleroot Town.mp3",
+
+    "neighbors": [
+    {
+        "direction": "littleroot-town",
+        "location": "littleroot-town"
+    }],
+
+    "layers": [
+    {
+        "name": "background",
+        "tiles": [
+        {
+            "name": "black",
+            "bounds": true,
+            "ranges": [
+                [
+                    0, 15,
+                    0, 10
+                ]
+            ]
+        },
+        {
+            "name": "wood-floor-light",
+            "ranges": [
+                [
+                    2, 13,
+                    3, 9
+                ]
+            ]
+        }]
+    },
+    {
+        "name": "details",
+        "tiles": [
+        {
+            "name": "blue-carpet",
+            "ranges": [
+                [
+                    3, 6
+                ]
+            ]
+        }]
+    },
+    {
+        "name": "objects",
+        "tiles": [
+        {
+            "name": "pink-table",
+            "ranges": [
+                [
+                    5, 7
+                ]
+            ]
+        },
+        {
+            "name": "wall-staircase-up",
+            "ranges": [
+                [
+                    10, 2
+                ]
+            ]
+        }]
+    },
+    {
+        "name": "portals",
+        "tiles": [
+        {
+            "name": "carpet",
+            "portals": ["littleroot-town"],
+            "ranges": [
+                [
+                    11, 9
+                ]
+            ]
+        }]
+    }],
+
+    "entities": [
+    {
+        "name": "mom",
+        "messages": ["im the mom here"],
+        "pos": [64, 100]
+    }]
+}

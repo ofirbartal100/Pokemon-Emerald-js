@@ -1,0 +1,90 @@
+{
+    "ID": 524,
+    "Name": "Roggenrola",
+    "InternalName": "ROGGENROLA",
+    "Type1": "ROCK",
+    "BaseStats": [55, 75, 85, 15, 25, 25],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "56",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "STURDY",
+    "HiddenAbility": "SANDFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 10,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 14,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 17,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 20,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 23,
+        "move": "SMACKDOWN"
+    },
+    {
+        "level": 27,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 30,
+        "move": "STEALTHROCK"
+    },
+    {
+        "level": 33,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 36,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 40,
+        "move": "EXPLOSION"
+    }],
+    "EggMoves": ["AUTOTOMIZE", "CURSE", "GRAVITY", "HEAVYSLAM", "LOCKON", "MAGNITUDE", "ROCKTOMB", "TAKEDOWN"],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "4080",
+    "Height": "0.4",
+    "Weight": "18.0",
+    "Color": "Blue",
+    "Shape": "7",
+    "Kind": "Mantle",
+    "Pokedex": "They were discovered a hundred years ago in an earthquake fissure. Inside each one is an energy core.",
+    "WildItemCommon": "EVERSTONE",
+    "WildItemUncommon": "HARDSTONE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "33",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BOLDORE",
+        "by":
+        {
+            "Level": 25
+        }
+    }]
+}

@@ -1,0 +1,90 @@
+{
+    "ID": 358,
+    "Name": "Chimecho",
+    "InternalName": "CHIMECHO",
+    "Type1": "PSYCHIC",
+    "BaseStats": [65, 50, 70, 65, 95, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "149",
+    "EffortPoints": [0, 0, 0, 0, 1, 1],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WRAP"
+    },
+    {
+        "level": 6,
+        "move": "GROWL"
+    },
+    {
+        "level": 9,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 14,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 17,
+        "move": "UPROAR"
+    },
+    {
+        "level": 22,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 25,
+        "move": "YAWN"
+    },
+    {
+        "level": 30,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 33,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 38,
+        "move": "HEALBELL"
+    },
+    {
+        "level": 41,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 46,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 49,
+        "move": "HEALPULSE"
+    },
+    {
+        "level": 54,
+        "move": "SYNCHRONOISE"
+    },
+    {
+        "level": 57,
+        "move": "HEALINGWISH"
+    }],
+    "EggMoves": ["CURSE", "DISABLE", "FUTURESIGHT", "HYPNOSIS", "SKILLSWAP", "STOREDPOWER", "WISH"],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "6630",
+    "Height": "0.6",
+    "Weight": "1.0",
+    "Color": "Blue",
+    "Shape": "4",
+    "Habitat": "Grassland",
+    "Kind": "Wind Chime",
+    "Pokedex": "They fly about very actively when the hot season arrives. They communicate among themselves using seven different and distinguishing cries.",
+    "WildItemUncommon": "COLBURBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

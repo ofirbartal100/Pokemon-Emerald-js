@@ -1,0 +1,91 @@
+{
+    "ID": 115,
+    "Name": "Kangaskhan",
+    "InternalName": "KANGASKHAN",
+    "Type1": "NORMAL",
+    "BaseStats": [105, 95, 80, 90, 40, 80],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "172",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["EARLYBIRD","SCRAPPY"],
+    "HiddenAbility": "INNERFOCUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "COMETPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 10,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 13,
+        "move": "BITE"
+    },
+    {
+        "level": 19,
+        "move": "DOUBLEHIT"
+    },
+    {
+        "level": 22,
+        "move": "RAGE"
+    },
+    {
+        "level": 25,
+        "move": "MEGAPUNCH"
+    },
+    {
+        "level": 31,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 34,
+        "move": "DIZZYPUNCH"
+    },
+    {
+        "level": 37,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 43,
+        "move": "ENDURE"
+    },
+    {
+        "level": 46,
+        "move": "OUTRAGE"
+    },
+    {
+        "level": 49,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 55,
+        "move": "REVERSAL"
+    }],
+    "EggMoves": ["CIRCLETHROW", "COUNTER", "CRUSHCLAW", "DISABLE", "DOUBLEEDGE", "ENDEAVOR", "FOCUSENERGY", "FOCUSPUNCH", "FORESIGHT", "HAMMERARM", "STOMP", "TRUMPCARD", "UPROAR"],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "5355",
+    "Height": "2.2",
+    "Weight": "80.0",
+    "Color": "Brown",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [115, 210],
+    "Kind": "Parent",
+    "Pokedex": "If you come across a young Kangaskhan playing by itself, never try to catch it. The baby's parent is sure to be in the area, and it will become violently enraged.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

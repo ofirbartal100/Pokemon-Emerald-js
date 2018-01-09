@@ -1,0 +1,100 @@
+{
+    "ID": 627,
+    "Name": "Rufflet",
+    "InternalName": "RUFFLET",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [70, 83, 50, 60, 37, 50],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "70",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["KEENEYE","SHEERFORCE"],
+    "HiddenAbility": "HUSTLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 10,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 14,
+        "move": "HONECLAWS"
+    },
+    {
+        "level": 19,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 23,
+        "move": "AERIALACE"
+    },
+    {
+        "level": 28,
+        "move": "SLASH"
+    },
+    {
+        "level": 32,
+        "move": "DEFOG"
+    },
+    {
+        "level": 37,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 41,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 46,
+        "move": "CRUSHCLAW"
+    },
+    {
+        "level": 50,
+        "move": "SKYDROP"
+    },
+    {
+        "level": 55,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 59,
+        "move": "BRAVEBIRD"
+    },
+    {
+        "level": 64,
+        "move": "THRASH"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "10.5",
+    "Color": "White",
+    "Shape": "9",
+    "Kind": "Eaglet",
+    "Pokedex": "They will challenge anything, even strong opponents, without fear. Their frequent fights help them become stronger.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BRAVIARY",
+        "by":
+        {
+            "Level": 54
+        }
+    }]
+}

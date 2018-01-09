@@ -1,0 +1,45 @@
+{
+    "ID": 609,
+    "Name": "Chandelure",
+    "InternalName": "CHANDELURE",
+    "Type1": "GHOST",
+    "Type2": "FIRE",
+    "BaseStats": [60, 55, 90, 80, 145, 90],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "234",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["FLASHFIRE","FLAMEBODY"],
+    "HiddenAbility": "SHADOWTAG",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SMOG"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 1,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 1,
+        "move": "HEX"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "34.3",
+    "Color": "Black",
+    "Shape": "4",
+    "Kind": "Luring",
+    "Pokedex": "Being consumed in Chandelure's flame burns up the spirit, leaving the body behind.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "14",
+    "Evolutions": []
+}

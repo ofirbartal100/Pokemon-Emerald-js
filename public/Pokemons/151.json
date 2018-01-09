@@ -1,0 +1,84 @@
+{
+    "ID": 151,
+    "Name": "Mew",
+    "InternalName": "MEW",
+    "Type1": "PSYCHIC",
+    "BaseStats": [100, 100, 100, 100, 100, 100],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "270",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "100",
+    "Abilities": "SYNCHRONIZE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "REFLECTTYPE"
+    },
+    {
+        "level": 1,
+        "move": "TRANSFORM"
+    },
+    {
+        "level": 10,
+        "move": "MEGAPUNCH"
+    },
+    {
+        "level": 20,
+        "move": "METRONOME"
+    },
+    {
+        "level": 30,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 40,
+        "move": "BARRIER"
+    },
+    {
+        "level": 50,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 60,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 70,
+        "move": "MEFIRST"
+    },
+    {
+        "level": 80,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 90,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 100,
+        "move": "AURASPHERE"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "0.4",
+    "Weight": "4.0",
+    "Color": "Pink",
+    "Shape": "6",
+    "Habitat": "Rare",
+    "RegionalNumbers": [151, 255],
+    "Kind": "New Species",
+    "Pokedex": "A Mew is said to possess the genes of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+    "WildItemCommon": "LUMBERRY",
+    "WildItemUncommon": "LUMBERRY",
+    "WildItemRare": "LUMBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "13",
+    "Evolutions": []
+}

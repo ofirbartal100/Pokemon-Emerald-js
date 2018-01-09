@@ -1,0 +1,106 @@
+{
+    "ID": 181,
+    "Name": "Ampharos",
+    "InternalName": "AMPHAROS",
+    "Type1": "ELECTRIC",
+    "BaseStats": [90, 75, 75, 55, 115, 90],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "225",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "STATIC",
+    "HiddenAbility": "PLUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 4,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 8,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 11,
+        "move": "COTTONSPORE"
+    },
+    {
+        "level": 16,
+        "move": "CHARGE"
+    },
+    {
+        "level": 20,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 25,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 29,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 30,
+        "move": "THUNDERPUNCH"
+    },
+    {
+        "level": 35,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 40,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 46,
+        "move": "COTTONGUARD"
+    },
+    {
+        "level": 51,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 57,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 62,
+        "move": "THUNDER"
+    }],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "61.5",
+    "Color": "Yellow",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 55],
+    "Kind": "Light",
+    "Pokedex": "It gives off so much light that it can be seen even from space. People in the old days used its light to send signals back and forth with others far away.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

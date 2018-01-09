@@ -1,0 +1,111 @@
+{
+    "ID": 611,
+    "Name": "Fraxure",
+    "InternalName": "FRAXURE",
+    "Type1": "DRAGON",
+    "BaseStats": [66, 117, 70, 67, 40, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "144",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "35",
+    "Abilities": ["RIVALRY","MOLDBREAKER"],
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 1,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 4,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 10,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 13,
+        "move": "DUALCHOP"
+    },
+    {
+        "level": 16,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 20,
+        "move": "SLASH"
+    },
+    {
+        "level": 24,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 28,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 32,
+        "move": "DRAGONDANCE"
+    },
+    {
+        "level": 36,
+        "move": "TAUNT"
+    },
+    {
+        "level": 42,
+        "move": "DRAGONPULSE"
+    },
+    {
+        "level": 48,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 54,
+        "move": "GUILLOTINE"
+    },
+    {
+        "level": 60,
+        "move": "OUTRAGE"
+    },
+    {
+        "level": 66,
+        "move": "GIGAIMPACT"
+    }],
+    "Compatibility": ["Monster", "Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "1.0",
+    "Weight": "36.0",
+    "Color": "Green",
+    "Shape": "6",
+    "Kind": "Axe Jaw",
+    "Pokedex": "Their tusks can shatter rocks. Territory battles between Fraxure can be intensely violent.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "HAXORUS",
+        "by":
+        {
+            "Level": 48
+        }
+    }]
+}

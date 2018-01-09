@@ -1,0 +1,98 @@
+{
+    "ID": 184,
+    "Name": "Azumarill",
+    "InternalName": "AZUMARILL",
+    "Type1": "WATER",
+    "BaseStats": [100, 50, 80, 50, 50, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "185",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["THICKFAT","HUGEPOWER"],
+    "HiddenAbility": "SAPSIPPER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 2,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 5,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 7,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 10,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 10,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 13,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 16,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 21,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 25,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 31,
+        "move": "AQUARING"
+    },
+    {
+        "level": 35,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 42,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 46,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Water1", "Fairy"],
+    "StepsToHatch": "2805",
+    "Height": "0.8",
+    "Weight": "28.5",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [0, 133],
+    "Kind": "Aqua Rabbit",
+    "Pokedex": "It lives in water virtually all day long. Its body color and pattern act as camouflage that makes it tough for enemies to spot in water.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

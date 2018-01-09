@@ -1,0 +1,112 @@
+{
+    "ID": 552,
+    "Name": "Krokorok",
+    "InternalName": "KROKOROK",
+    "Type1": "GROUND",
+    "Type2": "DARK",
+    "BaseStats": [60, 82, 45, 74, 45, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "123",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","MOXIE"],
+    "HiddenAbility": "ANGERPOINT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "RAGE"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 4,
+        "move": "BITE"
+    },
+    {
+        "level": 7,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 10,
+        "move": "TORMENT"
+    },
+    {
+        "level": 13,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 16,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 19,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 22,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 25,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 28,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 32,
+        "move": "DIG"
+    },
+    {
+        "level": 36,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 40,
+        "move": "FOULPLAY"
+    },
+    {
+        "level": 44,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 48,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 52,
+        "move": "THRASH"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "33.4",
+    "Color": "Brown",
+    "Shape": "8",
+    "Kind": "Desert Croc",
+    "Pokedex": "The special membrane covering its eyes can sense the heat of objects, so it can see its surroundings, even in darkness.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "KROOKODILE",
+        "by":
+        {
+            "Level": 40
+        }
+    }]
+}

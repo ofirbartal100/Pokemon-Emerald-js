@@ -1,0 +1,98 @@
+{
+    "ID": 307,
+    "Name": "Meditite",
+    "InternalName": "MEDITITE",
+    "Type1": "FIGHTING",
+    "Type2": "PSYCHIC",
+    "BaseStats": [30, 40, 55, 60, 40, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "56",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "180",
+    "Happiness": "70",
+    "Abilities": "PUREPOWER",
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BIDE"
+    },
+    {
+        "level": 4,
+        "move": "MEDITATE"
+    },
+    {
+        "level": 8,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 11,
+        "move": "DETECT"
+    },
+    {
+        "level": 15,
+        "move": "HIDDENPOWER"
+    },
+    {
+        "level": 18,
+        "move": "MINDREADER"
+    },
+    {
+        "level": 22,
+        "move": "FEINT"
+    },
+    {
+        "level": 25,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 29,
+        "move": "FORCEPALM"
+    },
+    {
+        "level": 32,
+        "move": "HIGHJUMPKICK"
+    },
+    {
+        "level": 36,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 39,
+        "move": "ACUPRESSURE"
+    },
+    {
+        "level": 43,
+        "move": "POWERTRICK"
+    },
+    {
+        "level": 46,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 50,
+        "move": "RECOVER"
+    }],
+    "EggMoves": ["BATONPASS", "BULLETPUNCH", "DRAINPUNCH", "DYNAMICPUNCH", "FAKEOUT", "FIREPUNCH", "FORESIGHT", "GUARDSWAP", "ICEPUNCH", "POWERSWAP", "PSYCHOCUT", "SECRETPOWER", "THUNDERPUNCH"],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "11.2",
+    "Color": "Blue",
+    "Shape": "12",
+    "Habitat": "Mountain",
+    "Kind": "Meditate",
+    "Pokedex": "It continually meditates for hours every day. As a result of rigorous and dedicated yoga training, it has tempered its spiritual power so much it can fly.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MEDICHAM",
+        "by":
+        {
+            "Level": 37
+        }
+    }]
+}

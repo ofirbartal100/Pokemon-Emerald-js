@@ -1,0 +1,98 @@
+{
+    "ID": 179,
+    "Name": "Mareep",
+    "InternalName": "MAREEP",
+    "Type1": "ELECTRIC",
+    "BaseStats": [55, 40, 40, 35, 65, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "56",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "235",
+    "Happiness": "70",
+    "Abilities": "STATIC",
+    "HiddenAbility": "PLUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 4,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 8,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 11,
+        "move": "COTTONSPORE"
+    },
+    {
+        "level": 15,
+        "move": "CHARGE"
+    },
+    {
+        "level": 18,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 22,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 25,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 29,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 32,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 36,
+        "move": "COTTONGUARD"
+    },
+    {
+        "level": 39,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 43,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 46,
+        "move": "THUNDER"
+    }],
+    "EggMoves": ["AFTERYOU", "AGILITY", "BODYSLAM", "CHARGE", "FLATTER", "IRONTAIL", "ODORSLEUTH", "SANDATTACK", "SCREECH", "TAKEDOWN"],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "7.8",
+    "Color": "White",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 53],
+    "Kind": "Wool",
+    "Pokedex": "Its fluffy wool rubs together and builds a static charge. The more energy is charged, the more brightly the lightbulb at the tip of its tail glows.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "FLAAFFY",
+        "by":
+        {
+            "Level": 15
+        }
+    }]
+}

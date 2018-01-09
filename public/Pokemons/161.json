@@ -1,0 +1,95 @@
+{
+    "ID": 161,
+    "Name": "Sentret",
+    "InternalName": "SENTRET",
+    "Type1": "NORMAL",
+    "BaseStats": [35, 46, 34, 20, 35, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "43",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["RUNAWAY","KEENEYE"],
+    "HiddenAbility": "FRISK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 4,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 7,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 13,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 16,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 19,
+        "move": "FOLLOWME"
+    },
+    {
+        "level": 25,
+        "move": "SLAM"
+    },
+    {
+        "level": 28,
+        "move": "REST"
+    },
+    {
+        "level": 31,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 36,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 39,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 42,
+        "move": "MEFIRST"
+    },
+    {
+        "level": 47,
+        "move": "HYPERVOICE"
+    }],
+    "EggMoves": ["ASSIST", "CHARM", "COVET", "DOUBLEEDGE", "FOCUSENERGY", "IRONTAIL", "LASTRESORT", "NATURALGIFT", "PURSUIT", "REVERSAL", "SLASH", "TRICK"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.8",
+    "Weight": "6.0",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 19],
+    "Kind": "Scout",
+    "Pokedex": "They take turns standing guard when it is time to sleep. The sentry awakens the others if it senses danger. If one becomes separated, it turns sleepless with fear.",
+    "WildItemUncommon": "ORANBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "FURRET",
+        "by":
+        {
+            "Level": 15
+        }
+    }]
+}

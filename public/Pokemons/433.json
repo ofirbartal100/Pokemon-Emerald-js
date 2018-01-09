@@ -1,0 +1,65 @@
+{
+    "ID": 433,
+    "Name": "Chingling",
+    "InternalName": "CHINGLING",
+    "Type1": "PSYCHIC",
+    "BaseStats": [45, 30, 50, 45, 65, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "57",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WRAP"
+    },
+    {
+        "level": 6,
+        "move": "GROWL"
+    },
+    {
+        "level": 9,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 14,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 17,
+        "move": "UPROAR"
+    },
+    {
+        "level": 22,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 25,
+        "move": "ENTRAINMENT"
+    }],
+    "EggMoves": ["CURSE", "DISABLE", "FUTURESIGHT", "HYPNOSIS", "RECOVER", "SKILLSWAP", "STOREDPOWER", "WISH"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "6630",
+    "Height": "0.2",
+    "Weight": "0.6",
+    "Color": "Yellow",
+    "Shape": "12",
+    "Kind": "Bell",
+    "Pokedex": "It emits cries by agitating an orb at the back of its throat. It moves with flouncing hops.",
+    "WildItemUncommon": "COLBURBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "12",
+    "Evolutions": [
+    {
+        "to": "CHIMECHO",
+        "by":
+        {
+            "HappinessNight": "HappinessNight"
+        }
+    }],
+    "Incense": "PUREINCENSE"
+}

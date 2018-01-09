@@ -1,0 +1,102 @@
+{
+    "ID": 148,
+    "Name": "Dragonair",
+    "InternalName": "DRAGONAIR",
+    "Type1": "DRAGON",
+    "BaseStats": [61, 84, 65, 70, 70, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "147",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "SHEDSKIN",
+    "HiddenAbility": "MARVELSCALE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WRAP"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 1,
+        "move": "TWISTER"
+    },
+    {
+        "level": 5,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 11,
+        "move": "TWISTER"
+    },
+    {
+        "level": 15,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 21,
+        "move": "SLAM"
+    },
+    {
+        "level": 25,
+        "move": "AGILITY"
+    },
+    {
+        "level": 33,
+        "move": "DRAGONTAIL"
+    },
+    {
+        "level": 39,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 47,
+        "move": "DRAGONRUSH"
+    },
+    {
+        "level": 53,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 61,
+        "move": "DRAGONDANCE"
+    },
+    {
+        "level": 67,
+        "move": "OUTRAGE"
+    },
+    {
+        "level": 75,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Water1", "Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "4.0",
+    "Weight": "16.5",
+    "Color": "Blue",
+    "Shape": "2",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [148, 247],
+    "Kind": "Dragon",
+    "Pokedex": "A Dragonair stores an enormous amount of energy inside its body. It is said to alter the weather around it by loosing energy from the crystals on its neck and tail.",
+    "WildItemUncommon": "DRAGONSCALE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "DRAGONITE",
+        "by":
+        {
+            "Level": 55
+        }
+    }]
+}

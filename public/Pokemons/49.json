@@ -1,0 +1,108 @@
+{
+    "ID": 49,
+    "Name": "Venomoth",
+    "InternalName": "VENOMOTH",
+    "Type1": "BUG",
+    "Type2": "POISON",
+    "BaseStats": [70, 65, 60, 90, 90, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "158",
+    "EffortPoints": [0, 0, 0, 1, 1, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["SHIELDDUST","TINTEDLENS"],
+    "HiddenAbility": "WONDERSKIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SILVERWIND"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "DISABLE"
+    },
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 5,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 11,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 13,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 17,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 23,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 25,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 29,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 31,
+        "move": "GUST"
+    },
+    {
+        "level": 37,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 41,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 47,
+        "move": "POISONFANG"
+    },
+    {
+        "level": 55,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 59,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 63,
+        "move": "QUIVERDANCE"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "12.5",
+    "Color": "Purple",
+    "Shape": "13",
+    "Habitat": "Forest",
+    "RegionalNumbers": [49, 110],
+    "Kind": "Poison Moth",
+    "Pokedex": "Venomoth are nocturnal--they only are active at night. Their favorite prey are insects that gather around streetlights, attracted by the light in the darkness.",
+    "WildItemUncommon": "SHEDSHELL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "15",
+    "Evolutions": []
+}

@@ -1,0 +1,103 @@
+{
+    "ID": 569,
+    "Name": "Garbodor",
+    "InternalName": "GARBODOR",
+    "Type1": "POISON",
+    "BaseStats": [80, 95, 82, 75, 60, 82],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "166",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["STENCH","WEAKARMOR"],
+    "HiddenAbility": "AFTERMATH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 1,
+        "move": "RECYCLE"
+    },
+    {
+        "level": 1,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 3,
+        "move": "RECYCLE"
+    },
+    {
+        "level": 7,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 12,
+        "move": "ACIDSPRAY"
+    },
+    {
+        "level": 14,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 18,
+        "move": "SLUDGE"
+    },
+    {
+        "level": 23,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 23,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 25,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 29,
+        "move": "SLUDGEBOMB"
+    },
+    {
+        "level": 34,
+        "move": "CLEARSMOG"
+    },
+    {
+        "level": 39,
+        "move": "TOXIC"
+    },
+    {
+        "level": 46,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 54,
+        "move": "GUNKSHOT"
+    },
+    {
+        "level": 59,
+        "move": "EXPLOSION"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.9",
+    "Weight": "107.3",
+    "Color": "Green",
+    "Shape": "12",
+    "Kind": "Trash Heap",
+    "Pokedex": "They absorb garbage and make it part of their bodies. They shoot a poisonous liquid from their right-hand fingertips.",
+    "WildItemCommon": "BLACKSLUDGE",
+    "WildItemUncommon": "NUGGET",
+    "WildItemRare": "BIGNUGGET",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

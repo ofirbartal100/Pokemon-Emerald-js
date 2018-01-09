@@ -1,0 +1,86 @@
+{
+    "ID": 414,
+    "Name": "Mothim",
+    "InternalName": "MOTHIM",
+    "Type1": "BUG",
+    "Type2": "FLYING",
+    "BaseStats": [70, 94, 50, 66, 94, 50],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "148",
+    "EffortPoints": [0, 1, 0, 0, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "SWARM",
+    "HiddenAbility": "TINTEDLENS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 10,
+        "move": "PROTECT"
+    },
+    {
+        "level": 15,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 20,
+        "move": "HIDDENPOWER"
+    },
+    {
+        "level": 23,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 26,
+        "move": "GUST"
+    },
+    {
+        "level": 29,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 32,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 35,
+        "move": "CAMOUFLAGE"
+    },
+    {
+        "level": 38,
+        "move": "SILVERWIND"
+    },
+    {
+        "level": 41,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 44,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 47,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 50,
+        "move": "QUIVERDANCE"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.9",
+    "Weight": "23.3",
+    "Color": "Yellow",
+    "Shape": "13",
+    "Kind": "Moth",
+    "Pokedex": "It loves the honey of flowers and steals honey collected by Combee.",
+    "WildItemUncommon": "SILVERPOWDER",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "14",
+    "Evolutions": []
+}

@@ -1,0 +1,102 @@
+{
+    "ID": 556,
+    "Name": "Maractus",
+    "InternalName": "MARACTUS",
+    "Type1": "GRASS",
+    "BaseStats": [75, 86, 67, 60, 106, 67],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "161",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["WATERABSORB","CHLOROPHYLL"],
+    "HiddenAbility": "STORMDRAIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 3,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 6,
+        "move": "GROWTH"
+    },
+    {
+        "level": 10,
+        "move": "PINMISSILE"
+    },
+    {
+        "level": 13,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 15,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 18,
+        "move": "COTTONSPORE"
+    },
+    {
+        "level": 22,
+        "move": "NEEDLEARM"
+    },
+    {
+        "level": 26,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 29,
+        "move": "ACUPRESSURE"
+    },
+    {
+        "level": 33,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 38,
+        "move": "PETALDANCE"
+    },
+    {
+        "level": 42,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 45,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 50,
+        "move": "SOLARBEAM"
+    },
+    {
+        "level": 55,
+        "move": "COTTONGUARD"
+    },
+    {
+        "level": 57,
+        "move": "AFTERYOU"
+    }],
+    "EggMoves": ["BOUNCE", "BULLETSEED", "GRASSWHISTLE", "LEECHSEED", "SEEDBOMB", "SPIKES", "WOODHAMMER", "WORRYSEED"],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "28.0",
+    "Color": "Green",
+    "Shape": "5",
+    "Kind": "Cactus",
+    "Pokedex": "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+    "WildItemUncommon": "MIRACLESEED",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

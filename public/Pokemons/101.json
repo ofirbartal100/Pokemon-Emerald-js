@@ -1,0 +1,102 @@
+{
+    "ID": 101,
+    "Name": "Electrode",
+    "InternalName": "ELECTRODE",
+    "Type1": "ELECTRIC",
+    "BaseStats": [60, 50, 70, 140, 80, 80],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "168",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["SOUNDPROOF","STATIC"],
+    "HiddenAbility": "AFTERMATH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CHARGE"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "SONICBOOM"
+    },
+    {
+        "level": 1,
+        "move": "SPARK"
+    },
+    {
+        "level": 5,
+        "move": "TACKLE"
+    },
+    {
+        "level": 8,
+        "move": "SONICBOOM"
+    },
+    {
+        "level": 12,
+        "move": "SPARK"
+    },
+    {
+        "level": 15,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 19,
+        "move": "SCREECH"
+    },
+    {
+        "level": 22,
+        "move": "CHARGEBEAM"
+    },
+    {
+        "level": 26,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 29,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 35,
+        "move": "SELFDESTRUCT"
+    },
+    {
+        "level": 40,
+        "move": "SWIFT"
+    },
+    {
+        "level": 46,
+        "move": "MAGNETRISE"
+    },
+    {
+        "level": 51,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 57,
+        "move": "EXPLOSION"
+    },
+    {
+        "level": 62,
+        "move": "MIRRORCOAT"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "66.6",
+    "Color": "Red",
+    "Shape": "1",
+    "Habitat": "Urban",
+    "RegionalNumbers": [101, 122],
+    "Kind": "Ball",
+    "Pokedex": "They appear in great numbers at electric power plants. Because they feed on electricity, they cause massive and chaotic blackouts in nearby cities.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

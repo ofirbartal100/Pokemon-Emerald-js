@@ -1,0 +1,91 @@
+{
+    "ID": 127,
+    "Name": "Pinsir",
+    "InternalName": "PINSIR",
+    "Type1": "BUG",
+    "BaseStats": [65, 125, 100, 85, 55, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "175",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["HYPERCUTTER","MOLDBREAKER"],
+    "HiddenAbility": "MOXIE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "VICEGRIP"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 4,
+        "move": "BIND"
+    },
+    {
+        "level": 8,
+        "move": "SEISMICTOSS"
+    },
+    {
+        "level": 11,
+        "move": "HARDEN"
+    },
+    {
+        "level": 15,
+        "move": "REVENGE"
+    },
+    {
+        "level": 18,
+        "move": "BRICKBREAK"
+    },
+    {
+        "level": 22,
+        "move": "VITALTHROW"
+    },
+    {
+        "level": 26,
+        "move": "SUBMISSION"
+    },
+    {
+        "level": 29,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 33,
+        "move": "STORMTHROW"
+    },
+    {
+        "level": 36,
+        "move": "THRASH"
+    },
+    {
+        "level": 40,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 43,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 47,
+        "move": "GUILLOTINE"
+    }],
+    "EggMoves": ["BUGBITE", "CLOSECOMBAT", "FEINTATTACK", "FEINT", "FLAIL", "FURYATTACK", "MEFIRST", "QUICKATTACK", "SUPERPOWER"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "6630",
+    "Height": "1.5",
+    "Weight": "55.0",
+    "Color": "Brown",
+    "Shape": "12",
+    "Habitat": "Forest",
+    "RegionalNumbers": [127, 113],
+    "Kind": "Stag Beetle",
+    "Pokedex": "Their pincers are strong enough to shatter thick logs. Because they dislike cold, Pinsir burrow and sleep under the ground on chilly nights.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

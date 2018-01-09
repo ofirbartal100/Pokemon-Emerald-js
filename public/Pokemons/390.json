@@ -1,0 +1,88 @@
+{
+    "ID": 390,
+    "Name": "Chimchar",
+    "InternalName": "CHIMCHAR",
+    "Type1": "FIRE",
+    "BaseStats": [44, 58, 44, 61, 58, 44],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "62",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "IRONFIST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "EMBER"
+    },
+    {
+        "level": 9,
+        "move": "TAUNT"
+    },
+    {
+        "level": 15,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 17,
+        "move": "FLAMEWHEEL"
+    },
+    {
+        "level": 23,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 25,
+        "move": "TORMENT"
+    },
+    {
+        "level": 31,
+        "move": "FACADE"
+    },
+    {
+        "level": 33,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 39,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 41,
+        "move": "SLACKOFF"
+    },
+    {
+        "level": 47,
+        "move": "FLAMETHROWER"
+    }],
+    "EggMoves": ["ASSIST", "BLAZEKICK", "COUNTER", "DOUBLEKICK", "ENCORE", "FAKEOUT", "FIREPUNCH", "FOCUSENERGY", "FOCUSPUNCH", "HEATWAVE", "HELPINGHAND", "QUICKGUARD", "SUBMISSION", "THUNDERPUNCH"],
+    "Compatibility": ["Field", "Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "6.2",
+    "Color": "Brown",
+    "Shape": "6",
+    "Kind": "Chimp",
+    "Pokedex": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MONFERNO",
+        "by":
+        {
+            "Level": 14
+        }
+    }]
+}

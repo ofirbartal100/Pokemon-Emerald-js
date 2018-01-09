@@ -1,0 +1,98 @@
+{
+    "ID": 623,
+    "Name": "Golurk",
+    "InternalName": "GOLURK",
+    "Type1": "GROUND",
+    "Type2": "GHOST",
+    "BaseStats": [89, 124, 80, 55, 55, 80],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "169",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["IRONFIST","KLUTZ"],
+    "HiddenAbility": "NOGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 1,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 5,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 9,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 13,
+        "move": "SHADOWPUNCH"
+    },
+    {
+        "level": 17,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 21,
+        "move": "MEGAPUNCH"
+    },
+    {
+        "level": 25,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 30,
+        "move": "DYNAMICPUNCH"
+    },
+    {
+        "level": 35,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 40,
+        "move": "CURSE"
+    },
+    {
+        "level": 43,
+        "move": "HEAVYSLAM"
+    },
+    {
+        "level": 50,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 60,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 70,
+        "move": "FOCUSPUNCH"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "6630",
+    "Height": "2.8",
+    "Weight": "330.0",
+    "Color": "Green",
+    "Shape": "12",
+    "Kind": "Automaton",
+    "Pokedex": "It is said that Golurk were ordered to protect people and Pokémon by the ancient people who made them.",
+    "WildItemUncommon": "LIGHTCLAY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

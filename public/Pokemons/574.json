@@ -1,0 +1,100 @@
+{
+    "ID": 574,
+    "Name": "Gothita",
+    "InternalName": "GOTHITA",
+    "Type1": "PSYCHIC",
+    "BaseStats": [45, 30, 50, 45, 55, 65],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "58",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": "FRISK",
+    "HiddenAbility": "SHADOWTAG",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 3,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 7,
+        "move": "TICKLE"
+    },
+    {
+        "level": 10,
+        "move": "FAKETEARS"
+    },
+    {
+        "level": 14,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 16,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 19,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 24,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 25,
+        "move": "PSYSHOCK"
+    },
+    {
+        "level": 28,
+        "move": "FLATTER"
+    },
+    {
+        "level": 31,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 33,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 37,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 40,
+        "move": "TELEKINESIS"
+    },
+    {
+        "level": 46,
+        "move": "CHARM"
+    },
+    {
+        "level": 48,
+        "move": "MAGICROOM"
+    }],
+    "EggMoves": ["CAPTIVATE", "DARKPULSE", "MEANLOOK", "MIRACLEEYE", "MIRRORCOAT", "UPROAR"],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "5.8",
+    "Color": "Purple",
+    "Shape": "12",
+    "Kind": "Fixation",
+    "Pokedex": "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "31",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GOTHORITA",
+        "by":
+        {
+            "Level": 32
+        }
+    }]
+}

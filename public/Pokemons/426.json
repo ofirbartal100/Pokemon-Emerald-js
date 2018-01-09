@@ -1,0 +1,97 @@
+{
+    "ID": 426,
+    "Name": "Drifblim",
+    "InternalName": "DRIFBLIM",
+    "Type1": "GHOST",
+    "Type2": "FLYING",
+    "BaseStats": [150, 80, 44, 80, 90, 54],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fluctuating",
+    "BaseEXP": "174",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["AFTERMATH","UNBURDEN"],
+    "HiddenAbility": "FLAREBOOST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 1,
+        "move": "MINIMIZE"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 4,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 8,
+        "move": "GUST"
+    },
+    {
+        "level": 13,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 16,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 20,
+        "move": "OMINOUSWIND"
+    },
+    {
+        "level": 25,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 27,
+        "move": "HEX"
+    },
+    {
+        "level": 34,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 34,
+        "move": "SPITUP"
+    },
+    {
+        "level": 40,
+        "move": "SHADOWBALL"
+    },
+    {
+        "level": 46,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 52,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 60,
+        "move": "EXPLOSION"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "7905",
+    "Height": "1.2",
+    "Weight": "15.0",
+    "Color": "Purple",
+    "Shape": "4",
+    "Kind": "Blimp",
+    "Pokedex": "It's drowzy in daytime, but flies off in the evening in big groups. No one knows where they go.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "16",
+    "Evolutions": []
+}

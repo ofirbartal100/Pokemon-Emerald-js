@@ -1,0 +1,94 @@
+{
+    "ID": 260,
+    "Name": "Swampert",
+    "InternalName": "SWAMPERT",
+    "Type1": "WATER",
+    "Type2": "GROUND",
+    "BaseStats": [100, 110, 90, 60, 85, 90],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "241",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "DAMP",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 6,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 10,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 15,
+        "move": "BIDE"
+    },
+    {
+        "level": 16,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 20,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 25,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 31,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 39,
+        "move": "MUDDYWATER"
+    },
+    {
+        "level": 46,
+        "move": "PROTECT"
+    },
+    {
+        "level": 52,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 61,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 69,
+        "move": "HAMMERARM"
+    }],
+    "Compatibility": ["Monster", "Water1"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "81.9",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "Kind": "Mud Fish",
+    "Pokedex": "If it senses the approach of a storm and a tidal wave, it protects its seaside nest by piling up boulders. It swims as fast as a jet ski.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

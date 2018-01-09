@@ -1,0 +1,96 @@
+{
+    "ID": 494,
+    "Name": "Victini",
+    "InternalName": "VICTINI",
+    "Type1": "PSYCHIC",
+    "Type2": "FIRE",
+    "BaseStats": [100, 100, 100, 100, 100, 100],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "14",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "100",
+    "Abilities": "VICTORYSTAR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SEARINGSHOT"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "INCINERATE"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 9,
+        "move": "ENDURE"
+    },
+    {
+        "level": 17,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 25,
+        "move": "FLAMECHARGE"
+    },
+    {
+        "level": 33,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 41,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 49,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 57,
+        "move": "INFERNO"
+    },
+    {
+        "level": 65,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 73,
+        "move": "FLAREBLITZ"
+    },
+    {
+        "level": 81,
+        "move": "FINALGAMBIT"
+    },
+    {
+        "level": 89,
+        "move": "STOREDPOWER"
+    },
+    {
+        "level": 97,
+        "move": "OVERHEAT"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "0.4",
+    "Weight": "4.0",
+    "Color": "Yellow",
+    "Shape": "12",
+    "Kind": "Victory",
+    "Pokedex": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

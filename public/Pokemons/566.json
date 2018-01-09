@@ -1,0 +1,108 @@
+{
+    "ID": 566,
+    "Name": "Archen",
+    "InternalName": "ARCHEN",
+    "Type1": "ROCK",
+    "Type2": "FLYING",
+    "BaseStats": [55, 112, 45, 70, 74, 45],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "71",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "DEFEATIST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 5,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 8,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 11,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 15,
+        "move": "PLUCK"
+    },
+    {
+        "level": 18,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 21,
+        "move": "AGILITY"
+    },
+    {
+        "level": 25,
+        "move": "QUICKGUARD"
+    },
+    {
+        "level": 28,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 31,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 35,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 38,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 41,
+        "move": "UTURN"
+    },
+    {
+        "level": 45,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 48,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 51,
+        "move": "THRASH"
+    }],
+    "EggMoves": ["BITE", "DEFOG", "DRAGONPULSE", "EARTHPOWER", "HEADSMASH", "KNOCKOFF", "STEELWING"],
+    "Compatibility": ["Flying", "Water3"],
+    "StepsToHatch": "7905",
+    "Height": "0.5",
+    "Weight": "9.5",
+    "Color": "Yellow",
+    "Shape": "9",
+    "Kind": "First Bird",
+    "Pokedex": "Revived from a fossil, this Pokémon is thought to be the ancestor of all bird Pokémon.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "32",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ARCHEOPS",
+        "by":
+        {
+            "Level": 37
+        }
+    }]
+}

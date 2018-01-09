@@ -1,0 +1,102 @@
+{
+    "ID": 157,
+    "Name": "Typhlosion",
+    "InternalName": "TYPHLOSION",
+    "Type1": "FIRE",
+    "BaseStats": [78, 84, 78, 100, 109, 85],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "240",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "FLASHFIRE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 6,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 10,
+        "move": "EMBER"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 20,
+        "move": "FLAMEWHEEL"
+    },
+    {
+        "level": 24,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 31,
+        "move": "SWIFT"
+    },
+    {
+        "level": 35,
+        "move": "FLAMECHARGE"
+    },
+    {
+        "level": 43,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 48,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 56,
+        "move": "INFERNO"
+    },
+    {
+        "level": 61,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 69,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 74,
+        "move": "ERUPTION"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.7",
+    "Weight": "79.5",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 6],
+    "Kind": "Volcano",
+    "Pokedex": "It can hide behind a shimmering heat haze that it creates using its intense flames. Typhlosion create blazing explosive blasts that burn everything to cinders.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "6",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

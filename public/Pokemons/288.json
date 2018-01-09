@@ -1,0 +1,87 @@
+{
+    "ID": 288,
+    "Name": "Vigoroth",
+    "InternalName": "VIGOROTH",
+    "Type1": "NORMAL",
+    "BaseStats": [80, 80, 80, 90, 55, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "154",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "VITALSPIRIT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "ENCORE"
+    },
+    {
+        "level": 1,
+        "move": "UPROAR"
+    },
+    {
+        "level": 7,
+        "move": "ENCORE"
+    },
+    {
+        "level": 13,
+        "move": "UPROAR"
+    },
+    {
+        "level": 19,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 25,
+        "move": "ENDURE"
+    },
+    {
+        "level": 31,
+        "move": "SLASH"
+    },
+    {
+        "level": 37,
+        "move": "COUNTER"
+    },
+    {
+        "level": 43,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 49,
+        "move": "FOCUSPUNCH"
+    },
+    {
+        "level": 55,
+        "move": "REVERSAL"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "1.4",
+    "Weight": "46.5",
+    "Color": "White",
+    "Shape": "6",
+    "Habitat": "Forest",
+    "Kind": "Wild Monkey",
+    "Pokedex": "It can't keep still because its blood boils with energy. It runs through the fields and mountains all day to calm itself. If it doesn't, it can't sleep at night.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SLAKING",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

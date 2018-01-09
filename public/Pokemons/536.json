@@ -1,0 +1,101 @@
+{
+    "ID": 536,
+    "Name": "Palpitoad",
+    "InternalName": "PALPITOAD",
+    "Type1": "WATER",
+    "Type2": "GROUND",
+    "BaseStats": [75, 65, 55, 69, 65, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "134",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","HYDRATION"],
+    "HiddenAbility": "WATERABSORB",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 1,
+        "move": "ROUND"
+    },
+    {
+        "level": 5,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 9,
+        "move": "ROUND"
+    },
+    {
+        "level": 12,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 16,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 20,
+        "move": "AQUARING"
+    },
+    {
+        "level": 23,
+        "move": "UPROAR"
+    },
+    {
+        "level": 28,
+        "move": "MUDDYWATER"
+    },
+    {
+        "level": 33,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 37,
+        "move": "FLAIL"
+    },
+    {
+        "level": 42,
+        "move": "ECHOEDVOICE"
+    },
+    {
+        "level": 47,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 51,
+        "move": "HYPERVOICE"
+    }],
+    "Compatibility": ["Water1"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "17.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Vibration",
+    "Pokedex": "It lives in the water and on land. It uses its long, sticky tongue to capture prey.",
+    "WildItemCommon": "PERSIMBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SEISMITOAD",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

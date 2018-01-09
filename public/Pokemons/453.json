@@ -1,0 +1,98 @@
+{
+    "ID": 453,
+    "Name": "Croagunk",
+    "InternalName": "CROAGUNK",
+    "Type1": "POISON",
+    "Type2": "FIGHTING",
+    "BaseStats": [48, 61, 40, 50, 61, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "140",
+    "Happiness": "100",
+    "Abilities": ["ANTICIPATION","DRYSKIN"],
+    "HiddenAbility": "POISONTOUCH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 3,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 8,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 10,
+        "move": "TAUNT"
+    },
+    {
+        "level": 15,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 17,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 22,
+        "move": "REVENGE"
+    },
+    {
+        "level": 24,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 29,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 31,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 36,
+        "move": "VENOSHOCK"
+    },
+    {
+        "level": 38,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 43,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 45,
+        "move": "SLUDGEBOMB"
+    },
+    {
+        "level": 50,
+        "move": "FLATTER"
+    }],
+    "EggMoves": ["ACUPRESSURE", "BULLETPUNCH", "COUNTER", "CROSSCHOP", "DRAINPUNCH", "DYNAMICPUNCH", "FAKEOUT", "FEINT", "HEADBUTT", "MEFIRST", "MEDITATE", "SMELLINGSALTS", "VACUUMWAVE", "WAKEUPSLAP"],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "2805",
+    "Height": "0.7",
+    "Weight": "23.0",
+    "Color": "Blue",
+    "Shape": "12",
+    "Kind": "Toxic Mouth",
+    "Pokedex": "Its cheeks hold poison sacs. It tries to catch foes off guard to jab them with toxic fingers.",
+    "WildItemUncommon": "BLACKSLUDGE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "TOXICROAK",
+        "by":
+        {
+            "Level": 37
+        }
+    }]
+}

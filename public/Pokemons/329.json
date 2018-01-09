@@ -1,0 +1,104 @@
+{
+    "ID": 329,
+    "Name": "Vibrava",
+    "InternalName": "VIBRAVA",
+    "Type1": "GROUND",
+    "Type2": "DRAGON",
+    "BaseStats": [50, 70, 50, 70, 50, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "119",
+    "EffortPoints": [0, 1, 0, 1, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SONICBOOM"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 1,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 4,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 7,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 10,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 13,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 17,
+        "move": "BIDE"
+    },
+    {
+        "level": 21,
+        "move": "BULLDOZE"
+    },
+    {
+        "level": 25,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 29,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 34,
+        "move": "SCREECH"
+    },
+    {
+        "level": 35,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 39,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 44,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 49,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "15.3",
+    "Color": "Green",
+    "Shape": "13",
+    "Habitat": "RoughTerrain",
+    "Kind": "Vibration",
+    "Pokedex": "It looses ultrasonic waves by rubbing its wings together. Since a Vibrava's wings are still in the process of growing, it can only fly short distances.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "17",
+    "Evolutions": [
+    {
+        "to": "FLYGON",
+        "by":
+        {
+            "Level": 45
+        }
+    }]
+}

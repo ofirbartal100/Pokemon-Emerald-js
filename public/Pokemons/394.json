@@ -1,0 +1,95 @@
+{
+    "ID": 394,
+    "Name": "Prinplup",
+    "InternalName": "PRINPLUP",
+    "Type1": "WATER",
+    "BaseStats": [64, 66, 68, 50, 81, 76],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "DEFIANT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 8,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 11,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 15,
+        "move": "PECK"
+    },
+    {
+        "level": 16,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 19,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 24,
+        "move": "BIDE"
+    },
+    {
+        "level": 28,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 33,
+        "move": "BRINE"
+    },
+    {
+        "level": 37,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 42,
+        "move": "MIST"
+    },
+    {
+        "level": 46,
+        "move": "DRILLPECK"
+    },
+    {
+        "level": 51,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "23.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Penguin",
+    "Pokedex": "It lives alone, away from others. Apparently, every one of them believes it is the most important.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "EMPOLEON",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

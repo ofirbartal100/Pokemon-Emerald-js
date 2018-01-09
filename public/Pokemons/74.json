@@ -1,0 +1,104 @@
+{
+    "ID": 74,
+    "Name": "Geodude",
+    "InternalName": "GEODUDE",
+    "Type1": "ROCK",
+    "Type2": "GROUND",
+    "BaseStats": [40, 80, 100, 20, 30, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["ROCKHEAD","STURDY"],
+    "HiddenAbility": "SANDVEIL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 4,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 8,
+        "move": "ROCKPOLISH"
+    },
+    {
+        "level": 11,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 15,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 18,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 22,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 25,
+        "move": "SMACKDOWN"
+    },
+    {
+        "level": 29,
+        "move": "SELFDESTRUCT"
+    },
+    {
+        "level": 32,
+        "move": "BULLDOZE"
+    },
+    {
+        "level": 36,
+        "move": "STEALTHROCK"
+    },
+    {
+        "level": 39,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 43,
+        "move": "EXPLOSION"
+    },
+    {
+        "level": 46,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 50,
+        "move": "STONEEDGE"
+    }],
+    "EggMoves": ["AUTOTOMIZE", "BLOCK", "CURSE", "ENDURE", "FLAIL", "FOCUSPUNCH", "HAMMERARM", "MEGAPUNCH", "ROCKCLIMB"],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "4080",
+    "Height": "0.4",
+    "Weight": "20.0",
+    "Color": "Brown",
+    "Shape": "4",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [74, 34],
+    "Kind": "Rock",
+    "Pokedex": "It climbs mountain paths using only the power of its arms. Because they look just like boulders lining paths, hikers may step on them without noticing.",
+    "WildItemUncommon": "EVERSTONE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "15",
+    "Evolutions": [
+    {
+        "to": "GRAVELER",
+        "by":
+        {
+            "Level": 25
+        }
+    }]
+}

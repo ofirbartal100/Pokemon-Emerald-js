@@ -1,0 +1,100 @@
+{
+    "ID": 563,
+    "Name": "Cofagrigus",
+    "InternalName": "COFAGRIGUS",
+    "Type1": "GHOST",
+    "BaseStats": [58, 50, 145, 30, 95, 105],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "169",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": "MUMMY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "PROTECT"
+    },
+    {
+        "level": 1,
+        "move": "DISABLE"
+    },
+    {
+        "level": 1,
+        "move": "HAZE"
+    },
+    {
+        "level": 5,
+        "move": "DISABLE"
+    },
+    {
+        "level": 9,
+        "move": "HAZE"
+    },
+    {
+        "level": 13,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 17,
+        "move": "HEX"
+    },
+    {
+        "level": 21,
+        "move": "WILLOWISP"
+    },
+    {
+        "level": 25,
+        "move": "OMINOUSWIND"
+    },
+    {
+        "level": 29,
+        "move": "CURSE"
+    },
+    {
+        "level": 33,
+        "move": "POWERSPLIT"
+    },
+    {
+        "level": 33,
+        "move": "GUARDSPLIT"
+    },
+    {
+        "level": 34,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 39,
+        "move": "SHADOWBALL"
+    },
+    {
+        "level": 45,
+        "move": "GRUDGE"
+    },
+    {
+        "level": 51,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 57,
+        "move": "DESTINYBOND"
+    }],
+    "Compatibility": ["Mineral", "Amorphous"],
+    "StepsToHatch": "6630",
+    "Height": "1.7",
+    "Weight": "76.5",
+    "Color": "Yellow",
+    "Shape": "5",
+    "Kind": "Coffin",
+    "Pokedex": "They pretend to be elaborate coffins to teach lessons to grave robbers. Their bodies are covered in pure gold.",
+    "WildItemUncommon": "SPELLTAG",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

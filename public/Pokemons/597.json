@@ -1,0 +1,97 @@
+{
+    "ID": 597,
+    "Name": "Ferroseed",
+    "InternalName": "FERROSEED",
+    "Type1": "GRASS",
+    "Type2": "STEEL",
+    "BaseStats": [44, 50, 91, 10, 24, 86],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "IRONBARBS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 6,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 9,
+        "move": "CURSE"
+    },
+    {
+        "level": 14,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 18,
+        "move": "PINMISSILE"
+    },
+    {
+        "level": 21,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 26,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 30,
+        "move": "MIRRORSHOT"
+    },
+    {
+        "level": 35,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 38,
+        "move": "SELFDESTRUCT"
+    },
+    {
+        "level": 43,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 47,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 52,
+        "move": "FLASHCANNON"
+    },
+    {
+        "level": 55,
+        "move": "EXPLOSION"
+    }],
+    "EggMoves": ["BULLETSEED", "GRAVITY", "LEECHSEED", "ROCKCLIMB", "SEEDBOMB", "SPIKES", "STEALTHROCK", "WORRYSEED"],
+    "Compatibility": ["Grass", "Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "18.8",
+    "Color": "Gray",
+    "Shape": "1",
+    "Kind": "Thorn Seed",
+    "Pokedex": "They stick their spikes into cave walls and absorb the minerals they find in the rock.",
+    "WildItemUncommon": "STICKYBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "34",
+    "BattlerAltitude": "10",
+    "Evolutions": [
+    {
+        "to": "FERROTHORN",
+        "by":
+        {
+            "Level": 40
+        }
+    }]
+}

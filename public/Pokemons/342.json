@@ -1,0 +1,98 @@
+{
+    "ID": 342,
+    "Name": "Crawdaunt",
+    "InternalName": "CRAWDAUNT",
+    "Type1": "WATER",
+    "Type2": "DARK",
+    "BaseStats": [63, 120, 85, 55, 90, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fluctuating",
+    "BaseEXP": "164",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "155",
+    "Happiness": "70",
+    "Abilities": ["HYPERCUTTER","SHELLARMOR"],
+    "HiddenAbility": "ADAPTABILITY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "VICEGRIP"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "HARDEN"
+    },
+    {
+        "level": 10,
+        "move": "VICEGRIP"
+    },
+    {
+        "level": 13,
+        "move": "LEER"
+    },
+    {
+        "level": 20,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 23,
+        "move": "PROTECT"
+    },
+    {
+        "level": 26,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 30,
+        "move": "SWIFT"
+    },
+    {
+        "level": 34,
+        "move": "TAUNT"
+    },
+    {
+        "level": 39,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 44,
+        "move": "CRABHAMMER"
+    },
+    {
+        "level": 52,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 57,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 65,
+        "move": "GUILLOTINE"
+    }],
+    "Compatibility": ["Water1", "Water3"],
+    "StepsToHatch": "4080",
+    "Height": "1.1",
+    "Weight": "32.8",
+    "Color": "Red",
+    "Shape": "14",
+    "Habitat": "WatersEdge",
+    "Kind": "Rogue",
+    "Pokedex": "A brutish Pokémon that loves to battle. A veteran Crawdaunt that has prevailed in hundreds of battles has giant pincers marked with countless scars.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

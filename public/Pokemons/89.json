@@ -1,0 +1,99 @@
+{
+    "ID": 89,
+    "Name": "Muk",
+    "InternalName": "MUK",
+    "Type1": "POISON",
+    "BaseStats": [105, 105, 75, 50, 65, 100],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "175",
+    "EffortPoints": [1, 1, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["STENCH","STICKYHOLD"],
+    "HiddenAbility": "POISONTOUCH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 4,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 12,
+        "move": "DISABLE"
+    },
+    {
+        "level": 15,
+        "move": "SLUDGE"
+    },
+    {
+        "level": 18,
+        "move": "MINIMIZE"
+    },
+    {
+        "level": 21,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 26,
+        "move": "SLUDGEBOMB"
+    },
+    {
+        "level": 29,
+        "move": "FLING"
+    },
+    {
+        "level": 32,
+        "move": "SCREECH"
+    },
+    {
+        "level": 37,
+        "move": "SLUDGEWAVE"
+    },
+    {
+        "level": 43,
+        "move": "ACIDARMOR"
+    },
+    {
+        "level": 49,
+        "move": "GUNKSHOT"
+    },
+    {
+        "level": 57,
+        "move": "MEMENTO"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "30.0",
+    "Color": "Purple",
+    "Shape": "4",
+    "Habitat": "Urban",
+    "RegionalNumbers": [89, 118],
+    "Kind": "Sludge",
+    "Pokedex": "It prefers warm and humid habitats. In the summertime, the toxic substances in its body intensify, making Muk reek like putrid kitchen garbage.",
+    "WildItemUncommon": "NUGGET",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

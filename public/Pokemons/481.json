@@ -1,0 +1,75 @@
+{
+    "ID": 481,
+    "Name": "Mesprit",
+    "InternalName": "MESPRIT",
+    "Type1": "PSYCHIC",
+    "BaseStats": [80, 105, 105, 80, 105, 105],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": [0, 1, 0, 0, 1, 1],
+    "Rareness": "3",
+    "Happiness": "140",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "REST"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 6,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 16,
+        "move": "PROTECT"
+    },
+    {
+        "level": 21,
+        "move": "SWIFT"
+    },
+    {
+        "level": 31,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 36,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 46,
+        "move": "CHARM"
+    },
+    {
+        "level": 51,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 61,
+        "move": "COPYCAT"
+    },
+    {
+        "level": 66,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 76,
+        "move": "HEALINGWISH"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "0.3",
+    "Weight": "0.3",
+    "Color": "Pink",
+    "Shape": "6",
+    "Kind": "Emotion",
+    "Pokedex": "Known as “The Being of Emotion.” It taught humans the nobility of sorrow, pain, and joy.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "13",
+    "Evolutions": []
+}

@@ -1,0 +1,99 @@
+{
+    "ID": 102,
+    "Name": "Exeggcute",
+    "InternalName": "EXEGGCUTE",
+    "Type1": "GRASS",
+    "Type2": "PSYCHIC",
+    "BaseStats": [60, 40, 80, 40, 60, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "65",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": "CHLOROPHYLL",
+    "HiddenAbility": "HARVEST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BARRAGE"
+    },
+    {
+        "level": 1,
+        "move": "UPROAR"
+    },
+    {
+        "level": 1,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 7,
+        "move": "REFLECT"
+    },
+    {
+        "level": 11,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 17,
+        "move": "BULLETSEED"
+    },
+    {
+        "level": 19,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 21,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 23,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 27,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 33,
+        "move": "WORRYSEED"
+    },
+    {
+        "level": 37,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 43,
+        "move": "SOLARBEAM"
+    },
+    {
+        "level": 47,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 53,
+        "move": "BESTOW"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "BLOCK", "CURSE", "GIGADRAIN", "INGRAIN", "LEAFSTORM", "LUCKYCHANT", "MOONLIGHT", "NATURALGIFT", "NATUREPOWER", "POWERSWAP", "SKILLSWAP", "SYNTHESIS"],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "2.5",
+    "Color": "Pink",
+    "Shape": "11",
+    "Habitat": "Forest",
+    "RegionalNumbers": [102, 105],
+    "Kind": "Egg",
+    "Pokedex": "It consists of six eggs that care for each other. The eggs attract each other and spin around. When cracks increasingly appear, it is close to evolution.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "29",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "EXEGGUTOR",
+        "by":
+        {
+            "Item": "LEAFSTONE"
+        }
+    }]
+}

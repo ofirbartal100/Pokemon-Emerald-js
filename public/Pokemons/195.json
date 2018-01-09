@@ -1,0 +1,87 @@
+{
+    "ID": 195,
+    "Name": "Quagsire",
+    "InternalName": "QUAGSIRE",
+    "Type1": "WATER",
+    "Type2": "GROUND",
+    "BaseStats": [95, 85, 85, 35, 65, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "151",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["DAMP","WATERABSORB"],
+    "HiddenAbility": "UNAWARE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 5,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 9,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 15,
+        "move": "SLAM"
+    },
+    {
+        "level": 19,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 24,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 31,
+        "move": "YAWN"
+    },
+    {
+        "level": 36,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 41,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 48,
+        "move": "MIST"
+    },
+    {
+        "level": 48,
+        "move": "HAZE"
+    },
+    {
+        "level": 53,
+        "move": "MUDDYWATER"
+    }],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "75.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [0, 57],
+    "Kind": "Water Fish",
+    "Pokedex": "A Quagsire hunts by leaving its mouth wide open in water and waiting for its prey to blunder in. Because it doesn't move, it does not get very hungry.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

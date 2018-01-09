@@ -1,0 +1,105 @@
+{
+    "ID": 553,
+    "Name": "Krookodile",
+    "InternalName": "KROOKODILE",
+    "Type1": "GROUND",
+    "Type2": "DARK",
+    "BaseStats": [95, 117, 70, 92, 65, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "229",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","MOXIE"],
+    "HiddenAbility": "ANGERPOINT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "RAGE"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 4,
+        "move": "BITE"
+    },
+    {
+        "level": 7,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 10,
+        "move": "TORMENT"
+    },
+    {
+        "level": 13,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 16,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 19,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 22,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 25,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 28,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 32,
+        "move": "DIG"
+    },
+    {
+        "level": 36,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 42,
+        "move": "FOULPLAY"
+    },
+    {
+        "level": 48,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 54,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 60,
+        "move": "OUTRAGE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "96.3",
+    "Color": "Red",
+    "Shape": "6",
+    "Kind": "Intimidation",
+    "Pokedex": "It can expand the focus of its eyes, enabling it to see objects in the far distance as if it were using binoculars.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

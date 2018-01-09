@@ -1,0 +1,111 @@
+{
+    "ID": 575,
+    "Name": "Gothorita",
+    "InternalName": "GOTHORITA",
+    "Type1": "PSYCHIC",
+    "BaseStats": [60, 45, 70, 55, 75, 85],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "137",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "100",
+    "Happiness": "70",
+    "Abilities": "FRISK",
+    "HiddenAbility": "SHADOWTAG",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "TICKLE"
+    },
+    {
+        "level": 1,
+        "move": "FAKETEARS"
+    },
+    {
+        "level": 3,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 7,
+        "move": "TICKLE"
+    },
+    {
+        "level": 10,
+        "move": "FAKETEARS"
+    },
+    {
+        "level": 14,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 16,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 19,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 24,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 25,
+        "move": "PSYSHOCK"
+    },
+    {
+        "level": 28,
+        "move": "FLATTER"
+    },
+    {
+        "level": 31,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 34,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 39,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 43,
+        "move": "TELEKINESIS"
+    },
+    {
+        "level": 50,
+        "move": "CHARM"
+    },
+    {
+        "level": 53,
+        "move": "MAGICROOM"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "18.0",
+    "Color": "Purple",
+    "Shape": "12",
+    "Kind": "Manipulate",
+    "Pokedex": "Starlight is the source of their power. At night, they mark star positions by using psychic power to float stones.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GOTHITELLE",
+        "by":
+        {
+            "Level": 41
+        }
+    }]
+}

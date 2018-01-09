@@ -1,0 +1,56 @@
+{
+    "ID": 547,
+    "Name": "Whimsicott",
+    "InternalName": "WHIMSICOTT",
+    "Type1": "GRASS",
+    "BaseStats": [60, 67, 85, 116, 77, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "168",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["PRANKSTER","INFILTRATOR"],
+    "HiddenAbility": "CHLOROPHYLL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWTH"
+    },
+    {
+        "level": 1,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 1,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 1,
+        "move": "COTTONSPORE"
+    },
+    {
+        "level": 10,
+        "move": "GUST"
+    },
+    {
+        "level": 28,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 46,
+        "move": "HURRICANE"
+    }],
+    "Compatibility": ["Fairy", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "6.6",
+    "Color": "Green",
+    "Shape": "12",
+    "Kind": "Windveiled",
+    "Pokedex": "Riding whirlwinds, they appear. These Pokémon sneak through gaps into houses and cause all sorts of mischief.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

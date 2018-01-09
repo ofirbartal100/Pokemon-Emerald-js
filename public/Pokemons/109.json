@@ -1,0 +1,94 @@
+{
+    "ID": 109,
+    "Name": "Koffing",
+    "InternalName": "KOFFING",
+    "Type1": "POISON",
+    "BaseStats": [40, 65, 95, 35, 60, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "68",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "SMOG"
+    },
+    {
+        "level": 7,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 12,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 15,
+        "move": "CLEARSMOG"
+    },
+    {
+        "level": 18,
+        "move": "SLUDGE"
+    },
+    {
+        "level": 23,
+        "move": "SELFDESTRUCT"
+    },
+    {
+        "level": 26,
+        "move": "HAZE"
+    },
+    {
+        "level": 29,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 34,
+        "move": "SLUDGEBOMB"
+    },
+    {
+        "level": 37,
+        "move": "EXPLOSION"
+    },
+    {
+        "level": 40,
+        "move": "DESTINYBOND"
+    },
+    {
+        "level": 45,
+        "move": "MEMENTO"
+    }],
+    "EggMoves": ["CURSE", "DESTINYBOND", "GRUDGE", "PAINSPLIT", "PSYBEAM", "PSYWAVE", "SCREECH", "SPITE", "SPITUP", "STOCKPILE", "SWALLOW"],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "1.0",
+    "Color": "Purple",
+    "Shape": "1",
+    "Habitat": "Urban",
+    "RegionalNumbers": [109, 115],
+    "Kind": "Poison Gas",
+    "Pokedex": "Getting up close to a Koffing will give you a chance to observe, through its thin skin, the toxic gases swirling inside. It blows up at the slightest stimulation.",
+    "WildItemUncommon": "SMOKEBALL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "16",
+    "Evolutions": [
+    {
+        "to": "WEEZING",
+        "by":
+        {
+            "Level": 35
+        }
+    }]
+}

@@ -1,0 +1,98 @@
+{
+    "ID": 98,
+    "Name": "Krabby",
+    "InternalName": "KRABBY",
+    "Type1": "WATER",
+    "BaseStats": [30, 105, 90, 50, 25, 25],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "65",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "225",
+    "Happiness": "70",
+    "Abilities": ["HYPERCUTTER","SHELLARMOR"],
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 5,
+        "move": "VICEGRIP"
+    },
+    {
+        "level": 9,
+        "move": "LEER"
+    },
+    {
+        "level": 11,
+        "move": "HARDEN"
+    },
+    {
+        "level": 15,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 19,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 21,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 25,
+        "move": "STOMP"
+    },
+    {
+        "level": 29,
+        "move": "PROTECT"
+    },
+    {
+        "level": 31,
+        "move": "GUILLOTINE"
+    },
+    {
+        "level": 35,
+        "move": "SLAM"
+    },
+    {
+        "level": 39,
+        "move": "BRINE"
+    },
+    {
+        "level": 41,
+        "move": "CRABHAMMER"
+    },
+    {
+        "level": 45,
+        "move": "FLAIL"
+    }],
+    "EggMoves": ["AGILITY", "AMNESIA", "ANCIENTPOWER", "BIDE", "CHIPAWAY", "ENDURE", "FLAIL", "HAZE", "KNOCKOFF", "SLAM", "TICKLE"],
+    "Compatibility": ["Water3"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "6.5",
+    "Color": "Red",
+    "Shape": "14",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [98, 166],
+    "Kind": "River Crab",
+    "Pokedex": "Krabby live in holes dug into beaches. On sandy shores with little in the way of food, they can be seen squabbling with each other over territory.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "KINGLER",
+        "by":
+        {
+            "Level": 28
+        }
+    }]
+}

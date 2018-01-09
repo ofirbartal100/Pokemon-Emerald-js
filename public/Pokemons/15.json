@@ -1,0 +1,80 @@
+{
+    "ID": 15,
+    "Name": "Beedrill",
+    "InternalName": "BEEDRILL",
+    "Type1": "BUG",
+    "Type2": "POISON",
+    "BaseStats": [65, 80, 40, 75, 45, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 2, 0, 0, 0, 1],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "SWARM",
+    "HiddenAbility": "SNIPER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 10,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 13,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 16,
+        "move": "TWINEEDLE"
+    },
+    {
+        "level": 19,
+        "move": "RAGE"
+    },
+    {
+        "level": 22,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 25,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 28,
+        "move": "PINMISSILE"
+    },
+    {
+        "level": 31,
+        "move": "AGILITY"
+    },
+    {
+        "level": 34,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 37,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 40,
+        "move": "ENDEAVOR"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "1.0",
+    "Weight": "29.5",
+    "Color": "Yellow",
+    "Shape": "13",
+    "Habitat": "Forest",
+    "RegionalNumbers": [15, 29],
+    "Kind": "Poison Bee",
+    "Pokedex": "A Beedrill is extremely territorial. For safety reasons, no one should ever approach its nest. If angered, they will attack in a swarm.",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "11",
+    "Evolutions": []
+}

@@ -1,0 +1,89 @@
+{
+    "ID": 5,
+    "Name": "Charmeleon",
+    "InternalName": "CHARMELEON",
+    "Type1": "FIRE",
+    "BaseStats": [58, 64, 58, 80, 80, 65],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 0, 0, 1, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "SOLARPOWER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 7,
+        "move": "EMBER"
+    },
+    {
+        "level": 10,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 17,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 21,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 28,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 32,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 39,
+        "move": "SLASH"
+    },
+    {
+        "level": 43,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 50,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 54,
+        "move": "INFERNO"
+    }],
+    "Compatibility": ["Monster", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "19.0",
+    "Color": "Red",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [5, 235],
+    "Kind": "Flame",
+    "Pokedex": "Without pity, its sharp claws destroy foes. If it encounters a strong enemy, it becomes agitated, and the flame on its tail flares with a bluish white color.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CHARIZARD",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

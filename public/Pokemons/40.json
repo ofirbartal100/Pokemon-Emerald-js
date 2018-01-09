@@ -1,0 +1,46 @@
+{
+    "ID": 40,
+    "Name": "Wigglytuff",
+    "InternalName": "WIGGLYTUFF",
+    "Type1": "NORMAL",
+    "BaseStats": [140, 70, 45, 45, 75, 50],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "191",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "50",
+    "Happiness": "70",
+    "Abilities": "CUTECHARM",
+    "HiddenAbility": "FRISK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SING"
+    },
+    {
+        "level": 1,
+        "move": "DISABLE"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLESLAP"
+    }],
+    "Compatibility": ["Fairy"],
+    "StepsToHatch": "2805",
+    "Height": "1.0",
+    "Weight": "12.0",
+    "Color": "Pink",
+    "Shape": "12",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [40, 45],
+    "Kind": "Balloon",
+    "Pokedex": "Its fur is the ultimate in luxuriousness. Sleeping alongside a Wigglytuff is simply divine. Its body expands seemingly without end when it inhales.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

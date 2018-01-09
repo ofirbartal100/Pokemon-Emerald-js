@@ -1,0 +1,111 @@
+{
+    "ID": 123,
+    "Name": "Scyther",
+    "InternalName": "SCYTHER",
+    "Type1": "BUG",
+    "Type2": "FLYING",
+    "BaseStats": [70, 110, 80, 105, 55, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "100",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["SWARM","TECHNICIAN"],
+    "HiddenAbility": "STEADFAST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "VACUUMWAVE"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 9,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 13,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 17,
+        "move": "AGILITY"
+    },
+    {
+        "level": 21,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 25,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 29,
+        "move": "SLASH"
+    },
+    {
+        "level": 33,
+        "move": "RAZORWIND"
+    },
+    {
+        "level": 37,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 41,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 45,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 49,
+        "move": "DOUBLEHIT"
+    },
+    {
+        "level": 53,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 57,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 61,
+        "move": "FEINT"
+    }],
+    "EggMoves": ["BATONPASS", "BUGBUZZ", "COUNTER", "DEFOG", "ENDURE", "NIGHTSLASH", "RAZORWIND", "REVERSAL", "SILVERWIND", "STEELWING"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "6630",
+    "Height": "1.5",
+    "Weight": "56.0",
+    "Color": "Green",
+    "Shape": "13",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [123, 111],
+    "Kind": "Mantis",
+    "Pokedex": "Its blindingly fast speed adds to the sharpness of its twin forearm scythes. The scythes can slice through thick logs in one wicked stroke.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SCIZOR",
+        "by":
+        {
+            "TradeItem": "METALCOAT"
+        }
+    }]
+}

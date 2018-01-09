@@ -1,0 +1,99 @@
+{
+    "ID": 219,
+    "Name": "Magcargo",
+    "InternalName": "MAGCARGO",
+    "Type1": "FIRE",
+    "Type2": "ROCK",
+    "BaseStats": [50, 50, 120, 30, 80, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "144",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["MAGMAARMOR","FLAMEBODY"],
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "YAWN"
+    },
+    {
+        "level": 1,
+        "move": "SMOG"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 1,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 5,
+        "move": "EMBER"
+    },
+    {
+        "level": 10,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 14,
+        "move": "HARDEN"
+    },
+    {
+        "level": 19,
+        "move": "RECOVER"
+    },
+    {
+        "level": 23,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 28,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 32,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 37,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 38,
+        "move": "SHELLSMASH"
+    },
+    {
+        "level": 44,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 52,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 59,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 67,
+        "move": "EARTHPOWER"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "55.0",
+    "Color": "Red",
+    "Shape": "2",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [0, 217],
+    "Kind": "Lava",
+    "Pokedex": "The shell on its back is made of hardened magma. Tens of thousands of years spent living in volcanic craters have turned Magcargo's bodies into magma.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,95 @@
+{
+    "ID": 246,
+    "Name": "Larvitar",
+    "InternalName": "LARVITAR",
+    "Type1": "ROCK",
+    "Type2": "GROUND",
+    "BaseStats": [50, 64, 50, 41, 45, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "GUTS",
+    "HiddenAbility": "SANDVEIL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 10,
+        "move": "SCREECH"
+    },
+    {
+        "level": 14,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 19,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 23,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 28,
+        "move": "THRASH"
+    },
+    {
+        "level": 32,
+        "move": "DARKPULSE"
+    },
+    {
+        "level": 37,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 41,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 46,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 50,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 55,
+        "move": "HYPERBEAM"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "ASSURANCE", "CURSE", "DRAGONDANCE", "FOCUSENERGY", "IRONDEFENSE", "IRONHEAD", "IRONTAIL", "OUTRAGE", "PURSUIT", "STEALTHROCK", "STOMP"],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "10455",
+    "Height": "0.6",
+    "Weight": "72.0",
+    "Color": "Green",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [0, 249],
+    "Kind": "Rock Skin",
+    "Pokedex": "A Larvitar is born deep under the ground. It must eat its way through the soil above and reach the surface for it to see its parents' faces.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "PUPITAR",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

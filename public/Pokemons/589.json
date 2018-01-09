@@ -1,0 +1,101 @@
+{
+    "ID": 589,
+    "Name": "Escavalier",
+    "InternalName": "ESCAVALIER",
+    "Type1": "BUG",
+    "Type2": "STEEL",
+    "BaseStats": [70, 135, 105, 20, 60, 105],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["SWARM","SHELLARMOR"],
+    "HiddenAbility": "OVERCOAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "QUICKGUARD"
+    },
+    {
+        "level": 1,
+        "move": "TWINEEDLE"
+    },
+    {
+        "level": 4,
+        "move": "LEER"
+    },
+    {
+        "level": 8,
+        "move": "QUICKGUARD"
+    },
+    {
+        "level": 13,
+        "move": "TWINEEDLE"
+    },
+    {
+        "level": 16,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 20,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 25,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 28,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 32,
+        "move": "SLASH"
+    },
+    {
+        "level": 37,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 40,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 44,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 49,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 52,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 56,
+        "move": "GIGAIMPACT"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "1.0",
+    "Weight": "33.0",
+    "Color": "Gray",
+    "Shape": "4",
+    "Kind": "Cavalry",
+    "Pokedex": "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "5",
+    "Evolutions": []
+}

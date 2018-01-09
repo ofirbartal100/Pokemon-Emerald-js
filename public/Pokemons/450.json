@@ -1,0 +1,92 @@
+{
+    "ID": 450,
+    "Name": "Hippowdon",
+    "InternalName": "HIPPOWDON",
+    "Type1": "GROUND",
+    "BaseStats": [108, 112, 118, 47, 68, 72],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "184",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": "SANDSTREAM",
+    "HiddenAbility": "SANDFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "YAWN"
+    },
+    {
+        "level": 7,
+        "move": "BITE"
+    },
+    {
+        "level": 13,
+        "move": "YAWN"
+    },
+    {
+        "level": 19,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 19,
+        "move": "DIG"
+    },
+    {
+        "level": 25,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 31,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 40,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 50,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 60,
+        "move": "FISSURE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "7905",
+    "Height": "2.0",
+    "Weight": "300.0",
+    "Color": "Brown",
+    "Shape": "8",
+    "Kind": "Heavyweight",
+    "Pokedex": "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

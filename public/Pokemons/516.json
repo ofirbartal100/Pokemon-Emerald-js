@@ -1,0 +1,46 @@
+{
+    "ID": 516,
+    "Name": "Simipour",
+    "InternalName": "SIMIPOUR",
+    "Type1": "WATER",
+    "BaseStats": [75, 98, 63, 101, 98, 63],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "174",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "GLUTTONY",
+    "HiddenAbility": "TORRENT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "LICK"
+    },
+    {
+        "level": 1,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 1,
+        "move": "SCALD"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "29.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Geyser",
+    "Pokedex": "The high-pressure water expelled from its tail is so powerful, it can destroy a concrete wall.",
+    "WildItemCommon": "ORANBERRY",
+    "WildItemUncommon": "RINDOBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

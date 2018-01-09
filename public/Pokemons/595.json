@@ -1,0 +1,101 @@
+{
+    "ID": 595,
+    "Name": "Joltik",
+    "InternalName": "JOLTIK",
+    "Type1": "BUG",
+    "Type2": "ELECTRIC",
+    "BaseStats": [50, 47, 50, 65, 57, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "64",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["COMPOUNDEYES","UNNERVE"],
+    "HiddenAbility": "SWARM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "STRINGSHOT"
+    },
+    {
+        "level": 1,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 1,
+        "move": "SPIDERWEB"
+    },
+    {
+        "level": 4,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 7,
+        "move": "SCREECH"
+    },
+    {
+        "level": 12,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 15,
+        "move": "ELECTROWEB"
+    },
+    {
+        "level": 18,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 23,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 26,
+        "move": "SLASH"
+    },
+    {
+        "level": 29,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 34,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 37,
+        "move": "AGILITY"
+    },
+    {
+        "level": 40,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 45,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 48,
+        "move": "BUGBUZZ"
+    }],
+    "EggMoves": ["CROSSPOISON", "DISABLE", "FEINTATTACK", "PINMISSILE", "POISONSTING", "PURSUIT", "ROCKCLIMB"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "0.1",
+    "Weight": "0.6",
+    "Color": "Yellow",
+    "Shape": "14",
+    "Kind": "Attaching",
+    "Pokedex": "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "37",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GALVANTULA",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

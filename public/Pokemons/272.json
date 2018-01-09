@@ -1,0 +1,46 @@
+{
+    "ID": 272,
+    "Name": "Ludicolo",
+    "InternalName": "LUDICOLO",
+    "Type1": "WATER",
+    "Type2": "GRASS",
+    "BaseStats": [80, 70, 70, 70, 90, 100],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "216",
+    "EffortPoints": [0, 0, 0, 0, 0, 3],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","RAINDISH"],
+    "HiddenAbility": "OWNTEMPO",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 1,
+        "move": "NATUREPOWER"
+    }],
+    "Compatibility": ["Water1", "Grass"],
+    "StepsToHatch": "4080",
+    "Height": "1.5",
+    "Weight": "55.0",
+    "Color": "Green",
+    "Shape": "12",
+    "Habitat": "WatersEdge",
+    "Kind": "Carefree",
+    "Pokedex": "When it hears festive music, all the cells in its body become stimulated, and it begins moving in rhythm. It does not quail even when it faces a tough opponent.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,102 @@
+{
+    "ID": 340,
+    "Name": "Whiscash",
+    "InternalName": "WHISCASH",
+    "Type1": "WATER",
+    "Type2": "GROUND",
+    "BaseStats": [110, 78, 73, 60, 76, 71],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "164",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["OBLIVIOUS","ANTICIPATION"],
+    "HiddenAbility": "HYDRATION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 1,
+        "move": "TICKLE"
+    },
+    {
+        "level": 1,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 1,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 6,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 6,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 10,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 14,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 18,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 22,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 26,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 33,
+        "move": "REST"
+    },
+    {
+        "level": 33,
+        "move": "SNORE"
+    },
+    {
+        "level": 39,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 45,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 51,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 57,
+        "move": "FISSURE"
+    }],
+    "Compatibility": ["Water2"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "23.6",
+    "Color": "Blue",
+    "Shape": "3",
+    "Habitat": "WatersEdge",
+    "Kind": "Whiskers",
+    "Pokedex": "Mysteriously, it can foretell earthquakes. In the daytime, it sleeps in mud at the bottom of a pond. When it awakens, it continually feeds throughout the night.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

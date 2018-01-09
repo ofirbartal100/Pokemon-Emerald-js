@@ -1,0 +1,101 @@
+{
+    "ID": 624,
+    "Name": "Pawniard",
+    "InternalName": "PAWNIARD",
+    "Type1": "DARK",
+    "Type2": "STEEL",
+    "BaseStats": [45, 85, 70, 60, 40, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "68",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "35",
+    "Abilities": ["DEFIANT","INNERFOCUS"],
+    "HiddenAbility": "PRESSURE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 6,
+        "move": "LEER"
+    },
+    {
+        "level": 9,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 14,
+        "move": "TORMENT"
+    },
+    {
+        "level": 17,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 22,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 25,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 30,
+        "move": "SLASH"
+    },
+    {
+        "level": 33,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 38,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 41,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 46,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 49,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 54,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 57,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 62,
+        "move": "GUILLOTINE"
+    }],
+    "EggMoves": ["HEADBUTT", "MEANLOOK", "PSYCHOCUT", "PURSUIT", "REVENGE", "STEALTHROCK", "SUCKERPUNCH"],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "10.2",
+    "Color": "Red",
+    "Shape": "12",
+    "Kind": "Sharp Blade",
+    "Pokedex": "They fight at Bisharp's command. They cling to their prey and inflict damage by sinking their blades into it.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BISHARP",
+        "by":
+        {
+            "Level": 52
+        }
+    }]
+}

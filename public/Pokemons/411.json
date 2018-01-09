@@ -1,0 +1,89 @@
+{
+    "ID": 411,
+    "Name": "Bastiodon",
+    "InternalName": "BASTIODON",
+    "Type1": "ROCK",
+    "Type2": "STEEL",
+    "BaseStats": [60, 52, 168, 30, 47, 138],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "STURDY",
+    "HiddenAbility": "SOUNDPROOF",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "PROTECT"
+    },
+    {
+        "level": 1,
+        "move": "TAUNT"
+    },
+    {
+        "level": 1,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 6,
+        "move": "TAUNT"
+    },
+    {
+        "level": 10,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 15,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 19,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 24,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 28,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 30,
+        "move": "BLOCK"
+    },
+    {
+        "level": 36,
+        "move": "ENDURE"
+    },
+    {
+        "level": 43,
+        "move": "METALBURST"
+    },
+    {
+        "level": 51,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 58,
+        "move": "HEAVYSLAM"
+    }],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "7905",
+    "Height": "1.3",
+    "Weight": "149.5",
+    "Color": "Gray",
+    "Shape": "8",
+    "Kind": "Shield",
+    "Pokedex": "Any frontal attack is repulsed. It is a docile Pokémon that feeds on grass and berries.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

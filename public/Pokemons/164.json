@@ -1,0 +1,107 @@
+{
+    "ID": 164,
+    "Name": "Noctowl",
+    "InternalName": "NOCTOWL",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [100, 50, 50, 70, 76, 96],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "155",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["INSOMNIA","KEENEYE"],
+    "HiddenAbility": "TINTEDLENS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SKYATTACK"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 1,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 5,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 9,
+        "move": "PECK"
+    },
+    {
+        "level": 13,
+        "move": "UPROAR"
+    },
+    {
+        "level": 17,
+        "move": "REFLECT"
+    },
+    {
+        "level": 22,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 27,
+        "move": "ECHOEDVOICE"
+    },
+    {
+        "level": 32,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 37,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 42,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 47,
+        "move": "SYNCHRONOISE"
+    },
+    {
+        "level": 52,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 57,
+        "move": "PSYCHOSHIFT"
+    },
+    {
+        "level": 62,
+        "move": "ROOST"
+    },
+    {
+        "level": 67,
+        "move": "DREAMEATER"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "1.6",
+    "Weight": "40.8",
+    "Color": "Brown",
+    "Shape": "9",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 16],
+    "Kind": "Owl",
+    "Pokedex": "It unfailingly catches prey in darkness. Noctowl owe their success to superior vision that allows them to see in minimal light, and to their supple and silent wings.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

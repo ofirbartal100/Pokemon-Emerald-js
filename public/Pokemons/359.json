@@ -1,0 +1,102 @@
+{
+    "ID": 359,
+    "Name": "Absol",
+    "InternalName": "ABSOL",
+    "Type1": "DARK",
+    "BaseStats": [65, 130, 60, 75, 75, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "163",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "30",
+    "Happiness": "35",
+    "Abilities": ["PRESSURE","SUPERLUCK"],
+    "HiddenAbility": "JUSTIFIED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "FEINT"
+    },
+    {
+        "level": 4,
+        "move": "LEER"
+    },
+    {
+        "level": 9,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 12,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 17,
+        "move": "TAUNT"
+    },
+    {
+        "level": 20,
+        "move": "BITE"
+    },
+    {
+        "level": 25,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 28,
+        "move": "SLASH"
+    },
+    {
+        "level": 33,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 36,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 41,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 44,
+        "move": "DETECT"
+    },
+    {
+        "level": 49,
+        "move": "PSYCHOCUT"
+    },
+    {
+        "level": 52,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 57,
+        "move": "RAZORWIND"
+    },
+    {
+        "level": 60,
+        "move": "MEFIRST"
+    },
+    {
+        "level": 65,
+        "move": "PERISHSONG"
+    }],
+    "EggMoves": ["ASSURANCE", "BATONPASS", "CURSE", "DOUBLEEDGE", "FEINTATTACK", "HEX", "MAGICCOAT", "MEANLOOK", "MEFIRST", "MEGAHORN", "PERISHSONG", "PUNISHMENT", "SUCKERPUNCH", "ZENHEADBUTT"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "6630",
+    "Height": "1.2",
+    "Weight": "47.0",
+    "Color": "White",
+    "Shape": "8",
+    "Habitat": "Mountain",
+    "Kind": "Disaster",
+    "Pokedex": "It sharply senses even subtle changes in the sky and the land to predict natural disasters. It is a long-lived Pokémon that has a life-span of 100 years.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

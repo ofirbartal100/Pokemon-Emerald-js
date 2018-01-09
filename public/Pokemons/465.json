@@ -1,0 +1,105 @@
+{
+    "ID": 465,
+    "Name": "Tangrowth",
+    "InternalName": "TANGROWTH",
+    "Type1": "GRASS",
+    "BaseStats": [100, 100, 125, 50, 110, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "187",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","LEAFGUARD"],
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 1,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 4,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 7,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 10,
+        "move": "ABSORB"
+    },
+    {
+        "level": 14,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 17,
+        "move": "BIND"
+    },
+    {
+        "level": 20,
+        "move": "GROWTH"
+    },
+    {
+        "level": 23,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 27,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 30,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 33,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 36,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 40,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 43,
+        "move": "SLAM"
+    },
+    {
+        "level": 46,
+        "move": "TICKLE"
+    },
+    {
+        "level": 49,
+        "move": "WRINGOUT"
+    },
+    {
+        "level": 53,
+        "move": "POWERWHIP"
+    },
+    {
+        "level": 56,
+        "move": "BLOCK"
+    }],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "2.0",
+    "Weight": "128.6",
+    "Color": "Blue",
+    "Shape": "12",
+    "RegionalNumbers": [0, 183],
+    "Kind": "Vine",
+    "Pokedex": "It ensnares prey by extending arms made of vines. Losing arms to predators does not trouble it.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

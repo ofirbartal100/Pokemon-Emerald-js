@@ -1,0 +1,90 @@
+{
+    "ID": 398,
+    "Name": "Staraptor",
+    "InternalName": "STARAPTOR",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [85, 120, 70, 100, 50, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "214",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "INTIMIDATE",
+    "HiddenAbility": "RECKLESS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 5,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 9,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 13,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 18,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 23,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 28,
+        "move": "AERIALACE"
+    },
+    {
+        "level": 33,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 34,
+        "move": "CLOSECOMBAT"
+    },
+    {
+        "level": 41,
+        "move": "AGILITY"
+    },
+    {
+        "level": 49,
+        "move": "BRAVEBIRD"
+    },
+    {
+        "level": 57,
+        "move": "FINALGAMBIT"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "1.2",
+    "Weight": "24.9",
+    "Color": "Brown",
+    "Shape": "9",
+    "Kind": "Predator",
+    "Pokedex": "It has a savage nature. It will courageously challenge foes that are much larger.",
+    "WildItemUncommon": "YACHEBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

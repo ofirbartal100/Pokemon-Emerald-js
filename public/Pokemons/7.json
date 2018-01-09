@@ -1,0 +1,94 @@
+{
+    "ID": 7,
+    "Name": "Squirtle",
+    "InternalName": "SQUIRTLE",
+    "Type1": "WATER",
+    "BaseStats": [44, 48, 65, 43, 50, 64],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "63",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "RAINDISH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 7,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 10,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 13,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 16,
+        "move": "BITE"
+    },
+    {
+        "level": 19,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 22,
+        "move": "PROTECT"
+    },
+    {
+        "level": 25,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 28,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 31,
+        "move": "SKULLBASH"
+    },
+    {
+        "level": 34,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 37,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 40,
+        "move": "HYDROPUMP"
+    }],
+    "EggMoves": ["AQUAJET", "AQUARING", "BRINE", "FAKEOUT", "FLAIL", "FORESIGHT", "HAZE", "MIRRORCOAT", "MIST", "MUDSPORT", "MUDDYWATER", "REFRESH", "WATERSPOUT", "YAWN"],
+    "Compatibility": ["Monster", "Water1"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "9.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [7, 237],
+    "Kind": "Tiny Turtle",
+    "Pokedex": "Its shell is not just for protection. Its rounded shape and the grooves on its surface minimize resistance in water, enabling Squirtle to swim at high speeds.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "WARTORTLE",
+        "by":
+        {
+            "Level": 16
+        }
+    }]
+}

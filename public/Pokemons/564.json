@@ -1,0 +1,109 @@
+{
+    "ID": 564,
+    "Name": "Tirtouga",
+    "InternalName": "TIRTOUGA",
+    "Type1": "WATER",
+    "Type2": "ROCK",
+    "BaseStats": [54, 78, 103, 22, 53, 45],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "71",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["SOLIDROCK","STURDY"],
+    "HiddenAbility": "SWIFTSWIM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BIDE"
+    },
+    {
+        "level": 1,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 5,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 8,
+        "move": "BITE"
+    },
+    {
+        "level": 11,
+        "move": "PROTECT"
+    },
+    {
+        "level": 15,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 18,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 21,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 25,
+        "move": "WIDEGUARD"
+    },
+    {
+        "level": 28,
+        "move": "BRINE"
+    },
+    {
+        "level": 31,
+        "move": "SMACKDOWN"
+    },
+    {
+        "level": 35,
+        "move": "CURSE"
+    },
+    {
+        "level": 38,
+        "move": "SHELLSMASH"
+    },
+    {
+        "level": 41,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 45,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 48,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 51,
+        "move": "HYDROPUMP"
+    }],
+    "EggMoves": ["BIDE", "BODYSLAM", "FLAIL", "IRONDEFENSE", "KNOCKOFF", "ROCKTHROW", "SLAM", "WATERPULSE", "WHIRLPOOL"],
+    "Compatibility": ["Water1", "Water3"],
+    "StepsToHatch": "7905",
+    "Height": "0.7",
+    "Weight": "16.5",
+    "Color": "Blue",
+    "Shape": "8",
+    "Kind": "Prototurtle",
+    "Pokedex": "About 100 million years ago, these Pokémon swam in oceans. It is thought they also went on land to attack prey.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "34",
+    "BattlerAltitude": "10",
+    "Evolutions": [
+    {
+        "to": "CARRACOSTA",
+        "by":
+        {
+            "Level": 37
+        }
+    }]
+}

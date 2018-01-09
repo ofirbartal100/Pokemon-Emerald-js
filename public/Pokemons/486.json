@@ -1,0 +1,83 @@
+{
+    "ID": 486,
+    "Name": "Regigigas",
+    "InternalName": "REGIGIGAS",
+    "Type1": "NORMAL",
+    "BaseStats": [110, 160, 110, 100, 80, 110],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "302",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "SLOWSTART",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "ICEPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "DIZZYPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 25,
+        "move": "REVENGE"
+    },
+    {
+        "level": 40,
+        "move": "WIDEGUARD"
+    },
+    {
+        "level": 50,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 65,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 75,
+        "move": "CRUSHGRIP"
+    },
+    {
+        "level": 90,
+        "move": "HEAVYSLAM"
+    },
+    {
+        "level": 100,
+        "move": "GIGAIMPACT"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "3.7",
+    "Weight": "420.0",
+    "Color": "White",
+    "Shape": "12",
+    "Kind": "Colossal",
+    "Pokedex": "There is an enduring legend that states this Pokémon towed continents with ropes.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "9",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

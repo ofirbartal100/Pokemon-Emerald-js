@@ -1,0 +1,85 @@
+{
+    "ID": 396,
+    "Name": "Starly",
+    "InternalName": "STARLY",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [40, 55, 30, 60, 30, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "49",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "KEENEYE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 5,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 9,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 13,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 17,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 21,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 25,
+        "move": "AERIALACE"
+    },
+    {
+        "level": 29,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 33,
+        "move": "AGILITY"
+    },
+    {
+        "level": 37,
+        "move": "BRAVEBIRD"
+    },
+    {
+        "level": 41,
+        "move": "FINALGAMBIT"
+    }],
+    "EggMoves": ["ASTONISH", "DETECT", "DOUBLEEDGE", "FEATHERDANCE", "FORESIGHT", "FURYATTACK", "PURSUIT", "REVENGE", "ROOST", "SANDATTACK", "STEELWING", "UPROAR"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "0.3",
+    "Weight": "2.0",
+    "Color": "Brown",
+    "Shape": "9",
+    "Kind": "Starling",
+    "Pokedex": "They flock in great numbers. Though small, they flap their wings with great power.",
+    "WildItemUncommon": "YACHEBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "STARAVIA",
+        "by":
+        {
+            "Level": 14
+        }
+    }]
+}

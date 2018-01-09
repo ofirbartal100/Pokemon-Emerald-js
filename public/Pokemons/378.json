@@ -1,0 +1,81 @@
+{
+    "ID": 378,
+    "Name": "Regice",
+    "InternalName": "REGICE",
+    "Type1": "ICE",
+    "BaseStats": [80, 50, 100, 50, 100, 200],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": [0, 0, 0, 0, 0, 3],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "CLEARBODY",
+    "HiddenAbility": "ICEBODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "EXPLOSION"
+    },
+    {
+        "level": 1,
+        "move": "STOMP"
+    },
+    {
+        "level": 9,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 17,
+        "move": "CURSE"
+    },
+    {
+        "level": 25,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 33,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 41,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 49,
+        "move": "CHARGEBEAM"
+    },
+    {
+        "level": 57,
+        "move": "LOCKON"
+    },
+    {
+        "level": 65,
+        "move": "ZAPCANNON"
+    },
+    {
+        "level": 73,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 81,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 89,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "1.8",
+    "Weight": "175.0",
+    "Color": "Blue",
+    "Shape": "12",
+    "Habitat": "Cave",
+    "Kind": "Iceberg",
+    "Pokedex": "Its entire body is made of Antarctic ice. After extensive studies, researchers believe the ice was formed during an ice age.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

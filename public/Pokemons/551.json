@@ -1,0 +1,105 @@
+{
+    "ID": 551,
+    "Name": "Sandile",
+    "InternalName": "SANDILE",
+    "Type1": "GROUND",
+    "Type2": "DARK",
+    "BaseStats": [50, 72, 35, 65, 35, 35],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "58",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "180",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","MOXIE"],
+    "HiddenAbility": "ANGERPOINT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "RAGE"
+    },
+    {
+        "level": 4,
+        "move": "BITE"
+    },
+    {
+        "level": 7,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 10,
+        "move": "TORMENT"
+    },
+    {
+        "level": 13,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 16,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 19,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 22,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 25,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 28,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 31,
+        "move": "DIG"
+    },
+    {
+        "level": 34,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 37,
+        "move": "FOULPLAY"
+    },
+    {
+        "level": 40,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 43,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 46,
+        "move": "THRASH"
+    }],
+    "EggMoves": ["BEATUP", "COUNTER", "DOUBLEEDGE", "FIREFANG", "FOCUSENERGY", "MEANLOOK", "PURSUIT", "ROCKCLIMB", "THUNDERFANG", "UPROAR"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "15.2",
+    "Color": "Brown",
+    "Shape": "8",
+    "Kind": "Desert Croc",
+    "Pokedex": "It moves along below the sand's surface, except for its nose and eyes. A dark membrane shields its eyes from the sun.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "39",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "KROKOROK",
+        "by":
+        {
+            "Level": 29
+        }
+    }]
+}

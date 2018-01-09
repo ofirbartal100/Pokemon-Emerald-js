@@ -1,0 +1,95 @@
+{
+    "ID": 1,
+    "Name": "Bulbasaur",
+    "InternalName": "BULBASAUR",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": [45, 49, 49, 45, 65, 65],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "64",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "CHLOROPHYLL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 3,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 9,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 13,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 13,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 15,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 19,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 21,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 25,
+        "move": "GROWTH"
+    },
+    {
+        "level": 27,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 31,
+        "move": "WORRYSEED"
+    },
+    {
+        "level": 33,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 37,
+        "move": "SEEDBOMB"
+    }],
+    "EggMoves": ["AMNESIA", "CHARM", "CURSE", "ENDURE", "GIGADRAIN", "GRASSWHISTLE", "INGRAIN", "LEAFSTORM", "MAGICALLEAF", "NATUREPOWER", "PETALDANCE", "POWERWHIP", "SKULLBASH", "SLUDGE"],
+    "Compatibility": ["Monster", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "6.9",
+    "Color": "Green",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [1, 231],
+    "Kind": "Seed",
+    "Pokedex": "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun's rays, the seed grows progressively larger.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "IVYSAUR",
+        "by":
+        {
+            "Level": 16
+        }
+    }]
+}

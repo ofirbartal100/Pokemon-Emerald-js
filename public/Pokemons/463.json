@@ -1,0 +1,94 @@
+{
+    "ID": 463,
+    "Name": "Lickilicky",
+    "InternalName": "LICKILICKY",
+    "Type1": "NORMAL",
+    "BaseStats": [110, 85, 95, 50, 80, 95],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "180",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": ["OWNTEMPO","OBLIVIOUS"],
+    "HiddenAbility": "CLOUDNINE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LICK"
+    },
+    {
+        "level": 5,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 9,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 13,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 17,
+        "move": "WRAP"
+    },
+    {
+        "level": 21,
+        "move": "STOMP"
+    },
+    {
+        "level": 25,
+        "move": "DISABLE"
+    },
+    {
+        "level": 29,
+        "move": "SLAM"
+    },
+    {
+        "level": 33,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 37,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 41,
+        "move": "MEFIRST"
+    },
+    {
+        "level": 45,
+        "move": "REFRESH"
+    },
+    {
+        "level": 49,
+        "move": "SCREECH"
+    },
+    {
+        "level": 53,
+        "move": "POWERWHIP"
+    },
+    {
+        "level": 57,
+        "move": "WRINGOUT"
+    },
+    {
+        "level": 61,
+        "move": "GYROBALL"
+    }],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "5355",
+    "Height": "1.7",
+    "Weight": "140.0",
+    "Color": "Pink",
+    "Shape": "12",
+    "RegionalNumbers": [0, 181],
+    "Kind": "Licking",
+    "Pokedex": "It wraps things with its extensible tongue. Getting too close to it will leave you soaked with drool.",
+    "WildItemUncommon": "LAGGINGTAIL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

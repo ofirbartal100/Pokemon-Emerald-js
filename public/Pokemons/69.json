@@ -1,0 +1,91 @@
+{
+    "ID": 69,
+    "Name": "Bellsprout",
+    "InternalName": "BELLSPROUT",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": [50, 75, 35, 40, 70, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "CHLOROPHYLL",
+    "HiddenAbility": "GLUTTONY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 7,
+        "move": "GROWTH"
+    },
+    {
+        "level": 11,
+        "move": "WRAP"
+    },
+    {
+        "level": 13,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 15,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 17,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 23,
+        "move": "ACID"
+    },
+    {
+        "level": 27,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 29,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 35,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 39,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 41,
+        "move": "SLAM"
+    },
+    {
+        "level": 47,
+        "move": "WRINGOUT"
+    }],
+    "EggMoves": ["BULLETSEED", "CLEARSMOG", "ENCORE", "GIGADRAIN", "INGRAIN", "LEECHLIFE", "MAGICALLEAF", "NATURALGIFT", "POWERWHIP", "SYNTHESIS", "TICKLE", "WEATHERBALL", "WORRYSEED"],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "4.0",
+    "Color": "Green",
+    "Shape": "12",
+    "Habitat": "Forest",
+    "RegionalNumbers": [69, 64],
+    "Kind": "Flower",
+    "Pokedex": "A Bellsprout's thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, it leaks a fluid that melts even iron.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "WEEPINBELL",
+        "by":
+        {
+            "Level": 21
+        }
+    }]
+}

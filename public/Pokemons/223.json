@@ -1,0 +1,90 @@
+{
+    "ID": 223,
+    "Name": "Remoraid",
+    "InternalName": "REMORAID",
+    "Type1": "WATER",
+    "BaseStats": [35, 65, 35, 65, 65, 35],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["HUSTLE","SNIPER"],
+    "HiddenAbility": "MOODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 6,
+        "move": "LOCKON"
+    },
+    {
+        "level": 10,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 14,
+        "move": "AURORABEAM"
+    },
+    {
+        "level": 18,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 22,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 26,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 30,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 34,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 38,
+        "move": "BULLETSEED"
+    },
+    {
+        "level": 42,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 46,
+        "move": "HYPERBEAM"
+    },
+    {
+        "level": 50,
+        "move": "SOAK"
+    }],
+    "EggMoves": ["ACIDSPRAY", "AURORABEAM", "FLAIL", "HAZE", "MUDSHOT", "OCTAZOOKA", "ROCKBLAST", "SCREECH", "SNORE", "SUPERSONIC", "SWIFT", "WATERPULSE", "WATERSPOUT"],
+    "Compatibility": ["Water1", "Water2"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "12.0",
+    "Color": "Gray",
+    "Shape": "3",
+    "Habitat": "Sea",
+    "RegionalNumbers": [0, 174],
+    "Kind": "Jet",
+    "Pokedex": "A Remoraid uses its abdominal muscles to forcefully expel swallowed water, then shoot down flying prey. When evolution approaches, it travels down rivers.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "8",
+    "Evolutions": [
+    {
+        "to": "OCTILLERY",
+        "by":
+        {
+            "Level": 25
+        }
+    }]
+}

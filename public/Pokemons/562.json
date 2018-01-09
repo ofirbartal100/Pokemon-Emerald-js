@@ -1,0 +1,96 @@
+{
+    "ID": 562,
+    "Name": "Yamask",
+    "InternalName": "YAMASK",
+    "Type1": "GHOST",
+    "BaseStats": [38, 30, 85, 30, 55, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "MUMMY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "PROTECT"
+    },
+    {
+        "level": 5,
+        "move": "DISABLE"
+    },
+    {
+        "level": 9,
+        "move": "HAZE"
+    },
+    {
+        "level": 13,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 17,
+        "move": "HEX"
+    },
+    {
+        "level": 21,
+        "move": "WILLOWISP"
+    },
+    {
+        "level": 25,
+        "move": "OMINOUSWIND"
+    },
+    {
+        "level": 29,
+        "move": "CURSE"
+    },
+    {
+        "level": 33,
+        "move": "POWERSPLIT"
+    },
+    {
+        "level": 33,
+        "move": "GUARDSPLIT"
+    },
+    {
+        "level": 37,
+        "move": "SHADOWBALL"
+    },
+    {
+        "level": 41,
+        "move": "GRUDGE"
+    },
+    {
+        "level": 45,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 49,
+        "move": "DESTINYBOND"
+    }],
+    "EggMoves": ["DISABLE", "ENDURE", "FAKETEARS", "HEALBLOCK", "IMPRISON", "MEMENTO", "NASTYPLOT", "NIGHTMARE"],
+    "Compatibility": ["Mineral", "Amorphous"],
+    "StepsToHatch": "6630",
+    "Height": "0.5",
+    "Weight": "1.5",
+    "Color": "Black",
+    "Shape": "4",
+    "Kind": "Spirit",
+    "Pokedex": "These Pokémon arose from the spirits of people interred in graves in past ages. Each retains memories of its former life.",
+    "WildItemUncommon": "SPELLTAG",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "34",
+    "BattlerAltitude": "14",
+    "Evolutions": [
+    {
+        "to": "COFAGRIGUS",
+        "by":
+        {
+            "Level": 34
+        }
+    }]
+}

@@ -1,0 +1,76 @@
+{
+    "ID": 287,
+    "Name": "Slakoth",
+    "InternalName": "SLAKOTH",
+    "Type1": "NORMAL",
+    "BaseStats": [60, 60, 60, 30, 35, 35],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "56",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "TRUANT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "YAWN"
+    },
+    {
+        "level": 7,
+        "move": "ENCORE"
+    },
+    {
+        "level": 13,
+        "move": "SLACKOFF"
+    },
+    {
+        "level": 19,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 25,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 31,
+        "move": "COVET"
+    },
+    {
+        "level": 37,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 43,
+        "move": "COUNTER"
+    },
+    {
+        "level": 49,
+        "move": "FLAIL"
+    }],
+    "EggMoves": ["AFTERYOU", "BODYSLAM", "CRUSHCLAW", "CURSE", "HAMMERARM", "NIGHTSLASH", "PURSUIT", "SLASH", "SLEEPTALK", "SNORE", "TICKLE"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.8",
+    "Weight": "24.0",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Forest",
+    "Kind": "Slacker",
+    "Pokedex": "It sleeps virtually all day and night long. It doesn't change its nest its entire life, but it sometimes travels great distances by swimming in rivers.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "31",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "VIGOROTH",
+        "by":
+        {
+            "Level": 18
+        }
+    }]
+}

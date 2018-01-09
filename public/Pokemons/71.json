@@ -1,0 +1,71 @@
+{
+    "ID": 71,
+    "Name": "Victreebel",
+    "InternalName": "VICTREEBEL",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": [80, 105, 65, 70, 100, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "216",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "CHLOROPHYLL",
+    "HiddenAbility": "GLUTTONY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 1,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 1,
+        "move": "SPITUP"
+    },
+    {
+        "level": 1,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 1,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 1,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 1,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 27,
+        "move": "LEAFTORNADO"
+    },
+    {
+        "level": 47,
+        "move": "LEAFSTORM"
+    },
+    {
+        "level": 47,
+        "move": "LEAFBLADE"
+    }],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "1.7",
+    "Weight": "15.5",
+    "Color": "Green",
+    "Shape": "5",
+    "Habitat": "Forest",
+    "RegionalNumbers": [71, 66],
+    "Kind": "Flycatcher",
+    "Pokedex": "The long vine extending from its head is waved about as if it were a living thing to attract prey. When an unsuspecting victim approaches, it is swallowed whole.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

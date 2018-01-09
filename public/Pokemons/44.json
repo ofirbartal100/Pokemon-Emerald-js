@@ -1,0 +1,101 @@
+{
+    "ID": 44,
+    "Name": "Gloom",
+    "InternalName": "GLOOM",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": [60, 65, 70, 40, 85, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "138",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "CHLOROPHYLL",
+    "HiddenAbility": "STENCH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 1,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 1,
+        "move": "ACID"
+    },
+    {
+        "level": 5,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 9,
+        "move": "ACID"
+    },
+    {
+        "level": 13,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 15,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 17,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 23,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 29,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 35,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 41,
+        "move": "MOONLIGHT"
+    },
+    {
+        "level": 47,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 53,
+        "move": "PETALDANCE"
+    }],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "8.6",
+    "Color": "Blue",
+    "Shape": "12",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [44, 84],
+    "Kind": "Weed",
+    "Pokedex": "A horribly noxious honey drools from its mouth. One whiff of the honey can result in memory loss. Some fans are said to enjoy this overwhelming stink, however.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "VILEPLUME",
+        "by":
+        {
+            "Item": "LEAFSTONE"
+        }
+    },
+    {
+        "to": "BELLOSSOM",
+        "by":
+        {
+            "Item": "SUNSTONE"
+        }
+    }]
+}

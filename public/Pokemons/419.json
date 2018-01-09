@@ -1,0 +1,105 @@
+{
+    "ID": 419,
+    "Name": "Floatzel",
+    "InternalName": "FLOATZEL",
+    "Type1": "WATER",
+    "BaseStats": [85, 105, 55, 115, 85, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "SWIFTSWIM",
+    "HiddenAbility": "WATERVEIL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 1,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 1,
+        "move": "SONICBOOM"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 11,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 15,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 18,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 21,
+        "move": "SWIFT"
+    },
+    {
+        "level": 24,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 29,
+        "move": "DOUBLEHIT"
+    },
+    {
+        "level": 35,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 41,
+        "move": "RAZORWIND"
+    },
+    {
+        "level": 46,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 51,
+        "move": "AGILITY"
+    },
+    {
+        "level": 57,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "33.5",
+    "Color": "Brown",
+    "Shape": "8",
+    "Kind": "Sea Weasel",
+    "Pokedex": "It floats using its well-developed flotation sac. It assists in the rescues of drowning people.",
+    "WildItemUncommon": "WACANBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "7",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,100 @@
+{
+    "ID": 534,
+    "Name": "Conkeldurr",
+    "InternalName": "CONKELDURR",
+    "Type1": "FIGHTING",
+    "BaseStats": [105, 140, 95, 45, 55, 65],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "227",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["GUTS","SHEERFORCE"],
+    "HiddenAbility": "IRONFIST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "BIDE"
+    },
+    {
+        "level": 4,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 8,
+        "move": "BIDE"
+    },
+    {
+        "level": 12,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 16,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 20,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 24,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 29,
+        "move": "BULKUP"
+    },
+    {
+        "level": 33,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 37,
+        "move": "DYNAMICPUNCH"
+    },
+    {
+        "level": 41,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 45,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 49,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 53,
+        "move": "FOCUSPUNCH"
+    },
+    {
+        "level": 57,
+        "move": "SUPERPOWER"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "87.0",
+    "Color": "Brown",
+    "Shape": "12",
+    "Kind": "Muscular",
+    "Pokedex": "They use concrete pillars as walking canes. They know moves that enable them to swing the pillars freely in battle.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

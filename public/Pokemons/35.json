@@ -1,0 +1,124 @@
+{
+    "ID": 35,
+    "Name": "Clefairy",
+    "InternalName": "CLEFAIRY",
+    "Type1": "NORMAL",
+    "BaseStats": [70, 45, 48, 35, 60, 65],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "113",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "150",
+    "Happiness": "140",
+    "Abilities": ["CUTECHARM","MAGICGUARD"],
+    "HiddenAbility": "FRIENDGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 4,
+        "move": "ENCORE"
+    },
+    {
+        "level": 7,
+        "move": "SING"
+    },
+    {
+        "level": 10,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 13,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 16,
+        "move": "FOLLOWME"
+    },
+    {
+        "level": 19,
+        "move": "BESTOW"
+    },
+    {
+        "level": 22,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 25,
+        "move": "MINIMIZE"
+    },
+    {
+        "level": 28,
+        "move": "STOREDPOWER"
+    },
+    {
+        "level": 31,
+        "move": "METRONOME"
+    },
+    {
+        "level": 34,
+        "move": "COSMICPOWER"
+    },
+    {
+        "level": 37,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 40,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 43,
+        "move": "MOONLIGHT"
+    },
+    {
+        "level": 46,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 49,
+        "move": "GRAVITY"
+    },
+    {
+        "level": 52,
+        "move": "METEORMASH"
+    },
+    {
+        "level": 55,
+        "move": "HEALINGWISH"
+    },
+    {
+        "level": 58,
+        "move": "AFTERYOU"
+    }],
+    "Compatibility": ["Fairy"],
+    "StepsToHatch": "2805",
+    "Height": "0.6",
+    "Weight": "7.5",
+    "Color": "Pink",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [35, 41],
+    "Kind": "Fairy",
+    "Pokedex": "On every night of a full moon, they come out to play. When dawn arrives, the tired Clefairy go to sleep nestled up against each other in deep and quiet mountains.",
+    "WildItemCommon": "LEPPABERRY",
+    "WildItemUncommon": "MOONSTONE",
+    "WildItemRare": "COMETSHARD",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CLEFABLE",
+        "by":
+        {
+            "Item": "MOONSTONE"
+        }
+    }]
+}

@@ -1,0 +1,104 @@
+{
+    "ID": 510,
+    "Name": "Liepard",
+    "InternalName": "LIEPARD",
+    "Type1": "DARK",
+    "BaseStats": [64, 88, 50, 106, 88, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "156",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["LIMBER","UNBURDEN"],
+    "HiddenAbility": "PRANKSTER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "ASSIST"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 3,
+        "move": "GROWL"
+    },
+    {
+        "level": 6,
+        "move": "ASSIST"
+    },
+    {
+        "level": 10,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 12,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 15,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 19,
+        "move": "TORMENT"
+    },
+    {
+        "level": 22,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 26,
+        "move": "HONECLAWS"
+    },
+    {
+        "level": 31,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 34,
+        "move": "SLASH"
+    },
+    {
+        "level": 38,
+        "move": "TAUNT"
+    },
+    {
+        "level": 43,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 47,
+        "move": "SNATCH"
+    },
+    {
+        "level": 50,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 55,
+        "move": "SUCKERPUNCH"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "37.5",
+    "Color": "Purple",
+    "Shape": "8",
+    "Kind": "Cruel",
+    "Pokedex": "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

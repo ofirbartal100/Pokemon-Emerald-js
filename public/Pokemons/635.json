@@ -1,0 +1,100 @@
+{
+    "ID": 635,
+    "Name": "Hydreigon",
+    "InternalName": "HYDREIGON",
+    "Type1": "DARK",
+    "Type2": "DRAGON",
+    "BaseStats": [92, 105, 90, 98, 125, 90],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "14",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TRIATTACK"
+    },
+    {
+        "level": 1,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 4,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 9,
+        "move": "BITE"
+    },
+    {
+        "level": 12,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 17,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 20,
+        "move": "ROAR"
+    },
+    {
+        "level": 25,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 28,
+        "move": "SLAM"
+    },
+    {
+        "level": 32,
+        "move": "DRAGONPULSE"
+    },
+    {
+        "level": 38,
+        "move": "WORKUP"
+    },
+    {
+        "level": 42,
+        "move": "DRAGONRUSH"
+    },
+    {
+        "level": 48,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 55,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 68,
+        "move": "HYPERVOICE"
+    },
+    {
+        "level": 79,
+        "move": "OUTRAGE"
+    }],
+    "Compatibility": ["Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "1.8",
+    "Weight": "160.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Brutal",
+    "Pokedex": "The heads on their arms do not have brains. They use all three heads to consume and destroy everything.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "6",
+    "Evolutions": []
+}

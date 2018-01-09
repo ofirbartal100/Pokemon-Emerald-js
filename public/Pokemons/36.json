@@ -1,0 +1,49 @@
+{
+    "ID": 36,
+    "Name": "Clefable",
+    "InternalName": "CLEFABLE",
+    "Type1": "NORMAL",
+    "BaseStats": [95, 70, 73, 60, 85, 90],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "213",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "25",
+    "Happiness": "140",
+    "Abilities": ["CUTECHARM","MAGICGUARD"],
+    "HiddenAbility": "UNAWARE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SING"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 1,
+        "move": "MINIMIZE"
+    },
+    {
+        "level": 1,
+        "move": "METRONOME"
+    }],
+    "Compatibility": ["Fairy"],
+    "StepsToHatch": "2805",
+    "Height": "1.3",
+    "Weight": "40.0",
+    "Color": "Pink",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [36, 42],
+    "Kind": "Fairy",
+    "Pokedex": "A Clefable uses its wings to skip lightly as if it were flying. Its bouncy step lets it even walk on water. On quiet, moonlit nights, it strolls on lakes.",
+    "WildItemCommon": "LEPPABERRY",
+    "WildItemUncommon": "MOONSTONE",
+    "WildItemRare": "COMETSHARD",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,106 @@
+{
+    "ID": 544,
+    "Name": "Whirlipede",
+    "InternalName": "WHIRLIPEDE",
+    "Type1": "BUG",
+    "Type2": "POISON",
+    "BaseStats": [40, 55, 99, 47, 40, 79],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "126",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["POISONPOINT","SWARM"],
+    "HiddenAbility": "QUICKFEET",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 1,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 1,
+        "move": "SCREECH"
+    },
+    {
+        "level": 5,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 8,
+        "move": "SCREECH"
+    },
+    {
+        "level": 12,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 15,
+        "move": "PROTECT"
+    },
+    {
+        "level": 19,
+        "move": "POISONTAIL"
+    },
+    {
+        "level": 22,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 23,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 28,
+        "move": "VENOSHOCK"
+    },
+    {
+        "level": 32,
+        "move": "AGILITY"
+    },
+    {
+        "level": 37,
+        "move": "STEAMROLLER"
+    },
+    {
+        "level": 41,
+        "move": "TOXIC"
+    },
+    {
+        "level": 46,
+        "move": "ROCKCLIMB"
+    },
+    {
+        "level": 50,
+        "move": "DOUBLEEDGE"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "1.2",
+    "Weight": "58.5",
+    "Color": "Gray",
+    "Shape": "1",
+    "Kind": "Curlipede",
+    "Pokedex": "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
+    "WildItemCommon": "PECHABERRY",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "31",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SCOLIPEDE",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

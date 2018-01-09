@@ -1,0 +1,102 @@
+{
+    "ID": 150,
+    "Name": "Mewtwo",
+    "InternalName": "MEWTWO",
+    "Type1": "PSYCHIC",
+    "BaseStats": [106, 110, 90, 130, 154, 90],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "306",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "DISABLE"
+    },
+    {
+        "level": 1,
+        "move": "BARRIER"
+    },
+    {
+        "level": 8,
+        "move": "SWIFT"
+    },
+    {
+        "level": 15,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 22,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 29,
+        "move": "MIRACLEEYE"
+    },
+    {
+        "level": 36,
+        "move": "MIST"
+    },
+    {
+        "level": 43,
+        "move": "PSYCHOCUT"
+    },
+    {
+        "level": 50,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 57,
+        "move": "POWERSWAP"
+    },
+    {
+        "level": 57,
+        "move": "GUARDSWAP"
+    },
+    {
+        "level": 64,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 71,
+        "move": "MEFIRST"
+    },
+    {
+        "level": 79,
+        "move": "RECOVER"
+    },
+    {
+        "level": 86,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 93,
+        "move": "AURASPHERE"
+    },
+    {
+        "level": 100,
+        "move": "PSYSTRIKE"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "2.0",
+    "Weight": "122.0",
+    "Color": "Purple",
+    "Shape": "6",
+    "Habitat": "Rare",
+    "RegionalNumbers": [150, 254],
+    "Kind": "Genetic",
+    "Pokedex": "A Pokémon that was created by genetic manipulation. However, even though the scientific power of humans made its body, they failed to give it a warm heart.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

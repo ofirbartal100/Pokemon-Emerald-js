@@ -1,0 +1,93 @@
+{
+    "ID": 392,
+    "Name": "Infernape",
+    "InternalName": "INFERNAPE",
+    "Type1": "FIRE",
+    "Type2": "FIGHTING",
+    "BaseStats": [76, 104, 71, 108, 104, 71],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "240",
+    "EffortPoints": [0, 1, 0, 1, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "IRONFIST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 1,
+        "move": "TAUNT"
+    },
+    {
+        "level": 7,
+        "move": "EMBER"
+    },
+    {
+        "level": 9,
+        "move": "TAUNT"
+    },
+    {
+        "level": 14,
+        "move": "MACHPUNCH"
+    },
+    {
+        "level": 16,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 19,
+        "move": "FLAMEWHEEL"
+    },
+    {
+        "level": 26,
+        "move": "FEINT"
+    },
+    {
+        "level": 29,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 36,
+        "move": "CLOSECOMBAT"
+    },
+    {
+        "level": 42,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 52,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 58,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 68,
+        "move": "FLAREBLITZ"
+    }],
+    "Compatibility": ["Field", "Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "55.0",
+    "Color": "Brown",
+    "Shape": "6",
+    "Kind": "Flame",
+    "Pokedex": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

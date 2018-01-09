@@ -1,0 +1,53 @@
+{
+    "ID": 573,
+    "Name": "Cinccino",
+    "InternalName": "CINCCINO",
+    "Type1": "NORMAL",
+    "BaseStats": [75, 95, 60, 115, 65, 60],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "165",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["CUTECHARM","TECHNICIAN"],
+    "HiddenAbility": "SKILLLINK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BULLETSEED"
+    },
+    {
+        "level": 1,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 1,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 1,
+        "move": "TICKLE"
+    },
+    {
+        "level": 1,
+        "move": "SING"
+    },
+    {
+        "level": 1,
+        "move": "TAILSLAP"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.5",
+    "Weight": "7.5",
+    "Color": "Gray",
+    "Shape": "8",
+    "Kind": "Scarf",
+    "Pokedex": "Their white fur feels amazing to touch. Their fur repels dust and prevents static electricity from building up.",
+    "WildItemCommon": "CHESTOBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

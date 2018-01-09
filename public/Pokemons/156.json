@@ -1,0 +1,101 @@
+{
+    "ID": 156,
+    "Name": "Quilava",
+    "InternalName": "QUILAVA",
+    "Type1": "FIRE",
+    "BaseStats": [58, 64, 58, 80, 80, 65],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 0, 0, 1, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "FLASHFIRE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 6,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 10,
+        "move": "EMBER"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 20,
+        "move": "FLAMEWHEEL"
+    },
+    {
+        "level": 24,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 31,
+        "move": "SWIFT"
+    },
+    {
+        "level": 35,
+        "move": "FLAMECHARGE"
+    },
+    {
+        "level": 42,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 46,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 53,
+        "move": "INFERNO"
+    },
+    {
+        "level": 57,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 64,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 68,
+        "move": "ERUPTION"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "19.0",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 5],
+    "Kind": "Volcano",
+    "Pokedex": "It intimidates foes with intense gusts of flames and superheated air. Its quick nimbleness lets it dodge attacks even while scorching an enemy.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "TYPHLOSION",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

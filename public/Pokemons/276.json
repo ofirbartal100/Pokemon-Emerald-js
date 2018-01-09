@@ -1,0 +1,79 @@
+{
+    "ID": 276,
+    "Name": "Taillow",
+    "InternalName": "TAILLOW",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [40, 55, 30, 85, 30, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "54",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": "GUTS",
+    "HiddenAbility": "SCRAPPY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 4,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 8,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 13,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 19,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 26,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 34,
+        "move": "AERIALACE"
+    },
+    {
+        "level": 43,
+        "move": "AGILITY"
+    },
+    {
+        "level": 53,
+        "move": "AIRSLASH"
+    }],
+    "EggMoves": ["BRAVEBIRD", "DEFOG", "MIRRORMOVE", "PURSUIT", "RAGE", "REFRESH", "ROOST", "SKYATTACK", "STEELWING", "SUPERSONIC", "WHIRLWIND"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "0.3",
+    "Weight": "2.3",
+    "Color": "Blue",
+    "Shape": "9",
+    "Habitat": "Grassland",
+    "Kind": "TinySwallow",
+    "Pokedex": "Although it is small, it is very courageous. It will take on a larger Skarmory on an equal footing. However, its will weakens if it becomes hungry.",
+    "WildItemUncommon": "CHARTIBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "18",
+    "Evolutions": [
+    {
+        "to": "SWELLOW",
+        "by":
+        {
+            "Level": 22
+        }
+    }]
+}

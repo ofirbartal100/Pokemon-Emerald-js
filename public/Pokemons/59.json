@@ -1,0 +1,57 @@
+{
+    "ID": 59,
+    "Name": "Arcanine",
+    "InternalName": "ARCANINE",
+    "Type1": "FIRE",
+    "BaseStats": [90, 110, 80, 95, 100, 80],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "194",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","FLASHFIRE"],
+    "HiddenAbility": "JUSTIFIED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "ROAR"
+    },
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 34,
+        "move": "EXTREMESPEED"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.9",
+    "Weight": "155.0",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [59, 130],
+    "Kind": "Legendary",
+    "Pokedex": "This fleet-footed Pokémon is said to run over 6,200 miles in a single day and night. The fire that blazes wildly within its body is its source of power.",
+    "WildItemCommon": "RAWSTBERRY",
+    "WildItemUncommon": "RAWSTBERRY",
+    "WildItemRare": "RAWSTBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "9",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,86 @@
+{
+    "ID": 4,
+    "Name": "Charmander",
+    "InternalName": "CHARMANDER",
+    "Type1": "FIRE",
+    "BaseStats": [39, 52, 43, 65, 60, 50],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "62",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "SOLARPOWER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "EMBER"
+    },
+    {
+        "level": 10,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 16,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 19,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 25,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 28,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 34,
+        "move": "SLASH"
+    },
+    {
+        "level": 37,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 43,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 46,
+        "move": "INFERNO"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "BEATUP", "BELLYDRUM", "BITE", "COUNTER", "CRUNCH", "DRAGONDANCE", "DRAGONPULSE", "DRAGONRUSH", "FLAREBLITZ", "FOCUSPUNCH", "METALCLAW", "OUTRAGE"],
+    "Compatibility": ["Monster", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "8.5",
+    "Color": "Red",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [4, 234],
+    "Kind": "Lizard",
+    "Pokedex": "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is happy, and blazes when it is enraged.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CHARMELEON",
+        "by":
+        {
+            "Level": 16
+        }
+    }]
+}

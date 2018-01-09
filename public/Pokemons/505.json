@@ -1,0 +1,104 @@
+{
+    "ID": 505,
+    "Name": "Watchog",
+    "InternalName": "WATCHOG",
+    "Type1": "NORMAL",
+    "BaseStats": [60, 85, 69, 77, 60, 69],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "147",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["ILLUMINATE","KEENEYE"],
+    "HiddenAbility": "ANALYTIC",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 3,
+        "move": "LEER"
+    },
+    {
+        "level": 6,
+        "move": "BITE"
+    },
+    {
+        "level": 8,
+        "move": "BIDE"
+    },
+    {
+        "level": 11,
+        "move": "DETECT"
+    },
+    {
+        "level": 13,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 16,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 18,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 20,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 22,
+        "move": "SUPERFANG"
+    },
+    {
+        "level": 25,
+        "move": "AFTERYOU"
+    },
+    {
+        "level": 29,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 32,
+        "move": "HYPERFANG"
+    },
+    {
+        "level": 36,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 39,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 43,
+        "move": "SLAM"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "27.0",
+    "Color": "Brown",
+    "Shape": "6",
+    "Kind": "Lookout",
+    "Pokedex": "They make the patterns on their bodies shine in order to threaten predators. Keen eyesight lets them see in the dark.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

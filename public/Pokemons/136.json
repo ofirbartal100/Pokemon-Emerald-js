@@ -1,0 +1,86 @@
+{
+    "ID": 136,
+    "Name": "Flareon",
+    "InternalName": "FLAREON",
+    "Type1": "FIRE",
+    "BaseStats": [65, 130, 60, 65, 95, 110],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "184",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "FLASHFIRE",
+    "HiddenAbility": "GUTS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 5,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "EMBER"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 17,
+        "move": "BITE"
+    },
+    {
+        "level": 21,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 25,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 29,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 33,
+        "move": "SMOG"
+    },
+    {
+        "level": 37,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 41,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 45,
+        "move": "FIREBLAST"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "9180",
+    "Height": "0.9",
+    "Weight": "25.0",
+    "Color": "Red",
+    "Shape": "8",
+    "Habitat": "Urban",
+    "RegionalNumbers": [136, 187],
+    "Kind": "Flame",
+    "Pokedex": "Flareon's fluffy fur releases heat into the air so that its body does not get excessively hot. Its body temperature can rise to a maximum of 1,650 degrees F.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

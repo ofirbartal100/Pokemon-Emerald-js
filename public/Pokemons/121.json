@@ -1,0 +1,53 @@
+{
+    "ID": 121,
+    "Name": "Starmie",
+    "InternalName": "STARMIE",
+    "Type1": "WATER",
+    "Type2": "PSYCHIC",
+    "BaseStats": [60, 75, 85, 115, 100, 85],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "182",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["ILLUMINATE","NATURALCURE"],
+    "HiddenAbility": "ANALYTIC",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 1,
+        "move": "RECOVER"
+    },
+    {
+        "level": 1,
+        "move": "SWIFT"
+    },
+    {
+        "level": 22,
+        "move": "CONFUSERAY"
+    }],
+    "Compatibility": ["Water3"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "80.0",
+    "Color": "Purple",
+    "Shape": "5",
+    "Habitat": "Sea",
+    "RegionalNumbers": [121, 170],
+    "Kind": "Mysterious",
+    "Pokedex": "People in ancient times imagined that Starmie were transformed from the reflections of stars that twinkled on gentle waves at night.",
+    "WildItemCommon": "STARDUST",
+    "WildItemUncommon": "STARPIECE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

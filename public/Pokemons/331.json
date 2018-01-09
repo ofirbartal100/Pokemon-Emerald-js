@@ -1,0 +1,102 @@
+{
+    "ID": 331,
+    "Name": "Cacnea",
+    "InternalName": "CACNEA",
+    "Type1": "GRASS",
+    "BaseStats": [50, 85, 40, 35, 85, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "67",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "190",
+    "Happiness": "35",
+    "Abilities": "SANDVEIL",
+    "HiddenAbility": "WATERABSORB",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "ABSORB"
+    },
+    {
+        "level": 9,
+        "move": "GROWTH"
+    },
+    {
+        "level": 13,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 17,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 21,
+        "move": "PINMISSILE"
+    },
+    {
+        "level": 25,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 29,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 33,
+        "move": "SPIKES"
+    },
+    {
+        "level": 37,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 41,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 45,
+        "move": "NEEDLEARM"
+    },
+    {
+        "level": 49,
+        "move": "COTTONSPORE"
+    },
+    {
+        "level": 53,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 57,
+        "move": "DESTINYBOND"
+    }],
+    "EggMoves": ["ACID", "BLOCK", "COUNTER", "DISABLE", "DYNAMICPUNCH", "GRASSWHISTLE", "LOWKICK", "MAGICALLEAF", "NASTYPLOT", "SEEDBOMB", "SMELLINGSALTS", "SWITCHEROO", "TEETERDANCE", "WORRYSEED"],
+    "Compatibility": ["Grass", "Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "51.3",
+    "Color": "Green",
+    "Shape": "12",
+    "Habitat": "RoughTerrain",
+    "Kind": "Cactus",
+    "Pokedex": "Cacnea live in deserts with virtually no rainfall. It battles by swinging its thick, spiked arms. Once a year, a yellow flower blooms.",
+    "WildItemUncommon": "STICKYBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CACTURNE",
+        "by":
+        {
+            "Level": 32
+        }
+    }]
+}

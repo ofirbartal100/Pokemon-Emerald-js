@@ -1,0 +1,102 @@
+{
+    "ID": 352,
+    "Name": "Kecleon",
+    "InternalName": "KECLEON",
+    "Type1": "NORMAL",
+    "BaseStats": [60, 90, 70, 40, 60, 120],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "154",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": "COLORCHANGE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "THIEF"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "LICK"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 4,
+        "move": "BIND"
+    },
+    {
+        "level": 7,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 10,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 14,
+        "move": "FEINT"
+    },
+    {
+        "level": 18,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 22,
+        "move": "SHADOWSNEAK"
+    },
+    {
+        "level": 27,
+        "move": "SLASH"
+    },
+    {
+        "level": 32,
+        "move": "SCREECH"
+    },
+    {
+        "level": 37,
+        "move": "SUBSTITUTE"
+    },
+    {
+        "level": 43,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 49,
+        "move": "SHADOWCLAW"
+    },
+    {
+        "level": 55,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 58,
+        "move": "SYNCHRONOISE"
+    }],
+    "EggMoves": ["DISABLE", "DIZZYPUNCH", "FAKEOUT", "FOULPLAY", "MAGICCOAT", "NASTYPLOT", "RECOVER", "SKILLSWAP", "SNATCH", "TRICK"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "22.0",
+    "Color": "Green",
+    "Shape": "6",
+    "Habitat": "Forest",
+    "Kind": "Color Swap",
+    "Pokedex": "A Pokémon that has the ability to alter its body colors to match its surroundings. A Kecleon reverts to its original colors if it is startled.",
+    "WildItemUncommon": "PERSIMBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,100 @@
+{
+    "ID": 497,
+    "Name": "Serperior",
+    "InternalName": "SERPERIOR",
+    "Type1": "GRASS",
+    "BaseStats": [75, 75, 95, 113, 75, 95],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "238",
+    "EffortPoints": [0, 0, 0, 3, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "CONTRARY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 1,
+        "move": "WRAP"
+    },
+    {
+        "level": 4,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 10,
+        "move": "WRAP"
+    },
+    {
+        "level": 13,
+        "move": "GROWTH"
+    },
+    {
+        "level": 16,
+        "move": "LEAFTORNADO"
+    },
+    {
+        "level": 20,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 24,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 28,
+        "move": "SLAM"
+    },
+    {
+        "level": 32,
+        "move": "LEAFBLADE"
+    },
+    {
+        "level": 38,
+        "move": "COIL"
+    },
+    {
+        "level": 44,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 50,
+        "move": "WRINGOUT"
+    },
+    {
+        "level": 56,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 62,
+        "move": "LEAFSTORM"
+    }],
+    "Compatibility": ["Field", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "3.3",
+    "Weight": "63.0",
+    "Color": "Green",
+    "Shape": "2",
+    "Kind": "Regal",
+    "Pokedex": "They raise their heads to intimidate opponents, but only give it their all when fighting a powerful opponent.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

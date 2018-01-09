@@ -1,0 +1,102 @@
+{
+    "ID": 257,
+    "Name": "Blaziken",
+    "InternalName": "BLAZIKEN",
+    "Type1": "FIRE",
+    "Type2": "FIGHTING",
+    "BaseStats": [80, 120, 70, 80, 110, 70],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "239",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "SPEEDBOOST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "HIGHJUMPKICK"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 7,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 13,
+        "move": "EMBER"
+    },
+    {
+        "level": 16,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 17,
+        "move": "PECK"
+    },
+    {
+        "level": 21,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 28,
+        "move": "BULKUP"
+    },
+    {
+        "level": 32,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 36,
+        "move": "BLAZEKICK"
+    },
+    {
+        "level": 42,
+        "move": "SLASH"
+    },
+    {
+        "level": 49,
+        "move": "BRAVEBIRD"
+    },
+    {
+        "level": 59,
+        "move": "SKYUPPERCUT"
+    },
+    {
+        "level": 66,
+        "move": "FLAREBLITZ"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.9",
+    "Weight": "52.0",
+    "Color": "Red",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "Kind": "Blaze",
+    "Pokedex": "It learns martial arts that use punches and kicks. Every several years, its old feathers burn off, and new, supple feathers grow back in their place.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

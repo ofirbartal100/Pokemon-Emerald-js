@@ -1,0 +1,52 @@
+{
+    "ID": 401,
+    "Name": "Kricketot",
+    "InternalName": "KRICKETOT",
+    "Type1": "BUG",
+    "BaseStats": [37, 25, 41, 25, 25, 41],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "39",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "SHEDSKIN",
+    "HiddenAbility": "RUNAWAY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "BIDE"
+    },
+    {
+        "level": 6,
+        "move": "STRUGGLEBUG"
+    },
+    {
+        "level": 16,
+        "move": "BUGBITE"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.3",
+    "Weight": "2.2",
+    "Color": "Red",
+    "Shape": "12",
+    "Kind": "Cricket",
+    "Pokedex": "It shakes its head back to front, causing its antennae to hit each other and sound like a xylophone.",
+    "WildItemUncommon": "METRONOME",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "KRICKETUNE",
+        "by":
+        {
+            "Level": 10
+        }
+    }]
+}

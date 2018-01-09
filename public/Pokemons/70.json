@@ -1,0 +1,98 @@
+{
+    "ID": 70,
+    "Name": "Weepinbell",
+    "InternalName": "WEEPINBELL",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": [65, 90, 50, 55, 85, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "137",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "CHLOROPHYLL",
+    "HiddenAbility": "GLUTTONY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 1,
+        "move": "GROWTH"
+    },
+    {
+        "level": 1,
+        "move": "WRAP"
+    },
+    {
+        "level": 7,
+        "move": "GROWTH"
+    },
+    {
+        "level": 11,
+        "move": "WRAP"
+    },
+    {
+        "level": 13,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 15,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 17,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 23,
+        "move": "ACID"
+    },
+    {
+        "level": 27,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 29,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 35,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 39,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 41,
+        "move": "SLAM"
+    },
+    {
+        "level": 47,
+        "move": "WRINGOUT"
+    }],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "6.4",
+    "Color": "Green",
+    "Shape": "5",
+    "Habitat": "Forest",
+    "RegionalNumbers": [70, 65],
+    "Kind": "Flycatcher",
+    "Pokedex": "At night, a Weepinbell hangs on to a tree branch with its hooked rear and sleeps. If it moves around in its sleep, it may wake up to find itself on the ground.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "VICTREEBEL",
+        "by":
+        {
+            "Item": "LEAFSTONE"
+        }
+    }]
+}

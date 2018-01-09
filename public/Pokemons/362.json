@@ -1,0 +1,90 @@
+{
+    "ID": 362,
+    "Name": "Glalie",
+    "InternalName": "GLALIE",
+    "Type1": "ICE",
+    "BaseStats": [80, 80, 80, 80, 80, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "168",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["INNERFOCUS","ICEBODY"],
+    "HiddenAbility": "MOODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 4,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 10,
+        "move": "BITE"
+    },
+    {
+        "level": 13,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 19,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 22,
+        "move": "PROTECT"
+    },
+    {
+        "level": 28,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 31,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 37,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 40,
+        "move": "HAIL"
+    },
+    {
+        "level": 51,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 59,
+        "move": "SHEERCOLD"
+    }],
+    "Compatibility": ["Fairy", "Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "256.5",
+    "Color": "Gray",
+    "Shape": "1",
+    "Habitat": "Cave",
+    "Kind": "Face",
+    "Pokedex": "A Glalie has the power to instantaneously freeze moisture in the atmosphere. A dazzling cloud of diamondlike ice crystals forms around its body.",
+    "WildItemUncommon": "BABIRIBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "11",
+    "Evolutions": []
+}

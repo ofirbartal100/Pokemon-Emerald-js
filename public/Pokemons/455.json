@@ -1,0 +1,84 @@
+{
+    "ID": 455,
+    "Name": "Carnivine",
+    "InternalName": "CARNIVINE",
+    "Type1": "GRASS",
+    "BaseStats": [74, 100, 72, 46, 90, 72],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "159",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BIND"
+    },
+    {
+        "level": 1,
+        "move": "GROWTH"
+    },
+    {
+        "level": 7,
+        "move": "BITE"
+    },
+    {
+        "level": 11,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 17,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 21,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 27,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 31,
+        "move": "LEAFTORNADO"
+    },
+    {
+        "level": 37,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 37,
+        "move": "SPITUP"
+    },
+    {
+        "level": 37,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 41,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 47,
+        "move": "WRINGOUT"
+    },
+    {
+        "level": 51,
+        "move": "POWERWHIP"
+    }],
+    "EggMoves": ["GIGADRAIN", "GRASSWHISTLE", "LEECHSEED", "MAGICALLEAF", "RAGEPOWDER", "RAZORLEAF", "SLAM", "SLEEPPOWDER", "STUNSPORE", "SYNTHESIS", "WORRYSEED"],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "6630",
+    "Height": "1.4",
+    "Weight": "27.0",
+    "Color": "Green",
+    "Shape": "10",
+    "Kind": "Bug Catcher",
+    "Pokedex": "It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

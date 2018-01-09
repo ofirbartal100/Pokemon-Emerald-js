@@ -1,0 +1,79 @@
+{
+    "ID": 269,
+    "Name": "Dustox",
+    "InternalName": "DUSTOX",
+    "Type1": "BUG",
+    "Type2": "POISON",
+    "BaseStats": [60, 50, 70, 65, 50, 90],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "135",
+    "EffortPoints": [0, 0, 0, 0, 0, 3],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "SHIELDDUST",
+    "HiddenAbility": "COMPOUNDEYES",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 10,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 13,
+        "move": "GUST"
+    },
+    {
+        "level": 17,
+        "move": "PROTECT"
+    },
+    {
+        "level": 20,
+        "move": "MOONLIGHT"
+    },
+    {
+        "level": 24,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 27,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 31,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 34,
+        "move": "SILVERWIND"
+    },
+    {
+        "level": 38,
+        "move": "TOXIC"
+    },
+    {
+        "level": 41,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 45,
+        "move": "QUIVERDANCE"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "1.2",
+    "Weight": "31.6",
+    "Color": "Green",
+    "Shape": "13",
+    "Habitat": "Forest",
+    "Kind": "Poison Moth",
+    "Pokedex": "It is a nocturnal Pokémon that flies from fields and mountains to the attraction of streetlights at night. It looses highly toxic powder from its wings.",
+    "WildItemUncommon": "SHEDSHELL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "16",
+    "Evolutions": []
+}

@@ -1,0 +1,107 @@
+{
+    "ID": 302,
+    "Name": "Sableye",
+    "InternalName": "SABLEYE",
+    "Type1": "DARK",
+    "Type2": "GHOST",
+    "BaseStats": [50, 75, 75, 50, 65, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "133",
+    "EffortPoints": [0, 1, 1, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": ["KEENEYE","STALL"],
+    "HiddenAbility": "PRANKSTER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 4,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 8,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 11,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 15,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 18,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 22,
+        "move": "DETECT"
+    },
+    {
+        "level": 25,
+        "move": "SHADOWSNEAK"
+    },
+    {
+        "level": 29,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 32,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 36,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 39,
+        "move": "SHADOWCLAW"
+    },
+    {
+        "level": 43,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 46,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 50,
+        "move": "FOULPLAY"
+    },
+    {
+        "level": 53,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 57,
+        "move": "SHADOWBALL"
+    },
+    {
+        "level": 60,
+        "move": "MEANLOOK"
+    }],
+    "EggMoves": ["CAPTIVATE", "FEINT", "FLATTER", "MEANLOOK", "METALBURST", "MOONLIGHT", "NASTYPLOT", "RECOVER", "SUCKERPUNCH", "TRICK"],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "6630",
+    "Height": "0.5",
+    "Weight": "11.0",
+    "Color": "Purple",
+    "Shape": "12",
+    "Habitat": "Cave",
+    "Kind": "Darkness",
+    "Pokedex": "It digs branching holes in caves using its sharp claws in search of food--raw gems. A Sableye lurks in darkness and is seen only rarely.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,111 @@
+{
+    "ID": 28,
+    "Name": "Sandslash",
+    "InternalName": "SANDSLASH",
+    "Type1": "GROUND",
+    "BaseStats": [75, 100, 110, 65, 45, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "158",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": "SANDVEIL",
+    "HiddenAbility": "SANDRUSH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 3,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 5,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 7,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 9,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 11,
+        "move": "SWIFT"
+    },
+    {
+        "level": 14,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 17,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 20,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 22,
+        "move": "CRUSHCLAW"
+    },
+    {
+        "level": 26,
+        "move": "SLASH"
+    },
+    {
+        "level": 30,
+        "move": "DIG"
+    },
+    {
+        "level": 33,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 34,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 38,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 42,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 46,
+        "move": "EARTHQUAKE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "29.5",
+    "Color": "Yellow",
+    "Shape": "6",
+    "Habitat": "RoughTerrain",
+    "RegionalNumbers": [28, 49],
+    "Kind": "Mouse",
+    "Pokedex": "It curls up in a ball to protect itself from enemy attacks. It also curls up to prevent heatstroke during the daytime when temperatures rise sharply.",
+    "WildItemUncommon": "QUICKCLAW",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

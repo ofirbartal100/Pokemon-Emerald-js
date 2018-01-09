@@ -10,7 +10,7 @@ export function createLocationLoader(entityFactory) {
                 loadSpriteSheet(locationSpec.spriteSheet)
             ]))
             .then(([locationSpec, backgroundSprites]) => {
-                const location = new Location()
+                const location = new Location(name)
                 location.setup(locationSpec, entityFactory, loadLocation, backgroundSprites)
 
                 return location
@@ -18,11 +18,13 @@ export function createLocationLoader(entityFactory) {
     }
 }
 
-
 export function createCollisionGrid(tiles, locationSpec, backgroundSprites) {
     const grid = new Matrix();
     for (const { tileObj, x, y } of expandTiles(tiles, locationSpec, backgroundSprites)) {
-        grid.set(x, y, { type: tileObj.type });
+        if (tileObj.portal)
+            grid.set(x, y, { type: tileObj.type, portal: tileObj.portal })
+        else
+            grid.set(x, y, { type: tileObj.type });
     }
     return grid;
 }
@@ -37,62 +39,6 @@ export function createBackgroundGrid(tiles, locationSpec, backgroundSprites) {
     return grid;
 }
 
-
-function createTiles(location, backgroundsMapping, backgroundSprites) {
-    for (let background of backgroundsMapping) {
-        for (let range of background.ranges) {
-            if (range.length == 2) {
-                createTile(location, background, ...range, backgroundSprites)
-            } else if (range.length == 4) { //inclusive
-                if (background.tile) {
-                    for (let i = range[0]; i <= range[1]; i++) {
-                        for (let j = range[2]; j <= range[3]; j++) {
-                            createTile(location, background, i, j, backgroundSprites)
-                        }
-                    }
-                } else if (background.object) {
-                    let size = backgroundSprites.objects.get(background.object)
-                    for (let i = range[0]; i <= range[1]; i += size[0]) {
-                        for (let j = range[2]; j <= range[3]; j += size[1]) {
-                            createTile(location, background, i, j, backgroundSprites)
-                        }
-                    }
-                }
-            }
-        }
-    }
-}
-
-function createTile(location, background, offsetX, offsetY, backgroundSprites) {
-    if (background.tile) {
-        if (background.bounds) {
-            location.bounds = {
-                "name": background.tile
-            }
-        }
-        location.tiles.set(offsetX, offsetY, {
-            name: background.tile,
-            type: backgroundSprites.tilesTypes.get(background.tile)
-        })
-    } else if (background.object) {
-        let size = backgroundSprites.objects.get(background.object)
-        if (background.bounds) {
-            location.bounds = {
-                "name": background.object,
-                "size": size
-            }
-        }
-        for (let x = 0; x < size[0]; x++) {
-            for (let y = 0; y < size[1]; y++) {
-                let objectPartName = `${background.object}-${size[0]*y + x}`
-                location.tiles.set(offsetX + x, offsetY + y, {
-                    name: objectPartName,
-                    type: backgroundSprites.tilesTypes.get(objectPartName)
-                })
-            }
-        }
-    }
-}
 
 function* expandSpan(xStart, xEnd, yStart, yEnd) {
     for (let x = xStart; x <= xEnd; ++x) {
@@ -139,8 +85,8 @@ function expandObjectRange(range, dimensions) {
 
     } else if (range.length === 2) {
         const [xStart, yStart] = range;
-        const [xSize,ySize] = dimensions
-        return expandObjectSpan(xStart, xStart + xSize -1, yStart, yStart + ySize -1, dimensions);
+        const [xSize, ySize] = dimensions
+        return expandObjectSpan(xStart, xStart + xSize - 1, yStart, yStart + ySize - 1, dimensions);
     }
 }
 
@@ -164,6 +110,9 @@ function* expandTiles(tiles, locationSpec, backgroundSprites) {
             const tileName = `${object.name}-${objectPart}`
             const tileType = backgroundSprites.tilesTypes.get(tileName)
             const tileObj = { name: tileName, type: tileType }
+            if (object.portals) {
+                tileObj.portal = object.portals[0]
+            }
             // yield {
             //     tileType,
             //     x: derivedX,
@@ -180,6 +129,7 @@ function* expandTiles(tiles, locationSpec, backgroundSprites) {
 
     function* walkTiles(tiles, offsetX, offsetY) {
         for (const tile of tiles) {
+            let portals = 0
             for (const { x, y } of expandRanges(tile.ranges)) {
                 // const derivedX = x + offsetX;
                 // const derivedY = y + offsetY;
@@ -192,6 +142,9 @@ function* expandTiles(tiles, locationSpec, backgroundSprites) {
                     const tileName = tile.name
                     const tileType = backgroundSprites.tilesTypes.get(tile.name)
                     const tileObj = { name: tileName, type: tileType }
+                    if (tile.portals) {
+                        tileObj.portal = tile.portals[portals++]
+                    }
                     // yield {
                     //     tileType,
                     //     x: derivedX,

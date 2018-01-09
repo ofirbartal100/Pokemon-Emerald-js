@@ -1,0 +1,58 @@
+{
+    "ID": 182,
+    "Name": "Bellossom",
+    "InternalName": "BELLOSSOM",
+    "Type1": "GRASS",
+    "BaseStats": [75, 80, 85, 50, 90, 100],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "216",
+    "EffortPoints": [0, 0, 0, 0, 0, 3],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "CHLOROPHYLL",
+    "HiddenAbility": "HEALER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEAFBLADE"
+    },
+    {
+        "level": 1,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 1,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 1,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 1,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 23,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 53,
+        "move": "LEAFSTORM"
+    }],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "5.8",
+    "Color": "Green",
+    "Shape": "12",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 86],
+    "Kind": "Flower",
+    "Pokedex": "Its flower petals deepen in color through exposure to sunlight. When cloudy weather persists, it does a dance that is thought to be a ritual for summoning the sun.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,99 @@
+{
+    "ID": 198,
+    "Name": "Murkrow",
+    "InternalName": "MURKROW",
+    "Type1": "DARK",
+    "Type2": "FLYING",
+    "BaseStats": [60, 85, 42, 91, 85, 42],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "81",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "30",
+    "Happiness": "35",
+    "Abilities": ["INSOMNIA","SUPERLUCK"],
+    "HiddenAbility": "PRANKSTER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 5,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 11,
+        "move": "HAZE"
+    },
+    {
+        "level": 15,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 21,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 25,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 31,
+        "move": "TAUNT"
+    },
+    {
+        "level": 35,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 41,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 45,
+        "move": "FOULPLAY"
+    },
+    {
+        "level": 51,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 55,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 61,
+        "move": "TORMENT"
+    },
+    {
+        "level": 65,
+        "move": "QUASH"
+    }],
+    "EggMoves": ["ASSURANCE", "BRAVEBIRD", "CONFUSERAY", "DRILLPECK", "FEINTATTACK", "FEATHERDANCE", "MIRRORMOVE", "PERISHSONG", "PSYCHOSHIFT", "ROOST", "SCREECH", "SKYATTACK", "WHIRLWIND", "WINGATTACK"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "2.1",
+    "Color": "Black",
+    "Shape": "9",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 213],
+    "Kind": "Darkness",
+    "Pokedex": "Murkrow were feared as the alleged bearers of ill fortune. It shows strong interest in anything that sparkles. It will even try to steal rings from women.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "19",
+    "Evolutions": [
+    {
+        "to": "HONCHKROW",
+        "by":
+        {
+            "Item": "DUSKSTONE"
+        }
+    }]
+}

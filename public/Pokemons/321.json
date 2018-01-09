@@ -1,0 +1,105 @@
+{
+    "ID": 321,
+    "Name": "Wailord",
+    "InternalName": "WAILORD",
+    "Type1": "WATER",
+    "BaseStats": [170, 90, 45, 60, 90, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fluctuating",
+    "BaseEXP": "175",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["WATERVEIL","OBLIVIOUS"],
+    "HiddenAbility": "PRESSURE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SPLASH"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 11,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 14,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 17,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 21,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 24,
+        "move": "MIST"
+    },
+    {
+        "level": 27,
+        "move": "REST"
+    },
+    {
+        "level": 31,
+        "move": "BRINE"
+    },
+    {
+        "level": 34,
+        "move": "WATERSPOUT"
+    },
+    {
+        "level": 37,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 46,
+        "move": "DIVE"
+    },
+    {
+        "level": 54,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 62,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 70,
+        "move": "HEAVYSLAM"
+    }],
+    "Compatibility": ["Field", "Water2"],
+    "StepsToHatch": "10455",
+    "Height": "14.5",
+    "Weight": "398.0",
+    "Color": "Blue",
+    "Shape": "3",
+    "Habitat": "Sea",
+    "Kind": "Float Whale",
+    "Pokedex": "It breathes through nostrils that it raises above the sea. By inhaling to its maximum capacity, a Wailord can dive close to 10,000 feet beneath the waves.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

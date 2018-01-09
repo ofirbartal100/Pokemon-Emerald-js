@@ -1,0 +1,98 @@
+{
+    "ID": 68,
+    "Name": "Machamp",
+    "InternalName": "MACHAMP",
+    "Type1": "FIGHTING",
+    "BaseStats": [90, 130, 80, 55, 65, 85],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "227",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["GUTS","NOGUARD"],
+    "HiddenAbility": "STEADFAST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WIDEGUARD"
+    },
+    {
+        "level": 1,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "KARATECHOP"
+    },
+    {
+        "level": 7,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 10,
+        "move": "KARATECHOP"
+    },
+    {
+        "level": 13,
+        "move": "LOWSWEEP"
+    },
+    {
+        "level": 19,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 22,
+        "move": "SEISMICTOSS"
+    },
+    {
+        "level": 25,
+        "move": "REVENGE"
+    },
+    {
+        "level": 32,
+        "move": "VITALTHROW"
+    },
+    {
+        "level": 36,
+        "move": "SUBMISSION"
+    },
+    {
+        "level": 40,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 44,
+        "move": "CROSSCHOP"
+    },
+    {
+        "level": 51,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 55,
+        "move": "DYNAMICPUNCH"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.6",
+    "Weight": "130.0",
+    "Color": "Gray",
+    "Shape": "12",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [68, 144],
+    "Kind": "Superpower",
+    "Pokedex": "It is impossible to defend against punches and chops doled out by its four arms. Its fighting spirit flares up when it faces a tough opponent.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "5",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

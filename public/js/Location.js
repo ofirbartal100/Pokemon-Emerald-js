@@ -2,7 +2,6 @@ import Compositor from './Compositor.js'
 import Neighbors from './Neighbors.js'
 import EntityCollider from './EntityCollider.js'
 import TileCollider from './TileCollider.js'
-import Encounter from './Encounter.js'
 import { createSpriteLayer } from './layers/sprites.js'
 import { createBackgroundLayer } from './layers/background.js'
 import { createBackgroundGrid, createCollisionGrid } from './loaders/location.js'
@@ -11,12 +10,12 @@ const SCREENX = 240
 const SCREENY = 160
 
 export default class Location {
-    constructor() {
+    constructor(name) {
+        this.name = name
         this.comp = new Compositor()
         this.entities = new Set()
         this.entityCollider = new EntityCollider(this.entities)
         this.tileCollider = null
-        this.pokemonEncounter = null
         this.totalTime = 0
         this.bounds = { name: "big-tree", size: [2, 2] }
         this.audio = new Audio()
@@ -33,7 +32,9 @@ export default class Location {
         self.active = false
         self.totalTime = 0
         Object.assign(this, nextLocation)
-        this.neighbors.locationsMap.set(fromDirection, self)
+        if(fromDirection){
+            this.neighbors.locationsMap.set(fromDirection, self)
+        }
         this.entities.add(player)
     }
 
@@ -74,18 +75,15 @@ export default class Location {
 
             this.tileCollider.test(entity)
             this.entityCollider.check(entity)
-            if (entity.role == 'Player')
-                this.pokemonEncounter.test(entity)
         })
         this.totalTime += deltaTime
     }
 
     setupEncounter(locationSpec) {
-        this.pokemonEncounter = new Encounter(this.tileCollider.tiles.matrix)
         if (locationSpec.encounters) {
             for (let area in locationSpec.encounters) {
                 for (let pokemon of locationSpec.encounters[area]) {
-                    this.pokemonEncounter.addToArea(area, pokemon.name, pokemon.rate)
+                    this.tileCollider.addToArea(area, pokemon)
                 }
             }
         }
@@ -141,6 +139,17 @@ export default class Location {
 
     setupBackgrounds(locationSpec, backgroundSprites) {
         locationSpec.layers.forEach(layer => {
+            for(const tile of layer.tiles){
+                for(const property in tile){
+                    if(property == 'bounds'){
+                        this.bounds = {name:tile.name}
+
+                        if(backgroundSprites.objects.has(tile.name)){
+                            this.bounds.size = backgroundSprites.objects.get(tile.name)
+                        }
+                    }
+                }
+            }
             const backgroundGrid = createBackgroundGrid(layer.tiles, locationSpec, backgroundSprites);
             const backgroundLayer = createBackgroundLayer(this, backgroundGrid, backgroundSprites, layer.name);
 

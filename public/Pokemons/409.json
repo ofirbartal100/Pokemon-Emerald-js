@@ -1,0 +1,80 @@
+{
+    "ID": 409,
+    "Name": "Rampardos",
+    "InternalName": "RAMPARDOS",
+    "Type1": "ROCK",
+    "BaseStats": [97, 165, 60, 58, 65, 50],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "MOLDBREAKER",
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 6,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 10,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 15,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 19,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 24,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 28,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 30,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 36,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 43,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 51,
+        "move": "SCREECH"
+    },
+    {
+        "level": 58,
+        "move": "HEADSMASH"
+    }],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "7905",
+    "Height": "1.6",
+    "Weight": "102.5",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Head Butt",
+    "Pokedex": "Its powerful head butt has enough power to shatter even the most durable things upon impact.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "5",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

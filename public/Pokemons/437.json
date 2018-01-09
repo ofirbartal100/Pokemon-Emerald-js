@@ -1,0 +1,114 @@
+{
+    "ID": 437,
+    "Name": "Bronzong",
+    "InternalName": "BRONZONG",
+    "Type1": "STEEL",
+    "Type2": "PSYCHIC",
+    "BaseStats": [67, 89, 116, 33, 79, 116],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "175",
+    "EffortPoints": [0, 0, 1, 0, 0, 1],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["LEVITATE","HEATPROOF"],
+    "HiddenAbility": "HEAVYMETAL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 1,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 1,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 5,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 9,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 11,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 15,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 19,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 21,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 25,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 29,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 31,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 33,
+        "move": "BLOCK"
+    },
+    {
+        "level": 36,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 42,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 46,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 52,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 58,
+        "move": "HEAVYSLAM"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "187.0",
+    "Color": "Green",
+    "Shape": "4",
+    "Kind": "Bronze Bell",
+    "Pokedex": "One caused a news sensation when it was dug up at a construction site after a 2,000-year sleep.",
+    "WildItemUncommon": "METALCOAT",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "13",
+    "Evolutions": []
+}

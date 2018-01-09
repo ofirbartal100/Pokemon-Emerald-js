@@ -1,0 +1,78 @@
+{
+    "ID": 314,
+    "Name": "Illumise",
+    "InternalName": "ILLUMISE",
+    "Type1": "BUG",
+    "BaseStats": [65, 47, 55, 85, 73, 75],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Fluctuating",
+    "BaseEXP": "140",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "150",
+    "Happiness": "70",
+    "Abilities": ["OBLIVIOUS","TINTEDLENS"],
+    "HiddenAbility": "PRANKSTER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 5,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 9,
+        "move": "CHARM"
+    },
+    {
+        "level": 13,
+        "move": "MOONLIGHT"
+    },
+    {
+        "level": 17,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 21,
+        "move": "WISH"
+    },
+    {
+        "level": 25,
+        "move": "ENCORE"
+    },
+    {
+        "level": 29,
+        "move": "FLATTER"
+    },
+    {
+        "level": 33,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 37,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 41,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 45,
+        "move": "COVET"
+    }],
+    "EggMoves": ["BATONPASS", "BUGBUZZ", "CAPTIVATE", "CONFUSERAY", "ENCORE", "FAKETEARS", "GROWTH", "SILVERWIND"],
+    "Compatibility": ["Bug", "Humanlike"],
+    "StepsToHatch": "4080",
+    "Height": "0.6",
+    "Weight": "17.7",
+    "Color": "Purple",
+    "Shape": "12",
+    "Habitat": "Forest",
+    "Kind": "Firefly",
+    "Pokedex": "A nocturnal Pokémon that becomes active upon nightfall. It leads a Volbeat swarm to draw patterns in the night sky. Over 200 different patterns have been confirmed.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

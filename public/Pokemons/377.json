@@ -1,0 +1,81 @@
+{
+    "ID": 377,
+    "Name": "Regirock",
+    "InternalName": "REGIROCK",
+    "Type1": "ROCK",
+    "BaseStats": [80, 100, 200, 50, 50, 100],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": [0, 0, 3, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "CLEARBODY",
+    "HiddenAbility": "STURDY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "EXPLOSION"
+    },
+    {
+        "level": 1,
+        "move": "STOMP"
+    },
+    {
+        "level": 9,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 17,
+        "move": "CURSE"
+    },
+    {
+        "level": 25,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 33,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 41,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 49,
+        "move": "CHARGEBEAM"
+    },
+    {
+        "level": 57,
+        "move": "LOCKON"
+    },
+    {
+        "level": 65,
+        "move": "ZAPCANNON"
+    },
+    {
+        "level": 73,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 81,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 89,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "1.7",
+    "Weight": "230.0",
+    "Color": "Brown",
+    "Shape": "12",
+    "Habitat": "Cave",
+    "Kind": "Rock Peak",
+    "Pokedex": "A Pokémon that is made entirely of rocks and boulders. If parts of its body chip off in battle, Regirock repairs itself by adding new rocks.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

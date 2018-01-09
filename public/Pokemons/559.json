@@ -1,0 +1,102 @@
+{
+    "ID": 559,
+    "Name": "Scraggy",
+    "InternalName": "SCRAGGY",
+    "Type1": "DARK",
+    "Type2": "FIGHTING",
+    "BaseStats": [50, 75, 70, 48, 35, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "70",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "180",
+    "Happiness": "35",
+    "Abilities": ["SHEDSKIN","MOXIE"],
+    "HiddenAbility": "INTIMIDATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 5,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 12,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 16,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 20,
+        "move": "BRICKBREAK"
+    },
+    {
+        "level": 23,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 27,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 31,
+        "move": "HIGHJUMPKICK"
+    },
+    {
+        "level": 34,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 38,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 42,
+        "move": "FACADE"
+    },
+    {
+        "level": 45,
+        "move": "ROCKCLIMB"
+    },
+    {
+        "level": 49,
+        "move": "FOCUSPUNCH"
+    },
+    {
+        "level": 53,
+        "move": "HEADSMASH"
+    }],
+    "EggMoves": ["AMNESIA", "COUNTER", "DETECT", "DRAGONDANCE", "DRAINPUNCH", "FEINTATTACK", "FAKEOUT", "FIREPUNCH", "ICEPUNCH", "THUNDERPUNCH", "ZENHEADBUTT"],
+    "Compatibility": ["Field", "Dragon"],
+    "StepsToHatch": "4080",
+    "Height": "0.6",
+    "Weight": "11.8",
+    "Color": "Yellow",
+    "Shape": "6",
+    "Kind": "Shedding",
+    "Pokedex": "It immediately headbutts anyone that makes eye contact with it. Its skull is massively thick.",
+    "WildItemUncommon": "SHEDSHELL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "30",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SCRAFTY",
+        "by":
+        {
+            "Level": 39
+        }
+    }]
+}

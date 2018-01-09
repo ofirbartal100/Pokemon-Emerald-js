@@ -1,0 +1,85 @@
+{
+    "ID": 410,
+    "Name": "Shieldon",
+    "InternalName": "SHIELDON",
+    "Type1": "ROCK",
+    "Type2": "STEEL",
+    "BaseStats": [30, 42, 118, 30, 42, 88],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "70",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "STURDY",
+    "HiddenAbility": "SOUNDPROOF",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "PROTECT"
+    },
+    {
+        "level": 6,
+        "move": "TAUNT"
+    },
+    {
+        "level": 10,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 15,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 19,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 24,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 28,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 33,
+        "move": "ENDURE"
+    },
+    {
+        "level": 37,
+        "move": "METALBURST"
+    },
+    {
+        "level": 42,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 46,
+        "move": "HEAVYSLAM"
+    }],
+    "EggMoves": ["BODYSLAM", "COUNTER", "CURSE", "DOUBLEEDGE", "FISSURE", "FOCUSENERGY", "HEADBUTT", "ROCKBLAST", "SCARYFACE", "SCREECH", "STEALTHROCK", "WIDEGUARD"],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "7905",
+    "Height": "0.5",
+    "Weight": "57.0",
+    "Color": "Gray",
+    "Shape": "8",
+    "Kind": "Shield",
+    "Pokedex": "A Pokémon that lived in jungles around 100 million years ago. Its facial hide is extremely hard.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BASTIODON",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

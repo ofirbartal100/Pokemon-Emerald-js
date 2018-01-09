@@ -1,0 +1,81 @@
+{
+    "ID": 351,
+    "Name": "Castform",
+    "InternalName": "CASTFORM",
+    "Type1": "NORMAL",
+    "BaseStats": [70, 70, 70, 70, 70, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "147",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "FORECAST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 10,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 10,
+        "move": "EMBER"
+    },
+    {
+        "level": 10,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 15,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 20,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 20,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 20,
+        "move": "HAIL"
+    },
+    {
+        "level": 30,
+        "move": "WEATHERBALL"
+    },
+    {
+        "level": 40,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 40,
+        "move": "FIREBLAST"
+    },
+    {
+        "level": 40,
+        "move": "BLIZZARD"
+    }],
+    "EggMoves": ["AMNESIA", "CLEARSMOG", "DISABLE", "FUTURESIGHT", "HEX", "LUCKYCHANT", "OMINOUSWIND"],
+    "Compatibility": ["Fairy", "Amorphous"],
+    "StepsToHatch": "6630",
+    "Height": "0.3",
+    "Weight": "0.8",
+    "Color": "White",
+    "Shape": "1",
+    "Habitat": "Grassland",
+    "Kind": "Weather",
+    "Pokedex": "It alters its form depending on the weather. Changes in the climate such as the temperature and humidity appear to affect its cellular structure.",
+    "FormName": "Normal Form",
+    "WildItemCommon": "MYSTICWATER",
+    "WildItemUncommon": "MYSTICWATER",
+    "WildItemRare": "MYSTICWATER",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "34",
+    "BattlerAltitude": "18",
+    "Evolutions": []
+}

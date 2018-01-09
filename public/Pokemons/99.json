@@ -1,0 +1,102 @@
+{
+    "ID": 99,
+    "Name": "Kingler",
+    "InternalName": "KINGLER",
+    "Type1": "WATER",
+    "BaseStats": [55, 130, 115, 75, 50, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "166",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["HYPERCUTTER","SHELLARMOR"],
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WIDEGUARD"
+    },
+    {
+        "level": 1,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "VICEGRIP"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "VICEGRIP"
+    },
+    {
+        "level": 9,
+        "move": "LEER"
+    },
+    {
+        "level": 11,
+        "move": "HARDEN"
+    },
+    {
+        "level": 15,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 19,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 21,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 25,
+        "move": "STOMP"
+    },
+    {
+        "level": 32,
+        "move": "PROTECT"
+    },
+    {
+        "level": 37,
+        "move": "GUILLOTINE"
+    },
+    {
+        "level": 44,
+        "move": "SLAM"
+    },
+    {
+        "level": 51,
+        "move": "BRINE"
+    },
+    {
+        "level": 56,
+        "move": "CRABHAMMER"
+    },
+    {
+        "level": 63,
+        "move": "FLAIL"
+    }],
+    "Compatibility": ["Water3"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "60.0",
+    "Color": "Red",
+    "Shape": "14",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [99, 167],
+    "Kind": "Pincer",
+    "Pokedex": "It waves its huge, oversized claw in the air to communicate with others. But since the claw is so heavy, this Pokémon quickly tires.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,81 @@
+{
+    "ID": 255,
+    "Name": "Torchic",
+    "InternalName": "TORCHIC",
+    "Type1": "FIRE",
+    "BaseStats": [45, 60, 40, 45, 70, 50],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "62",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "SPEEDBOOST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 10,
+        "move": "EMBER"
+    },
+    {
+        "level": 16,
+        "move": "PECK"
+    },
+    {
+        "level": 19,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 25,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 28,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 34,
+        "move": "SLASH"
+    },
+    {
+        "level": 37,
+        "move": "MIRRORMOVE"
+    },
+    {
+        "level": 43,
+        "move": "FLAMETHROWER"
+    }],
+    "EggMoves": ["AGILITY", "BATONPASS", "COUNTER", "CRUSHCLAW", "CURSE", "ENDURE", "FEATHERDANCE", "FEINT", "FLAMEBURST", "LASTRESORT", "LOWKICK", "NIGHTSLASH", "REVERSAL", "SMELLINGSALTS"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "2.5",
+    "Color": "Red",
+    "Shape": "7",
+    "Habitat": "Grassland",
+    "Kind": "Chick",
+    "Pokedex": "If attacked, it strikes back by spitting balls of fire it forms in its stomach. A Torchic dislikes darkness because it can't see its surroundings.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "COMBUSKEN",
+        "by":
+        {
+            "Level": 16
+        }
+    }]
+}

@@ -1,0 +1,118 @@
+{
+    "ID": 24,
+    "Name": "Arbok",
+    "InternalName": "ARBOK",
+    "Type1": "POISON",
+    "BaseStats": [60, 85, 69, 80, 65, 79],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "153",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","SHEDSKIN"],
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "WRAP"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 4,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 9,
+        "move": "BITE"
+    },
+    {
+        "level": 12,
+        "move": "GLARE"
+    },
+    {
+        "level": 17,
+        "move": "SCREECH"
+    },
+    {
+        "level": 20,
+        "move": "ACID"
+    },
+    {
+        "level": 22,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 27,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 27,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 27,
+        "move": "SPITUP"
+    },
+    {
+        "level": 32,
+        "move": "ACIDSPRAY"
+    },
+    {
+        "level": 39,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 44,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 51,
+        "move": "HAZE"
+    },
+    {
+        "level": 56,
+        "move": "COIL"
+    },
+    {
+        "level": 63,
+        "move": "GUNKSHOT"
+    }],
+    "Compatibility": ["Field", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "3.5",
+    "Weight": "65.0",
+    "Color": "Purple",
+    "Shape": "2",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [24, 51],
+    "Kind": "Cobra",
+    "Pokedex": "This Pokémon has a terrifically strong constricting power. It can even flatten steel oil drums. Once it wraps its body around its foe, escaping is impossible.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

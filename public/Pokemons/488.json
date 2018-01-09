@@ -1,0 +1,75 @@
+{
+    "ID": 488,
+    "Name": "Cresselia",
+    "InternalName": "CRESSELIA",
+    "Type1": "PSYCHIC",
+    "BaseStats": [120, 70, 120, 85, 75, 130],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": [0, 0, 0, 0, 0, 3],
+    "Rareness": "3",
+    "Happiness": "100",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 11,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 20,
+        "move": "MIST"
+    },
+    {
+        "level": 29,
+        "move": "AURORABEAM"
+    },
+    {
+        "level": 38,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 47,
+        "move": "SLASH"
+    },
+    {
+        "level": 57,
+        "move": "MOONLIGHT"
+    },
+    {
+        "level": 66,
+        "move": "PSYCHOCUT"
+    },
+    {
+        "level": 75,
+        "move": "PSYCHOSHIFT"
+    },
+    {
+        "level": 84,
+        "move": "LUNARDANCE"
+    },
+    {
+        "level": 93,
+        "move": "PSYCHIC"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "1.5",
+    "Weight": "85.6",
+    "Color": "Yellow",
+    "Shape": "2",
+    "Kind": "Lunar",
+    "Pokedex": "Shiny particles are released from its wings like a veil. It is said to represent the crescent moon.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "9",
+    "BattlerAltitude": "11",
+    "Evolutions": []
+}

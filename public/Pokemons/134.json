@@ -1,0 +1,86 @@
+{
+    "ID": 134,
+    "Name": "Vaporeon",
+    "InternalName": "VAPOREON",
+    "Type1": "WATER",
+    "BaseStats": [130, 65, 60, 65, 110, 95],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "184",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "WATERABSORB",
+    "HiddenAbility": "HYDRATION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 5,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 17,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 21,
+        "move": "AURORABEAM"
+    },
+    {
+        "level": 25,
+        "move": "AQUARING"
+    },
+    {
+        "level": 29,
+        "move": "ACIDARMOR"
+    },
+    {
+        "level": 33,
+        "move": "HAZE"
+    },
+    {
+        "level": 37,
+        "move": "MUDDYWATER"
+    },
+    {
+        "level": 41,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 45,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "9180",
+    "Height": "1.0",
+    "Weight": "29.0",
+    "Color": "Blue",
+    "Shape": "8",
+    "Habitat": "Urban",
+    "RegionalNumbers": [134, 185],
+    "Kind": "Bubble Jet",
+    "Pokedex": "Vaporeon underwent a spontaneous mutation and grew fins and gills that allow them to live underwater. They have the ability to freely control water.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

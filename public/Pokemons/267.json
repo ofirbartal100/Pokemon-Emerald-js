@@ -1,0 +1,79 @@
+{
+    "ID": 267,
+    "Name": "Beautifly",
+    "InternalName": "BEAUTIFLY",
+    "Type1": "BUG",
+    "Type2": "FLYING",
+    "BaseStats": [60, 70, 50, 65, 90, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "SWARM",
+    "HiddenAbility": "RIVALRY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 10,
+        "move": "ABSORB"
+    },
+    {
+        "level": 13,
+        "move": "GUST"
+    },
+    {
+        "level": 17,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 20,
+        "move": "MORNINGSUN"
+    },
+    {
+        "level": 24,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 27,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 31,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 34,
+        "move": "SILVERWIND"
+    },
+    {
+        "level": 38,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 41,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 45,
+        "move": "QUIVERDANCE"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "1.0",
+    "Weight": "28.4",
+    "Color": "Yellow",
+    "Shape": "13",
+    "Habitat": "Forest",
+    "Kind": "Butterfly",
+    "Pokedex": "Its colorfully patterned wings are its most prominent feature. It flies through flower-covered fields collecting pollen. It attacks ferociously when angered.",
+    "WildItemUncommon": "SHEDSHELL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "17",
+    "Evolutions": []
+}

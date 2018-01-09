@@ -1,0 +1,111 @@
+{
+    "ID": 248,
+    "Name": "Tyranitar",
+    "InternalName": "TYRANITAR",
+    "Type1": "ROCK",
+    "Type2": "DARK",
+    "BaseStats": [100, 134, 110, 61, 95, 100],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "SANDSTREAM",
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 1,
+        "move": "SCREECH"
+    },
+    {
+        "level": 5,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 10,
+        "move": "SCREECH"
+    },
+    {
+        "level": 14,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 19,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 23,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 28,
+        "move": "THRASH"
+    },
+    {
+        "level": 34,
+        "move": "DARKPULSE"
+    },
+    {
+        "level": 41,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 47,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 54,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 63,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 73,
+        "move": "HYPERBEAM"
+    },
+    {
+        "level": 82,
+        "move": "GIGAIMPACT"
+    }],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "10455",
+    "Height": "2.0",
+    "Weight": "202.0",
+    "Color": "Green",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [0, 251],
+    "Kind": "Armor",
+    "Pokedex": "A Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. It roams in mountains seeking new opponents to fight.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

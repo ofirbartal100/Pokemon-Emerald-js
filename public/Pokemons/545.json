@@ -1,0 +1,103 @@
+{
+    "ID": 545,
+    "Name": "Scolipede",
+    "InternalName": "SCOLIPEDE",
+    "Type1": "BUG",
+    "Type2": "POISON",
+    "BaseStats": [60, 90, 89, 112, 55, 69],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "214",
+    "EffortPoints": [0, 0, 0, 3, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["POISONPOINT","SWARM"],
+    "HiddenAbility": "QUICKFEET",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MEGAHORN"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 1,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 1,
+        "move": "SCREECH"
+    },
+    {
+        "level": 5,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 8,
+        "move": "SCREECH"
+    },
+    {
+        "level": 12,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 15,
+        "move": "PROTECT"
+    },
+    {
+        "level": 19,
+        "move": "POISONTAIL"
+    },
+    {
+        "level": 23,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 28,
+        "move": "VENOSHOCK"
+    },
+    {
+        "level": 30,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 33,
+        "move": "AGILITY"
+    },
+    {
+        "level": 39,
+        "move": "STEAMROLLER"
+    },
+    {
+        "level": 44,
+        "move": "TOXIC"
+    },
+    {
+        "level": 50,
+        "move": "ROCKCLIMB"
+    },
+    {
+        "level": 55,
+        "move": "DOUBLEEDGE"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "2.5",
+    "Weight": "200.5",
+    "Color": "Red",
+    "Shape": "14",
+    "Kind": "Megapede",
+    "Pokedex": "Highly aggressive, it uses the claws near its neck to dig into its opponents and poison them.",
+    "WildItemCommon": "PECHABERRY",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

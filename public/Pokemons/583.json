@@ -1,0 +1,107 @@
+{
+    "ID": 583,
+    "Name": "Vanillish",
+    "InternalName": "VANILLISH",
+    "Type1": "ICE",
+    "BaseStats": [51, 65, 65, 59, 80, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "138",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "ICEBODY",
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ICICLESPEAR"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "UPROAR"
+    },
+    {
+        "level": 4,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 10,
+        "move": "UPROAR"
+    },
+    {
+        "level": 13,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 16,
+        "move": "MIST"
+    },
+    {
+        "level": 19,
+        "move": "AVALANCHE"
+    },
+    {
+        "level": 22,
+        "move": "TAUNT"
+    },
+    {
+        "level": 26,
+        "move": "MIRRORSHOT"
+    },
+    {
+        "level": 31,
+        "move": "ACIDARMOR"
+    },
+    {
+        "level": 36,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 42,
+        "move": "HAIL"
+    },
+    {
+        "level": 47,
+        "move": "MIRRORCOAT"
+    },
+    {
+        "level": 53,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 58,
+        "move": "SHEERCOLD"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "41.0",
+    "Color": "White",
+    "Shape": "5",
+    "Kind": "Icy Snow",
+    "Pokedex": "It conceals itself from enemy eyes by creating many small ice particles and hiding among them.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "9",
+    "Evolutions": [
+    {
+        "to": "VANILLUXE",
+        "by":
+        {
+            "Level": 47
+        }
+    }]
+}

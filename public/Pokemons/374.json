@@ -1,0 +1,42 @@
+{
+    "ID": 374,
+    "Name": "Beldum",
+    "InternalName": "BELDUM",
+    "Type1": "STEEL",
+    "Type2": "PSYCHIC",
+    "BaseStats": [40, 55, 80, 30, 35, 60],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "CLEARBODY",
+    "HiddenAbility": "LIGHTMETAL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TAKEDOWN"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "10455",
+    "Height": "0.6",
+    "Weight": "95.2",
+    "Color": "Blue",
+    "Shape": "5",
+    "Habitat": "RoughTerrain",
+    "Kind": "Iron Ball",
+    "Pokedex": "When Beldum gather in a swarm, they move in perfect unison as if they were but one Pokémon. They communicate with each other using brain waves.",
+    "WildItemUncommon": "METALCOAT",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "12",
+    "Evolutions": [
+    {
+        "to": "METANG",
+        "by":
+        {
+            "Level": 20
+        }
+    }]
+}

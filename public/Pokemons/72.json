@@ -1,0 +1,104 @@
+{
+    "ID": 72,
+    "Name": "Tentacool",
+    "InternalName": "TENTACOOL",
+    "Type1": "WATER",
+    "Type2": "POISON",
+    "BaseStats": [40, 40, 35, 70, 50, 100],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "67",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["CLEARBODY","LIQUIDOOZE"],
+    "HiddenAbility": "RAINDISH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 5,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 8,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 12,
+        "move": "ACID"
+    },
+    {
+        "level": 15,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 19,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 22,
+        "move": "WRAP"
+    },
+    {
+        "level": 26,
+        "move": "ACIDSPRAY"
+    },
+    {
+        "level": 29,
+        "move": "BARRIER"
+    },
+    {
+        "level": 33,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 36,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 40,
+        "move": "SCREECH"
+    },
+    {
+        "level": 43,
+        "move": "HEX"
+    },
+    {
+        "level": 47,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 50,
+        "move": "SLUDGEWAVE"
+    },
+    {
+        "level": 54,
+        "move": "WRINGOUT"
+    }],
+    "EggMoves": ["ACUPRESSURE", "AQUARING", "AURORABEAM", "BUBBLE", "CONFUSERAY", "HAZE", "KNOCKOFF", "MIRRORCOAT", "MUDDYWATER", "RAPIDSPIN", "TICKLE"],
+    "Compatibility": ["Water3"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "45.5",
+    "Color": "Blue",
+    "Shape": "10",
+    "Habitat": "Sea",
+    "RegionalNumbers": [72, 164],
+    "Kind": "Jellyfish",
+    "Pokedex": "Its body is almost entirely composed of water. It ensnares its foe with its two long tentacles, then stabs with the poison stingers at their tips.",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "8",
+    "Evolutions": [
+    {
+        "to": "TENTACRUEL",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

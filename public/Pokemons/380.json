@@ -1,0 +1,101 @@
+{
+    "ID": 380,
+    "Name": "Latias",
+    "InternalName": "LATIAS",
+    "Type1": "DRAGON",
+    "Type2": "PSYCHIC",
+    "BaseStats": [80, 80, 90, 110, 110, 130],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": [0, 0, 0, 0, 0, 3],
+    "Rareness": "3",
+    "Happiness": "90",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 5,
+        "move": "WISH"
+    },
+    {
+        "level": 10,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 15,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 20,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 25,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 30,
+        "move": "REFRESH"
+    },
+    {
+        "level": 35,
+        "move": "MISTBALL"
+    },
+    {
+        "level": 40,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 45,
+        "move": "RECOVER"
+    },
+    {
+        "level": 50,
+        "move": "PSYCHOSHIFT"
+    },
+    {
+        "level": 55,
+        "move": "CHARM"
+    },
+    {
+        "level": 60,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 65,
+        "move": "HEALPULSE"
+    },
+    {
+        "level": 70,
+        "move": "REFLECTTYPE"
+    },
+    {
+        "level": 75,
+        "move": "GUARDSPLIT"
+    },
+    {
+        "level": 80,
+        "move": "DRAGONPULSE"
+    },
+    {
+        "level": 85,
+        "move": "HEALINGWISH"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "1.4",
+    "Weight": "40.0",
+    "Color": "Red",
+    "Shape": "9",
+    "Habitat": "WatersEdge",
+    "Kind": "Eon",
+    "Pokedex": "They make a small herd of only several members. They rarely make contact with people or other Pokémon. They disappear if they sense enemies.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "11",
+    "Evolutions": []
+}

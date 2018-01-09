@@ -1,0 +1,86 @@
+{
+    "ID": 459,
+    "Name": "Snover",
+    "InternalName": "SNOVER",
+    "Type1": "GRASS",
+    "Type2": "ICE",
+    "BaseStats": [60, 62, 50, 40, 62, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "67",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "SNOWWARNING",
+    "HiddenAbility": "SOUNDPROOF",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 9,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 13,
+        "move": "GRASSWHISTLE"
+    },
+    {
+        "level": 17,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 21,
+        "move": "MIST"
+    },
+    {
+        "level": 26,
+        "move": "ICESHARD"
+    },
+    {
+        "level": 31,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 36,
+        "move": "WOODHAMMER"
+    },
+    {
+        "level": 41,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 46,
+        "move": "SHEERCOLD"
+    }],
+    "EggMoves": ["AVALANCHE", "BULLETSEED", "DOUBLEEDGE", "GROWTH", "LEECHSEED", "MAGICALLEAF", "MIST", "NATURALGIFT", "SEEDBOMB", "SKULLBASH", "STOMP"],
+    "Compatibility": ["Monster", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "50.5",
+    "Color": "White",
+    "Shape": "6",
+    "Kind": "Frost Tree",
+    "Pokedex": "It lives on snowy mountains. Having had little contact with humans, it is boldly inquisitive.",
+    "WildItemUncommon": "NEVERMELTICE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ABOMASNOW",
+        "by":
+        {
+            "Level": 40
+        }
+    }]
+}

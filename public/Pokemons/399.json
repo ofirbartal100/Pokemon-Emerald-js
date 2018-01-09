@@ -1,0 +1,84 @@
+{
+    "ID": 399,
+    "Name": "Bidoof",
+    "InternalName": "BIDOOF",
+    "Type1": "NORMAL",
+    "BaseStats": [59, 45, 40, 31, 35, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "50",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["SIMPLE","UNAWARE"],
+    "HiddenAbility": "MOODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 5,
+        "move": "GROWL"
+    },
+    {
+        "level": 9,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 13,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 17,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 21,
+        "move": "HYPERFANG"
+    },
+    {
+        "level": 25,
+        "move": "YAWN"
+    },
+    {
+        "level": 29,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 33,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 37,
+        "move": "SUPERFANG"
+    },
+    {
+        "level": 41,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 45,
+        "move": "CURSE"
+    }],
+    "EggMoves": ["AQUATAIL", "DEFENSECURL", "DOUBLEEDGE", "ENDURE", "FURYSWIPES", "ODORSLEUTH", "QUICKATTACK", "ROCKCLIMB", "ROLLOUT", "SKULLBASH", "SLEEPTALK", "WATERSPORT"],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.5",
+    "Weight": "20.0",
+    "Color": "Brown",
+    "Shape": "8",
+    "Kind": "Plump Mouse",
+    "Pokedex": "With nerves of steel, nothing can perturb it. It is more agile and active than it appears.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BIBAREL",
+        "by":
+        {
+            "Level": 15
+        }
+    }]
+}

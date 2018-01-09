@@ -1,0 +1,96 @@
+{
+    "ID": 230,
+    "Name": "Kingdra",
+    "InternalName": "KINGDRA",
+    "Type1": "WATER",
+    "Type2": "DRAGON",
+    "BaseStats": [75, 95, 95, 85, 95, 95],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "243",
+    "EffortPoints": [0, 1, 0, 0, 1, 1],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","SNIPER"],
+    "HiddenAbility": "DAMP",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "YAWN"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 4,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 8,
+        "move": "LEER"
+    },
+    {
+        "level": 11,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 14,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 18,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 23,
+        "move": "AGILITY"
+    },
+    {
+        "level": 26,
+        "move": "TWISTER"
+    },
+    {
+        "level": 30,
+        "move": "BRINE"
+    },
+    {
+        "level": 40,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 48,
+        "move": "DRAGONDANCE"
+    },
+    {
+        "level": 57,
+        "move": "DRAGONPULSE"
+    }],
+    "Compatibility": ["Water1", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "1.8",
+    "Weight": "152.0",
+    "Color": "Blue",
+    "Shape": "5",
+    "Habitat": "Sea",
+    "RegionalNumbers": [0, 192],
+    "Kind": "Dragon",
+    "Pokedex": "It sleeps quietly, deep on the seafloor. When it comes up to the surface, it creates a huge whirlpool that can swallow even ships.",
+    "WildItemUncommon": "DRAGONSCALE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

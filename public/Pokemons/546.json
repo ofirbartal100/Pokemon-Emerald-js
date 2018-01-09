@@ -1,0 +1,100 @@
+{
+    "ID": 546,
+    "Name": "Cottonee",
+    "InternalName": "COTTONEE",
+    "Type1": "GRASS",
+    "BaseStats": [40, 27, 60, 66, 37, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "56",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["PRANKSTER","INFILTRATOR"],
+    "HiddenAbility": "CHLOROPHYLL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 4,
+        "move": "GROWTH"
+    },
+    {
+        "level": 8,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 10,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 13,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 17,
+        "move": "COTTONSPORE"
+    },
+    {
+        "level": 19,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 22,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 26,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 28,
+        "move": "CHARM"
+    },
+    {
+        "level": 31,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 35,
+        "move": "ENERGYBALL"
+    },
+    {
+        "level": 37,
+        "move": "COTTONGUARD"
+    },
+    {
+        "level": 40,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 44,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 46,
+        "move": "SOLARBEAM"
+    }],
+    "EggMoves": ["BEATUP", "ENCORE", "FAKETEARS", "GRASSWHISTLE", "MEMENTO", "NATURALGIFT", "SWITCHEROO", "TICKLE", "WORRYSEED"],
+    "Compatibility": ["Fairy", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "0.6",
+    "Color": "Green",
+    "Shape": "1",
+    "Kind": "Cotton Puff",
+    "Pokedex": "They go wherever the wind takes them. On rainy days, their bodies are heavier, so they take shelter beneath big trees.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "38",
+    "BattlerAltitude": "16",
+    "Evolutions": [
+    {
+        "to": "WHIMSICOTT",
+        "by":
+        {
+            "Item": "SUNSTONE"
+        }
+    }]
+}

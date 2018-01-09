@@ -1,0 +1,93 @@
+{
+    "ID": 456,
+    "Name": "Finneon",
+    "InternalName": "FINNEON",
+    "Type1": "WATER",
+    "BaseStats": [49, 49, 56, 66, 49, 61],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","STORMDRAIN"],
+    "HiddenAbility": "WATERVEIL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 6,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 10,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 13,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 17,
+        "move": "GUST"
+    },
+    {
+        "level": 22,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 26,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 29,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 33,
+        "move": "AQUARING"
+    },
+    {
+        "level": 38,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 42,
+        "move": "UTURN"
+    },
+    {
+        "level": 45,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 49,
+        "move": "SILVERWIND"
+    },
+    {
+        "level": 54,
+        "move": "SOAK"
+    }],
+    "EggMoves": ["AGILITY", "AQUATAIL", "AURORABEAM", "BRINE", "CHARM", "FLAIL", "PSYBEAM", "SIGNALBEAM", "SPLASH", "SWEETKISS", "TICKLE"],
+    "Compatibility": ["Water2"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "7.0",
+    "Color": "Blue",
+    "Shape": "3",
+    "Kind": "Wing Fish",
+    "Pokedex": "After long exposure to sunlight, the patterns on its tail fins shine vividly when darkness arrives.",
+    "WildItemUncommon": "RINDOBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "18",
+    "Evolutions": [
+    {
+        "to": "LUMINEON",
+        "by":
+        {
+            "Level": 31
+        }
+    }]
+}

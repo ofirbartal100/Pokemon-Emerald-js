@@ -1,0 +1,95 @@
+{
+    "ID": 240,
+    "Name": "Magby",
+    "InternalName": "MAGBY",
+    "Type1": "FIRE",
+    "BaseStats": [45, 75, 37, 83, 70, 55],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "73",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "FLAMEBODY",
+    "HiddenAbility": "VITALSPIRIT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SMOG"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "EMBER"
+    },
+    {
+        "level": 8,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 12,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 15,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 19,
+        "move": "CLEARSMOG"
+    },
+    {
+        "level": 22,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 26,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 29,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 33,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 36,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 40,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 43,
+        "move": "FIREBLAST"
+    }],
+    "EggMoves": ["BARRIER", "BELLYDRUM", "CROSSCHOP", "DYNAMICPUNCH", "FLAREBLITZ", "FOCUSENERGY", "IRONTAIL", "KARATECHOP", "MACHPUNCH", "MEGAPUNCH", "SCREECH", "THUNDERPUNCH"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "6630",
+    "Height": "0.7",
+    "Weight": "21.4",
+    "Color": "Red",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [0, 152],
+    "Kind": "Live Coal",
+    "Pokedex": "If a Magby is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames.",
+    "WildItemUncommon": "MAGMARIZER",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MAGMAR",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

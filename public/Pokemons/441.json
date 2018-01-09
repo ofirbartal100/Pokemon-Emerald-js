@@ -1,0 +1,91 @@
+{
+    "ID": 441,
+    "Name": "Chatot",
+    "InternalName": "CHATOT",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [76, 65, 45, 91, 92, 42],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "144",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "30",
+    "Happiness": "35",
+    "Abilities": ["KEENEYE","TANGLEDFEET"],
+    "HiddenAbility": "BIGPECKS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 5,
+        "move": "GROWL"
+    },
+    {
+        "level": 9,
+        "move": "MIRRORMOVE"
+    },
+    {
+        "level": 13,
+        "move": "SING"
+    },
+    {
+        "level": 17,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 21,
+        "move": "CHATTER"
+    },
+    {
+        "level": 25,
+        "move": "TAUNT"
+    },
+    {
+        "level": 29,
+        "move": "ROUND"
+    },
+    {
+        "level": 33,
+        "move": "MIMIC"
+    },
+    {
+        "level": 37,
+        "move": "ECHOEDVOICE"
+    },
+    {
+        "level": 41,
+        "move": "ROOST"
+    },
+    {
+        "level": 45,
+        "move": "UPROAR"
+    },
+    {
+        "level": 49,
+        "move": "SYNCHRONOISE"
+    },
+    {
+        "level": 53,
+        "move": "FEATHERDANCE"
+    },
+    {
+        "level": 57,
+        "move": "HYPERVOICE"
+    }],
+    "EggMoves": ["AGILITY", "AIRCUTTER", "DEFOG", "ENCORE", "NASTYPLOT", "NIGHTSHADE", "SLEEPTALK", "STEELWING", "SUPERSONIC"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "1.9",
+    "Color": "Black",
+    "Shape": "9",
+    "Kind": "Music Note",
+    "Pokedex": "It can learn and speak human words. If they gather, they all learn the same saying.",
+    "WildItemUncommon": "METRONOME",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

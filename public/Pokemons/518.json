@@ -1,0 +1,44 @@
+{
+    "ID": 518,
+    "Name": "Musharna",
+    "InternalName": "MUSHARNA",
+    "Type1": "PSYCHIC",
+    "BaseStats": [116, 55, 85, 29, 107, 95],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "170",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["FOREWARN","SYNCHRONIZE"],
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 1,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 1,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 1,
+        "move": "HYPNOSIS"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "2805",
+    "Height": "1.1",
+    "Weight": "60.5",
+    "Color": "Pink",
+    "Shape": "12",
+    "Kind": "Drowsing",
+    "Pokedex": "With the mist from its forehead, it can create shapes of things from dreams it has eaten.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "8",
+    "Evolutions": []
+}

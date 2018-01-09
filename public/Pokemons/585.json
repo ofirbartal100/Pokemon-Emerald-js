@@ -1,0 +1,98 @@
+{
+    "ID": 585,
+    "Name": "Deerling",
+    "InternalName": "DEERLING",
+    "Type1": "NORMAL",
+    "Type2": "GRASS",
+    "BaseStats": [60, 60, 50, 75, 40, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "67",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","SAPSIPPER"],
+    "HiddenAbility": "SERENEGRACE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "CAMOUFLAGE"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 10,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 13,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 16,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 20,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 24,
+        "move": "JUMPKICK"
+    },
+    {
+        "level": 28,
+        "move": "AROMATHERAPY"
+    },
+    {
+        "level": 32,
+        "move": "ENERGYBALL"
+    },
+    {
+        "level": 36,
+        "move": "CHARM"
+    },
+    {
+        "level": 41,
+        "move": "NATUREPOWER"
+    },
+    {
+        "level": 46,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 51,
+        "move": "SOLARBEAM"
+    }],
+    "EggMoves": ["AGILITY", "BATONPASS", "FAKETEARS", "GRASSWHISTLE", "NATURALGIFT", "ODORSLEUTH", "SLEEPTALK", "SYNTHESIS", "WORRYSEED"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "19.5",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Kind": "Season",
+    "Pokedex": "The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.",
+    "FormName": "Spring Form",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "29",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SAWSBUCK",
+        "by":
+        {
+            "Level": 34
+        }
+    }]
+}

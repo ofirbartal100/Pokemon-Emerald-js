@@ -1,0 +1,92 @@
+{
+    "ID": 227,
+    "Name": "Skarmory",
+    "InternalName": "SKARMORY",
+    "Type1": "STEEL",
+    "Type2": "FLYING",
+    "BaseStats": [65, 80, 140, 70, 40, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "163",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "25",
+    "Happiness": "70",
+    "Abilities": ["KEENEYE","STURDY"],
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 6,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "SWIFT"
+    },
+    {
+        "level": 12,
+        "move": "AGILITY"
+    },
+    {
+        "level": 17,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 20,
+        "move": "FEINT"
+    },
+    {
+        "level": 23,
+        "move": "AIRCUTTER"
+    },
+    {
+        "level": 28,
+        "move": "SPIKES"
+    },
+    {
+        "level": 31,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 34,
+        "move": "STEELWING"
+    },
+    {
+        "level": 39,
+        "move": "AUTOTOMIZE"
+    },
+    {
+        "level": 42,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 45,
+        "move": "SLASH"
+    },
+    {
+        "level": 50,
+        "move": "NIGHTSLASH"
+    }],
+    "EggMoves": ["ASSURANCE", "BRAVEBIRD", "CURSE", "DRILLPECK", "ENDURE", "GUARDSWAP", "PURSUIT", "SKYATTACK", "STEALTHROCK", "WHIRLWIND"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "6630",
+    "Height": "1.7",
+    "Weight": "50.5",
+    "Color": "Gray",
+    "Shape": "9",
+    "Habitat": "RoughTerrain",
+    "RegionalNumbers": [0, 203],
+    "Kind": "Armor Bird",
+    "Pokedex": "A Pokémon that has a body and wings of steel. People in the past used feathers fallen from Skarmory to make swords and knives.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

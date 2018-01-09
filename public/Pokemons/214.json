@@ -1,0 +1,92 @@
+{
+    "ID": 214,
+    "Name": "Heracross",
+    "InternalName": "HERACROSS",
+    "Type1": "BUG",
+    "Type2": "FIGHTING",
+    "BaseStats": [80, 125, 75, 85, 40, 95],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "175",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["SWARM","GUTS"],
+    "HiddenAbility": "MOXIE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "HORNATTACK"
+    },
+    {
+        "level": 1,
+        "move": "ENDURE"
+    },
+    {
+        "level": 7,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 10,
+        "move": "AERIALACE"
+    },
+    {
+        "level": 16,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 19,
+        "move": "COUNTER"
+    },
+    {
+        "level": 25,
+        "move": "BRICKBREAK"
+    },
+    {
+        "level": 28,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 34,
+        "move": "CLOSECOMBAT"
+    },
+    {
+        "level": 37,
+        "move": "FEINT"
+    },
+    {
+        "level": 43,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 46,
+        "move": "MEGAHORN"
+    }],
+    "EggMoves": ["BIDE", "DOUBLEEDGE", "FLAIL", "FOCUSPUNCH", "HARDEN", "MEGAHORN", "PURSUIT", "REVENGE", "SEISMICTOSS"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "6630",
+    "Height": "1.5",
+    "Weight": "54.0",
+    "Color": "Blue",
+    "Shape": "12",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 114],
+    "Kind": "Single Horn",
+    "Pokedex": "They gather in forests seeking the sweet sap of trees. It is completely clad in a steel-hard shell. It is proud of its horn, which it uses to fling foes.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

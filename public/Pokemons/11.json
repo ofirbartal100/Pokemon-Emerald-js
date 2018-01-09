@@ -1,0 +1,44 @@
+{
+    "ID": 11,
+    "Name": "Metapod",
+    "InternalName": "METAPOD",
+    "Type1": "BUG",
+    "BaseStats": [50, 20, 55, 30, 25, 25],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "72",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "SHEDSKIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "HARDEN"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.7",
+    "Weight": "9.9",
+    "Color": "Green",
+    "Shape": "2",
+    "Habitat": "Forest",
+    "RegionalNumbers": [11, 25],
+    "Kind": "Cocoon",
+    "Pokedex": "Its shell is as hard as an iron slab. A Metapod does not move very much because it is preparing its soft innards for evolution inside the shell.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BUTTERFREE",
+        "by":
+        {
+            "Level": 10
+        }
+    }]
+}

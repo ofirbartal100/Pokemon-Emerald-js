@@ -1,0 +1,105 @@
+{
+    "ID": 330,
+    "Name": "Flygon",
+    "InternalName": "FLYGON",
+    "Type1": "GROUND",
+    "Type2": "DRAGON",
+    "BaseStats": [80, 100, 80, 100, 80, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "234",
+    "EffortPoints": [0, 1, 0, 2, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SONICBOOM"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 1,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 4,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 7,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 10,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 13,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 17,
+        "move": "BIDE"
+    },
+    {
+        "level": 21,
+        "move": "BULLDOZE"
+    },
+    {
+        "level": 25,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 29,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 34,
+        "move": "SCREECH"
+    },
+    {
+        "level": 35,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 39,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 44,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 45,
+        "move": "DRAGONTAIL"
+    },
+    {
+        "level": 49,
+        "move": "HYPERBEAM"
+    },
+    {
+        "level": 55,
+        "move": "DRAGONCLAW"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "2.0",
+    "Weight": "82.0",
+    "Color": "Green",
+    "Shape": "9",
+    "Habitat": "RoughTerrain",
+    "Kind": "Mystic",
+    "Pokedex": "The flapping of its wings sounds like singing. To prevent detection by enemies, it hides itself by flapping up a cloud of desert sand.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

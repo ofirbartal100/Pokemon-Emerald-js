@@ -1,0 +1,85 @@
+{
+    "ID": 626,
+    "Name": "Bouffalant",
+    "InternalName": "BOUFFALANT",
+    "Type1": "NORMAL",
+    "BaseStats": [95, 110, 95, 55, 40, 95],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "172",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["RECKLESS","SAPSIPPER"],
+    "HiddenAbility": "SOUNDPROOF",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 6,
+        "move": "RAGE"
+    },
+    {
+        "level": 11,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 16,
+        "move": "HORNATTACK"
+    },
+    {
+        "level": 21,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 26,
+        "move": "REVENGE"
+    },
+    {
+        "level": 31,
+        "move": "HEADCHARGE"
+    },
+    {
+        "level": 36,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 41,
+        "move": "MEGAHORN"
+    },
+    {
+        "level": 46,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 51,
+        "move": "THRASH"
+    },
+    {
+        "level": 56,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 61,
+        "move": "GIGAIMPACT"
+    }],
+    "EggMoves": ["AMNESIA", "HEADBUTT", "IRONHEAD", "MUDSHOT", "MUDSLAP", "ROCKCLIMB", "SKULLBASH", "STOMP"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.6",
+    "Weight": "94.6",
+    "Color": "Brown",
+    "Shape": "8",
+    "Kind": "Bash Buffalo",
+    "Pokedex": "They charge wildly and headbutt everything. They headbutts have enough destructive force to derail a train.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

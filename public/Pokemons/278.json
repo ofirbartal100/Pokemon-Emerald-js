@@ -1,0 +1,94 @@
+{
+    "ID": 278,
+    "Name": "Wingull",
+    "InternalName": "WINGULL",
+    "Type1": "WATER",
+    "Type2": "FLYING",
+    "BaseStats": [40, 30, 30, 85, 55, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "54",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "KEENEYE",
+    "HiddenAbility": "RAINDISH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 6,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 9,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 14,
+        "move": "MIST"
+    },
+    {
+        "level": 17,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 22,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 26,
+        "move": "ROOST"
+    },
+    {
+        "level": 30,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 33,
+        "move": "AIRCUTTER"
+    },
+    {
+        "level": 38,
+        "move": "AGILITY"
+    },
+    {
+        "level": 42,
+        "move": "AERIALACE"
+    },
+    {
+        "level": 46,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 49,
+        "move": "HURRICANE"
+    }],
+    "EggMoves": ["AGILITY", "AQUARING", "BRINE", "GUST", "KNOCKOFF", "MIST", "ROOST", "TWISTER", "WATERSPORT"],
+    "Compatibility": ["Water1", "Flying"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "9.5",
+    "Color": "White",
+    "Shape": "9",
+    "Habitat": "Sea",
+    "Kind": "Seagull",
+    "Pokedex": "It makes its nest on a sheer cliff at the edge of the sea. It has trouble keeping its wings flapping in flight. Instead, it soars on updrafts.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "18",
+    "Evolutions": [
+    {
+        "to": "PELIPPER",
+        "by":
+        {
+            "Level": 25
+        }
+    }]
+}

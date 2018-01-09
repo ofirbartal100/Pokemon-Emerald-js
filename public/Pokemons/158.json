@@ -1,0 +1,102 @@
+{
+    "ID": 158,
+    "Name": "Totodile",
+    "InternalName": "TOTODILE",
+    "Type1": "WATER",
+    "BaseStats": [50, 65, 64, 43, 44, 48],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "63",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 6,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 8,
+        "move": "RAGE"
+    },
+    {
+        "level": 13,
+        "move": "BITE"
+    },
+    {
+        "level": 15,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 20,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 22,
+        "move": "FLAIL"
+    },
+    {
+        "level": 27,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 29,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 34,
+        "move": "SLASH"
+    },
+    {
+        "level": 36,
+        "move": "SCREECH"
+    },
+    {
+        "level": 41,
+        "move": "THRASH"
+    },
+    {
+        "level": 43,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 48,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 50,
+        "move": "HYDROPUMP"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "AQUAJET", "BLOCK", "CRUNCH", "DRAGONDANCE", "FAKETEARS", "HYDROPUMP", "ICEPUNCH", "METALCLAW", "MUDSPORT", "THRASH", "WATERPULSE", "WATERSPORT"],
+    "Compatibility": ["Monster", "Water1"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "9.5",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [0, 7],
+    "Kind": "Big Jaw",
+    "Pokedex": "Despite its small body, Totodile's jaws are very powerful. While it may think it is just playfully nipping, its bite has enough strength to cause serious injury.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CROCONAW",
+        "by":
+        {
+            "Level": 18
+        }
+    }]
+}

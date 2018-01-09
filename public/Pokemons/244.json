@@ -1,0 +1,86 @@
+{
+    "ID": 244,
+    "Name": "Entei",
+    "InternalName": "ENTEI",
+    "Type1": "FIRE",
+    "BaseStats": [115, 115, 85, 100, 90, 75],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": [1, 2, 0, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "FLASHFIRE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 8,
+        "move": "EMBER"
+    },
+    {
+        "level": 15,
+        "move": "ROAR"
+    },
+    {
+        "level": 22,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 29,
+        "move": "STOMP"
+    },
+    {
+        "level": 36,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 43,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 50,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 57,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 64,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 71,
+        "move": "FIREBLAST"
+    },
+    {
+        "level": 78,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 85,
+        "move": "ERUPTION"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "2.1",
+    "Weight": "198.0",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 244],
+    "Kind": "Volcano",
+    "Pokedex": "Entei embodies the passion of magma. It is thought to have been born in the eruption of a volcano. It blasts fire that consumes all that it touches.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

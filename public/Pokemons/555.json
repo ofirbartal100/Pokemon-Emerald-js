@@ -1,0 +1,110 @@
+{
+    "ID": 555,
+    "Name": "Darmanitan",
+    "InternalName": "DARMANITAN",
+    "Type1": "FIRE",
+    "BaseStats": [105, 140, 55, 95, 30, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "168",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": "SHEERFORCE",
+    "HiddenAbility": "ZENMODE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 1,
+        "move": "INCINERATE"
+    },
+    {
+        "level": 1,
+        "move": "RAGE"
+    },
+    {
+        "level": 3,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 6,
+        "move": "INCINERATE"
+    },
+    {
+        "level": 9,
+        "move": "RAGE"
+    },
+    {
+        "level": 11,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 14,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 17,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 19,
+        "move": "FACADE"
+    },
+    {
+        "level": 22,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 25,
+        "move": "WORKUP"
+    },
+    {
+        "level": 27,
+        "move": "THRASH"
+    },
+    {
+        "level": 30,
+        "move": "BELLYDRUM"
+    },
+    {
+        "level": 33,
+        "move": "FLAREBLITZ"
+    },
+    {
+        "level": 35,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 39,
+        "move": "TAUNT"
+    },
+    {
+        "level": 47,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 54,
+        "move": "OVERHEAT"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "92.9",
+    "Color": "Red",
+    "Shape": "8",
+    "Kind": "Blazing",
+    "Pokedex": "When weakened in battle, it transforms into a stone statue. Then it sharpens its mind and fights on mentally.",
+    "FormName": "Standard Mode",
+    "WildItemCommon": "RAWSTBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

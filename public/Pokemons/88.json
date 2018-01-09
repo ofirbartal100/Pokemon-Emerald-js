@@ -1,0 +1,99 @@
+{
+    "ID": 88,
+    "Name": "Grimer",
+    "InternalName": "GRIMER",
+    "Type1": "POISON",
+    "BaseStats": [80, 80, 50, 25, 40, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "65",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["STENCH","STICKYHOLD"],
+    "HiddenAbility": "POISONTOUCH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 4,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 12,
+        "move": "DISABLE"
+    },
+    {
+        "level": 15,
+        "move": "SLUDGE"
+    },
+    {
+        "level": 18,
+        "move": "MINIMIZE"
+    },
+    {
+        "level": 21,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 26,
+        "move": "SLUDGEBOMB"
+    },
+    {
+        "level": 29,
+        "move": "FLING"
+    },
+    {
+        "level": 32,
+        "move": "SCREECH"
+    },
+    {
+        "level": 37,
+        "move": "SLUDGEWAVE"
+    },
+    {
+        "level": 40,
+        "move": "ACIDARMOR"
+    },
+    {
+        "level": 43,
+        "move": "GUNKSHOT"
+    },
+    {
+        "level": 48,
+        "move": "MEMENTO"
+    }],
+    "EggMoves": ["ACIDSPRAY", "CURSE", "HAZE", "IMPRISON", "LICK", "MEANLOOK", "SCARYFACE", "SHADOWPUNCH", "SHADOWSNEAK", "SPITUP", "STOCKPILE", "SWALLOW"],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "30.0",
+    "Color": "Purple",
+    "Shape": "4",
+    "Habitat": "Urban",
+    "RegionalNumbers": [88, 117],
+    "Kind": "Sludge",
+    "Pokedex": "Born from polluted sludge in the sea, Grimer's favorite food is anything filthy. They feed on wastewater pumped out from factories.",
+    "WildItemUncommon": "NUGGET",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MUK",
+        "by":
+        {
+            "Level": 38
+        }
+    }]
+}

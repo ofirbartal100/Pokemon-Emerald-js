@@ -1,0 +1,86 @@
+{
+    "ID": 243,
+    "Name": "Raikou",
+    "InternalName": "RAIKOU",
+    "Type1": "ELECTRIC",
+    "BaseStats": [90, 85, 75, 115, 115, 100],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": [0, 0, 0, 2, 1, 0],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "VOLTABSORB",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 8,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 15,
+        "move": "ROAR"
+    },
+    {
+        "level": 22,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 29,
+        "move": "SPARK"
+    },
+    {
+        "level": 36,
+        "move": "REFLECT"
+    },
+    {
+        "level": 43,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 50,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 57,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 64,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 71,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 78,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 85,
+        "move": "THUNDER"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "1.9",
+    "Weight": "178.0",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 243],
+    "Kind": "Thunder",
+    "Pokedex": "Raikou embodies the speed of lightning. Its roars send shock waves shuddering through the air and ground as if lightning bolts were crashing down.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

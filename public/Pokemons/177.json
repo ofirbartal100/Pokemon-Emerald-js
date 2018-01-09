@@ -1,0 +1,103 @@
+{
+    "ID": 177,
+    "Name": "Natu",
+    "InternalName": "NATU",
+    "Type1": "PSYCHIC",
+    "Type2": "FLYING",
+    "BaseStats": [40, 50, 45, 70, 70, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "64",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["SYNCHRONIZE","EARLYBIRD"],
+    "HiddenAbility": "MAGICBOUNCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 6,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 9,
+        "move": "TELEPORT"
+    },
+    {
+        "level": 12,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 17,
+        "move": "MIRACLEEYE"
+    },
+    {
+        "level": 20,
+        "move": "MEFIRST"
+    },
+    {
+        "level": 23,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 28,
+        "move": "WISH"
+    },
+    {
+        "level": 33,
+        "move": "PSYCHOSHIFT"
+    },
+    {
+        "level": 36,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 39,
+        "move": "STOREDPOWER"
+    },
+    {
+        "level": 44,
+        "move": "OMINOUSWIND"
+    },
+    {
+        "level": 47,
+        "move": "POWERSWAP"
+    },
+    {
+        "level": 47,
+        "move": "GUARDSWAP"
+    },
+    {
+        "level": 50,
+        "move": "PSYCHIC"
+    }],
+    "EggMoves": ["DRILLPECK", "FEINTATTACK", "FEATHERDANCE", "HAZE", "QUICKATTACK", "REFRESH", "ROOST", "SKILLSWAP", "STEELWING", "SUCKERPUNCH", "SYNCHRONOISE", "ZENHEADBUTT"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "5355",
+    "Height": "0.2",
+    "Weight": "2.0",
+    "Color": "Green",
+    "Shape": "9",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 161],
+    "Kind": "Tiny Bird",
+    "Pokedex": "It runs up short trees that grow on the savanna to peck at new shoots. A Natu's eyes look as if they are always observing something.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "XATU",
+        "by":
+        {
+            "Level": 25
+        }
+    }]
+}

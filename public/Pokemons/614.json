@@ -1,0 +1,113 @@
+{
+    "ID": 614,
+    "Name": "Beartic",
+    "InternalName": "BEARTIC",
+    "Type1": "ICE",
+    "BaseStats": [95, 110, 80, 50, 70, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "170",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": "SNOWCLOAK",
+    "HiddenAbility": "SWIFTSWIM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 1,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 1,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "BIDE"
+    },
+    {
+        "level": 1,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 5,
+        "move": "GROWL"
+    },
+    {
+        "level": 9,
+        "move": "BIDE"
+    },
+    {
+        "level": 13,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 17,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 21,
+        "move": "BRINE"
+    },
+    {
+        "level": 25,
+        "move": "ENDURE"
+    },
+    {
+        "level": 29,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 33,
+        "move": "SLASH"
+    },
+    {
+        "level": 36,
+        "move": "FLAIL"
+    },
+    {
+        "level": 37,
+        "move": "ICICLECRASH"
+    },
+    {
+        "level": 41,
+        "move": "REST"
+    },
+    {
+        "level": 45,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 53,
+        "move": "HAIL"
+    },
+    {
+        "level": 59,
+        "move": "THRASH"
+    },
+    {
+        "level": 66,
+        "move": "SHEERCOLD"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "2.6",
+    "Weight": "260.0",
+    "Color": "White",
+    "Shape": "8",
+    "Kind": "Freezing",
+    "Pokedex": "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
+    "WildItemCommon": "ASPEARBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

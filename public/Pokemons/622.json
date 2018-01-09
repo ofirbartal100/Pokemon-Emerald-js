@@ -1,0 +1,97 @@
+{
+    "ID": 622,
+    "Name": "Golett",
+    "InternalName": "GOLETT",
+    "Type1": "GROUND",
+    "Type2": "GHOST",
+    "BaseStats": [59, 74, 50, 35, 35, 50],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["IRONFIST","KLUTZ"],
+    "HiddenAbility": "NOGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 5,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 9,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 13,
+        "move": "SHADOWPUNCH"
+    },
+    {
+        "level": 17,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 21,
+        "move": "MEGAPUNCH"
+    },
+    {
+        "level": 25,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 30,
+        "move": "DYNAMICPUNCH"
+    },
+    {
+        "level": 35,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 40,
+        "move": "CURSE"
+    },
+    {
+        "level": 45,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 50,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 55,
+        "move": "FOCUSPUNCH"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "6630",
+    "Height": "1.0",
+    "Weight": "92.0",
+    "Color": "Green",
+    "Shape": "12",
+    "Kind": "Automaton",
+    "Pokedex": "These Pokémon are thought to have been created by the science of an ancient and mysterious civilization.",
+    "WildItemUncommon": "LIGHTCLAY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GOLURK",
+        "by":
+        {
+            "Level": 43
+        }
+    }]
+}

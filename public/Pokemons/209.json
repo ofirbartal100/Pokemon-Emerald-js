@@ -1,0 +1,98 @@
+{
+    "ID": 209,
+    "Name": "Snubbull",
+    "InternalName": "SNUBBULL",
+    "Type1": "NORMAL",
+    "BaseStats": [60, 80, 50, 30, 40, 40],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","RUNAWAY"],
+    "HiddenAbility": "RATTLED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "CHARM"
+    },
+    {
+        "level": 7,
+        "move": "BITE"
+    },
+    {
+        "level": 13,
+        "move": "LICK"
+    },
+    {
+        "level": 19,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 25,
+        "move": "ROAR"
+    },
+    {
+        "level": 31,
+        "move": "RAGE"
+    },
+    {
+        "level": 37,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 43,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 49,
+        "move": "CRUNCH"
+    }],
+    "EggMoves": ["CLOSECOMBAT", "CRUNCH", "DOUBLEEDGE", "FEINTATTACK", "FIREFANG", "FOCUSPUNCH", "HEALBELL", "ICEFANG", "METRONOME", "MIMIC", "PRESENT", "SMELLINGSALTS", "SNORE", "THUNDERFANG"],
+    "Compatibility": ["Field", "Fairy"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "7.8",
+    "Color": "Pink",
+    "Shape": "12",
+    "Habitat": "Urban",
+    "RegionalNumbers": [0, 125],
+    "Kind": "Fairy",
+    "Pokedex": "By baring its fangs and making a scary face, it sends smaller Pokémon scurrying in terror. The Snubbull does seem a little sad at making its foes flee.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GRANBULL",
+        "by":
+        {
+            "Level": 23
+        }
+    }]
+}

@@ -1,0 +1,79 @@
+{
+    "ID": 492,
+    "Name": "Shaymin",
+    "InternalName": "SHAYMIN",
+    "Type1": "GRASS",
+    "BaseStats": [100, 100, 100, 100, 100, 100],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "270",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "100",
+    "Abilities": "NATURALCURE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWTH"
+    },
+    {
+        "level": 10,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 19,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 28,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 37,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 46,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 55,
+        "move": "WORRYSEED"
+    },
+    {
+        "level": 64,
+        "move": "AROMATHERAPY"
+    },
+    {
+        "level": 73,
+        "move": "ENERGYBALL"
+    },
+    {
+        "level": 82,
+        "move": "SWEETKISS"
+    },
+    {
+        "level": 91,
+        "move": "HEALINGWISH"
+    },
+    {
+        "level": 100,
+        "move": "SEEDFLARE"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "0.2",
+    "Weight": "2.1",
+    "Color": "Green",
+    "Shape": "8",
+    "Kind": "Gratitude",
+    "Pokedex": "It lives in flower patches and avoids detection by curling up to look like a flowering plant.",
+    "FormName": "Land Forme",
+    "WildItemCommon": "LUMBERRY",
+    "WildItemUncommon": "LUMBERRY",
+    "WildItemRare": "LUMBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

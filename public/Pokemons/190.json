@@ -1,0 +1,94 @@
+{
+    "ID": 190,
+    "Name": "Aipom",
+    "InternalName": "AIPOM",
+    "Type1": "NORMAL",
+    "BaseStats": [55, 70, 55, 85, 40, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "72",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["RUNAWAY","PICKUP"],
+    "HiddenAbility": "SKILLLINK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 4,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 8,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 11,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 15,
+        "move": "TICKLE"
+    },
+    {
+        "level": 18,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 22,
+        "move": "SWIFT"
+    },
+    {
+        "level": 25,
+        "move": "SCREECH"
+    },
+    {
+        "level": 29,
+        "move": "AGILITY"
+    },
+    {
+        "level": 32,
+        "move": "DOUBLEHIT"
+    },
+    {
+        "level": 36,
+        "move": "FLING"
+    },
+    {
+        "level": 39,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 43,
+        "move": "LASTRESORT"
+    }],
+    "EggMoves": ["AGILITY", "BEATUP", "BOUNCE", "COUNTER", "COVET", "DOUBLESLAP", "FAKEOUT", "PURSUIT", "REVENGE", "SCREECH", "SLAM", "SPITE", "SWITCHEROO"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "11.5",
+    "Color": "Purple",
+    "Shape": "6",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 123],
+    "Kind": "Long Tail",
+    "Pokedex": "Its tail ends with a dexterous, handlike appendage. However, because it uses the tail so much, Aipom's real hands have become rather clumsy.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "AMBIPOM",
+        "by":
+        {
+            "HasMove": "DOUBLEHIT"
+        }
+    }]
+}

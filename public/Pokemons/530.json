@@ -1,0 +1,101 @@
+{
+    "ID": 530,
+    "Name": "Excadrill",
+    "InternalName": "EXCADRILL",
+    "Type1": "GROUND",
+    "Type2": "STEEL",
+    "BaseStats": [110, 135, 60, 88, 50, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "178",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["SANDRUSH","SANDFORCE"],
+    "HiddenAbility": "MOLDBREAKER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 1,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 1,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 5,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 8,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 12,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 15,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 19,
+        "move": "DIG"
+    },
+    {
+        "level": 22,
+        "move": "HONECLAWS"
+    },
+    {
+        "level": 26,
+        "move": "SLASH"
+    },
+    {
+        "level": 29,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 31,
+        "move": "HORNDRILL"
+    },
+    {
+        "level": 36,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 42,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 49,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 55,
+        "move": "DRILLRUN"
+    },
+    {
+        "level": 62,
+        "move": "FISSURE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "40.4",
+    "Color": "Gray",
+    "Shape": "12",
+    "Kind": "Subterrene",
+    "Pokedex": "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

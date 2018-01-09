@@ -1,0 +1,74 @@
+{
+    "ID": 283,
+    "Name": "Surskit",
+    "InternalName": "SURSKIT",
+    "Type1": "BUG",
+    "Type2": "WATER",
+    "BaseStats": [40, 30, 32, 65, 50, 52],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "54",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": "SWIFTSWIM",
+    "HiddenAbility": "RAINDISH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 7,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 13,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 19,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 25,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 31,
+        "move": "AGILITY"
+    },
+    {
+        "level": 37,
+        "move": "MIST"
+    },
+    {
+        "level": 37,
+        "move": "HAZE"
+    },
+    {
+        "level": 43,
+        "move": "BATONPASS"
+    }],
+    "EggMoves": ["AQUAJET", "BUGBITE", "ENDURE", "FORESIGHT", "HYDROPUMP", "MINDREADER", "MUDSHOT", "PSYBEAM", "SIGNALBEAM"],
+    "Compatibility": ["Water1", "Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.5",
+    "Weight": "1.7",
+    "Color": "Blue",
+    "Shape": "14",
+    "Habitat": "WatersEdge",
+    "Kind": "Pond Skater",
+    "Pokedex": "They gather on puddles after evening downpours, gliding across the surface of water as if sliding. It secretes honey with a sweet aroma from its head.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MASQUERAIN",
+        "by":
+        {
+            "Level": 22
+        }
+    }]
+}

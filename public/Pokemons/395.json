@@ -1,0 +1,97 @@
+{
+    "ID": 395,
+    "Name": "Empoleon",
+    "InternalName": "EMPOLEON",
+    "Type1": "WATER",
+    "Type2": "STEEL",
+    "BaseStats": [84, 86, 88, 60, 111, 101],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "239",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "DEFIANT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 8,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 11,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 15,
+        "move": "PECK"
+    },
+    {
+        "level": 16,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 19,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 24,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 28,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 33,
+        "move": "BRINE"
+    },
+    {
+        "level": 36,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 39,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 46,
+        "move": "MIST"
+    },
+    {
+        "level": 52,
+        "move": "DRILLPECK"
+    },
+    {
+        "level": 59,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.7",
+    "Weight": "84.5",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Emperor",
+    "Pokedex": "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "6",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

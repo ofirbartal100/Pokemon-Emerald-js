@@ -1,0 +1,93 @@
+{
+    "ID": 457,
+    "Name": "Lumineon",
+    "InternalName": "LUMINEON",
+    "Type1": "WATER",
+    "BaseStats": [69, 69, 76, 91, 69, 86],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "161",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","STORMDRAIN"],
+    "HiddenAbility": "WATERVEIL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 6,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 10,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 13,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 17,
+        "move": "GUST"
+    },
+    {
+        "level": 22,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 26,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 29,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 35,
+        "move": "AQUARING"
+    },
+    {
+        "level": 42,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 48,
+        "move": "UTURN"
+    },
+    {
+        "level": 53,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 59,
+        "move": "SILVERWIND"
+    },
+    {
+        "level": 66,
+        "move": "SOAK"
+    }],
+    "Compatibility": ["Water2"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "24.0",
+    "Color": "Blue",
+    "Shape": "3",
+    "Kind": "Neon",
+    "Pokedex": "It lives on the deep-sea floor. It attracts prey by flashing the patterns on its four tail fins.",
+    "WildItemUncommon": "RINDOBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "12",
+    "Evolutions": []
+}

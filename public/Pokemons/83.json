@@ -1,0 +1,105 @@
+{
+    "ID": 83,
+    "Name": "Farfetch'd",
+    "InternalName": "FARFETCHD",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [52, 65, 55, 60, 58, 62],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "123",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["KEENEYE","INNERFOCUS"],
+    "HiddenAbility": "DEFIANT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 7,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 9,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 13,
+        "move": "AERIALACE"
+    },
+    {
+        "level": 19,
+        "move": "SLASH"
+    },
+    {
+        "level": 21,
+        "move": "AIRCUTTER"
+    },
+    {
+        "level": 25,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 31,
+        "move": "AGILITY"
+    },
+    {
+        "level": 33,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 37,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 43,
+        "move": "FEINT"
+    },
+    {
+        "level": 45,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 49,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 55,
+        "move": "BRAVEBIRD"
+    }],
+    "EggMoves": ["COVET", "CURSE", "FEATHERDANCE", "FLAIL", "FORESIGHT", "GUST", "LEAFBLADE", "MIRRORMOVE", "MUDSLAP", "NIGHTSLASH", "QUICKATTACK", "REVENGE", "ROOST", "STEELWING", "TRUMPCARD"],
+    "Compatibility": ["Flying", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "15.0",
+    "Color": "Brown",
+    "Shape": "9",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [83, 160],
+    "Kind": "Wild Duck",
+    "Pokedex": "It is always seen with a stick from a plant. Apparently, there are good sticks and bad sticks. This Pokémon occasionally fights with others over choice sticks.",
+    "WildItemUncommon": "STICK",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

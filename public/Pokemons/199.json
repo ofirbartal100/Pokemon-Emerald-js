@@ -1,0 +1,104 @@
+{
+    "ID": 199,
+    "Name": "Slowking",
+    "InternalName": "SLOWKING",
+    "Type1": "WATER",
+    "Type2": "PSYCHIC",
+    "BaseStats": [95, 75, 80, 30, 100, 110],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "172",
+    "EffortPoints": [0, 0, 0, 0, 0, 3],
+    "Rareness": "70",
+    "Happiness": "70",
+    "Abilities": ["OBLIVIOUS","OWNTEMPO"],
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 1,
+        "move": "HIDDENPOWER"
+    },
+    {
+        "level": 1,
+        "move": "CURSE"
+    },
+    {
+        "level": 1,
+        "move": "YAWN"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 5,
+        "move": "GROWL"
+    },
+    {
+        "level": 9,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 14,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 19,
+        "move": "DISABLE"
+    },
+    {
+        "level": 23,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 28,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 32,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 36,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 41,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 45,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 49,
+        "move": "TRUMPCARD"
+    },
+    {
+        "level": 54,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 58,
+        "move": "HEALPULSE"
+    }],
+    "Compatibility": ["Monster", "Water1"],
+    "StepsToHatch": "5355",
+    "Height": "2.0",
+    "Weight": "79.5",
+    "Color": "Pink",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [0, 82],
+    "Kind": "Royal",
+    "Pokedex": "It undertakes research every day to solve the mysteries of the world. However, it apparently forgets everything if the Shellder on its head comes off.",
+    "WildItemUncommon": "KINGSROCK",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

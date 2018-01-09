@@ -1,0 +1,100 @@
+{
+    "ID": 142,
+    "Name": "Aerodactyl",
+    "InternalName": "AERODACTYL",
+    "Type1": "ROCK",
+    "Type2": "FLYING",
+    "BaseStats": [80, 105, 65, 130, 60, 75],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Slow",
+    "BaseEXP": "180",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["ROCKHEAD","PRESSURE"],
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 9,
+        "move": "ROAR"
+    },
+    {
+        "level": 17,
+        "move": "AGILITY"
+    },
+    {
+        "level": 25,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 33,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 41,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 49,
+        "move": "SKYDROP"
+    },
+    {
+        "level": 57,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 65,
+        "move": "HYPERBEAM"
+    },
+    {
+        "level": 73,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 81,
+        "move": "GIGAIMPACT"
+    }],
+    "EggMoves": ["ASSURANCE", "CURSE", "DRAGONBREATH", "FORESIGHT", "PURSUIT", "ROOST", "STEELWING", "TAILWIND", "WHIRLWIND"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "9180",
+    "Height": "1.8",
+    "Weight": "59.0",
+    "Color": "Purple",
+    "Shape": "9",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [142, 229],
+    "Kind": "Fossil",
+    "Pokedex": "Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from DNA extracted from amber. It is imagined to have been the king of the skies.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

@@ -1,0 +1,111 @@
+{
+    "ID": 75,
+    "Name": "Graveler",
+    "InternalName": "GRAVELER",
+    "Type1": "ROCK",
+    "Type2": "GROUND",
+    "BaseStats": [55, 95, 115, 35, 45, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "137",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["ROCKHEAD","STURDY"],
+    "HiddenAbility": "SANDVEIL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 1,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 1,
+        "move": "ROCKPOLISH"
+    },
+    {
+        "level": 4,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 8,
+        "move": "ROCKPOLISH"
+    },
+    {
+        "level": 11,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 15,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 18,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 22,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 27,
+        "move": "SMACKDOWN"
+    },
+    {
+        "level": 31,
+        "move": "SELFDESTRUCT"
+    },
+    {
+        "level": 36,
+        "move": "BULLDOZE"
+    },
+    {
+        "level": 42,
+        "move": "STEALTHROCK"
+    },
+    {
+        "level": 47,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 53,
+        "move": "EXPLOSION"
+    },
+    {
+        "level": 58,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 64,
+        "move": "STONEEDGE"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "4080",
+    "Height": "1.0",
+    "Weight": "105.0",
+    "Color": "Brown",
+    "Shape": "12",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [75, 35],
+    "Kind": "Rock",
+    "Pokedex": "They descend from mountains by tumbling down steep slopes. They are so brutal, they smash aside obstructing trees and massive boulders with thunderous tackles.",
+    "WildItemUncommon": "EVERSTONE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GOLEM",
+        "by":
+        {
+            "Trade": "Trade"
+        }
+    }]
+}

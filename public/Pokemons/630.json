@@ -1,0 +1,105 @@
+{
+    "ID": 630,
+    "Name": "Mandibuzz",
+    "InternalName": "MANDIBUZZ",
+    "Type1": "DARK",
+    "Type2": "FLYING",
+    "BaseStats": [110, 65, 105, 80, 55, 95],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "179",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "60",
+    "Happiness": "35",
+    "Abilities": ["BIGPECKS","OVERCOAT"],
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 1,
+        "move": "PLUCK"
+    },
+    {
+        "level": 5,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 10,
+        "move": "PLUCK"
+    },
+    {
+        "level": 14,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 19,
+        "move": "FLATTER"
+    },
+    {
+        "level": 23,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 28,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 32,
+        "move": "DEFOG"
+    },
+    {
+        "level": 37,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 41,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 46,
+        "move": "DARKPULSE"
+    },
+    {
+        "level": 50,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 51,
+        "move": "BONERUSH"
+    },
+    {
+        "level": 57,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 63,
+        "move": "BRAVEBIRD"
+    },
+    {
+        "level": 70,
+        "move": "MIRRORMOVE"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "39.5",
+    "Color": "Brown",
+    "Shape": "9",
+    "Kind": "Bone Vulture",
+    "Pokedex": "Watching from the sky, they swoop to strike weakened Pokémon on the ground. They decorate themselves with bones.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,110 @@
+{
+    "ID": 439,
+    "Name": "Mime Jr.",
+    "InternalName": "MIMEJR",
+    "Type1": "PSYCHIC",
+    "BaseStats": [20, 25, 45, 60, 70, 90],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "62",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "145",
+    "Happiness": "70",
+    "Abilities": ["SOUNDPROOF","FILTER"],
+    "HiddenAbility": "TECHNICIAN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TICKLE"
+    },
+    {
+        "level": 1,
+        "move": "BARRIER"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 4,
+        "move": "COPYCAT"
+    },
+    {
+        "level": 8,
+        "move": "MEDITATE"
+    },
+    {
+        "level": 11,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 15,
+        "move": "MIMIC"
+    },
+    {
+        "level": 18,
+        "move": "ENCORE"
+    },
+    {
+        "level": 22,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 22,
+        "move": "REFLECT"
+    },
+    {
+        "level": 25,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 29,
+        "move": "SUBSTITUTE"
+    },
+    {
+        "level": 32,
+        "move": "RECYCLE"
+    },
+    {
+        "level": 36,
+        "move": "TRICK"
+    },
+    {
+        "level": 39,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 43,
+        "move": "ROLEPLAY"
+    },
+    {
+        "level": 46,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 50,
+        "move": "SAFEGUARD"
+    }],
+    "EggMoves": ["CHARM", "CONFUSERAY", "FAKEOUT", "FUTURESIGHT", "HEALINGWISH", "HYPNOSIS", "ICYWIND", "MAGICROOM", "MIMIC", "NASTYPLOT", "POWERSPLIT", "TEETERDANCE", "TRICK", "WAKEUPSLAP"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "6630",
+    "Height": "0.6",
+    "Weight": "13.0",
+    "Color": "Pink",
+    "Shape": "12",
+    "Kind": "Mime",
+    "Pokedex": "It habitually mimics foes. Once mimicked, the foe cannot take its eyes off this Pokémon.",
+    "WildItemUncommon": "LEPPABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MRMIME",
+        "by":
+        {
+            "HasMove": "MIMIC"
+        }
+    }],
+    "Incense": "ODDINCENSE"
+}

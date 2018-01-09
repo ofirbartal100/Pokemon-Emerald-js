@@ -1,0 +1,83 @@
+{
+    "ID": 361,
+    "Name": "Snorunt",
+    "InternalName": "SNORUNT",
+    "Type1": "ICE",
+    "BaseStats": [50, 50, 50, 50, 50, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "60",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["INNERFOCUS","ICEBODY"],
+    "HiddenAbility": "MOODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 4,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 10,
+        "move": "BITE"
+    },
+    {
+        "level": 13,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 19,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 22,
+        "move": "PROTECT"
+    },
+    {
+        "level": 28,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 31,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 37,
+        "move": "ICESHARD"
+    },
+    {
+        "level": 40,
+        "move": "HAIL"
+    },
+    {
+        "level": 46,
+        "move": "BLIZZARD"
+    }],
+    "EggMoves": ["AVALANCHE", "BIDE", "BLOCK", "DISABLE", "FAKETEARS", "HEX", "ROLLOUT", "SPIKES", "WEATHERBALL"],
+    "Compatibility": ["Fairy", "Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "16.8",
+    "Color": "Gray",
+    "Shape": "12",
+    "Habitat": "Cave",
+    "Kind": "Snow Hat",
+    "Pokedex": "They tend to move about in groups of around five Snorunt. In snowy regions, it is said that when they are seen late at night, snowfall will arrive by morning.",
+    "WildItemUncommon": "BABIRIBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": ["GLALIE", "Level",
+    {
+        "level": 42,
+        "move": "FROSLASS"
+    }, "ItemFemale", "DAWNSTONE"]
+}

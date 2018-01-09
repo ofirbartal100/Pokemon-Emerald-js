@@ -1,0 +1,114 @@
+{
+    "ID": 295,
+    "Name": "Exploud",
+    "InternalName": "EXPLOUD",
+    "Type1": "NORMAL",
+    "BaseStats": [104, 91, 63, 68, 91, 63],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "216",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "SOUNDPROOF",
+    "HiddenAbility": "SCRAPPY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "UPROAR"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "HOWL"
+    },
+    {
+        "level": 5,
+        "move": "UPROAR"
+    },
+    {
+        "level": 11,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 15,
+        "move": "HOWL"
+    },
+    {
+        "level": 20,
+        "move": "BITE"
+    },
+    {
+        "level": 23,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 29,
+        "move": "STOMP"
+    },
+    {
+        "level": 37,
+        "move": "SCREECH"
+    },
+    {
+        "level": 40,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 45,
+        "move": "ROAR"
+    },
+    {
+        "level": 55,
+        "move": "SYNCHRONOISE"
+    },
+    {
+        "level": 55,
+        "move": "REST"
+    },
+    {
+        "level": 63,
+        "move": "SLEEPTALK"
+    },
+    {
+        "level": 71,
+        "move": "HYPERVOICE"
+    },
+    {
+        "level": 79,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "84.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "Cave",
+    "Kind": "Loud Noise",
+    "Pokedex": "It has sound-generating organs all over its body. It communicates with others by adjusting the tone and volume of the cries it emits.",
+    "WildItemUncommon": "CHESTOBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

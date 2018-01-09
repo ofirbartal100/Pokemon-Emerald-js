@@ -1,0 +1,87 @@
+{
+    "ID": 400,
+    "Name": "Bibarel",
+    "InternalName": "BIBAREL",
+    "Type1": "NORMAL",
+    "Type2": "WATER",
+    "BaseStats": [79, 85, 60, 71, 55, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "144",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "127",
+    "Happiness": "70",
+    "Abilities": ["SIMPLE","UNAWARE"],
+    "HiddenAbility": "MOODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 5,
+        "move": "GROWL"
+    },
+    {
+        "level": 9,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 13,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 15,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 18,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 23,
+        "move": "HYPERFANG"
+    },
+    {
+        "level": 28,
+        "move": "YAWN"
+    },
+    {
+        "level": 33,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 38,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 43,
+        "move": "SUPERFANG"
+    },
+    {
+        "level": 48,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 53,
+        "move": "CURSE"
+    }],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "4080",
+    "Height": "1.0",
+    "Weight": "31.5",
+    "Color": "Brown",
+    "Shape": "6",
+    "Kind": "Beaver",
+    "Pokedex": "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
+    "WildItemCommon": "ORANBERRY",
+    "WildItemUncommon": "SITRUSBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

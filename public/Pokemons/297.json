@@ -1,0 +1,110 @@
+{
+    "ID": 297,
+    "Name": "Hariyama",
+    "InternalName": "HARIYAMA",
+    "Type1": "FIGHTING",
+    "BaseStats": [144, 120, 60, 50, 40, 60],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Fluctuating",
+    "BaseEXP": "166",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": ["THICKFAT","GUTS"],
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BRINE"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "ARMTHRUST"
+    },
+    {
+        "level": 4,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 7,
+        "move": "ARMTHRUST"
+    },
+    {
+        "level": 10,
+        "move": "VITALTHROW"
+    },
+    {
+        "level": 13,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 16,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 19,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 22,
+        "move": "SMELLINGSALTS"
+    },
+    {
+        "level": 27,
+        "move": "BELLYDRUM"
+    },
+    {
+        "level": 32,
+        "move": "FORCEPALM"
+    },
+    {
+        "level": 37,
+        "move": "SEISMICTOSS"
+    },
+    {
+        "level": 42,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 47,
+        "move": "ENDURE"
+    },
+    {
+        "level": 52,
+        "move": "CLOSECOMBAT"
+    },
+    {
+        "level": 57,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 62,
+        "move": "HEAVYSLAM"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "2.3",
+    "Weight": "253.8",
+    "Color": "Brown",
+    "Shape": "12",
+    "Habitat": "Mountain",
+    "Kind": "Arm Thrust",
+    "Pokedex": "It has the habit of challenging others without hesitation to tests of strength. It's been known to stand on train tracks and stop trains using forearm thrusts.",
+    "WildItemUncommon": "KINGSROCK",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

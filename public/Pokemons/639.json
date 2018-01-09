@@ -1,0 +1,84 @@
+{
+    "ID": 639,
+    "Name": "Terrakion",
+    "InternalName": "TERRAKION",
+    "Type1": "ROCK",
+    "Type2": "FIGHTING",
+    "BaseStats": [91, 129, 90, 108, 72, 90],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "5",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "JUSTIFIED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 13,
+        "move": "SMACKDOWN"
+    },
+    {
+        "level": 19,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 25,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 31,
+        "move": "RETALIATE"
+    },
+    {
+        "level": 37,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 42,
+        "move": "SACREDSWORD"
+    },
+    {
+        "level": 49,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 55,
+        "move": "QUICKGUARD"
+    },
+    {
+        "level": 61,
+        "move": "WORKUP"
+    },
+    {
+        "level": 67,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 73,
+        "move": "CLOSECOMBAT"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "1.9",
+    "Weight": "260.0",
+    "Color": "Gray",
+    "Shape": "8",
+    "Kind": "Cavern",
+    "Pokedex": "Its charge is strong enough to break through a giant castle wall in one blow. This Pokémon is spoken of in legends.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,101 @@
+{
+    "ID": 322,
+    "Name": "Numel",
+    "InternalName": "NUMEL",
+    "Type1": "FIRE",
+    "Type2": "GROUND",
+    "BaseStats": [60, 60, 40, 35, 65, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["OBLIVIOUS","SIMPLE"],
+    "HiddenAbility": "OWNTEMPO",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 5,
+        "move": "EMBER"
+    },
+    {
+        "level": 8,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 12,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 15,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 19,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 22,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 26,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 29,
+        "move": "CURSE"
+    },
+    {
+        "level": 31,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 36,
+        "move": "YAWN"
+    },
+    {
+        "level": 40,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 43,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 47,
+        "move": "DOUBLEEDGE"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "BODYSLAM", "DEFENSECURL", "ENDURE", "HEATWAVE", "HOWL", "IRONHEAD", "MUDBOMB", "ROLLOUT", "SCARYFACE", "SPITUP", "STOCKPILE", "STOMP", "SWALLOW", "YAWN"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "24.0",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Mountain",
+    "Kind": "Numb",
+    "Pokedex": "A Numel stores boiling magma in the hump on its back. It is a hardy Pokémon that can transport a 220-pound load. It has served humans at work since long ago.",
+    "WildItemCommon": "RAWSTBERRY",
+    "WildItemUncommon": "RAWSTBERRY",
+    "WildItemRare": "RAWSTBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CAMERUPT",
+        "by":
+        {
+            "Level": 33
+        }
+    }]
+}

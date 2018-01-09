@@ -1,0 +1,95 @@
+{
+    "ID": 65,
+    "Name": "Alakazam",
+    "InternalName": "ALAKAZAM",
+    "Type1": "PSYCHIC",
+    "BaseStats": [55, 50, 45, 120, 135, 85],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "221",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "50",
+    "Happiness": "70",
+    "Abilities": ["SYNCHRONIZE","INNERFOCUS"],
+    "HiddenAbility": "MAGICGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TELEPORT"
+    },
+    {
+        "level": 1,
+        "move": "KINESIS"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 16,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 18,
+        "move": "DISABLE"
+    },
+    {
+        "level": 22,
+        "move": "MIRACLEEYE"
+    },
+    {
+        "level": 24,
+        "move": "ALLYSWITCH"
+    },
+    {
+        "level": 28,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 30,
+        "move": "REFLECT"
+    },
+    {
+        "level": 34,
+        "move": "TELEKINESIS"
+    },
+    {
+        "level": 36,
+        "move": "RECOVER"
+    },
+    {
+        "level": 40,
+        "move": "PSYCHOCUT"
+    },
+    {
+        "level": 42,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 46,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 48,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 52,
+        "move": "TRICK"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "48.0",
+    "Color": "Brown",
+    "Shape": "12",
+    "Habitat": "Urban",
+    "RegionalNumbers": [65, 91],
+    "Kind": "Psi",
+    "Pokedex": "While it has strong psychic abilities and high intelligence, an Alakazam's muscles are very weak. It uses psychic power to move its body.",
+    "WildItemUncommon": "TWISTEDSPOON",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

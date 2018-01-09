@@ -1,0 +1,106 @@
+{
+    "ID": 473,
+    "Name": "Mamoswine",
+    "InternalName": "MAMOSWINE",
+    "Type1": "ICE",
+    "Type2": "GROUND",
+    "BaseStats": [110, 130, 80, 80, 70, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "239",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "50",
+    "Happiness": "70",
+    "Abilities": ["OBLIVIOUS","SNOWCLOAK"],
+    "HiddenAbility": "THICKFAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 1,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 1,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 5,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 8,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 11,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 14,
+        "move": "ENDURE"
+    },
+    {
+        "level": 18,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 21,
+        "move": "HAIL"
+    },
+    {
+        "level": 24,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 28,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 33,
+        "move": "DOUBLEHIT"
+    },
+    {
+        "level": 37,
+        "move": "MIST"
+    },
+    {
+        "level": 41,
+        "move": "THRASH"
+    },
+    {
+        "level": 46,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 52,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 58,
+        "move": "SCARYFACE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "2.5",
+    "Weight": "291.0",
+    "Color": "Brown",
+    "Shape": "8",
+    "RegionalNumbers": [0, 197],
+    "Kind": "Twin Tusk",
+    "Pokedex": "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

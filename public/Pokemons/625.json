@@ -1,0 +1,109 @@
+{
+    "ID": 625,
+    "Name": "Bisharp",
+    "InternalName": "BISHARP",
+    "Type1": "DARK",
+    "Type2": "STEEL",
+    "BaseStats": [65, 125, 100, 70, 60, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "172",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": ["DEFIANT","INNERFOCUS"],
+    "HiddenAbility": "PRESSURE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "METALBURST"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 1,
+        "move": "TORMENT"
+    },
+    {
+        "level": 6,
+        "move": "LEER"
+    },
+    {
+        "level": 9,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 14,
+        "move": "TORMENT"
+    },
+    {
+        "level": 17,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 22,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 25,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 30,
+        "move": "SLASH"
+    },
+    {
+        "level": 33,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 38,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 41,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 46,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 49,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 57,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 63,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 71,
+        "move": "GUILLOTINE"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.6",
+    "Weight": "70.0",
+    "Color": "Red",
+    "Shape": "12",
+    "Kind": "Sword Blade",
+    "Pokedex": "Bisharp pursues prey in the company of a large group of Pawniard. Then Bisharp finishes off the prey.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,43 @@
+{
+    "ID": 63,
+    "Name": "Abra",
+    "InternalName": "ABRA",
+    "Type1": "PSYCHIC",
+    "BaseStats": [25, 20, 15, 90, 105, 55],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "62",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": ["SYNCHRONIZE","INNERFOCUS"],
+    "HiddenAbility": "MAGICGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TELEPORT"
+    }],
+    "EggMoves": ["BARRIER", "ENCORE", "FIREPUNCH", "GUARDSPLIT", "GUARDSWAP", "ICEPUNCH", "KNOCKOFF", "POWERTRICK", "SKILLSWAP", "THUNDERPUNCH"],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "19.5",
+    "Color": "Brown",
+    "Shape": "6",
+    "Habitat": "Urban",
+    "RegionalNumbers": [63, 89],
+    "Kind": "Psi",
+    "Pokedex": "A Pokémon that sleeps 18 hours a day. Observation revealed that it uses Teleport to change its location once every hour.",
+    "WildItemUncommon": "TWISTEDSPOON",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "KADABRA",
+        "by":
+        {
+            "Level": 16
+        }
+    }]
+}

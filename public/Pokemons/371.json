@@ -1,0 +1,86 @@
+{
+    "ID": 371,
+    "Name": "Bagon",
+    "InternalName": "BAGON",
+    "Type1": "DRAGON",
+    "BaseStats": [45, 75, 60, 50, 40, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "ROCKHEAD",
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "RAGE"
+    },
+    {
+        "level": 5,
+        "move": "BITE"
+    },
+    {
+        "level": 10,
+        "move": "LEER"
+    },
+    {
+        "level": 16,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 20,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 25,
+        "move": "EMBER"
+    },
+    {
+        "level": 31,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 35,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 40,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 46,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 50,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 55,
+        "move": "DOUBLEEDGE"
+    }],
+    "EggMoves": ["DEFENSECURL", "DRAGONDANCE", "DRAGONPULSE", "DRAGONRAGE", "DRAGONRUSH", "ENDURE", "FIREFANG", "HYDROPUMP", "THRASH", "TWISTER"],
+    "Compatibility": ["Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "0.6",
+    "Weight": "42.1",
+    "Color": "Blue",
+    "Shape": "12",
+    "Habitat": "RoughTerrain",
+    "Kind": "Rock Head",
+    "Pokedex": "Although it is small, this Pokémon is very powerful because its body is a bundle of muscles. It launches head-butts with its ironlike skull.",
+    "WildItemUncommon": "DRAGONFANG",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SHELGON",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

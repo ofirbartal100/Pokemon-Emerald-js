@@ -1,0 +1,86 @@
+{
+    "ID": 137,
+    "Name": "Porygon",
+    "InternalName": "PORYGON",
+    "Type1": "NORMAL",
+    "BaseStats": [65, 60, 70, 40, 85, 75],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "79",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["TRACE","DOWNLOAD"],
+    "HiddenAbility": "ANALYTIC",
+    "Moves": [1, "CONVERSION2",
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "CONVERSION"
+    },
+    {
+        "level": 1,
+        "move": "SHARPEN"
+    },
+    {
+        "level": 7,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 12,
+        "move": "AGILITY"
+    },
+    {
+        "level": 18,
+        "move": "RECOVER"
+    },
+    {
+        "level": 23,
+        "move": "MAGNETRISE"
+    },
+    {
+        "level": 29,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 34,
+        "move": "RECYCLE"
+    },
+    {
+        "level": 40,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 45,
+        "move": "LOCKON"
+    },
+    {
+        "level": 51,
+        "move": "TRIATTACK"
+    },
+    {
+        "level": 56,
+        "move": "MAGICCOAT"
+    },
+    {
+        "level": 62,
+        "move": "ZAPCANNON"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "36.5",
+    "Color": "Pink",
+    "Shape": "7",
+    "Habitat": "Urban",
+    "RegionalNumbers": [137, 220],
+    "Kind": "Virtual",
+    "Pokedex": "It is capable of reverting itself entirely back to program data in order to enter cyberspace. A Porygon is copy- protected so it cannot be duplicated.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "10",
+    "Evolutions": ["PORYGON2", "TradeItem", "UPGRADE"]
+}

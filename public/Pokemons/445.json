@@ -1,0 +1,94 @@
+{
+    "ID": 445,
+    "Name": "Garchomp",
+    "InternalName": "GARCHOMP",
+    "Type1": "DRAGON",
+    "Type2": "GROUND",
+    "BaseStats": [108, 130, 95, 102, 80, 85],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "SANDVEIL",
+    "HiddenAbility": "ROUGHSKIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 1,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 3,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 7,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 13,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 15,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 19,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 24,
+        "move": "DUALCHOP"
+    },
+    {
+        "level": 28,
+        "move": "SLASH"
+    },
+    {
+        "level": 33,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 40,
+        "move": "DIG"
+    },
+    {
+        "level": 48,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 55,
+        "move": "DRAGONRUSH"
+    }],
+    "Compatibility": ["Monster", "Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "1.9",
+    "Weight": "95.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Mach",
+    "Pokedex": "When it folds up its body and extends its wings, it looks like a jet plane. It flies at sonic speed.",
+    "WildItemUncommon": "HABANBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "7",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

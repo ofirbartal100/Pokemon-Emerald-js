@@ -1,0 +1,90 @@
+{
+    "ID": 29,
+    "Name": "Nidoran",
+    "InternalName": "NIDORANfE",
+    "Type1": "POISON",
+    "BaseStats": [55, 47, 52, 41, 40, 40],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "55",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "235",
+    "Happiness": "70",
+    "Abilities": ["POISONPOINT","RIVALRY"],
+    "HiddenAbility": "HUSTLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 7,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 9,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 13,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 19,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 21,
+        "move": "BITE"
+    },
+    {
+        "level": 25,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 31,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 33,
+        "move": "FLATTER"
+    },
+    {
+        "level": 37,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 43,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 45,
+        "move": "POISONFANG"
+    }],
+    "EggMoves": ["BEATUP", "CHARM", "CHIPAWAY", "COUNTER", "DISABLE", "ENDURE", "FOCUSENERGY", "IRONTAIL", "POISONTAIL", "PURSUIT", "SKULLBASH", "SUPERSONIC", "TAKEDOWN"],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "7.0",
+    "Color": "Blue",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [29, 95],
+    "Kind": "Poison Pin",
+    "Pokedex": "Its highly toxic barbs are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "NIDORINA",
+        "by":
+        {
+            "Level": 16
+        }
+    }]
+}

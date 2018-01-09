@@ -1,0 +1,117 @@
+{
+    "ID": 37,
+    "Name": "Vulpix",
+    "InternalName": "VULPIX",
+    "Type1": "FIRE",
+    "BaseStats": [38, 41, 40, 65, 50, 65],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "FLASHFIRE",
+    "HiddenAbility": "DROUGHT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 4,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 7,
+        "move": "ROAR"
+    },
+    {
+        "level": 10,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 12,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 15,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 18,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 20,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 23,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 26,
+        "move": "WILLOWISP"
+    },
+    {
+        "level": 28,
+        "move": "HEX"
+    },
+    {
+        "level": 31,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 34,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 36,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 39,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 42,
+        "move": "FIREBLAST"
+    },
+    {
+        "level": 44,
+        "move": "GRUDGE"
+    },
+    {
+        "level": 47,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 50,
+        "move": "INFERNO"
+    }],
+    "EggMoves": ["DISABLE", "EXTRASENSORY", "FEINTATTACK", "FLAIL", "FLAREBLITZ", "HEATWAVE", "HEX", "HOWL", "HYPNOSIS", "POWERSWAP", "SECRETPOWER", "SPITE", "TAILSLAP"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "9.9",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [37, 127],
+    "Kind": "Fox",
+    "Pokedex": "It can freely control fire, making fiery orbs fly like will-o'-the-wisps. Just before evolution, its six tails grow hot as if on fire.",
+    "WildItemCommon": "RAWSTBERRY",
+    "WildItemUncommon": "RAWSTBERRY",
+    "WildItemRare": "RAWSTBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "NINETALES",
+        "by":
+        {
+            "Item": "FIRESTONE"
+        }
+    }]
+}

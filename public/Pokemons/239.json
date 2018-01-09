@@ -1,0 +1,95 @@
+{
+    "ID": 239,
+    "Name": "Elekid",
+    "InternalName": "ELEKID",
+    "Type1": "ELECTRIC",
+    "BaseStats": [45, 63, 37, 95, 65, 55],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "72",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "STATIC",
+    "HiddenAbility": "VITALSPIRIT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 8,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 12,
+        "move": "SWIFT"
+    },
+    {
+        "level": 15,
+        "move": "SHOCKWAVE"
+    },
+    {
+        "level": 19,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 22,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 26,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 29,
+        "move": "THUNDERPUNCH"
+    },
+    {
+        "level": 33,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 36,
+        "move": "SCREECH"
+    },
+    {
+        "level": 40,
+        "move": "THUNDERBOLT"
+    },
+    {
+        "level": 43,
+        "move": "THUNDER"
+    }],
+    "EggMoves": ["BARRIER", "CROSSCHOP", "DYNAMICPUNCH", "FEINT", "FIREPUNCH", "FOCUSPUNCH", "HAMMERARM", "ICEPUNCH", "KARATECHOP", "MEDITATE", "ROLLINGKICK"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "6630",
+    "Height": "0.6",
+    "Weight": "23.5",
+    "Color": "Yellow",
+    "Shape": "12",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 156],
+    "Kind": "Electric",
+    "Pokedex": "If it touches metal and discharges the electricity it has stored in its body, an Elekid begins swinging its arms in circles to recharge itself.",
+    "WildItemUncommon": "ELECTIRIZER",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ELECTABUZZ",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

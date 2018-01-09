@@ -1,0 +1,80 @@
+{
+    "ID": 383,
+    "Name": "Groudon",
+    "InternalName": "GROUDON",
+    "Type1": "GROUND",
+    "BaseStats": [100, 150, 140, 90, 100, 90],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "302",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "5",
+    "Happiness": "0",
+    "Abilities": "DROUGHT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 5,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 15,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 20,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 30,
+        "move": "REST"
+    },
+    {
+        "level": 35,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 45,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 50,
+        "move": "ERUPTION"
+    },
+    {
+        "level": 60,
+        "move": "BULKUP"
+    },
+    {
+        "level": 65,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 75,
+        "move": "FISSURE"
+    },
+    {
+        "level": 80,
+        "move": "SOLARBEAM"
+    },
+    {
+        "level": 90,
+        "move": "FIREBLAST"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "3.5",
+    "Weight": "950.0",
+    "Color": "Red",
+    "Shape": "6",
+    "Habitat": "RoughTerrain",
+    "Kind": "Continent",
+    "Pokedex": "Groudon has appeared in mythology as the creator of the land. It sleeps in magma underground and is said to make volcanoes erupt on awakening.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

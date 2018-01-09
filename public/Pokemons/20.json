@@ -1,0 +1,99 @@
+{
+    "ID": 20,
+    "Name": "Raticate",
+    "InternalName": "RATICATE",
+    "Type1": "NORMAL",
+    "BaseStats": [55, 81, 60, 97, 50, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "145",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "127",
+    "Happiness": "70",
+    "Abilities": ["RUNAWAY","GUTS"],
+    "HiddenAbility": "HUSTLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 4,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 7,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 10,
+        "move": "BITE"
+    },
+    {
+        "level": 13,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 16,
+        "move": "HYPERFANG"
+    },
+    {
+        "level": 19,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 20,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 24,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 29,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 34,
+        "move": "SUPERFANG"
+    },
+    {
+        "level": 39,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 44,
+        "move": "ENDEAVOR"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.7",
+    "Weight": "18.5",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [20, 18],
+    "Kind": "Mouse",
+    "Pokedex": "A Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+    "WildItemUncommon": "CHILANBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

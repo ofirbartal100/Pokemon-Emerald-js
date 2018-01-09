@@ -1,0 +1,111 @@
+{
+    "ID": 469,
+    "Name": "Yanmega",
+    "InternalName": "YANMEGA",
+    "Type1": "BUG",
+    "Type2": "FLYING",
+    "BaseStats": [86, 76, 86, 95, 116, 56],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "180",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": ["SPEEDBOOST","TINTEDLENS"],
+    "HiddenAbility": "FRISK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 1,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 6,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 11,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 14,
+        "move": "SONICBOOM"
+    },
+    {
+        "level": 17,
+        "move": "DETECT"
+    },
+    {
+        "level": 22,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 27,
+        "move": "UPROAR"
+    },
+    {
+        "level": 30,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 33,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 38,
+        "move": "FEINT"
+    },
+    {
+        "level": 43,
+        "move": "SLASH"
+    },
+    {
+        "level": 46,
+        "move": "SCREECH"
+    },
+    {
+        "level": 49,
+        "move": "UTURN"
+    },
+    {
+        "level": 54,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 57,
+        "move": "BUGBUZZ"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "1.9",
+    "Weight": "51.5",
+    "Color": "Green",
+    "Shape": "13",
+    "RegionalNumbers": [0, 102],
+    "Kind": "Ogre Darner",
+    "Pokedex": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
+    "WildItemUncommon": "WIDELENS",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "7",
+    "Evolutions": []
+}

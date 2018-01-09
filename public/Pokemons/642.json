@@ -1,0 +1,98 @@
+{
+    "ID": 642,
+    "Name": "Thundurus",
+    "InternalName": "THUNDURUS",
+    "Type1": "ELECTRIC",
+    "Type2": "FLYING",
+    "BaseStats": [79, 115, 70, 111, 125, 80],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "5",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "90",
+    "Abilities": "PRANKSTER",
+    "HiddenAbility": "DEFIANT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "UPROAR"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 7,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 13,
+        "move": "BITE"
+    },
+    {
+        "level": 19,
+        "move": "REVENGE"
+    },
+    {
+        "level": 25,
+        "move": "SHOCKWAVE"
+    },
+    {
+        "level": 31,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 37,
+        "move": "AGILITY"
+    },
+    {
+        "level": 43,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 49,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 55,
+        "move": "CHARGE"
+    },
+    {
+        "level": 61,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 67,
+        "move": "THUNDER"
+    },
+    {
+        "level": 73,
+        "move": "DARKPULSE"
+    },
+    {
+        "level": 79,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 85,
+        "move": "THRASH"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "1.5",
+    "Weight": "61.0",
+    "Color": "Blue",
+    "Shape": "4",
+    "Kind": "Bolt Strike",
+    "Pokedex": "The spikes on its tail discharge immense bolts of lightning. It flies around the Unova region firing off lightning bolts.",
+    "FormName": "Incarnate Forme",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

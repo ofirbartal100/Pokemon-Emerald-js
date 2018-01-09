@@ -1,0 +1,110 @@
+{
+    "ID": 334,
+    "Name": "Altaria",
+    "InternalName": "ALTARIA",
+    "Type1": "DRAGON",
+    "Type2": "FLYING",
+    "BaseStats": [75, 70, 90, 80, 70, 105],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "172",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "NATURALCURE",
+    "HiddenAbility": "CLOUDNINE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PLUCK"
+    },
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "SING"
+    },
+    {
+        "level": 4,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 8,
+        "move": "SING"
+    },
+    {
+        "level": 10,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 13,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 15,
+        "move": "MIST"
+    },
+    {
+        "level": 18,
+        "move": "ROUND"
+    },
+    {
+        "level": 21,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 25,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 29,
+        "move": "REFRESH"
+    },
+    {
+        "level": 34,
+        "move": "DRAGONDANCE"
+    },
+    {
+        "level": 35,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 42,
+        "move": "COTTONGUARD"
+    },
+    {
+        "level": 48,
+        "move": "DRAGONPULSE"
+    },
+    {
+        "level": 57,
+        "move": "PERISHSONG"
+    },
+    {
+        "level": 64,
+        "move": "SKYATTACK"
+    }],
+    "Compatibility": ["Flying", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "20.6",
+    "Color": "Blue",
+    "Shape": "9",
+    "Habitat": "Forest",
+    "Kind": "Humming",
+    "Pokedex": "It hums in a beautiful soprano voice. It flies among white clouds in the blue sky. It launches intensely hot fireballs from its mouth.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "15",
+    "Evolutions": []
+}

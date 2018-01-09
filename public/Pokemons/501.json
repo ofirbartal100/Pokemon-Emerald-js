@@ -1,0 +1,96 @@
+{
+    "ID": 501,
+    "Name": "Oshawott",
+    "InternalName": "OSHAWOTT",
+    "Type1": "WATER",
+    "BaseStats": [55, 55, 45, 45, 63, 45],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "28",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "SHELLARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 5,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 7,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 11,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 13,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 17,
+        "move": "RAZORSHELL"
+    },
+    {
+        "level": 19,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 23,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 25,
+        "move": "REVENGE"
+    },
+    {
+        "level": 29,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 31,
+        "move": "ENCORE"
+    },
+    {
+        "level": 35,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 37,
+        "move": "RETALIATE"
+    },
+    {
+        "level": 41,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 43,
+        "move": "HYDROPUMP"
+    }],
+    "EggMoves": ["AIRSLASH", "ASSURANCE", "BRINE", "COPYCAT", "DETECT", "NIGHTSLASH", "SCREECH", "TRUMPCARD"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "5.9",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Sea Otter",
+    "Pokedex": "The scalchop on its stomach is made from the same elements as claws. It detaches the scalchop for use as a blade.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "32",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "DEWOTT",
+        "by":
+        {
+            "Level": 17
+        }
+    }]
+}

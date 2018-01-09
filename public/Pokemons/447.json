@@ -1,0 +1,80 @@
+{
+    "ID": 447,
+    "Name": "Riolu",
+    "InternalName": "RIOLU",
+    "Type1": "FIGHTING",
+    "BaseStats": [40, 70, 40, 60, 35, 40],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "57",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["STEADFAST","INNERFOCUS"],
+    "HiddenAbility": "PRANKSTER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "ENDURE"
+    },
+    {
+        "level": 6,
+        "move": "COUNTER"
+    },
+    {
+        "level": 11,
+        "move": "FEINT"
+    },
+    {
+        "level": 15,
+        "move": "FORCEPALM"
+    },
+    {
+        "level": 19,
+        "move": "COPYCAT"
+    },
+    {
+        "level": 24,
+        "move": "SCREECH"
+    },
+    {
+        "level": 29,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 47,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 55,
+        "move": "FINALGAMBIT"
+    }],
+    "EggMoves": ["AGILITY", "BITE", "BLAZEKICK", "BULLETPUNCH", "CIRCLETHROW", "CROSSCHOP", "CRUNCH", "DETECT", "FOLLOWME", "HIGHJUMPKICK", "IRONDEFENSE", "LOWKICK", "MINDREADER", "SKYUPPERCUT", "VACUUMWAVE"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "6630",
+    "Height": "0.7",
+    "Weight": "20.2",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Emanation",
+    "Pokedex": "The aura that emanates from its body intensifies to alert others if it is afraid or sad.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "LUCARIO",
+        "by":
+        {
+            "HappinessDay": "HappinessDay"
+        }
+    }]
+}

@@ -1,0 +1,113 @@
+{
+    "ID": 58,
+    "Name": "Growlithe",
+    "InternalName": "GROWLITHE",
+    "Type1": "FIRE",
+    "BaseStats": [55, 70, 45, 60, 70, 50],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "70",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","FLASHFIRE"],
+    "HiddenAbility": "JUSTIFIED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "ROAR"
+    },
+    {
+        "level": 6,
+        "move": "EMBER"
+    },
+    {
+        "level": 8,
+        "move": "LEER"
+    },
+    {
+        "level": 10,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 12,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 17,
+        "move": "FLAMEWHEEL"
+    },
+    {
+        "level": 19,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 21,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 23,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 28,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 30,
+        "move": "AGILITY"
+    },
+    {
+        "level": 32,
+        "move": "RETALIATE"
+    },
+    {
+        "level": 34,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 39,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 41,
+        "move": "HEATWAVE"
+    },
+    {
+        "level": 43,
+        "move": "OUTRAGE"
+    },
+    {
+        "level": 45,
+        "move": "FLAREBLITZ"
+    }],
+    "EggMoves": ["BODYSLAM", "CLOSECOMBAT", "COVET", "CRUNCH", "DOUBLEKICK", "DOUBLEEDGE", "FIRESPIN", "FLAREBLITZ", "HEATWAVE", "HOWL", "IRONTAIL", "MORNINGSUN", "THRASH"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "19.0",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [58, 129],
+    "Kind": "Puppy",
+    "Pokedex": "Its superb sense of smell ensures that this Pokémon won't forget any scent, no matter what. It uses its sense of smell to detect the emotions of others.",
+    "WildItemCommon": "RAWSTBERRY",
+    "WildItemUncommon": "RAWSTBERRY",
+    "WildItemRare": "RAWSTBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ARCANINE",
+        "by":
+        {
+            "Item": "FIRESTONE"
+        }
+    }]
+}

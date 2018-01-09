@@ -1,0 +1,70 @@
+{
+    "ID": 235,
+    "Name": "Smeargle",
+    "InternalName": "SMEARGLE",
+    "Type1": "NORMAL",
+    "BaseStats": [55, 20, 35, 75, 20, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "88",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["OWNTEMPO","TECHNICIAN"],
+    "HiddenAbility": "MOODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SKETCH"
+    },
+    {
+        "level": 11,
+        "move": "SKETCH"
+    },
+    {
+        "level": 21,
+        "move": "SKETCH"
+    },
+    {
+        "level": 31,
+        "move": "SKETCH"
+    },
+    {
+        "level": 41,
+        "move": "SKETCH"
+    },
+    {
+        "level": 51,
+        "move": "SKETCH"
+    },
+    {
+        "level": 61,
+        "move": "SKETCH"
+    },
+    {
+        "level": 71,
+        "move": "SKETCH"
+    },
+    {
+        "level": 81,
+        "move": "SKETCH"
+    },
+    {
+        "level": 91,
+        "move": "SKETCH"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "58.0",
+    "Color": "White",
+    "Shape": "6",
+    "Habitat": "Urban",
+    "RegionalNumbers": [0, 159],
+    "Kind": "Painter",
+    "Pokedex": "A Smeargle marks its territory using a fluid that leaks out from the tip of its tail. About 5,000 different marks left by this Pokémon have been found.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

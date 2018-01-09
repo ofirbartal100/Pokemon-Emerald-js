@@ -1,0 +1,102 @@
+{
+    "ID": 537,
+    "Name": "Seismitoad",
+    "InternalName": "SEISMITOAD",
+    "Type1": "WATER",
+    "Type2": "GROUND",
+    "BaseStats": [105, 85, 75, 74, 85, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "225",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","POISONTOUCH"],
+    "HiddenAbility": "WATERABSORB",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 1,
+        "move": "ROUND"
+    },
+    {
+        "level": 5,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 9,
+        "move": "ROUND"
+    },
+    {
+        "level": 12,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 16,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 20,
+        "move": "AQUARING"
+    },
+    {
+        "level": 23,
+        "move": "UPROAR"
+    },
+    {
+        "level": 28,
+        "move": "MUDDYWATER"
+    },
+    {
+        "level": 33,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 36,
+        "move": "ACID"
+    },
+    {
+        "level": 39,
+        "move": "FLAIL"
+    },
+    {
+        "level": 44,
+        "move": "DRAINPUNCH"
+    },
+    {
+        "level": 49,
+        "move": "ECHOEDVOICE"
+    },
+    {
+        "level": 53,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 59,
+        "move": "HYPERVOICE"
+    }],
+    "Compatibility": ["Water1"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "62.0",
+    "Color": "Blue",
+    "Shape": "12",
+    "Kind": "Vibration",
+    "Pokedex": "It increases the power of its punches by vibrating the bumps on its fists. It can turn a boulder to rubble with one punch.",
+    "WildItemCommon": "PERSIMBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,98 @@
+{
+    "ID": 325,
+    "Name": "Spoink",
+    "InternalName": "SPOINK",
+    "Type1": "PSYCHIC",
+    "BaseStats": [60, 25, 35, 60, 70, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["THICKFAT","OWNTEMPO"],
+    "HiddenAbility": "GLUTTONY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SPLASH"
+    },
+    {
+        "level": 7,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 10,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 14,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 15,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 18,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 21,
+        "move": "MAGICCOAT"
+    },
+    {
+        "level": 26,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 29,
+        "move": "REST"
+    },
+    {
+        "level": 29,
+        "move": "SNORE"
+    },
+    {
+        "level": 33,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 38,
+        "move": "PSYSHOCK"
+    },
+    {
+        "level": 40,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 44,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 50,
+        "move": "BOUNCE"
+    }],
+    "EggMoves": ["AMNESIA", "ENDURE", "EXTRASENSORY", "FUTURESIGHT", "LUCKYCHANT", "MIRRORCOAT", "SKILLSWAP", "TRICK", "WHIRLWIND", "ZENHEADBUTT"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "30.6",
+    "Color": "Black",
+    "Shape": "4",
+    "Habitat": "Mountain",
+    "Kind": "Bounce",
+    "Pokedex": "A Pokémon that manipulates psychic power at will. It doesn't stop bouncing even when it is asleep. It loves eating mushrooms that grow underground.",
+    "WildItemUncommon": "TANGABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "12",
+    "Evolutions": [
+    {
+        "to": "GRUMPIG",
+        "by":
+        {
+            "Level": 32
+        }
+    }]
+}

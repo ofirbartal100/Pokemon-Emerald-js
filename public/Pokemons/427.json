@@ -1,0 +1,101 @@
+{
+    "ID": 427,
+    "Name": "Buneary",
+    "InternalName": "BUNEARY",
+    "Type1": "NORMAL",
+    "BaseStats": [55, 66, 44, 85, 44, 56],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "70",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "0",
+    "Abilities": ["RUNAWAY","KLUTZ"],
+    "HiddenAbility": "LIMBER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SPLASH"
+    },
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 6,
+        "move": "ENDURE"
+    },
+    {
+        "level": 13,
+        "move": "FRUSTRATION"
+    },
+    {
+        "level": 16,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 23,
+        "move": "JUMPKICK"
+    },
+    {
+        "level": 26,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 33,
+        "move": "AGILITY"
+    },
+    {
+        "level": 36,
+        "move": "DIZZYPUNCH"
+    },
+    {
+        "level": 43,
+        "move": "AFTERYOU"
+    },
+    {
+        "level": 46,
+        "move": "CHARM"
+    },
+    {
+        "level": 53,
+        "move": "ENTRAINMENT"
+    },
+    {
+        "level": 56,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 63,
+        "move": "HEALINGWISH"
+    }],
+    "EggMoves": ["CIRCLETHROW", "COPYCAT", "DOUBLEHIT", "ENCORE", "FAKEOUT", "FAKETEARS", "FIREPUNCH", "FLAIL", "FOCUSPUNCH", "ICEPUNCH", "LOWKICK", "SKYUPPERCUT", "SWEETKISS", "SWITCHEROO", "THUNDERPUNCH"],
+    "Compatibility": ["Field", "Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "5.5",
+    "Color": "Brown",
+    "Shape": "6",
+    "Kind": "Rabbit",
+    "Pokedex": "It slams foes by sharply uncoiling its rolled ears. It stings enough to make a grown-up cry in pain.",
+    "WildItemUncommon": "CHOPLEBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "LOPUNNY",
+        "by":
+        {
+            "Happiness": "Happiness"
+        }
+    }]
+}

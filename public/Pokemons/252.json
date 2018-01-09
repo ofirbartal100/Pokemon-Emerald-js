@@ -1,0 +1,85 @@
+{
+    "ID": 252,
+    "Name": "Treecko",
+    "InternalName": "TREECKO",
+    "Type1": "GRASS",
+    "BaseStats": [40, 45, 35, 70, 65, 55],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "62",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "UNBURDEN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 6,
+        "move": "ABSORB"
+    },
+    {
+        "level": 11,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 16,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 21,
+        "move": "SCREECH"
+    },
+    {
+        "level": 26,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 31,
+        "move": "AGILITY"
+    },
+    {
+        "level": 36,
+        "move": "SLAM"
+    },
+    {
+        "level": 41,
+        "move": "DETECT"
+    },
+    {
+        "level": 46,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 51,
+        "move": "ENERGYBALL"
+    }],
+    "EggMoves": ["BULLETSEED", "CRUNCH", "CRUSHCLAW", "DOUBLEKICK", "DRAGONBREATH", "ENDEAVOR", "GRASSWHISTLE", "LEAFSTORM", "LEECHSEED", "MAGICALLEAF", "MUDSPORT", "NATURALGIFT", "RAZORWIND", "SYNTHESIS", "WORRYSEED"],
+    "Compatibility": ["Monster", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "5.0",
+    "Color": "Green",
+    "Shape": "6",
+    "Habitat": "Forest",
+    "Kind": "Wood Gecko",
+    "Pokedex": "It makes its nest in a giant tree in the forest. It ferociously guards against anything nearing its territory. It is said to be the protector of the forest's trees.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GROVYLE",
+        "by":
+        {
+            "Level": 16
+        }
+    }]
+}

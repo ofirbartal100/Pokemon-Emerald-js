@@ -1,0 +1,43 @@
+{
+    "ID": 268,
+    "Name": "Cascoon",
+    "InternalName": "CASCOON",
+    "Type1": "BUG",
+    "BaseStats": [50, 35, 55, 15, 25, 25],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "41",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "SHEDSKIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "HARDEN"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.7",
+    "Weight": "11.5",
+    "Color": "Purple",
+    "Shape": "1",
+    "Habitat": "Forest",
+    "Kind": "Cocoon",
+    "Pokedex": "To avoid detection by its enemies, it hides motionlessly beneath large leaves and in the gaps of branches. It also attaches dead leaves to its body for camouflage.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "DUSTOX",
+        "by":
+        {
+            "Level": 10
+        }
+    }]
+}

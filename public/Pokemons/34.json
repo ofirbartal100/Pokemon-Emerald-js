@@ -1,0 +1,63 @@
+{
+    "ID": 34,
+    "Name": "Nidoking",
+    "InternalName": "NIDOKING",
+    "Type1": "POISON",
+    "Type2": "GROUND",
+    "BaseStats": [81, 92, 77, 85, 85, 75],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "223",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["POISONPOINT","RIVALRY"],
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 23,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 35,
+        "move": "THRASH"
+    },
+    {
+        "level": 43,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 58,
+        "move": "MEGAHORN"
+    }],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "62.0",
+    "Color": "Purple",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [34, 100],
+    "Kind": "Drill",
+    "Pokedex": "A Nidoking's thick tail packs enormously destructive power capable of toppling a metal transmission tower. Once it goes on a rampage, there is no stopping it.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

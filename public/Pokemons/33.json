@@ -1,0 +1,89 @@
+{
+    "ID": 33,
+    "Name": "Nidorino",
+    "InternalName": "NIDORINO",
+    "Type1": "POISON",
+    "BaseStats": [61, 72, 57, 65, 55, 55],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "128",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["POISONPOINT","RIVALRY"],
+    "HiddenAbility": "HUSTLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 7,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 9,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 13,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 20,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 23,
+        "move": "HORNATTACK"
+    },
+    {
+        "level": 28,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 35,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 38,
+        "move": "FLATTER"
+    },
+    {
+        "level": 43,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 50,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 58,
+        "move": "HORNDRILL"
+    }],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "19.5",
+    "Color": "Purple",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [33, 99],
+    "Kind": "Poison Pin",
+    "Pokedex": "Its horn is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "NIDOKING",
+        "by":
+        {
+            "Item": "MOONSTONE"
+        }
+    }]
+}

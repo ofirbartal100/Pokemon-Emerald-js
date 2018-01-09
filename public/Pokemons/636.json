@@ -1,0 +1,85 @@
+{
+    "ID": 636,
+    "Name": "Larvesta",
+    "InternalName": "LARVESTA",
+    "Type1": "BUG",
+    "Type2": "FIRE",
+    "BaseStats": [55, 85, 55, 60, 50, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "72",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "FLAMEBODY",
+    "HiddenAbility": "SWARM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 1,
+        "move": "STRINGSHOT"
+    },
+    {
+        "level": 10,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 20,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 30,
+        "move": "FLAMECHARGE"
+    },
+    {
+        "level": 40,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 50,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 60,
+        "move": "FLAMEWHEEL"
+    },
+    {
+        "level": 70,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 80,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 90,
+        "move": "THRASH"
+    },
+    {
+        "level": 100,
+        "move": "FLAREBLITZ"
+    }],
+    "EggMoves": ["ENDURE", "FORESIGHT", "HARDEN", "MAGNETRISE", "MORNINGSUN", "STRINGSHOT", "ZENHEADBUTT"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "10455",
+    "Height": "1.1",
+    "Weight": "28.8",
+    "Color": "White",
+    "Shape": "14",
+    "Kind": "Torch",
+    "Pokedex": "The base of volcanoes is where they make their homes. They shoot fire from their five horns to repel attacking enemies.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "29",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "VOLCARONA",
+        "by":
+        {
+            "Level": 59
+        }
+    }]
+}

@@ -1,0 +1,103 @@
+{
+    "ID": 168,
+    "Name": "Ariados",
+    "InternalName": "ARIADOS",
+    "Type1": "BUG",
+    "Type2": "POISON",
+    "BaseStats": [70, 90, 70, 40, 60, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "137",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["SWARM","INSOMNIA"],
+    "HiddenAbility": "SNIPER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 1,
+        "move": "STRINGSHOT"
+    },
+    {
+        "level": 1,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 1,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 5,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 8,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 12,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 15,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 19,
+        "move": "SHADOWSNEAK"
+    },
+    {
+        "level": 23,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 28,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 32,
+        "move": "SPIDERWEB"
+    },
+    {
+        "level": 37,
+        "move": "AGILITY"
+    },
+    {
+        "level": 41,
+        "move": "PINMISSILE"
+    },
+    {
+        "level": 46,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 50,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 55,
+        "move": "CROSSPOISON"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "1.1",
+    "Weight": "33.5",
+    "Color": "Red",
+    "Shape": "14",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 33],
+    "Kind": "Long Leg",
+    "Pokedex": "Its feet are tipped with tiny hooked claws that enable it to scuttle on ceilings and vertical walls. It constricts its foe with thin and strong silk webbing.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

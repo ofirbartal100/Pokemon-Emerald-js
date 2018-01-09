@@ -1,0 +1,99 @@
+{
+    "ID": 220,
+    "Name": "Swinub",
+    "InternalName": "SWINUB",
+    "Type1": "ICE",
+    "Type2": "GROUND",
+    "BaseStats": [50, 50, 40, 50, 30, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "50",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "225",
+    "Happiness": "70",
+    "Abilities": ["OBLIVIOUS","SNOWCLOAK"],
+    "HiddenAbility": "THICKFAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 5,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 8,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 11,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 14,
+        "move": "ENDURE"
+    },
+    {
+        "level": 18,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 21,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 24,
+        "move": "ICESHARD"
+    },
+    {
+        "level": 28,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 35,
+        "move": "MIST"
+    },
+    {
+        "level": 37,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 40,
+        "move": "FLAIL"
+    },
+    {
+        "level": 44,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 48,
+        "move": "AMNESIA"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "AVALANCHE", "BITE", "BODYSLAM", "CURSE", "DOUBLEEDGE", "FISSURE", "ICICLECRASH", "ICICLESPEAR", "MUDSHOT", "STEALTHROCK", "TAKEDOWN"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "6.5",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Cave",
+    "RegionalNumbers": [0, 195],
+    "Kind": "Pig",
+    "Pokedex": "It roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under dried grass. It occasionally roots out hot springs.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "33",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "PILOSWINE",
+        "by":
+        {
+            "Level": 33
+        }
+    }]
+}

@@ -1,0 +1,86 @@
+{
+    "ID": 196,
+    "Name": "Espeon",
+    "InternalName": "ESPEON",
+    "Type1": "PSYCHIC",
+    "BaseStats": [65, 65, 60, 110, 130, 95],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "184",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "SYNCHRONIZE",
+    "HiddenAbility": "MAGICBOUNCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 5,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 17,
+        "move": "SWIFT"
+    },
+    {
+        "level": 21,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 25,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 29,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 33,
+        "move": "MORNINGSUN"
+    },
+    {
+        "level": 37,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 41,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 45,
+        "move": "POWERSWAP"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "9180",
+    "Height": "0.9",
+    "Weight": "26.5",
+    "Color": "Purple",
+    "Shape": "8",
+    "Habitat": "Urban",
+    "RegionalNumbers": [0, 188],
+    "Kind": "Sun",
+    "Pokedex": "An Espeon is extremely loyal to any trainer it considers to be worthy. It is said to have developed precognitive powers to protect its trainer from harm.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

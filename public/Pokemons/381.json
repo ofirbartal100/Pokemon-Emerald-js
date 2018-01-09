@@ -1,0 +1,101 @@
+{
+    "ID": 381,
+    "Name": "Latios",
+    "InternalName": "LATIOS",
+    "Type1": "DRAGON",
+    "Type2": "PSYCHIC",
+    "BaseStats": [80, 90, 80, 110, 130, 110],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "3",
+    "Happiness": "90",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 5,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 10,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 15,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 20,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 25,
+        "move": "PROTECT"
+    },
+    {
+        "level": 30,
+        "move": "REFRESH"
+    },
+    {
+        "level": 35,
+        "move": "LUSTERPURGE"
+    },
+    {
+        "level": 40,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 45,
+        "move": "RECOVER"
+    },
+    {
+        "level": 50,
+        "move": "PSYCHOSHIFT"
+    },
+    {
+        "level": 55,
+        "move": "DRAGONDANCE"
+    },
+    {
+        "level": 60,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 65,
+        "move": "HEALPULSE"
+    },
+    {
+        "level": 70,
+        "move": "TELEKINESIS"
+    },
+    {
+        "level": 75,
+        "move": "POWERSPLIT"
+    },
+    {
+        "level": 80,
+        "move": "DRAGONPULSE"
+    },
+    {
+        "level": 85,
+        "move": "MEMENTO"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "2.0",
+    "Weight": "60.0",
+    "Color": "Blue",
+    "Shape": "9",
+    "Habitat": "WatersEdge",
+    "Kind": "Eon",
+    "Pokedex": "Even in hiding, it can detect the locations of others and sense their emotions since it has telepathy. Its intelligence allows it to understand human languages.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "9",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

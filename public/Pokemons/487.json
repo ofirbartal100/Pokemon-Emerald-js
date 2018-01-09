@@ -1,0 +1,82 @@
+{
+    "ID": 487,
+    "Name": "Giratina",
+    "InternalName": "GIRATINA",
+    "Type1": "GHOST",
+    "Type2": "DRAGON",
+    "BaseStats": [150, 100, 120, 90, 100, 120],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "306",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 1,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 6,
+        "move": "OMINOUSWIND"
+    },
+    {
+        "level": 10,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 15,
+        "move": "SLASH"
+    },
+    {
+        "level": 19,
+        "move": "SHADOWSNEAK"
+    },
+    {
+        "level": 24,
+        "move": "DESTINYBOND"
+    },
+    {
+        "level": 28,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 33,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 37,
+        "move": "AURASPHERE"
+    },
+    {
+        "level": 42,
+        "move": "SHADOWCLAW"
+    },
+    {
+        "level": 46,
+        "move": "SHADOWFORCE"
+    },
+    {
+        "level": 50,
+        "move": "HEX"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "4.5",
+    "Weight": "750.0",
+    "Color": "Black",
+    "Shape": "10",
+    "Kind": "Renegade",
+    "Pokedex": "A Pokémon that is said to live in a world on the reverse side of ours. It appears in an ancient cemetery.",
+    "FormName": "Altered Forme",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "9",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

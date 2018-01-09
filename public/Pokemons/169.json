@@ -1,0 +1,99 @@
+{
+    "ID": 169,
+    "Name": "Crobat",
+    "InternalName": "CROBAT",
+    "Type1": "POISON",
+    "Type2": "FLYING",
+    "BaseStats": [85, 90, 80, 130, 70, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "241",
+    "EffortPoints": [0, 0, 0, 3, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": "INNERFOCUS",
+    "HiddenAbility": "INFILTRATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CROSSPOISON"
+    },
+    {
+        "level": 1,
+        "move": "SCREECH"
+    },
+    {
+        "level": 1,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 4,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 8,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 12,
+        "move": "BITE"
+    },
+    {
+        "level": 15,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 19,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 24,
+        "move": "SWIFT"
+    },
+    {
+        "level": 28,
+        "move": "AIRCUTTER"
+    },
+    {
+        "level": 33,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 38,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 42,
+        "move": "POISONFANG"
+    },
+    {
+        "level": 47,
+        "move": "HAZE"
+    },
+    {
+        "level": 52,
+        "move": "AIRSLASH"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "1.8",
+    "Weight": "75.0",
+    "Color": "Purple",
+    "Shape": "13",
+    "Habitat": "Cave",
+    "RegionalNumbers": [0, 39],
+    "Kind": "Bat",
+    "Pokedex": "Over the course of evolution, its hind legs turned into wings. By alternately resting its front and rear wings, it can fly all day without having to stop.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "12",
+    "Evolutions": []
+}

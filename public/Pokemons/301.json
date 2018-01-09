@@ -1,0 +1,46 @@
+{
+    "ID": 301,
+    "Name": "Delcatty",
+    "InternalName": "DELCATTY",
+    "Type1": "NORMAL",
+    "BaseStats": [70, 65, 65, 70, 55, 55],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "133",
+    "EffortPoints": [1, 0, 0, 1, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["CUTECHARM","NORMALIZE"],
+    "HiddenAbility": "WONDERSKIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 1,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 1,
+        "move": "SING"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLESLAP"
+    }],
+    "Compatibility": ["Field", "Fairy"],
+    "StepsToHatch": "4080",
+    "Height": "1.1",
+    "Weight": "32.6",
+    "Color": "Purple",
+    "Shape": "8",
+    "Habitat": "Forest",
+    "Kind": "Prim",
+    "Pokedex": "Rather than keeping a permanent lair, it habitually seeks comfortable spots and sleeps there. It is nocturnal and becomes active at dusk.",
+    "WildItemUncommon": "LEPPABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

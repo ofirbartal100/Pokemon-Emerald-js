@@ -1,0 +1,65 @@
+{
+    "ID": 91,
+    "Name": "Cloyster",
+    "InternalName": "CLOYSTER",
+    "Type1": "WATER",
+    "Type2": "ICE",
+    "BaseStats": [50, 95, 180, 70, 85, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "184",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["SHELLARMOR","SKILLLINK"],
+    "HiddenAbility": "OVERCOAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 1,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 1,
+        "move": "PROTECT"
+    },
+    {
+        "level": 1,
+        "move": "AURORABEAM"
+    },
+    {
+        "level": 13,
+        "move": "SPIKECANNON"
+    },
+    {
+        "level": 28,
+        "move": "SPIKES"
+    },
+    {
+        "level": 52,
+        "move": "ICICLECRASH"
+    }],
+    "Compatibility": ["Water3"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "132.5",
+    "Color": "Purple",
+    "Shape": "1",
+    "Habitat": "Sea",
+    "RegionalNumbers": [91, 172],
+    "Kind": "Bivalve",
+    "Pokedex": "It swims in the sea by swallowing water, then jetting it out toward the rear. The Cloyster shoots spikes from its shell using the same system.",
+    "WildItemCommon": "PEARL",
+    "WildItemUncommon": "BIGPEARL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

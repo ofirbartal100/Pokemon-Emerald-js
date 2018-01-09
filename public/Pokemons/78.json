@@ -1,0 +1,107 @@
+{
+    "ID": 78,
+    "Name": "Rapidash",
+    "InternalName": "RAPIDASH",
+    "Type1": "FIRE",
+    "BaseStats": [65, 100, 70, 105, 80, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "175",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["RUNAWAY","FLASHFIRE"],
+    "HiddenAbility": "FLAMEBODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 1,
+        "move": "MEGAHORN"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 4,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 9,
+        "move": "EMBER"
+    },
+    {
+        "level": 13,
+        "move": "FLAMEWHEEL"
+    },
+    {
+        "level": 17,
+        "move": "STOMP"
+    },
+    {
+        "level": 21,
+        "move": "FLAMECHARGE"
+    },
+    {
+        "level": 25,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 29,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 33,
+        "move": "INFERNO"
+    },
+    {
+        "level": 37,
+        "move": "AGILITY"
+    },
+    {
+        "level": 40,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 41,
+        "move": "FIREBLAST"
+    },
+    {
+        "level": 45,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 49,
+        "move": "FLAREBLITZ"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.7",
+    "Weight": "95.0",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [78, 207],
+    "Kind": "Fire Horse",
+    "Pokedex": "It usually canters casually in the fields and plains. But once a Rapidash turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+    "WildItemUncommon": "SHUCABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,86 @@
+{
+    "ID": 217,
+    "Name": "Ursaring",
+    "InternalName": "URSARING",
+    "Type1": "NORMAL",
+    "BaseStats": [90, 130, 75, 55, 75, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "175",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["GUTS","QUICKFEET"],
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "COVET"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "LICK"
+    },
+    {
+        "level": 1,
+        "move": "FAKETEARS"
+    },
+    {
+        "level": 8,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 15,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 22,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 29,
+        "move": "SLASH"
+    },
+    {
+        "level": 38,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 47,
+        "move": "REST"
+    },
+    {
+        "level": 49,
+        "move": "SNORE"
+    },
+    {
+        "level": 58,
+        "move": "THRASH"
+    },
+    {
+        "level": 67,
+        "move": "HAMMERARM"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.8",
+    "Weight": "125.8",
+    "Color": "Brown",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [0, 199],
+    "Kind": "Hibernator",
+    "Pokedex": "In forests, it is said that there are many streams and towering trees where an Ursaring gathers food. It walks through its forest collecting food every day.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

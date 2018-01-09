@@ -1,0 +1,106 @@
+{
+    "ID": 586,
+    "Name": "Sawsbuck",
+    "InternalName": "SAWSBUCK",
+    "Type1": "NORMAL",
+    "Type2": "GRASS",
+    "BaseStats": [80, 100, 70, 95, 60, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "166",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","SAPSIPPER"],
+    "HiddenAbility": "SERENEGRACE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MEGAHORN"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "CAMOUFLAGE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 10,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 13,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 16,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 20,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 24,
+        "move": "JUMPKICK"
+    },
+    {
+        "level": 28,
+        "move": "AROMATHERAPY"
+    },
+    {
+        "level": 32,
+        "move": "ENERGYBALL"
+    },
+    {
+        "level": 36,
+        "move": "CHARM"
+    },
+    {
+        "level": 37,
+        "move": "HORNLEECH"
+    },
+    {
+        "level": 44,
+        "move": "NATUREPOWER"
+    },
+    {
+        "level": 52,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 60,
+        "move": "SOLARBEAM"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.9",
+    "Weight": "92.5",
+    "Color": "Brown",
+    "Shape": "8",
+    "Kind": "Season",
+    "Pokedex": "The plants growing on its horns change according to the season. The leaders of the herd possess magnificent horns.",
+    "FormName": "Spring Form",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

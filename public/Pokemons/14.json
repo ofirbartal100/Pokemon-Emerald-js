@@ -1,0 +1,45 @@
+{
+    "ID": 14,
+    "Name": "Kakuna",
+    "InternalName": "KAKUNA",
+    "Type1": "BUG",
+    "Type2": "POISON",
+    "BaseStats": [45, 25, 50, 35, 25, 25],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "72",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "SHEDSKIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "HARDEN"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.6",
+    "Weight": "10.0",
+    "Color": "Yellow",
+    "Shape": "2",
+    "Habitat": "Forest",
+    "RegionalNumbers": [14, 28],
+    "Kind": "Cocoon",
+    "Pokedex": "It remains virtually immobile while it clings to a tree. However, on the inside, it busily prepares for evolution. This is evident from how hot its shell becomes.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BEEDRILL",
+        "by":
+        {
+            "Level": 10
+        }
+    }]
+}

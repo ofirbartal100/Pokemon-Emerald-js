@@ -1,0 +1,101 @@
+{
+    "ID": 629,
+    "Name": "Vullaby",
+    "InternalName": "VULLABY",
+    "Type1": "DARK",
+    "Type2": "FLYING",
+    "BaseStats": [70, 55, 75, 60, 45, 65],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "74",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "35",
+    "Abilities": ["BIGPECKS","OVERCOAT"],
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 10,
+        "move": "PLUCK"
+    },
+    {
+        "level": 14,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 19,
+        "move": "FLATTER"
+    },
+    {
+        "level": 23,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 28,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 32,
+        "move": "DEFOG"
+    },
+    {
+        "level": 37,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 41,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 46,
+        "move": "DARKPULSE"
+    },
+    {
+        "level": 50,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 55,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 59,
+        "move": "BRAVEBIRD"
+    },
+    {
+        "level": 64,
+        "move": "MIRRORMOVE"
+    }],
+    "EggMoves": ["STEELWING", "MEANLOOK", "ROOST", "SCARYFACE", "KNOCKOFF", "FAKETEARS"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "9.0",
+    "Color": "Brown",
+    "Shape": "9",
+    "Kind": "Diapered",
+    "Pokedex": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokémon.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MANDIBUZZ",
+        "by":
+        {
+            "Level": 54
+        }
+    }]
+}

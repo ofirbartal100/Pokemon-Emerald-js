@@ -1,0 +1,100 @@
+{
+    "ID": 617,
+    "Name": "Accelgor",
+    "InternalName": "ACCELGOR",
+    "Type1": "BUG",
+    "BaseStats": [80, 70, 40, 145, 100, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["HYDRATION","STICKYHOLD"],
+    "HiddenAbility": "UNBURDEN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 1,
+        "move": "ACIDSPRAY"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 4,
+        "move": "ACIDSPRAY"
+    },
+    {
+        "level": 8,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 16,
+        "move": "STRUGGLEBUG"
+    },
+    {
+        "level": 20,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 25,
+        "move": "SWIFT"
+    },
+    {
+        "level": 28,
+        "move": "MEFIRST"
+    },
+    {
+        "level": 32,
+        "move": "AGILITY"
+    },
+    {
+        "level": 37,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 40,
+        "move": "UTURN"
+    },
+    {
+        "level": 44,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 49,
+        "move": "RECOVER"
+    },
+    {
+        "level": 52,
+        "move": "POWERSWAP"
+    },
+    {
+        "level": 56,
+        "move": "FINALGAMBIT"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.8",
+    "Weight": "25.3",
+    "Color": "Red",
+    "Shape": "4",
+    "Kind": "Shell Out",
+    "Pokedex": "Having removed its heavy shell, it becomes very light and can fight with ninja-like movements.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

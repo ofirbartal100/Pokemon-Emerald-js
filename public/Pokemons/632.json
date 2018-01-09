@@ -1,0 +1,90 @@
+{
+    "ID": 632,
+    "Name": "Durant",
+    "InternalName": "DURANT",
+    "Type1": "BUG",
+    "Type2": "STEEL",
+    "BaseStats": [58, 109, 112, 109, 48, 48],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "169",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["SWARM","HUSTLE"],
+    "HiddenAbility": "TRUANT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "VICEGRIP"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 6,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 11,
+        "move": "BITE"
+    },
+    {
+        "level": 16,
+        "move": "AGILITY"
+    },
+    {
+        "level": 21,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 26,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 31,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 36,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 41,
+        "move": "DIG"
+    },
+    {
+        "level": 46,
+        "move": "ENTRAINMENT"
+    },
+    {
+        "level": 51,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 56,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 61,
+        "move": "GUILLOTINE"
+    },
+    {
+        "level": 66,
+        "move": "METALSOUND"
+    }],
+    "EggMoves": ["BATONPASS", "ENDURE", "FEINTATTACK", "ROCKCLIMB", "SCREECH", "THUNDERFANG"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "33.0",
+    "Color": "Gray",
+    "Shape": "14",
+    "Kind": "Iron Ant",
+    "Pokedex": "Durant dig nests in mountains. They build their complicated, interconnected tunnels in mazes.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "36",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

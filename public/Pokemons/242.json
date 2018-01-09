@@ -1,0 +1,100 @@
+{
+    "ID": 242,
+    "Name": "Blissey",
+    "InternalName": "BLISSEY",
+    "Type1": "NORMAL",
+    "BaseStats": [255, 10, 10, 55, 75, 135],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Fast",
+    "BaseEXP": "608",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "30",
+    "Happiness": "140",
+    "Abilities": ["NATURALCURE","SERENEGRACE"],
+    "HiddenAbility": "HEALER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 5,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 9,
+        "move": "REFRESH"
+    },
+    {
+        "level": 12,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 16,
+        "move": "SOFTBOILED"
+    },
+    {
+        "level": 20,
+        "move": "BESTOW"
+    },
+    {
+        "level": 23,
+        "move": "MINIMIZE"
+    },
+    {
+        "level": 27,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 31,
+        "move": "SING"
+    },
+    {
+        "level": 34,
+        "move": "FLING"
+    },
+    {
+        "level": 38,
+        "move": "HEALPULSE"
+    },
+    {
+        "level": 42,
+        "move": "EGGBOMB"
+    },
+    {
+        "level": 46,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 50,
+        "move": "HEALINGWISH"
+    },
+    {
+        "level": 54,
+        "move": "DOUBLEEDGE"
+    }],
+    "Compatibility": ["Fairy"],
+    "StepsToHatch": "10455",
+    "Height": "1.5",
+    "Weight": "46.8",
+    "Color": "Pink",
+    "Shape": "12",
+    "Habitat": "Urban",
+    "RegionalNumbers": [0, 223],
+    "Kind": "Happiness",
+    "Pokedex": "If it senses sadness with its fluffy fur, a Blissey will rush over to the sad person, however far away, to share an egg of happiness that brings a smile to any face.",
+    "WildItemCommon": "OVALSTONE",
+    "WildItemUncommon": "LUCKYEGG",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

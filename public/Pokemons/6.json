@@ -1,0 +1,111 @@
+{
+    "ID": 6,
+    "Name": "Charizard",
+    "InternalName": "CHARIZARD",
+    "Type1": "FIRE",
+    "Type2": "FLYING",
+    "BaseStats": [78, 84, 78, 100, 109, 85],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "240",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "SOLARPOWER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 1,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 1,
+        "move": "SHADOWCLAW"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 1,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 7,
+        "move": "EMBER"
+    },
+    {
+        "level": 10,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 17,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 21,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 28,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 32,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 36,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 41,
+        "move": "SLASH"
+    },
+    {
+        "level": 47,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 56,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 62,
+        "move": "INFERNO"
+    },
+    {
+        "level": 71,
+        "move": "HEATWAVE"
+    },
+    {
+        "level": 77,
+        "move": "FLAREBLITZ"
+    }],
+    "Compatibility": ["Monster", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "1.7",
+    "Weight": "90.5",
+    "Color": "Red",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [6, 236],
+    "Kind": "Flame",
+    "Pokedex": "A Charizard flies about in search of strong opponents. It breathes intense flames that can melt any material. However, it will never torch a weaker foe.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "4",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

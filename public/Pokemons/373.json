@@ -1,0 +1,111 @@
+{
+    "ID": 373,
+    "Name": "Salamence",
+    "InternalName": "SALAMENCE",
+    "Type1": "DRAGON",
+    "Type2": "FLYING",
+    "BaseStats": [95, 135, 80, 100, 110, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "INTIMIDATE",
+    "HiddenAbility": "MOXIE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "RAGE"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 5,
+        "move": "BITE"
+    },
+    {
+        "level": 10,
+        "move": "LEER"
+    },
+    {
+        "level": 16,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 20,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 25,
+        "move": "EMBER"
+    },
+    {
+        "level": 30,
+        "move": "PROTECT"
+    },
+    {
+        "level": 32,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 37,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 43,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 50,
+        "move": "FLY"
+    },
+    {
+        "level": 53,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 61,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 70,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 80,
+        "move": "DRAGONTAIL"
+    }],
+    "Compatibility": ["Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "1.5",
+    "Weight": "102.6",
+    "Color": "Blue",
+    "Shape": "8",
+    "Habitat": "RoughTerrain",
+    "Kind": "Dragon",
+    "Pokedex": "After many long years, its cellular structure underwent a sudden mutation to grow wings. When angered, it loses all thought and rampages out of control.",
+    "WildItemUncommon": "DRAGONFANG",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

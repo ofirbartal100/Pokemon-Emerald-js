@@ -1,0 +1,83 @@
+{
+    "ID": 277,
+    "Name": "Swellow",
+    "InternalName": "SWELLOW",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [60, 85, 60, 125, 50, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "151",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "GUTS",
+    "HiddenAbility": "SCRAPPY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PLUCK"
+    },
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 4,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 8,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 13,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 19,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 28,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 38,
+        "move": "AERIALACE"
+    },
+    {
+        "level": 49,
+        "move": "AGILITY"
+    },
+    {
+        "level": 61,
+        "move": "AIRSLASH"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "0.7",
+    "Weight": "19.8",
+    "Color": "Blue",
+    "Shape": "9",
+    "Habitat": "Grassland",
+    "Kind": "Swallow",
+    "Pokedex": "A Swellow dives upon prey from far above. It never misses its targets. It takes to the skies in search of lands with a warm climate.",
+    "WildItemUncommon": "CHARTIBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

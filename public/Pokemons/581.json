@@ -1,0 +1,101 @@
+{
+    "ID": 581,
+    "Name": "Swanna",
+    "InternalName": "SWANNA",
+    "Type1": "WATER",
+    "Type2": "FLYING",
+    "BaseStats": [75, 87, 63, 98, 87, 63],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "166",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["KEENEYE","BIGPECKS"],
+    "HiddenAbility": "HYDRATION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 1,
+        "move": "DEFOG"
+    },
+    {
+        "level": 1,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 3,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 6,
+        "move": "DEFOG"
+    },
+    {
+        "level": 9,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 13,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 15,
+        "move": "AERIALACE"
+    },
+    {
+        "level": 19,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 21,
+        "move": "FEATHERDANCE"
+    },
+    {
+        "level": 24,
+        "move": "AQUARING"
+    },
+    {
+        "level": 27,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 30,
+        "move": "ROOST"
+    },
+    {
+        "level": 34,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 40,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 47,
+        "move": "BRAVEBIRD"
+    },
+    {
+        "level": 55,
+        "move": "HURRICANE"
+    }],
+    "Compatibility": ["Water1", "Flying"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "24.2",
+    "Color": "White",
+    "Shape": "9",
+    "Kind": "White Bird",
+    "Pokedex": "It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

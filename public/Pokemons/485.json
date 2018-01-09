@@ -1,0 +1,81 @@
+{
+    "ID": 485,
+    "Name": "Heatran",
+    "InternalName": "HEATRAN",
+    "Type1": "FIRE",
+    "Type2": "STEEL",
+    "BaseStats": [91, 90, 106, 77, 130, 106],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "3",
+    "Happiness": "100",
+    "Abilities": "FLASHFIRE",
+    "HiddenAbility": "FLAMEBODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 9,
+        "move": "LEER"
+    },
+    {
+        "level": 17,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 25,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 33,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 41,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 49,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 57,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 65,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 73,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 81,
+        "move": "HEATWAVE"
+    },
+    {
+        "level": 88,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 96,
+        "move": "MAGMASTORM"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "2805",
+    "Height": "1.7",
+    "Weight": "430.0",
+    "Color": "Brown",
+    "Shape": "8",
+    "Kind": "Lava Dome",
+    "Pokedex": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

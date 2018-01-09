@@ -1,0 +1,46 @@
+{
+    "ID": 514,
+    "Name": "Simisear",
+    "InternalName": "SIMISEAR",
+    "Type1": "FIRE",
+    "BaseStats": [75, 98, 63, 101, 98, 63],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "174",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "GLUTTONY",
+    "HiddenAbility": "BLAZE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "LICK"
+    },
+    {
+        "level": 1,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 1,
+        "move": "FLAMEBURST"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "28.0",
+    "Color": "Red",
+    "Shape": "6",
+    "Kind": "Ember",
+    "Pokedex": "A flame burns inside its body. It scatters embers from its head and tail to sear its opponents.",
+    "WildItemCommon": "ORANBERRY",
+    "WildItemUncommon": "PASSHOBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

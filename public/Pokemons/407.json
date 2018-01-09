@@ -1,0 +1,50 @@
+{
+    "ID": 407,
+    "Name": "Roserade",
+    "InternalName": "ROSERADE",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": [60, 70, 55, 90, 125, 105],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "227",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["NATURALCURE","POISONPOINT"],
+    "HiddenAbility": "TECHNICIAN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WEATHERBALL"
+    },
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 1,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 1,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 1,
+        "move": "SWEETSCENT"
+    }],
+    "Compatibility": ["Fairy", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "14.5",
+    "Color": "Green",
+    "Shape": "12",
+    "Kind": "Bouquet",
+    "Pokedex": "It attracts prey with a sweet aroma, then downs it with thorny whips hidden in its arms.",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

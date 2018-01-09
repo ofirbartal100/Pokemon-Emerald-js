@@ -1,0 +1,49 @@
+{
+    "ID": 129,
+    "Name": "Magikarp",
+    "InternalName": "MAGIKARP",
+    "Type1": "WATER",
+    "BaseStats": [20, 10, 55, 80, 15, 20],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "40",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "SWIFTSWIM",
+    "HiddenAbility": "RATTLED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SPLASH"
+    },
+    {
+        "level": 15,
+        "move": "TACKLE"
+    },
+    {
+        "level": 30,
+        "move": "FLAIL"
+    }],
+    "Compatibility": ["Water2", "Dragon"],
+    "StepsToHatch": "1530",
+    "Height": "0.9",
+    "Weight": "10.0",
+    "Color": "Red",
+    "Shape": "3",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [129, 76],
+    "Kind": "Fish",
+    "Pokedex": "Its swimming muscles are weak, so it is easily washed away by currents. In places where water pools, you can see many Magikarp deposited there by the flow.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "10",
+    "Evolutions": [
+    {
+        "to": "GYARADOS",
+        "by":
+        {
+            "Level": 20
+        }
+    }]
+}

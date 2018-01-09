@@ -1,0 +1,102 @@
+{
+    "ID": 54,
+    "Name": "Psyduck",
+    "InternalName": "PSYDUCK",
+    "Type1": "WATER",
+    "BaseStats": [50, 52, 48, 55, 65, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "64",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["DAMP","CLOUDNINE"],
+    "HiddenAbility": "SWIFTSWIM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 4,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 8,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 11,
+        "move": "DISABLE"
+    },
+    {
+        "level": 15,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 18,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 22,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 25,
+        "move": "SCREECH"
+    },
+    {
+        "level": 29,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 32,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 36,
+        "move": "SOAK"
+    },
+    {
+        "level": 39,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 43,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 46,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 50,
+        "move": "WONDERROOM"
+    }],
+    "EggMoves": ["CONFUSERAY", "CROSSCHOP", "ENCORE", "FORESIGHT", "FUTURESIGHT", "HYPNOSIS", "MUDBOMB", "PSYBEAM", "REFRESH", "SECRETPOWER", "SLEEPTALK", "SYNCHRONOISE", "YAWN"],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "19.6",
+    "Color": "Yellow",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [54, 140],
+    "Kind": "Duck",
+    "Pokedex": "When its headache intensifies, it starts using strange powers. However, it has no recollection of its powers, so it always looks befuddled and bewildered.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GOLDUCK",
+        "by":
+        {
+            "Level": 33
+        }
+    }]
+}

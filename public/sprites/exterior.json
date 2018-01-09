@@ -275,17 +275,5 @@
              "flower-1",
              "flower-3"
          ]
-     }],
-     "patterns": [
-     {
-         "name": "big-tree",
-         "size": [2, 2],
-         "type": "solid",
-         "indexes": [
-             [6, 3],
-             [7, 3],
-             [6, 4],
-             [7, 4]
-         ]
      }]
  }

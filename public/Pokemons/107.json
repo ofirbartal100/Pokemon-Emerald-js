@@ -1,0 +1,102 @@
+{
+    "ID": 107,
+    "Name": "Hitmonchan",
+    "InternalName": "HITMONCHAN",
+    "Type1": "FIGHTING",
+    "BaseStats": [50, 105, 79, 76, 35, 110],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "159",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["KEENEYE","IRONFIST"],
+    "HiddenAbility": "INNERFOCUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "REVENGE"
+    },
+    {
+        "level": 1,
+        "move": "COMETPUNCH"
+    },
+    {
+        "level": 6,
+        "move": "AGILITY"
+    },
+    {
+        "level": 11,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 16,
+        "move": "MACHPUNCH"
+    },
+    {
+        "level": 16,
+        "move": "BULLETPUNCH"
+    },
+    {
+        "level": 21,
+        "move": "FEINT"
+    },
+    {
+        "level": 26,
+        "move": "VACUUMWAVE"
+    },
+    {
+        "level": 31,
+        "move": "QUICKGUARD"
+    },
+    {
+        "level": 36,
+        "move": "THUNDERPUNCH"
+    },
+    {
+        "level": 36,
+        "move": "ICEPUNCH"
+    },
+    {
+        "level": 36,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 41,
+        "move": "SKYUPPERCUT"
+    },
+    {
+        "level": 46,
+        "move": "MEGAPUNCH"
+    },
+    {
+        "level": 51,
+        "move": "DETECT"
+    },
+    {
+        "level": 56,
+        "move": "FOCUSPUNCH"
+    },
+    {
+        "level": 61,
+        "move": "COUNTER"
+    },
+    {
+        "level": 66,
+        "move": "CLOSECOMBAT"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "6630",
+    "Height": "1.4",
+    "Weight": "50.2",
+    "Color": "Brown",
+    "Shape": "12",
+    "Habitat": "Urban",
+    "RegionalNumbers": [107, 147],
+    "Kind": "Punching",
+    "Pokedex": "A Hitmonchan is said to possess the spirit of a boxer who aimed to become the world champion. Having an indomitable spirit means that it will never give up.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

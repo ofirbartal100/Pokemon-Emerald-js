@@ -1,0 +1,92 @@
+{
+    "ID": 474,
+    "Name": "Porygon-Z",
+    "InternalName": "PORYGONZ",
+    "Type1": "NORMAL",
+    "BaseStats": [85, 80, 70, 90, 135, 75],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "241",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": ["ADAPTABILITY","DOWNLOAD"],
+    "HiddenAbility": "ANALYTIC",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TRICKROOM"
+    },
+    {
+        "level": 1,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 1,
+        "move": "CONVERSION"
+    }, 1, "CONVERSION2",
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 7,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 12,
+        "move": "AGILITY"
+    },
+    {
+        "level": 18,
+        "move": "RECOVER"
+    },
+    {
+        "level": 23,
+        "move": "MAGNETRISE"
+    },
+    {
+        "level": 29,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 34,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 40,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 45,
+        "move": "LOCKON"
+    },
+    {
+        "level": 51,
+        "move": "TRIATTACK"
+    },
+    {
+        "level": 56,
+        "move": "MAGICCOAT"
+    },
+    {
+        "level": 62,
+        "move": "ZAPCANNON"
+    },
+    {
+        "level": 67,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "34.0",
+    "Color": "Red",
+    "Shape": "4",
+    "Kind": "Virtual",
+    "Pokedex": "Additional software was installed to make it a better Pokémon. It began acting oddly, however.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

@@ -1,0 +1,93 @@
+{
+    "ID": 587,
+    "Name": "Emolga",
+    "InternalName": "EMOLGA",
+    "Type1": "ELECTRIC",
+    "Type2": "FLYING",
+    "BaseStats": [55, 75, 60, 103, 75, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "150",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": "STATIC",
+    "HiddenAbility": "MOTORDRIVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 4,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 7,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 10,
+        "move": "CHARGE"
+    },
+    {
+        "level": 13,
+        "move": "SPARK"
+    },
+    {
+        "level": 16,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 19,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 22,
+        "move": "SHOCKWAVE"
+    },
+    {
+        "level": 26,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 30,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 34,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 38,
+        "move": "ENCORE"
+    },
+    {
+        "level": 42,
+        "move": "VOLTSWITCH"
+    },
+    {
+        "level": 46,
+        "move": "AGILITY"
+    },
+    {
+        "level": 50,
+        "move": "DISCHARGE"
+    }],
+    "EggMoves": ["AIRSLASH", "ASTONISH", "BATONPASS", "CHARM", "COVET", "IRONTAIL", "ROOST", "SHOCKWAVE", "TICKLE"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "5.0",
+    "Color": "White",
+    "Shape": "8",
+    "Kind": "Sky Squirrel",
+    "Pokedex": "They live on treetops and glide using the inside of a cape-like membrane while discharging electricity.",
+    "WildItemCommon": "CHERIBERRY",
+    "WildItemUncommon": "CHERIBERRY",
+    "WildItemRare": "CHERIBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "36",
+    "BattlerAltitude": "13",
+    "Evolutions": []
+}

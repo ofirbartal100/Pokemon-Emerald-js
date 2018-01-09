@@ -1,0 +1,104 @@
+{
+    "ID": 193,
+    "Name": "Yanma",
+    "InternalName": "YANMA",
+    "Type1": "BUG",
+    "Type2": "FLYING",
+    "BaseStats": [65, 65, 45, 95, 75, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "78",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["SPEEDBOOST","COMPOUNDEYES"],
+    "HiddenAbility": "FRISK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 6,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 11,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 14,
+        "move": "SONICBOOM"
+    },
+    {
+        "level": 17,
+        "move": "DETECT"
+    },
+    {
+        "level": 22,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 27,
+        "move": "UPROAR"
+    },
+    {
+        "level": 30,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 33,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 38,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 43,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 46,
+        "move": "SCREECH"
+    },
+    {
+        "level": 49,
+        "move": "UTURN"
+    },
+    {
+        "level": 54,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 57,
+        "move": "BUGBUZZ"
+    }],
+    "EggMoves": ["DOUBLEEDGE", "FEINTATTACK", "FEINT", "LEECHLIFE", "PURSUIT", "REVERSAL", "SECRETPOWER", "SIGNALBEAM", "SILVERWIND", "WHIRLWIND"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "38.0",
+    "Color": "Red",
+    "Shape": "13",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 101],
+    "Kind": "Clear Wing",
+    "Pokedex": "It can see 360 degrees without moving its eyes. It is a great flier capable of making sudden stops and turning midair to quickly chase down targeted prey.",
+    "WildItemUncommon": "WIDELENS",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "13",
+    "Evolutions": [
+    {
+        "to": "YANMEGA",
+        "by":
+        {
+            "HasMove": "ANCIENTPOWER"
+        }
+    }]
+}

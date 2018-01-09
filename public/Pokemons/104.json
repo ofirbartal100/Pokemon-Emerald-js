@@ -1,0 +1,99 @@
+{
+    "ID": 104,
+    "Name": "Cubone",
+    "InternalName": "CUBONE",
+    "Type1": "GROUND",
+    "BaseStats": [50, 50, 95, 35, 40, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "64",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["ROCKHEAD","LIGHTNINGROD"],
+    "HiddenAbility": "BATTLEARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 3,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 7,
+        "move": "BONECLUB"
+    },
+    {
+        "level": 11,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 13,
+        "move": "LEER"
+    },
+    {
+        "level": 17,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 21,
+        "move": "BONEMERANG"
+    },
+    {
+        "level": 23,
+        "move": "RAGE"
+    },
+    {
+        "level": 27,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 31,
+        "move": "THRASH"
+    },
+    {
+        "level": 33,
+        "move": "FLING"
+    },
+    {
+        "level": 37,
+        "move": "BONERUSH"
+    },
+    {
+        "level": 41,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 43,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 47,
+        "move": "RETALIATE"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "BELLYDRUM", "CHIPAWAY", "DETECT", "DOUBLEKICK", "ENDURE", "IRONHEAD", "PERISHSONG", "SCREECH", "SKULLBASH"],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "6.5",
+    "Color": "Brown",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [104, 208],
+    "Kind": "Lonely",
+    "Pokedex": "It pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull it wears are from its tears.",
+    "WildItemUncommon": "THICKCLUB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MAROWAK",
+        "by":
+        {
+            "Level": 28
+        }
+    }]
+}

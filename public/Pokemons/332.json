@@ -1,0 +1,107 @@
+{
+    "ID": 332,
+    "Name": "Cacturne",
+    "InternalName": "CACTURNE",
+    "Type1": "GRASS",
+    "Type2": "DARK",
+    "BaseStats": [70, 115, 60, 55, 115, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "166",
+    "EffortPoints": [0, 1, 0, 0, 1, 0],
+    "Rareness": "60",
+    "Happiness": "35",
+    "Abilities": "SANDVEIL",
+    "HiddenAbility": "WATERABSORB",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "REVENGE"
+    },
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 1,
+        "move": "GROWTH"
+    },
+    {
+        "level": 5,
+        "move": "ABSORB"
+    },
+    {
+        "level": 9,
+        "move": "GROWTH"
+    },
+    {
+        "level": 13,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 17,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 21,
+        "move": "PINMISSILE"
+    },
+    {
+        "level": 25,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 29,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 35,
+        "move": "SPIKES"
+    },
+    {
+        "level": 41,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 47,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 53,
+        "move": "NEEDLEARM"
+    },
+    {
+        "level": 59,
+        "move": "COTTONSPORE"
+    },
+    {
+        "level": 65,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 71,
+        "move": "DESTINYBOND"
+    }],
+    "Compatibility": ["Grass", "Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "77.4",
+    "Color": "Green",
+    "Shape": "12",
+    "Habitat": "RoughTerrain",
+    "Kind": "Scarecrow",
+    "Pokedex": "After spending thousands of years in harsh deserts, its blood transformed into the same substances as sand. It is nocturnal, so it hunts at night.",
+    "WildItemUncommon": "STICKYBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "9",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

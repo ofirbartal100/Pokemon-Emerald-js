@@ -1,0 +1,103 @@
+{
+    "ID": 206,
+    "Name": "Dunsparce",
+    "InternalName": "DUNSPARCE",
+    "Type1": "NORMAL",
+    "BaseStats": [100, 70, 70, 45, 65, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "145",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["SERENEGRACE","RUNAWAY"],
+    "HiddenAbility": "RATTLED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "RAGE"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 4,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 7,
+        "move": "SPITE"
+    },
+    {
+        "level": 10,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 13,
+        "move": "SCREECH"
+    },
+    {
+        "level": 16,
+        "move": "YAWN"
+    },
+    {
+        "level": 19,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 22,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 25,
+        "move": "ROOST"
+    },
+    {
+        "level": 28,
+        "move": "GLARE"
+    },
+    {
+        "level": 31,
+        "move": "DIG"
+    },
+    {
+        "level": 34,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 37,
+        "move": "COIL"
+    },
+    {
+        "level": 40,
+        "move": "ENDURE"
+    },
+    {
+        "level": 43,
+        "move": "DRILLRUN"
+    },
+    {
+        "level": 46,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 49,
+        "move": "FLAIL"
+    }],
+    "EggMoves": ["AGILITY", "ANCIENTPOWER", "ASTONISH", "BIDE", "BITE", "CURSE", "HEADBUTT", "HEX", "MAGICCOAT", "SECRETPOWER", "SLEEPTALK", "SNORE", "TRUMPCARD"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "14.0",
+    "Color": "Yellow",
+    "Shape": "2",
+    "Habitat": "Cave",
+    "RegionalNumbers": [0, 52],
+    "Kind": "Land Snake",
+    "Pokedex": "Its drill-tipped tail is used to burrow into the ground backwards. This Pokémon is known to make its nest in complex shapes deep under the ground.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

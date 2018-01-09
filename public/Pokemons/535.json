@@ -1,0 +1,93 @@
+{
+    "ID": 535,
+    "Name": "Tympole",
+    "InternalName": "TYMPOLE",
+    "Type1": "WATER",
+    "BaseStats": [50, 50, 40, 64, 50, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "59",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","HYDRATION"],
+    "HiddenAbility": "WATERABSORB",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 5,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 9,
+        "move": "ROUND"
+    },
+    {
+        "level": 12,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 16,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 20,
+        "move": "AQUARING"
+    },
+    {
+        "level": 23,
+        "move": "UPROAR"
+    },
+    {
+        "level": 27,
+        "move": "MUDDYWATER"
+    },
+    {
+        "level": 31,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 34,
+        "move": "FLAIL"
+    },
+    {
+        "level": 38,
+        "move": "ECHOEDVOICE"
+    },
+    {
+        "level": 42,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 45,
+        "move": "HYPERVOICE"
+    }],
+    "EggMoves": ["EARTHPOWER", "MIST", "MUDBOMB", "MUDSPORT", "REFRESH", "SLEEPTALK", "SNORE", "WATERPULSE"],
+    "Compatibility": ["Water1"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "4.5",
+    "Color": "Blue",
+    "Shape": "3",
+    "Kind": "Tadpole",
+    "Pokedex": "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
+    "WildItemCommon": "PERSIMBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "35",
+    "BattlerAltitude": "10",
+    "Evolutions": [
+    {
+        "to": "PALPITOAD",
+        "by":
+        {
+            "Level": 25
+        }
+    }]
+}

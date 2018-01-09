@@ -1,0 +1,94 @@
+{
+    "ID": 603,
+    "Name": "Eelektrik",
+    "InternalName": "EELEKTRIK",
+    "Type1": "ELECTRIC",
+    "BaseStats": [65, 85, 70, 40, 75, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 1,
+        "move": "SPARK"
+    },
+    {
+        "level": 1,
+        "move": "CHARGEBEAM"
+    },
+    {
+        "level": 9,
+        "move": "BIND"
+    },
+    {
+        "level": 19,
+        "move": "ACID"
+    },
+    {
+        "level": 29,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 39,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 44,
+        "move": "THUNDERBOLT"
+    },
+    {
+        "level": 49,
+        "move": "ACIDSPRAY"
+    },
+    {
+        "level": 54,
+        "move": "COIL"
+    },
+    {
+        "level": 59,
+        "move": "WILDCHARGE"
+    },
+    {
+        "level": 64,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 69,
+        "move": "ZAPCANNON"
+    },
+    {
+        "level": 74,
+        "move": "THRASH"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "22.0",
+    "Color": "Blue",
+    "Shape": "3",
+    "Kind": "EleFish",
+    "Pokedex": "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "EELEKTROSS",
+        "by":
+        {
+            "Item": "THUNDERSTONE"
+        }
+    }]
+}

@@ -1,0 +1,93 @@
+{
+    "ID": 200,
+    "Name": "Misdreavus",
+    "InternalName": "MISDREAVUS",
+    "Type1": "GHOST",
+    "BaseStats": [60, 60, 60, 85, 85, 85],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "87",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 5,
+        "move": "SPITE"
+    },
+    {
+        "level": 10,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 14,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 19,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 23,
+        "move": "HEX"
+    },
+    {
+        "level": 28,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 32,
+        "move": "PAINSPLIT"
+    },
+    {
+        "level": 37,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 41,
+        "move": "SHADOWBALL"
+    },
+    {
+        "level": 46,
+        "move": "PERISHSONG"
+    },
+    {
+        "level": 50,
+        "move": "GRUDGE"
+    },
+    {
+        "level": 55,
+        "move": "POWERGEM"
+    }],
+    "EggMoves": ["CURSE", "DESTINYBOND", "IMPRISON", "MEMENTO", "NASTYPLOT", "OMINOUSWIND", "SCREECH", "SHADOWSNEAK", "SKILLSWAP", "SPITE", "SUCKERPUNCH", "WONDERROOM"],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "6630",
+    "Height": "0.7",
+    "Weight": "1.0",
+    "Color": "Purple",
+    "Shape": "1",
+    "Habitat": "Cave",
+    "RegionalNumbers": [0, 219],
+    "Kind": "Screech",
+    "Pokedex": "A Misdreavus frightens people with a creepy, sobbing cry. It apparently uses its red spheres to absorb the fear of foes as its nutrition.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "14",
+    "Evolutions": [
+    {
+        "to": "MISMAGIUS",
+        "by":
+        {
+            "Item": "DUSKSTONE"
+        }
+    }]
+}

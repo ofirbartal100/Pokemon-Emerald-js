@@ -1,0 +1,95 @@
+{
+    "ID": 77,
+    "Name": "Ponyta",
+    "InternalName": "PONYTA",
+    "Type1": "FIRE",
+    "BaseStats": [50, 85, 55, 90, 65, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "82",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["RUNAWAY","FLASHFIRE"],
+    "HiddenAbility": "FLAMEBODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 9,
+        "move": "EMBER"
+    },
+    {
+        "level": 13,
+        "move": "FLAMEWHEEL"
+    },
+    {
+        "level": 17,
+        "move": "STOMP"
+    },
+    {
+        "level": 21,
+        "move": "FLAMECHARGE"
+    },
+    {
+        "level": 25,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 29,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 33,
+        "move": "INFERNO"
+    },
+    {
+        "level": 37,
+        "move": "AGILITY"
+    },
+    {
+        "level": 41,
+        "move": "FIREBLAST"
+    },
+    {
+        "level": 45,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 49,
+        "move": "FLAREBLITZ"
+    }],
+    "EggMoves": ["CAPTIVATE", "CHARM", "DOUBLEKICK", "DOUBLEEDGE", "FLAMEWHEEL", "HORNDRILL", "HYPNOSIS", "LOWKICK", "MORNINGSUN", "THRASH"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "30.0",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [77, 206],
+    "Kind": "Fire Horse",
+    "Pokedex": "A Ponyta is very weak at birth. It can barely stand up. Its legs become stronger as it stumbles and falls while trying to keep up with its parent.",
+    "WildItemUncommon": "SHUCABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "RAPIDASH",
+        "by":
+        {
+            "Level": 40
+        }
+    }]
+}

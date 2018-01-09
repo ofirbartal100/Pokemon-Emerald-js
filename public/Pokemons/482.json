@@ -1,0 +1,75 @@
+{
+    "ID": 482,
+    "Name": "Azelf",
+    "InternalName": "AZELF",
+    "Type1": "PSYCHIC",
+    "BaseStats": [75, 125, 70, 115, 125, 70],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": [0, 2, 0, 0, 1, 0],
+    "Rareness": "3",
+    "Happiness": "140",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "REST"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 6,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 16,
+        "move": "DETECT"
+    },
+    {
+        "level": 21,
+        "move": "SWIFT"
+    },
+    {
+        "level": 31,
+        "move": "UPROAR"
+    },
+    {
+        "level": 36,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 46,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 51,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 61,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 66,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 76,
+        "move": "EXPLOSION"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "0.3",
+    "Weight": "0.3",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Willpower",
+    "Pokedex": "Known as “The Being of Willpower.” It sleeps at the bottom of a lake to keep the world in balance.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "29",
+    "BattlerAltitude": "20",
+    "Evolutions": []
+}

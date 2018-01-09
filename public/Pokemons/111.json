@@ -1,0 +1,95 @@
+{
+    "ID": 111,
+    "Name": "Rhyhorn",
+    "InternalName": "RHYHORN",
+    "Type1": "GROUND",
+    "Type2": "ROCK",
+    "BaseStats": [80, 85, 95, 25, 30, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "69",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["LIGHTNINGROD","ROCKHEAD"],
+    "HiddenAbility": "RECKLESS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HORNATTACK"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 8,
+        "move": "STOMP"
+    },
+    {
+        "level": 12,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 19,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 23,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 30,
+        "move": "BULLDOZE"
+    },
+    {
+        "level": 34,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 41,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 45,
+        "move": "DRILLRUN"
+    },
+    {
+        "level": 52,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 56,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 63,
+        "move": "HORNDRILL"
+    },
+    {
+        "level": 67,
+        "move": "MEGAHORN"
+    }],
+    "EggMoves": ["COUNTER", "CRUNCH", "CRUSHCLAW", "CURSE", "DRAGONRUSH", "FIREFANG", "ICEFANG", "IRONTAIL", "MAGNITUDE", "REVERSAL", "ROCKCLIMB", "SKULLBASH", "THUNDERFANG"],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "115.0",
+    "Color": "Gray",
+    "Shape": "8",
+    "Habitat": "RoughTerrain",
+    "RegionalNumbers": [111, 211],
+    "Kind": "Spikes",
+    "Pokedex": "Once it starts running, it doesn't stop. Its tiny brain makes it so stupid that it can't remember why it started running in the first place.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "RHYDON",
+        "by":
+        {
+            "Level": 42
+        }
+    }]
+}

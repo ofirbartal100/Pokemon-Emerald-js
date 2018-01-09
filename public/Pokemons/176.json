@@ -1,0 +1,110 @@
+{
+    "ID": 176,
+    "Name": "Togetic",
+    "InternalName": "TOGETIC",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [55, 40, 85, 40, 80, 105],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Fast",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["HUSTLE","SERENEGRACE"],
+    "HiddenAbility": "SUPERLUCK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "CHARM"
+    },
+    {
+        "level": 1,
+        "move": "METRONOME"
+    },
+    {
+        "level": 1,
+        "move": "SWEETKISS"
+    },
+    {
+        "level": 5,
+        "move": "METRONOME"
+    },
+    {
+        "level": 9,
+        "move": "SWEETKISS"
+    },
+    {
+        "level": 13,
+        "move": "YAWN"
+    },
+    {
+        "level": 17,
+        "move": "ENCORE"
+    },
+    {
+        "level": 21,
+        "move": "FOLLOWME"
+    },
+    {
+        "level": 25,
+        "move": "BESTOW"
+    },
+    {
+        "level": 29,
+        "move": "WISH"
+    },
+    {
+        "level": 33,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 37,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 41,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 45,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 49,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 53,
+        "move": "AFTERYOU"
+    }],
+    "Compatibility": ["Flying", "Fairy"],
+    "StepsToHatch": "2805",
+    "Height": "0.6",
+    "Weight": "3.2",
+    "Color": "White",
+    "Shape": "12",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 47],
+    "Kind": "Happiness",
+    "Pokedex": "It is said to be a Pokémon that brings good fortune. When it spots someone who is pure of heart, a Togetic appears and shares its happiness with that person.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "12",
+    "Evolutions": [
+    {
+        "to": "TOGEKISS",
+        "by":
+        {
+            "Item": "SHINYSTONE"
+        }
+    }]
+}

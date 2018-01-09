@@ -1,0 +1,102 @@
+{
+    "ID": 9,
+    "Name": "Blastoise",
+    "InternalName": "BLASTOISE",
+    "Type1": "WATER",
+    "BaseStats": [79, 83, 100, 78, 85, 105],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "239",
+    "EffortPoints": [0, 0, 0, 0, 0, 3],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "RAINDISH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FLASHCANNON"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 4,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 7,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 10,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 13,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 16,
+        "move": "BITE"
+    },
+    {
+        "level": 20,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 24,
+        "move": "PROTECT"
+    },
+    {
+        "level": 28,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 32,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 39,
+        "move": "SKULLBASH"
+    },
+    {
+        "level": 46,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 53,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 60,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Monster", "Water1"],
+    "StepsToHatch": "5355",
+    "Height": "1.6",
+    "Weight": "85.5",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [9, 239],
+    "Kind": "Shellfish",
+    "Pokedex": "The waterspouts that protrude from its shell are highly accurate. Their bullets of water can precisely nail tin cans from a distance of over 160 feet.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

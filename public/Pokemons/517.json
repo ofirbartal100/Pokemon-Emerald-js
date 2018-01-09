@@ -1,0 +1,104 @@
+{
+    "ID": 517,
+    "Name": "Munna",
+    "InternalName": "MUNNA",
+    "Type1": "PSYCHIC",
+    "BaseStats": [76, 25, 45, 24, 67, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "58",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["FOREWARN","SYNCHRONIZE"],
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 5,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 7,
+        "move": "YAWN"
+    },
+    {
+        "level": 11,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 13,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 17,
+        "move": "MOONLIGHT"
+    },
+    {
+        "level": 19,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 23,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 25,
+        "move": "SYNCHRONOISE"
+    },
+    {
+        "level": 29,
+        "move": "NIGHTMARE"
+    },
+    {
+        "level": 31,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 35,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 37,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 41,
+        "move": "DREAMEATER"
+    },
+    {
+        "level": 43,
+        "move": "TELEKINESIS"
+    },
+    {
+        "level": 47,
+        "move": "STOREDPOWER"
+    }],
+    "EggMoves": ["BARRIER", "BATONPASS", "CURSE", "HELPINGHAND", "MAGICCOAT", "SECRETPOWER", "SLEEPTALK", "SONICBOOM", "SWIFT"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "2805",
+    "Height": "0.6",
+    "Weight": "23.3",
+    "Color": "Pink",
+    "Shape": "8",
+    "Kind": "Dream Eater",
+    "Pokedex": "It eats the dreams of people and Pokémon. When it eats a pleasant dreams, it expels pink-colored mist.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "36",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MUSHARNA",
+        "by":
+        {
+            "Item": "MOONSTONE"
+        }
+    }]
+}

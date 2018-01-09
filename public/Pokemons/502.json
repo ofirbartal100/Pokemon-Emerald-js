@@ -1,0 +1,107 @@
+{
+    "ID": 502,
+    "Name": "Dewott",
+    "InternalName": "DEWOTT",
+    "Type1": "WATER",
+    "BaseStats": [75, 75, 60, 60, 83, 60],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "145",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "SHELLARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 5,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 7,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 11,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 13,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 17,
+        "move": "RAZORSHELL"
+    },
+    {
+        "level": 20,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 25,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 28,
+        "move": "REVENGE"
+    },
+    {
+        "level": 33,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 36,
+        "move": "ENCORE"
+    },
+    {
+        "level": 41,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 44,
+        "move": "RETALIATE"
+    },
+    {
+        "level": 49,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 52,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "24.5",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Discipline",
+    "Pokedex": "Scalchop techniques differ from one Dewott to another. It never neglects maintaining its scalchops.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SAMUROTT",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

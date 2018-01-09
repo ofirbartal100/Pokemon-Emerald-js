@@ -1,0 +1,91 @@
+{
+    "ID": 346,
+    "Name": "Cradily",
+    "InternalName": "CRADILY",
+    "Type1": "ROCK",
+    "Type2": "GRASS",
+    "BaseStats": [86, 81, 97, 43, 81, 107],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "SUCTIONCUPS",
+    "HiddenAbility": "STORMDRAIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 1,
+        "move": "ACID"
+    },
+    {
+        "level": 1,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 8,
+        "move": "ACID"
+    },
+    {
+        "level": 15,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 22,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 29,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 36,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 46,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 56,
+        "move": "ENERGYBALL"
+    },
+    {
+        "level": 66,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 66,
+        "move": "SPITUP"
+    },
+    {
+        "level": 66,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 76,
+        "move": "WRINGOUT"
+    }],
+    "Compatibility": ["Water3"],
+    "StepsToHatch": "7905",
+    "Height": "1.5",
+    "Weight": "60.4",
+    "Color": "Green",
+    "Shape": "5",
+    "Habitat": "Sea",
+    "Kind": "Barnacle",
+    "Pokedex": "It drags its heavy body along the seafloor. It makes its nest in the shallows of warm seas. Cradily can be seen on beaches when the tide goes out.",
+    "WildItemUncommon": "BIGROOT",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "5",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

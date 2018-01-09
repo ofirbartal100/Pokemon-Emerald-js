@@ -1,0 +1,105 @@
+{
+    "ID": 572,
+    "Name": "Minccino",
+    "InternalName": "MINCCINO",
+    "Type1": "NORMAL",
+    "BaseStats": [55, 50, 40, 75, 40, 40],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["CUTECHARM","TECHNICIAN"],
+    "HiddenAbility": "SKILLLINK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 3,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 9,
+        "move": "TICKLE"
+    },
+    {
+        "level": 13,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 15,
+        "move": "ENCORE"
+    },
+    {
+        "level": 19,
+        "move": "SWIFT"
+    },
+    {
+        "level": 21,
+        "move": "SING"
+    },
+    {
+        "level": 25,
+        "move": "TAILSLAP"
+    },
+    {
+        "level": 27,
+        "move": "CHARM"
+    },
+    {
+        "level": 31,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 33,
+        "move": "ECHOEDVOICE"
+    },
+    {
+        "level": 37,
+        "move": "SLAM"
+    },
+    {
+        "level": 39,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 43,
+        "move": "HYPERVOICE"
+    },
+    {
+        "level": 45,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 49,
+        "move": "AFTERYOU"
+    }],
+    "EggMoves": ["AQUATAIL", "ENDURE", "FAKETEARS", "FLAIL", "IRONTAIL", "KNOCKOFF", "MUDSLAP", "SLEEPTALK", "TAILWHIP"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.4",
+    "Weight": "5.8",
+    "Color": "Gray",
+    "Shape": "8",
+    "Kind": "Chinchilla",
+    "Pokedex": "These Pokémon prefer a tidy habitat. They are always sweeping and dusting, using their tails as brooms.",
+    "WildItemCommon": "CHESTOBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CINCCINO",
+        "by":
+        {
+            "Item": "SHINYSTONE"
+        }
+    }]
+}

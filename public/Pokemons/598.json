@@ -1,0 +1,105 @@
+{
+    "ID": 598,
+    "Name": "Ferrothorn",
+    "InternalName": "FERROTHORN",
+    "Type1": "GRASS",
+    "Type2": "STEEL",
+    "BaseStats": [74, 94, 131, 20, 54, 116],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "171",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": "IRONBARBS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ROCKCLIMB"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 1,
+        "move": "CURSE"
+    },
+    {
+        "level": 6,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 9,
+        "move": "CURSE"
+    },
+    {
+        "level": 14,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 18,
+        "move": "PINMISSILE"
+    },
+    {
+        "level": 21,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 26,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 30,
+        "move": "MIRRORSHOT"
+    },
+    {
+        "level": 35,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 38,
+        "move": "SELFDESTRUCT"
+    },
+    {
+        "level": 40,
+        "move": "POWERWHIP"
+    },
+    {
+        "level": 46,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 53,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 61,
+        "move": "FLASHCANNON"
+    },
+    {
+        "level": 67,
+        "move": "EXPLOSION"
+    }],
+    "Compatibility": ["Grass", "Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "110.0",
+    "Color": "Gray",
+    "Shape": "10",
+    "Kind": "Thorn Pod",
+    "Pokedex": "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
+    "WildItemUncommon": "STICKYBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "32",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

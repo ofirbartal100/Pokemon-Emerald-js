@@ -1,0 +1,112 @@
+{
+    "ID": 499,
+    "Name": "Pignite",
+    "InternalName": "PIGNITE",
+    "Type1": "FIRE",
+    "Type2": "FIGHTING",
+    "BaseStats": [90, 93, 55, 55, 70, 55],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "146",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "THICKFAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 1,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 3,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 7,
+        "move": "EMBER"
+    },
+    {
+        "level": 9,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 13,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 15,
+        "move": "FLAMECHARGE"
+    },
+    {
+        "level": 17,
+        "move": "ARMTHRUST"
+    },
+    {
+        "level": 20,
+        "move": "SMOG"
+    },
+    {
+        "level": 23,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 28,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 31,
+        "move": "HEATCRASH"
+    },
+    {
+        "level": 36,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 39,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 44,
+        "move": "HEADSMASH"
+    },
+    {
+        "level": 47,
+        "move": "ROAR"
+    },
+    {
+        "level": 52,
+        "move": "FLAREBLITZ"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "55.5",
+    "Color": "Red",
+    "Shape": "6",
+    "Kind": "Fire Pig",
+    "Pokedex": "Whatever it eats becomes fuel for the flame in its stomach. When it is angered, the intensity of the flame increases.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "EMBOAR",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

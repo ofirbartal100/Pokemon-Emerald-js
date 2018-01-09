@@ -1,0 +1,98 @@
+{
+    "ID": 513,
+    "Name": "Pansear",
+    "InternalName": "PANSEAR",
+    "Type1": "FIRE",
+    "BaseStats": [50, 53, 48, 64, 53, 48],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "63",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "GLUTTONY",
+    "HiddenAbility": "BLAZE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 4,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "LICK"
+    },
+    {
+        "level": 10,
+        "move": "INCINERATE"
+    },
+    {
+        "level": 13,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 16,
+        "move": "YAWN"
+    },
+    {
+        "level": 19,
+        "move": "BITE"
+    },
+    {
+        "level": 22,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 25,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 28,
+        "move": "FLING"
+    },
+    {
+        "level": 31,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 34,
+        "move": "FIREBLAST"
+    },
+    {
+        "level": 37,
+        "move": "RECYCLE"
+    },
+    {
+        "level": 40,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 43,
+        "move": "CRUNCH"
+    }],
+    "EggMoves": ["ASTONISH", "COVET", "FIREPUNCH", "FIRESPIN", "HEATWAVE", "LOWKICK", "NASTYPLOT", "ROLEPLAY", "SLEEPTALK", "TICKLE"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "11.0",
+    "Color": "Red",
+    "Shape": "6",
+    "Kind": "High Temp",
+    "Pokedex": "This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600º F.",
+    "WildItemCommon": "ORANBERRY",
+    "WildItemUncommon": "PASSHOBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "29",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SIMISEAR",
+        "by":
+        {
+            "Item": "FIRESTONE"
+        }
+    }]
+}

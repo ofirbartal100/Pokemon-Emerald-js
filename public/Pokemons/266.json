@@ -1,0 +1,43 @@
+{
+    "ID": 266,
+    "Name": "Silcoon",
+    "InternalName": "SILCOON",
+    "Type1": "BUG",
+    "BaseStats": [50, 35, 55, 15, 25, 25],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "72",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "SHEDSKIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "HARDEN"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.6",
+    "Weight": "10.0",
+    "Color": "White",
+    "Shape": "1",
+    "Habitat": "Forest",
+    "Kind": "Cocoon",
+    "Pokedex": "It prepares for evolution using the energy it stored while it was a Wurmple. It keeps watch over the surroundings with its two eyes.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BEAUTIFLY",
+        "by":
+        {
+            "Level": 10
+        }
+    }]
+}

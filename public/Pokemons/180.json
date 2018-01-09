@@ -1,0 +1,105 @@
+{
+    "ID": 180,
+    "Name": "Flaaffy",
+    "InternalName": "FLAAFFY",
+    "Type1": "ELECTRIC",
+    "BaseStats": [70, 55, 55, 45, 80, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "128",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "STATIC",
+    "HiddenAbility": "PLUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 4,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 8,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 11,
+        "move": "COTTONSPORE"
+    },
+    {
+        "level": 16,
+        "move": "CHARGE"
+    },
+    {
+        "level": 20,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 25,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 29,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 34,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 38,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 43,
+        "move": "COTTONGUARD"
+    },
+    {
+        "level": 47,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 52,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 56,
+        "move": "THUNDER"
+    }],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "13.3",
+    "Color": "Pink",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 54],
+    "Kind": "Wool",
+    "Pokedex": "Its fleece quality changes to generate strong static electricity with a small amount of wool. The bare, slick parts of its hide are shielded against electricity.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "AMPHAROS",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

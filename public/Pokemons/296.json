@@ -1,0 +1,105 @@
+{
+    "ID": 296,
+    "Name": "Makuhita",
+    "InternalName": "MAKUHITA",
+    "Type1": "FIGHTING",
+    "BaseStats": [72, 60, 30, 25, 20, 30],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Fluctuating",
+    "BaseEXP": "47",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "180",
+    "Happiness": "70",
+    "Abilities": ["THICKFAT","GUTS"],
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 4,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 7,
+        "move": "ARMTHRUST"
+    },
+    {
+        "level": 10,
+        "move": "VITALTHROW"
+    },
+    {
+        "level": 13,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 16,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 19,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 22,
+        "move": "SMELLINGSALTS"
+    },
+    {
+        "level": 25,
+        "move": "BELLYDRUM"
+    },
+    {
+        "level": 28,
+        "move": "FORCEPALM"
+    },
+    {
+        "level": 31,
+        "move": "SEISMICTOSS"
+    },
+    {
+        "level": 34,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 37,
+        "move": "ENDURE"
+    },
+    {
+        "level": 40,
+        "move": "CLOSECOMBAT"
+    },
+    {
+        "level": 43,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 46,
+        "move": "HEAVYSLAM"
+    }],
+    "EggMoves": ["BULLETPUNCH", "CHIPAWAY", "COUNTER", "CROSSCHOP", "DETECT", "DYNAMICPUNCH", "FEINTATTACK", "FEINT", "FOCUSPUNCH", "FORESIGHT", "HELPINGHAND", "REVENGE", "WAKEUPSLAP", "WIDEGUARD"],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "86.4",
+    "Color": "Yellow",
+    "Shape": "12",
+    "Habitat": "Mountain",
+    "Kind": "Guts",
+    "Pokedex": "It loves to toughen up its body above all else. If you hear quaking rumbles in a cave, it is the sound of Makuhita undertaking strenuous training.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "HARIYAMA",
+        "by":
+        {
+            "Level": 24
+        }
+    }]
+}

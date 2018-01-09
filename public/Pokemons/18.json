@@ -1,0 +1,99 @@
+{
+    "ID": 18,
+    "Name": "Pidgeot",
+    "InternalName": "PIDGEOT",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [83, 80, 75, 91, 70, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "211",
+    "EffortPoints": [0, 0, 0, 3, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["KEENEYE","TANGLEDFEET"],
+    "HiddenAbility": "BIGPECKS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 5,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "GUST"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 17,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 22,
+        "move": "TWISTER"
+    },
+    {
+        "level": 27,
+        "move": "FEATHERDANCE"
+    },
+    {
+        "level": 32,
+        "move": "AGILITY"
+    },
+    {
+        "level": 38,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 44,
+        "move": "ROOST"
+    },
+    {
+        "level": 50,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 56,
+        "move": "MIRRORMOVE"
+    },
+    {
+        "level": 62,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 68,
+        "move": "HURRICANE"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "1.5",
+    "Weight": "39.5",
+    "Color": "Brown",
+    "Shape": "9",
+    "Habitat": "Forest",
+    "RegionalNumbers": [18, 12],
+    "Kind": "Bird",
+    "Pokedex": "This Pokémon has gorgeous, glossy feathers. Many trainers are so captivated by the beautiful feathers on its head that they choose Pidgeot as their Pokémon.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "8",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

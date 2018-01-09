@@ -1,0 +1,95 @@
+{
+    "ID": 357,
+    "Name": "Tropius",
+    "InternalName": "TROPIUS",
+    "Type1": "GRASS",
+    "Type2": "FLYING",
+    "BaseStats": [99, 68, 83, 51, 72, 87],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "161",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","SOLARPOWER"],
+    "HiddenAbility": "HARVEST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 7,
+        "move": "GROWTH"
+    },
+    {
+        "level": 11,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 17,
+        "move": "STOMP"
+    },
+    {
+        "level": 21,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 27,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 31,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 37,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 41,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 47,
+        "move": "LEAFTORNADO"
+    },
+    {
+        "level": 51,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 57,
+        "move": "BESTOW"
+    },
+    {
+        "level": 61,
+        "move": "SOLARBEAM"
+    },
+    {
+        "level": 67,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 71,
+        "move": "LEAFSTORM"
+    }],
+    "EggMoves": ["BULLETSEED", "CURSE", "DRAGONDANCE", "HEADBUTT", "LEAFBLADE", "LEAFSTORM", "LEECHSEED", "NATURALGIFT", "NATUREPOWER", "RAZORWIND", "SLAM", "SYNTHESIS"],
+    "Compatibility": ["Monster", "Grass"],
+    "StepsToHatch": "6630",
+    "Height": "2.0",
+    "Weight": "100.0",
+    "Color": "Green",
+    "Shape": "8",
+    "Habitat": "Forest",
+    "Kind": "Fruit",
+    "Pokedex": "It flies by flapping its broad leaves. The bunch of fruit that grows around its neck is deliciously sweet. In the spring, it scatters pollen from its neck.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "4",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

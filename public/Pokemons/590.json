@@ -1,0 +1,100 @@
+{
+    "ID": 590,
+    "Name": "Foongus",
+    "InternalName": "FOONGUS",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": [69, 55, 45, 15, 55, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "59",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "EFFECTSPORE",
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 6,
+        "move": "GROWTH"
+    },
+    {
+        "level": 8,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 12,
+        "move": "BIDE"
+    },
+    {
+        "level": 15,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 18,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 20,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 24,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 28,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 32,
+        "move": "TOXIC"
+    },
+    {
+        "level": 35,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 39,
+        "move": "CLEARSMOG"
+    },
+    {
+        "level": 43,
+        "move": "SOLARBEAM"
+    },
+    {
+        "level": 45,
+        "move": "RAGEPOWDER"
+    },
+    {
+        "level": 50,
+        "move": "SPORE"
+    }],
+    "EggMoves": ["BODYSLAM", "DEFENSECURL", "ENDURE", "GASTROACID", "GROWTH", "POISONPOWDER", "ROLLOUT", "STUNSPORE"],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.2",
+    "Weight": "1.0",
+    "Color": "White",
+    "Shape": "4",
+    "Kind": "Mushroom",
+    "Pokedex": "For some reason, this Pokémon resembles a Poké Ball. They release poison spores to repel those who try to catch them.",
+    "WildItemCommon": "TINYMUSHROOM",
+    "WildItemUncommon": "BIGMUSHROOM",
+    "WildItemRare": "BALMMUSHROOM",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "34",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "AMOONGUSS",
+        "by":
+        {
+            "Level": 39
+        }
+    }]
+}

@@ -1,0 +1,101 @@
+{
+    "ID": 222,
+    "Name": "Corsola",
+    "InternalName": "CORSOLA",
+    "Type1": "WATER",
+    "Type2": "ROCK",
+    "BaseStats": [55, 55, 85, 35, 65, 85],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "133",
+    "EffortPoints": [0, 0, 1, 0, 0, 1],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["HUSTLE","NATURALCURE"],
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "HARDEN"
+    },
+    {
+        "level": 8,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 10,
+        "move": "RECOVER"
+    },
+    {
+        "level": 13,
+        "move": "REFRESH"
+    },
+    {
+        "level": 17,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 20,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 23,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 27,
+        "move": "SPIKECANNON"
+    },
+    {
+        "level": 29,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 31,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 35,
+        "move": "ENDURE"
+    },
+    {
+        "level": 38,
+        "move": "AQUARING"
+    },
+    {
+        "level": 41,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 45,
+        "move": "MIRRORCOAT"
+    },
+    {
+        "level": 47,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 52,
+        "move": "FLAIL"
+    }],
+    "EggMoves": ["AMNESIA", "AQUARING", "BARRIER", "BIDE", "CONFUSERAY", "CURSE", "HEADSMASH", "ICICLESPEAR", "INGRAIN", "MIST", "NATUREPOWER", "SCREECH", "WATERPULSE"],
+    "Compatibility": ["Water1", "Water3"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "5.0",
+    "Color": "Pink",
+    "Shape": "14",
+    "Habitat": "Sea",
+    "RegionalNumbers": [0, 173],
+    "Kind": "Coral",
+    "Pokedex": "Corsola live in warm southern seas. If the sea becomes polluted, the beautiful coral stalks become discolored and crumble away in tatters.",
+    "WildItemUncommon": "HARDSTONE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

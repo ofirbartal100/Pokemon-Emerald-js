@@ -59,9 +59,13 @@ export default class Walk extends Trait {
     }
 
     cancel(direction) {
-        let popIndex = this.queue.indexOf(direction)
-        if (popIndex >= 0) {
-            this.queue.splice(popIndex, 1)
+        if (direction) {
+            let popIndex = this.queue.indexOf(direction)
+            if (popIndex >= 0) {
+                this.queue.splice(popIndex, 1)
+            }
+        } else {
+            Directions.map(this.cancel,this)
         }
 
         this.halt = true

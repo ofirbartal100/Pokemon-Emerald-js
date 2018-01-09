@@ -1,0 +1,94 @@
+{
+    "ID": 263,
+    "Name": "Zigzagoon",
+    "InternalName": "ZIGZAGOON",
+    "Type1": "NORMAL",
+    "BaseStats": [38, 30, 41, 60, 30, 41],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "48",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["PICKUP","GLUTTONY"],
+    "HiddenAbility": "QUICKFEET",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 5,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 9,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 13,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 17,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 21,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 25,
+        "move": "PINMISSILE"
+    },
+    {
+        "level": 29,
+        "move": "COVET"
+    },
+    {
+        "level": 33,
+        "move": "BESTOW"
+    },
+    {
+        "level": 37,
+        "move": "FLAIL"
+    },
+    {
+        "level": 41,
+        "move": "REST"
+    },
+    {
+        "level": 45,
+        "move": "BELLYDRUM"
+    },
+    {
+        "level": 49,
+        "move": "FLING"
+    }],
+    "EggMoves": ["CHARM", "HELPINGHAND", "MUDSLAP", "PURSUIT", "ROCKCLIMB", "SIMPLEBEAM", "SLEEPTALK", "TICKLE", "TRICK"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.4",
+    "Weight": "17.5",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "Kind": "TinyRaccoon",
+    "Pokedex": "Rubbing its nose against the ground, it always wanders about back and forth in search of something. It is distinguished by the zigzag footprints it leaves.",
+    "WildItemUncommon": "ORANBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "LINOONE",
+        "by":
+        {
+            "Level": 20
+        }
+    }]
+}

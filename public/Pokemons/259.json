@@ -1,0 +1,97 @@
+{
+    "ID": 259,
+    "Name": "Marshtomp",
+    "InternalName": "MARSHTOMP",
+    "Type1": "WATER",
+    "Type2": "GROUND",
+    "BaseStats": [70, 85, 70, 50, 60, 70],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "DAMP",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 6,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 10,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 15,
+        "move": "BIDE"
+    },
+    {
+        "level": 16,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 20,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 25,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 31,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 37,
+        "move": "MUDDYWATER"
+    },
+    {
+        "level": 42,
+        "move": "PROTECT"
+    },
+    {
+        "level": 46,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 53,
+        "move": "ENDEAVOR"
+    }],
+    "Compatibility": ["Monster", "Water1"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "28.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "Kind": "Mud Fish",
+    "Pokedex": "Its toughened hind legs enable it to stand upright. Because it weakens if its skin dries out, it replenishes fluids by playing in mud.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SWAMPERT",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

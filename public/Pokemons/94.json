@@ -1,0 +1,98 @@
+{
+    "ID": 94,
+    "Name": "Gengar",
+    "InternalName": "GENGAR",
+    "Type1": "GHOST",
+    "Type2": "POISON",
+    "BaseStats": [60, 65, 60, 110, 130, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "225",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 1,
+        "move": "LICK"
+    },
+    {
+        "level": 1,
+        "move": "SPITE"
+    },
+    {
+        "level": 5,
+        "move": "SPITE"
+    },
+    {
+        "level": 8,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 12,
+        "move": "CURSE"
+    },
+    {
+        "level": 15,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 19,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 22,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 25,
+        "move": "SHADOWPUNCH"
+    },
+    {
+        "level": 28,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 33,
+        "move": "SHADOWBALL"
+    },
+    {
+        "level": 39,
+        "move": "DREAMEATER"
+    },
+    {
+        "level": 44,
+        "move": "DARKPULSE"
+    },
+    {
+        "level": 50,
+        "move": "DESTINYBOND"
+    },
+    {
+        "level": 55,
+        "move": "HEX"
+    },
+    {
+        "level": 61,
+        "move": "NIGHTMARE"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "40.5",
+    "Color": "Purple",
+    "Shape": "6",
+    "Habitat": "Cave",
+    "RegionalNumbers": [94, 60],
+    "Kind": "Shadow",
+    "Pokedex": "Deep in the night, your shadow cast by a streetlight may suddenly overtake you. It is actually a Gengar running past you, pretending to be your shadow.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

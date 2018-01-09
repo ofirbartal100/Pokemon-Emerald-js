@@ -1,0 +1,102 @@
+{
+    "ID": 23,
+    "Name": "Ekans",
+    "InternalName": "EKANS",
+    "Type1": "POISON",
+    "BaseStats": [35, 60, 44, 55, 40, 54],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "58",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","SHEDSKIN"],
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WRAP"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 4,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 9,
+        "move": "BITE"
+    },
+    {
+        "level": 12,
+        "move": "GLARE"
+    },
+    {
+        "level": 17,
+        "move": "SCREECH"
+    },
+    {
+        "level": 20,
+        "move": "ACID"
+    },
+    {
+        "level": 25,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 25,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 25,
+        "move": "SPITUP"
+    },
+    {
+        "level": 28,
+        "move": "ACIDSPRAY"
+    },
+    {
+        "level": 33,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 36,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 41,
+        "move": "HAZE"
+    },
+    {
+        "level": 44,
+        "move": "COIL"
+    },
+    {
+        "level": 49,
+        "move": "GUNKSHOT"
+    }],
+    "EggMoves": ["BEATUP", "DISABLE", "IRONTAIL", "POISONFANG", "POISONTAIL", "PURSUIT", "SCARYFACE", "SLAM", "SNATCH", "SPITE", "SUCKERPUNCH", "SWITCHEROO"],
+    "Compatibility": ["Field", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "2.0",
+    "Weight": "6.9",
+    "Color": "Purple",
+    "Shape": "2",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [23, 50],
+    "Kind": "Snake",
+    "Pokedex": "An Ekans curls itself up in a spiral while it rests. This position allows it to quickly respond to an enemy from any direction with a threat from its upraised head.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ARBOK",
+        "by":
+        {
+            "Level": 22
+        }
+    }]
+}

@@ -1,0 +1,100 @@
+{
+    "ID": 532,
+    "Name": "Timburr",
+    "InternalName": "TIMBURR",
+    "Type1": "FIGHTING",
+    "BaseStats": [75, 80, 55, 35, 25, 35],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "180",
+    "Happiness": "70",
+    "Abilities": ["GUTS","SHEERFORCE"],
+    "HiddenAbility": "IRONFIST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 4,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 8,
+        "move": "BIDE"
+    },
+    {
+        "level": 12,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 16,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 20,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 24,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 28,
+        "move": "BULKUP"
+    },
+    {
+        "level": 31,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 34,
+        "move": "DYNAMICPUNCH"
+    },
+    {
+        "level": 37,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 40,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 43,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 46,
+        "move": "FOCUSPUNCH"
+    },
+    {
+        "level": 49,
+        "move": "SUPERPOWER"
+    }],
+    "EggMoves": ["COMETPUNCH", "COUNTER", "DETECT", "DRAINPUNCH", "ENDURE", "FORCEPALM", "FORESIGHT", "MACHPUNCH", "REVERSAL", "SMELLINGSALTS", "WIDEGUARD"],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "12.5",
+    "Color": "Gray",
+    "Shape": "12",
+    "Kind": "Muscular",
+    "Pokedex": "These Pokémon appear at building sites and help out with construction. They always carry squared logs.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "31",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GURDURR",
+        "by":
+        {
+            "Level": 25
+        }
+    }]
+}

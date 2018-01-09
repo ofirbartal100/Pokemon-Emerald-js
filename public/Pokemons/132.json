@@ -1,0 +1,36 @@
+{
+    "ID": 132,
+    "Name": "Ditto",
+    "InternalName": "DITTO",
+    "Type1": "NORMAL",
+    "BaseStats": [48, 48, 48, 48, 48, 48],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "101",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "35",
+    "Happiness": "70",
+    "Abilities": "LIMBER",
+    "HiddenAbility": "IMPOSTER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TRANSFORM"
+    }],
+    "Compatibility": ["Ditto"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "4.0",
+    "Color": "Purple",
+    "Shape": "1",
+    "Habitat": "Urban",
+    "RegionalNumbers": [132, 92],
+    "Kind": "Transform",
+    "Pokedex": "A Ditto rearranges its cell structure to transform itself. However, if it tries to change based on its memory, it will get details wrong.",
+    "WildItemCommon": "QUICKPOWDER",
+    "WildItemUncommon": "METALPOWDER",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "30",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,85 @@
+{
+    "ID": 417,
+    "Name": "Pachirisu",
+    "InternalName": "PACHIRISU",
+    "Type1": "ELECTRIC",
+    "BaseStats": [60, 45, 70, 95, 45, 90],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "200",
+    "Happiness": "100",
+    "Abilities": ["RUNAWAY","PICKUP"],
+    "HiddenAbility": "VOLTABSORB",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "BIDE"
+    },
+    {
+        "level": 5,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 9,
+        "move": "CHARM"
+    },
+    {
+        "level": 13,
+        "move": "SPARK"
+    },
+    {
+        "level": 17,
+        "move": "ENDURE"
+    },
+    {
+        "level": 21,
+        "move": "SWIFT"
+    },
+    {
+        "level": 25,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 29,
+        "move": "SWEETKISS"
+    },
+    {
+        "level": 33,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 37,
+        "move": "SUPERFANG"
+    },
+    {
+        "level": 41,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 45,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 49,
+        "move": "HYPERFANG"
+    }],
+    "EggMoves": ["BESTOW", "BITE", "CHARGE", "COVET", "DEFENSECURL", "FAKETEARS", "FLAIL", "FLATTER", "FOLLOWME", "IRONTAIL", "ROLLOUT", "TAILWHIP"],
+    "Compatibility": ["Field", "Fairy"],
+    "StepsToHatch": "2805",
+    "Height": "0.4",
+    "Weight": "3.9",
+    "Color": "White",
+    "Shape": "8",
+    "Kind": "EleSquirrel",
+    "Pokedex": "It makes fur balls that crackle with static electricity. It stores them with berries in tree holes.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

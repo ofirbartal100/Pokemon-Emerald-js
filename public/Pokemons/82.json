@@ -1,0 +1,124 @@
+{
+    "ID": 82,
+    "Name": "Magneton",
+    "InternalName": "MAGNETON",
+    "Type1": "ELECTRIC",
+    "Type2": "STEEL",
+    "BaseStats": [50, 60, 95, 70, 120, 70],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "163",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["MAGNETPULL","STURDY"],
+    "HiddenAbility": "ANALYTIC",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TRIATTACK"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 1,
+        "move": "SONICBOOM"
+    },
+    {
+        "level": 4,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 7,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 11,
+        "move": "SONICBOOM"
+    },
+    {
+        "level": 15,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 18,
+        "move": "MAGNETBOMB"
+    },
+    {
+        "level": 21,
+        "move": "SPARK"
+    },
+    {
+        "level": 25,
+        "move": "MIRRORSHOT"
+    },
+    {
+        "level": 29,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 34,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 39,
+        "move": "FLASHCANNON"
+    },
+    {
+        "level": 45,
+        "move": "SCREECH"
+    },
+    {
+        "level": 51,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 56,
+        "move": "LOCKON"
+    },
+    {
+        "level": 62,
+        "move": "MAGNETRISE"
+    },
+    {
+        "level": 67,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 73,
+        "move": "ZAPCANNON"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "60.0",
+    "Color": "Gray",
+    "Shape": "11",
+    "Habitat": "RoughTerrain",
+    "RegionalNumbers": [82, 120],
+    "Kind": "Magnet",
+    "Pokedex": "It is actually three Magnemite linked by magnetism. It generates powerful radio waves that raise temperatures by 3.6 degrees F within a 3,300-foot radius.",
+    "WildItemUncommon": "METALCOAT",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "11",
+    "Evolutions": ["MAGNEZONE", "Location",
+    {
+        "level": 49,
+        "move": "MAGNEZONE"
+    }, "Location",
+    {
+        "level": 50,
+        "move": "MAGNEZONE"
+    }, "Location", 51]
+}

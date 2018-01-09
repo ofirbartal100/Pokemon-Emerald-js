@@ -1,0 +1,101 @@
+{
+    "ID": 466,
+    "Name": "Electivire",
+    "InternalName": "ELECTIVIRE",
+    "Type1": "ELECTRIC",
+    "BaseStats": [75, 123, 67, 95, 95, 85],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "243",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "MOTORDRIVE",
+    "HiddenAbility": "VITALSPIRIT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 1,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 5,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 8,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 12,
+        "move": "SWIFT"
+    },
+    {
+        "level": 15,
+        "move": "SHOCKWAVE"
+    },
+    {
+        "level": 19,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 22,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 26,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 29,
+        "move": "THUNDERPUNCH"
+    },
+    {
+        "level": 36,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 42,
+        "move": "SCREECH"
+    },
+    {
+        "level": 49,
+        "move": "THUNDERBOLT"
+    },
+    {
+        "level": 55,
+        "move": "THUNDER"
+    },
+    {
+        "level": 62,
+        "move": "GIGAIMPACT"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "6630",
+    "Height": "1.8",
+    "Weight": "138.6",
+    "Color": "Yellow",
+    "Shape": "6",
+    "Kind": "Thunderbolt",
+    "Pokedex": "It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.",
+    "WildItemUncommon": "ELECTIRIZER",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

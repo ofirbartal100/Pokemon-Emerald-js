@@ -1,0 +1,90 @@
+{
+    "ID": 539,
+    "Name": "Sawk",
+    "InternalName": "SAWK",
+    "Type1": "FIGHTING",
+    "BaseStats": [75, 125, 75, 85, 30, 75],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "163",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["STURDY","INNERFOCUS"],
+    "HiddenAbility": "MOLDBREAKER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ROCKSMASH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "BIDE"
+    },
+    {
+        "level": 9,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 13,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 17,
+        "move": "LOWSWEEP"
+    },
+    {
+        "level": 21,
+        "move": "COUNTER"
+    },
+    {
+        "level": 25,
+        "move": "KARATECHOP"
+    },
+    {
+        "level": 29,
+        "move": "BRICKBREAK"
+    },
+    {
+        "level": 33,
+        "move": "BULKUP"
+    },
+    {
+        "level": 37,
+        "move": "RETALIATE"
+    },
+    {
+        "level": 41,
+        "move": "ENDURE"
+    },
+    {
+        "level": 45,
+        "move": "QUICKGUARD"
+    },
+    {
+        "level": 49,
+        "move": "CLOSECOMBAT"
+    },
+    {
+        "level": 53,
+        "move": "REVERSAL"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "51.0",
+    "Color": "Blue",
+    "Shape": "12",
+    "Kind": "Karate",
+    "Pokedex": "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
+    "WildItemUncommon": "BLACKBELT",
+    "WildItemRare": "BLACKBELT",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

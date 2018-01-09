@@ -1,0 +1,107 @@
+{
+    "ID": 533,
+    "Name": "Gurdurr",
+    "InternalName": "GURDURR",
+    "Type1": "FIGHTING",
+    "BaseStats": [85, 105, 85, 40, 40, 50],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["GUTS","SHEERFORCE"],
+    "HiddenAbility": "IRONFIST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "BIDE"
+    },
+    {
+        "level": 4,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 8,
+        "move": "BIDE"
+    },
+    {
+        "level": 12,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 16,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 20,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 24,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 29,
+        "move": "BULKUP"
+    },
+    {
+        "level": 33,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 37,
+        "move": "DYNAMICPUNCH"
+    },
+    {
+        "level": 41,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 45,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 49,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 53,
+        "move": "FOCUSPUNCH"
+    },
+    {
+        "level": 57,
+        "move": "SUPERPOWER"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "40.0",
+    "Color": "Gray",
+    "Shape": "12",
+    "Kind": "Muscular",
+    "Pokedex": "They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CONKELDURR",
+        "by":
+        {
+            "Trade": "Trade"
+        }
+    }]
+}

@@ -1,0 +1,102 @@
+{
+    "ID": 568,
+    "Name": "Trubbish",
+    "InternalName": "TRUBBISH",
+    "Type1": "POISON",
+    "BaseStats": [50, 50, 62, 65, 40, 62],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["STENCH","STICKYHOLD"],
+    "HiddenAbility": "AFTERMATH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 3,
+        "move": "RECYCLE"
+    },
+    {
+        "level": 7,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 12,
+        "move": "ACIDSPRAY"
+    },
+    {
+        "level": 14,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 18,
+        "move": "SLUDGE"
+    },
+    {
+        "level": 23,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 23,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 25,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 29,
+        "move": "SLUDGEBOMB"
+    },
+    {
+        "level": 34,
+        "move": "CLEARSMOG"
+    },
+    {
+        "level": 36,
+        "move": "TOXIC"
+    },
+    {
+        "level": 40,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 45,
+        "move": "GUNKSHOT"
+    },
+    {
+        "level": 47,
+        "move": "EXPLOSION"
+    }],
+    "EggMoves": ["CURSE", "HAZE", "MUDSPORT", "ROCKBLAST", "ROLLOUT", "SANDATTACK", "SELFDESTRUCT", "SPIKES"],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "31.0",
+    "Color": "Green",
+    "Shape": "12",
+    "Kind": "Trash Bag",
+    "Pokedex": "The combination of garbage bags and industrial waste caused the chemical reaction that crated this Pokémon.",
+    "WildItemUncommon": "BLACKSLUDGE",
+    "WildItemRare": "NUGGET",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "32",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GARBODOR",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

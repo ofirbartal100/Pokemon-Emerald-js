@@ -1,0 +1,105 @@
+{
+    "ID": 61,
+    "Name": "Poliwhirl",
+    "InternalName": "POLIWHIRL",
+    "Type1": "WATER",
+    "BaseStats": [65, 65, 65, 90, 50, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "135",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["WATERABSORB","DAMP"],
+    "HiddenAbility": "SWIFTSWIM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 5,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 8,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 11,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 15,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 18,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 21,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 27,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 32,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 37,
+        "move": "BELLYDRUM"
+    },
+    {
+        "level": 43,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 48,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 53,
+        "move": "MUDBOMB"
+    }],
+    "Compatibility": ["Water1"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "20.0",
+    "Color": "Blue",
+    "Shape": "12",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [61, 73],
+    "Kind": "Tadpole",
+    "Pokedex": "Its body surface is always wet and slick with an oily fluid. Because of this greasy covering, it can easily slip and slide out of the clutches of any enemy in battle.",
+    "WildItemUncommon": "KINGSROCK",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "POLIWRATH",
+        "by":
+        {
+            "Item": "WATERSTONE"
+        }
+    },
+    {
+        "to": "POLITOED",
+        "by":
+        {
+            "TradeItem": "KINGSROCK"
+        }
+    }]
+}

@@ -1,0 +1,104 @@
+{
+    "ID": 73,
+    "Name": "Tentacruel",
+    "InternalName": "TENTACRUEL",
+    "Type1": "WATER",
+    "Type2": "POISON",
+    "BaseStats": [80, 70, 65, 100, 80, 120],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "180",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["CLEARBODY","LIQUIDOOZE"],
+    "HiddenAbility": "RAINDISH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 1,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 5,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 8,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 12,
+        "move": "ACID"
+    },
+    {
+        "level": 15,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 19,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 22,
+        "move": "WRAP"
+    },
+    {
+        "level": 26,
+        "move": "ACIDSPRAY"
+    },
+    {
+        "level": 29,
+        "move": "BARRIER"
+    },
+    {
+        "level": 34,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 38,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 43,
+        "move": "SCREECH"
+    },
+    {
+        "level": 47,
+        "move": "HEX"
+    },
+    {
+        "level": 52,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 56,
+        "move": "SLUDGEWAVE"
+    },
+    {
+        "level": 61,
+        "move": "WRINGOUT"
+    }],
+    "Compatibility": ["Water3"],
+    "StepsToHatch": "5355",
+    "Height": "1.6",
+    "Weight": "55.0",
+    "Color": "Blue",
+    "Shape": "10",
+    "Habitat": "Sea",
+    "RegionalNumbers": [73, 165],
+    "Kind": "Jellyfish",
+    "Pokedex": "It lives in complex rock formations on the ocean floor and traps prey using its 80 tentacles. Its red orbs glow when it grows excited or agitated.",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "7",
+    "Evolutions": []
+}

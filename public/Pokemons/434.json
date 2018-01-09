@@ -1,0 +1,90 @@
+{
+    "ID": 434,
+    "Name": "Stunky",
+    "InternalName": "STUNKY",
+    "Type1": "POISON",
+    "Type2": "DARK",
+    "BaseStats": [63, 63, 47, 74, 41, 41],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "225",
+    "Happiness": "70",
+    "Abilities": ["STENCH","AFTERMATH"],
+    "HiddenAbility": "KEENEYE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 4,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 7,
+        "move": "SCREECH"
+    },
+    {
+        "level": 10,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 14,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 18,
+        "move": "FEINT"
+    },
+    {
+        "level": 22,
+        "move": "SLASH"
+    },
+    {
+        "level": 27,
+        "move": "TOXIC"
+    },
+    {
+        "level": 32,
+        "move": "ACIDSPRAY"
+    },
+    {
+        "level": 37,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 43,
+        "move": "MEMENTO"
+    },
+    {
+        "level": 49,
+        "move": "EXPLOSION"
+    }],
+    "EggMoves": ["ASTONISH", "CRUNCH", "DOUBLEEDGE", "FLAMEBURST", "FOULPLAY", "HAZE", "IRONTAIL", "LEER", "PUNISHMENT", "PURSUIT", "SCARYFACE", "SMOG"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "19.2",
+    "Color": "Purple",
+    "Shape": "8",
+    "Kind": "Skunk",
+    "Pokedex": "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
+    "WildItemUncommon": "PECHABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SKUNTANK",
+        "by":
+        {
+            "Level": 34
+        }
+    }]
+}

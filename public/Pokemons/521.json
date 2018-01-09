@@ -1,0 +1,101 @@
+{
+    "ID": 521,
+    "Name": "Unfezant",
+    "InternalName": "UNFEZANT",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [80, 105, 80, 93, 65, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "215",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["BIGPECKS","SUPERLUCK"],
+    "HiddenAbility": "RIVALRY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 8,
+        "move": "LEER"
+    },
+    {
+        "level": 11,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 15,
+        "move": "AIRCUTTER"
+    },
+    {
+        "level": 18,
+        "move": "ROOST"
+    },
+    {
+        "level": 23,
+        "move": "DETECT"
+    },
+    {
+        "level": 27,
+        "move": "TAUNT"
+    },
+    {
+        "level": 33,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 38,
+        "move": "RAZORWIND"
+    },
+    {
+        "level": 44,
+        "move": "FEATHERDANCE"
+    },
+    {
+        "level": 49,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 55,
+        "move": "FACADE"
+    },
+    {
+        "level": 60,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 66,
+        "move": "SKYATTACK"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "1.2",
+    "Weight": "29.0",
+    "Color": "Gray",
+    "Shape": "9",
+    "Kind": "Proud",
+    "Pokedex": "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,101 @@
+{
+    "ID": 554,
+    "Name": "Darumaka",
+    "InternalName": "DARUMAKA",
+    "Type1": "FIRE",
+    "BaseStats": [70, 90, 45, 50, 15, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "63",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "HUSTLE",
+    "HiddenAbility": "INNERFOCUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 3,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 6,
+        "move": "INCINERATE"
+    },
+    {
+        "level": 9,
+        "move": "RAGE"
+    },
+    {
+        "level": 11,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 14,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 17,
+        "move": "UPROAR"
+    },
+    {
+        "level": 19,
+        "move": "FACADE"
+    },
+    {
+        "level": 22,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 25,
+        "move": "WORKUP"
+    },
+    {
+        "level": 27,
+        "move": "THRASH"
+    },
+    {
+        "level": 30,
+        "move": "BELLYDRUM"
+    },
+    {
+        "level": 33,
+        "move": "FLAREBLITZ"
+    },
+    {
+        "level": 35,
+        "move": "TAUNT"
+    },
+    {
+        "level": 39,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 42,
+        "move": "OVERHEAT"
+    }],
+    "EggMoves": ["ENCORE", "ENDURE", "FLAMEWHEEL", "FOCUSENERGY", "FOCUSPUNCH", "HAMMERARM", "SLEEPTALK", "TAKEDOWN", "YAWN"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "37.5",
+    "Color": "Red",
+    "Shape": "12",
+    "Kind": "Zen Charm",
+    "Pokedex": "Darumaka's droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+    "WildItemCommon": "RAWSTBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "34",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "DARMANITAN",
+        "by":
+        {
+            "Level": 35
+        }
+    }]
+}

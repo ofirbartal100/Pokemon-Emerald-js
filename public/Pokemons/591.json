@@ -1,0 +1,104 @@
+{
+    "ID": 591,
+    "Name": "Amoonguss",
+    "InternalName": "AMOONGUSS",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": [114, 85, 70, 30, 85, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "162",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "EFFECTSPORE",
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 1,
+        "move": "GROWTH"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "BIDE"
+    },
+    {
+        "level": 6,
+        "move": "GROWTH"
+    },
+    {
+        "level": 8,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 12,
+        "move": "BIDE"
+    },
+    {
+        "level": 15,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 18,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 20,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 24,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 28,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 32,
+        "move": "TOXIC"
+    },
+    {
+        "level": 35,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 43,
+        "move": "CLEARSMOG"
+    },
+    {
+        "level": 49,
+        "move": "SOLARBEAM"
+    },
+    {
+        "level": 54,
+        "move": "RAGEPOWDER"
+    },
+    {
+        "level": 62,
+        "move": "SPORE"
+    }],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "10.5",
+    "Color": "White",
+    "Shape": "4",
+    "Kind": "Mushroom",
+    "Pokedex": "They show off their Poké Ball caps to lure prey, but very few Pokémon are fooled by this.",
+    "WildItemCommon": "TINYMUSHROOM",
+    "WildItemUncommon": "BIGMUSHROOM",
+    "WildItemRare": "BALMMUSHROOM",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

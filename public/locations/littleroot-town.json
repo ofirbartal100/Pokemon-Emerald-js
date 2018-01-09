@@ -5,6 +5,10 @@
     {
         "direction": "north",
         "location": "101"
+    },
+    {
+        "direction": "brendan-house",
+        "location": "brendan-house"
     }],
 
     "layers": [
@@ -148,6 +152,7 @@
         "tiles": [
         {
             "name": "wooden-door",
+            "portals": ["brendan-house", "may-house"],
             "ranges": [
                 [
                     7, 10
@@ -159,6 +164,7 @@
         },
         {
             "name": "green-door",
+            "portals": ["proffesor-house"],
             "ranges": [
                 [
                     9, 18
@@ -171,9 +177,9 @@
         "tiles": [
         {
             "name": "wooden-roof-top",
-            "ranges":[
-                [4,6],
-                [15,6]
+            "ranges": [
+                [4, 6],
+                [15, 6]
             ]
         }]
     }],

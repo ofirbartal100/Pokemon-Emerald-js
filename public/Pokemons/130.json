@@ -1,0 +1,75 @@
+{
+    "ID": 130,
+    "Name": "Gyarados",
+    "InternalName": "GYARADOS",
+    "Type1": "WATER",
+    "Type2": "FLYING",
+    "BaseStats": [95, 125, 79, 81, 60, 100],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "189",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "INTIMIDATE",
+    "HiddenAbility": "MOXIE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "THRASH"
+    },
+    {
+        "level": 20,
+        "move": "BITE"
+    },
+    {
+        "level": 23,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 26,
+        "move": "LEER"
+    },
+    {
+        "level": 29,
+        "move": "TWISTER"
+    },
+    {
+        "level": 32,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 35,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 38,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 41,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 44,
+        "move": "DRAGONDANCE"
+    },
+    {
+        "level": 47,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Water2", "Dragon"],
+    "StepsToHatch": "1530",
+    "Height": "6.5",
+    "Weight": "235.0",
+    "Color": "Blue",
+    "Shape": "2",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [130, 77],
+    "Kind": "Atrocious",
+    "Pokedex": "It is an extremely vicious and violent Pokémon. When humans begin to fight, it will appear and burn everything to the ground with intensely hot flames.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "4",
+    "BattlerAltitude": "3",
+    "Evolutions": []
+}

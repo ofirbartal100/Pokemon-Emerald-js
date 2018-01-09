@@ -1,0 +1,82 @@
+{
+    "ID": 313,
+    "Name": "Volbeat",
+    "InternalName": "VOLBEAT",
+    "Type1": "BUG",
+    "BaseStats": [65, 73, 55, 85, 47, 75],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "140",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "150",
+    "Happiness": "70",
+    "Abilities": ["ILLUMINATE","SWARM"],
+    "HiddenAbility": "PRANKSTER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FLASH"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 5,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 9,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 13,
+        "move": "MOONLIGHT"
+    },
+    {
+        "level": 17,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 21,
+        "move": "TAILGLOW"
+    },
+    {
+        "level": 25,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 29,
+        "move": "PROTECT"
+    },
+    {
+        "level": 33,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 37,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 41,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 45,
+        "move": "DOUBLEEDGE"
+    }],
+    "EggMoves": ["BATONPASS", "BUGBUZZ", "DIZZYPUNCH", "ENCORE", "SEISMICTOSS", "SILVERWIND", "TRICK"],
+    "Compatibility": ["Bug", "Humanlike"],
+    "StepsToHatch": "4080",
+    "Height": "0.7",
+    "Weight": "17.7",
+    "Color": "Gray",
+    "Shape": "6",
+    "Habitat": "Forest",
+    "Kind": "Firefly",
+    "Pokedex": "With their taillights lit, Volbeat fly in a swarm, drawing geometric designs in the night sky. They move their nests if their pond water becomes dirty.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

@@ -1,0 +1,105 @@
+{
+    "ID": 649,
+    "Name": "Genesect",
+    "InternalName": "GENESECT",
+    "Type1": "BUG",
+    "Type2": "STEEL",
+    "BaseStats": [71, 120, 95, 99, 120, 95],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "14",
+    "EffortPoints": [0, 1, 0, 1, 1, 0],
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "DOWNLOAD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TECHNOBLAST"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "MAGNETRISE"
+    },
+    {
+        "level": 1,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 1,
+        "move": "SCREECH"
+    },
+    {
+        "level": 7,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 11,
+        "move": "LOCKON"
+    },
+    {
+        "level": 18,
+        "move": "FLAMECHARGE"
+    },
+    {
+        "level": 22,
+        "move": "MAGNETBOMB"
+    },
+    {
+        "level": 29,
+        "move": "SLASH"
+    },
+    {
+        "level": 33,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 40,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 44,
+        "move": "TRIATTACK"
+    },
+    {
+        "level": 51,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 55,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 62,
+        "move": "SIMPLEBEAM"
+    },
+    {
+        "level": 66,
+        "move": "ZAPCANNON"
+    },
+    {
+        "level": 73,
+        "move": "HYPERBEAM"
+    },
+    {
+        "level": 77,
+        "move": "SELFDESTRUCT"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "1.5",
+    "Weight": "82.5",
+    "Color": "Purple",
+    "Shape": "12",
+    "Kind": "Paleozoic",
+    "Pokedex": "This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.",
+    "FormName": "Normal",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

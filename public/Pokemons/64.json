@@ -1,0 +1,102 @@
+{
+    "ID": 64,
+    "Name": "Kadabra",
+    "InternalName": "KADABRA",
+    "Type1": "PSYCHIC",
+    "BaseStats": [40, 35, 30, 105, 120, 70],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "140",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "100",
+    "Happiness": "70",
+    "Abilities": ["SYNCHRONIZE","INNERFOCUS"],
+    "HiddenAbility": "MAGICGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TELEPORT"
+    },
+    {
+        "level": 1,
+        "move": "KINESIS"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 16,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 18,
+        "move": "DISABLE"
+    },
+    {
+        "level": 22,
+        "move": "MIRACLEEYE"
+    },
+    {
+        "level": 24,
+        "move": "ALLYSWITCH"
+    },
+    {
+        "level": 28,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 30,
+        "move": "REFLECT"
+    },
+    {
+        "level": 34,
+        "move": "TELEKINESIS"
+    },
+    {
+        "level": 36,
+        "move": "RECOVER"
+    },
+    {
+        "level": 40,
+        "move": "PSYCHOCUT"
+    },
+    {
+        "level": 42,
+        "move": "ROLEPLAY"
+    },
+    {
+        "level": 46,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 48,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 52,
+        "move": "TRICK"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "56.5",
+    "Color": "Brown",
+    "Shape": "6",
+    "Habitat": "Urban",
+    "RegionalNumbers": [64, 90],
+    "Kind": "Psi",
+    "Pokedex": "It is rumored that a boy with psychic abilities suddenly transformed into Kadabra while he was assisting research into extrasensory powers.",
+    "WildItemUncommon": "TWISTEDSPOON",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ALAKAZAM",
+        "by":
+        {
+            "Trade": "Trade"
+        }
+    }]
+}

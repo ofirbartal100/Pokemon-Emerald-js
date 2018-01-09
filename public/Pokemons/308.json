@@ -1,0 +1,114 @@
+{
+    "ID": 308,
+    "Name": "Medicham",
+    "InternalName": "MEDICHAM",
+    "Type1": "FIGHTING",
+    "Type2": "PSYCHIC",
+    "BaseStats": [60, 60, 75, 80, 60, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "144",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": "PUREPOWER",
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "ICEPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "BIDE"
+    },
+    {
+        "level": 1,
+        "move": "MEDITATE"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "DETECT"
+    },
+    {
+        "level": 4,
+        "move": "MEDITATE"
+    },
+    {
+        "level": 8,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 11,
+        "move": "DETECT"
+    },
+    {
+        "level": 15,
+        "move": "HIDDENPOWER"
+    },
+    {
+        "level": 18,
+        "move": "MINDREADER"
+    },
+    {
+        "level": 22,
+        "move": "FEINT"
+    },
+    {
+        "level": 25,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 29,
+        "move": "FORCEPALM"
+    },
+    {
+        "level": 32,
+        "move": "HIGHJUMPKICK"
+    },
+    {
+        "level": 36,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 42,
+        "move": "ACUPRESSURE"
+    },
+    {
+        "level": 49,
+        "move": "POWERTRICK"
+    },
+    {
+        "level": 55,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 62,
+        "move": "RECOVER"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "31.5",
+    "Color": "Red",
+    "Shape": "12",
+    "Habitat": "Mountain",
+    "Kind": "Meditate",
+    "Pokedex": "Through crushingly harsh yoga training, it gained the power to foretell its foe's actions. It battles with elegant, dance- like movement.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "9",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

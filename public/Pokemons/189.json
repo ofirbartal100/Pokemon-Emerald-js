@@ -1,0 +1,115 @@
+{
+    "ID": 189,
+    "Name": "Jumpluff",
+    "InternalName": "JUMPLUFF",
+    "Type1": "GRASS",
+    "Type2": "FLYING",
+    "BaseStats": [75, 55, 70, 110, 55, 85],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "203",
+    "EffortPoints": [0, 0, 0, 3, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","LEAFGUARD"],
+    "HiddenAbility": "INFILTRATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SPLASH"
+    },
+    {
+        "level": 1,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 7,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 10,
+        "move": "TACKLE"
+    },
+    {
+        "level": 12,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 14,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 16,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 20,
+        "move": "BULLETSEED"
+    },
+    {
+        "level": 24,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 29,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 34,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 39,
+        "move": "RAGEPOWDER"
+    },
+    {
+        "level": 44,
+        "move": "COTTONSPORE"
+    },
+    {
+        "level": 49,
+        "move": "UTURN"
+    },
+    {
+        "level": 54,
+        "move": "WORRYSEED"
+    },
+    {
+        "level": 59,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 64,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 69,
+        "move": "MEMENTO"
+    }],
+    "Compatibility": ["Fairy", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "3.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 69],
+    "Kind": "Cottonweed",
+    "Pokedex": "Jumpluff ride warm southern winds to cross the sea and fly to foreign lands. This Pokémon lands when it encounters cold air while it is floating.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "15",
+    "Evolutions": []
+}

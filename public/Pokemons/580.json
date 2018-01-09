@@ -1,0 +1,97 @@
+{
+    "ID": 580,
+    "Name": "Ducklett",
+    "InternalName": "DUCKLETT",
+    "Type1": "WATER",
+    "Type2": "FLYING",
+    "BaseStats": [62, 44, 50, 55, 44, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "61",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["KEENEYE","BIGPECKS"],
+    "HiddenAbility": "HYDRATION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 3,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 6,
+        "move": "DEFOG"
+    },
+    {
+        "level": 9,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 13,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 15,
+        "move": "AERIALACE"
+    },
+    {
+        "level": 19,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 21,
+        "move": "FEATHERDANCE"
+    },
+    {
+        "level": 24,
+        "move": "AQUARING"
+    },
+    {
+        "level": 27,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 30,
+        "move": "ROOST"
+    },
+    {
+        "level": 34,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 37,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 41,
+        "move": "BRAVEBIRD"
+    },
+    {
+        "level": 46,
+        "move": "HURRICANE"
+    }],
+    "EggMoves": ["AIRCUTTER", "BRINE", "GUST", "LUCKYCHANT", "MEFIRST", "MIRRORMOVE", "STEELWING"],
+    "Compatibility": ["Water1", "Flying"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "5.5",
+    "Color": "Blue",
+    "Shape": "9",
+    "Kind": "Water Bird",
+    "Pokedex": "When attacked, it uses its feathers to splash water, escaping under cover of the spray.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "29",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SWANNA",
+        "by":
+        {
+            "Level": 35
+        }
+    }]
+}

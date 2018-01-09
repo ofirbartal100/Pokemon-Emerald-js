@@ -1,0 +1,98 @@
+{
+    "ID": 106,
+    "Name": "Hitmonlee",
+    "InternalName": "HITMONLEE",
+    "Type1": "FIGHTING",
+    "BaseStats": [50, 120, 53, 87, 35, 110],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "159",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["LIMBER","RECKLESS"],
+    "HiddenAbility": "UNBURDEN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "REVENGE"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 5,
+        "move": "MEDITATE"
+    },
+    {
+        "level": 9,
+        "move": "ROLLINGKICK"
+    },
+    {
+        "level": 13,
+        "move": "JUMPKICK"
+    },
+    {
+        "level": 17,
+        "move": "BRICKBREAK"
+    },
+    {
+        "level": 21,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 25,
+        "move": "FEINT"
+    },
+    {
+        "level": 29,
+        "move": "HIGHJUMPKICK"
+    },
+    {
+        "level": 33,
+        "move": "MINDREADER"
+    },
+    {
+        "level": 37,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 41,
+        "move": "WIDEGUARD"
+    },
+    {
+        "level": 45,
+        "move": "BLAZEKICK"
+    },
+    {
+        "level": 49,
+        "move": "ENDURE"
+    },
+    {
+        "level": 53,
+        "move": "MEGAKICK"
+    },
+    {
+        "level": 57,
+        "move": "CLOSECOMBAT"
+    },
+    {
+        "level": 61,
+        "move": "REVERSAL"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "6630",
+    "Height": "1.5",
+    "Weight": "49.8",
+    "Color": "Brown",
+    "Shape": "12",
+    "Habitat": "Urban",
+    "RegionalNumbers": [106, 146],
+    "Kind": "Kicking",
+    "Pokedex": "Its legs freely stretch and contract. Using these springlike limbs, it bowls over foes with devastating kicks. After battle, it rubs down its tired legs.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

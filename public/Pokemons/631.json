@@ -1,0 +1,93 @@
+{
+    "ID": 631,
+    "Name": "Heatmor",
+    "InternalName": "HEATMOR",
+    "Type1": "FIRE",
+    "BaseStats": [85, 97, 66, 65, 105, 66],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "169",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["GLUTTONY","FLASHFIRE"],
+    "HiddenAbility": "WHITESMOKE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "INCINERATE"
+    },
+    {
+        "level": 1,
+        "move": "LICK"
+    },
+    {
+        "level": 6,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 11,
+        "move": "BIND"
+    },
+    {
+        "level": 16,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 21,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 26,
+        "move": "SNATCH"
+    },
+    {
+        "level": 31,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 36,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 41,
+        "move": "SLASH"
+    },
+    {
+        "level": 46,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 51,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 56,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 56,
+        "move": "SPITUP"
+    },
+    {
+        "level": 56,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 61,
+        "move": "INFERNO"
+    }],
+    "EggMoves": ["BODYSLAM", "CURSE", "FEINTATTACK", "HEATWAVE", "NIGHTSLASH", "PURSUIT", "SLEEPTALK", "SUCKERPUNCH", "TICKLE", "WRAP"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "58.0",
+    "Color": "Red",
+    "Shape": "6",
+    "Kind": "Anteater",
+    "Pokedex": "Using their very hot, flame-covered tongues, they burn through Durant's steel bodies and consume their insides.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

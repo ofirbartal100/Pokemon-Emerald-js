@@ -1,0 +1,100 @@
+{
+    "ID": 548,
+    "Name": "Petilil",
+    "InternalName": "PETILIL",
+    "Type1": "GRASS",
+    "BaseStats": [45, 35, 50, 30, 70, 50],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "56",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","OWNTEMPO"],
+    "HiddenAbility": "LEAFGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 4,
+        "move": "GROWTH"
+    },
+    {
+        "level": 8,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 10,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 13,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 17,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 19,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 22,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 26,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 28,
+        "move": "AROMATHERAPY"
+    },
+    {
+        "level": 31,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 35,
+        "move": "ENERGYBALL"
+    },
+    {
+        "level": 37,
+        "move": "ENTRAINMENT"
+    },
+    {
+        "level": 40,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 44,
+        "move": "AFTERYOU"
+    },
+    {
+        "level": 46,
+        "move": "LEAFSTORM"
+    }],
+    "EggMoves": ["BIDE", "CHARM", "ENDURE", "GRASSWHISTLE", "HEALINGWISH", "INGRAIN", "NATURALGIFT", "SWEETSCENT", "WORRYSEED"],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "6.6",
+    "Color": "Green",
+    "Shape": "5",
+    "Kind": "Bulb",
+    "Pokedex": "Since they prefer moist, nutrient-rich soil, the areas where Petilil live are known to be good for growing plants.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "30",
+    "BattlerAltitude": "14",
+    "Evolutions": [
+    {
+        "to": "LILLIGANT",
+        "by":
+        {
+            "Item": "SUNSTONE"
+        }
+    }]
+}

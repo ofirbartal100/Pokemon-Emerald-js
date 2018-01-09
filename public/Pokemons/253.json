@@ -1,0 +1,96 @@
+{
+    "ID": 253,
+    "Name": "Grovyle",
+    "InternalName": "GROVYLE",
+    "Type1": "GRASS",
+    "BaseStats": [50, 65, 45, 95, 85, 65],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "UNBURDEN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 6,
+        "move": "ABSORB"
+    },
+    {
+        "level": 11,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 16,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 17,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 23,
+        "move": "SCREECH"
+    },
+    {
+        "level": 29,
+        "move": "LEAFBLADE"
+    },
+    {
+        "level": 35,
+        "move": "AGILITY"
+    },
+    {
+        "level": 41,
+        "move": "SLAM"
+    },
+    {
+        "level": 47,
+        "move": "DETECT"
+    },
+    {
+        "level": 53,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 59,
+        "move": "LEAFSTORM"
+    }],
+    "Compatibility": ["Monster", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "21.6",
+    "Color": "Green",
+    "Shape": "6",
+    "Habitat": "Forest",
+    "Kind": "Wood Gecko",
+    "Pokedex": "Leaves grow out of this Pokémon's body. They help obscure a Grovyle from the eyes of its enemies while it is in a thickly overgrown forest.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "7",
+    "Evolutions": [
+    {
+        "to": "SCEPTILE",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

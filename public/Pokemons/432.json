@@ -1,0 +1,93 @@
+{
+    "ID": 432,
+    "Name": "Purugly",
+    "InternalName": "PURUGLY",
+    "Type1": "NORMAL",
+    "BaseStats": [71, 82, 64, 112, 64, 59],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "158",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["THICKFAT","OWNTEMPO"],
+    "HiddenAbility": "DEFIANT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 5,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 8,
+        "move": "GROWL"
+    },
+    {
+        "level": 13,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 17,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 20,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 25,
+        "move": "CHARM"
+    },
+    {
+        "level": 29,
+        "move": "ASSIST"
+    },
+    {
+        "level": 32,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 37,
+        "move": "SLASH"
+    },
+    {
+        "level": 38,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 45,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 52,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 60,
+        "move": "HONECLAWS"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "43.8",
+    "Color": "Gray",
+    "Shape": "8",
+    "Kind": "Tiger Cat",
+    "Pokedex": "It is a brazen brute that barges its way into another Pokémon's nest and claims it as its own.",
+    "WildItemUncommon": "CHERIBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

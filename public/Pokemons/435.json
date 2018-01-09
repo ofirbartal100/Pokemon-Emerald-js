@@ -1,0 +1,90 @@
+{
+    "ID": 435,
+    "Name": "Skuntank",
+    "InternalName": "SKUNTANK",
+    "Type1": "POISON",
+    "Type2": "DARK",
+    "BaseStats": [103, 93, 67, 84, 71, 61],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "168",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["STENCH","AFTERMATH"],
+    "HiddenAbility": "KEENEYE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 4,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 7,
+        "move": "SCREECH"
+    },
+    {
+        "level": 10,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 14,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 18,
+        "move": "FEINT"
+    },
+    {
+        "level": 22,
+        "move": "SLASH"
+    },
+    {
+        "level": 27,
+        "move": "TOXIC"
+    },
+    {
+        "level": 32,
+        "move": "ACIDSPRAY"
+    },
+    {
+        "level": 34,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 41,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 51,
+        "move": "MEMENTO"
+    },
+    {
+        "level": 61,
+        "move": "EXPLOSION"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "38.0",
+    "Color": "Purple",
+    "Shape": "8",
+    "Kind": "Skunk",
+    "Pokedex": "It sprays a vile-smelling fluid from the tip of its tail to attack. Its range is over 160 feet.",
+    "WildItemUncommon": "PECHABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

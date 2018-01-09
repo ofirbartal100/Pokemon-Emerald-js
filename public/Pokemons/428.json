@@ -1,0 +1,101 @@
+{
+    "ID": 428,
+    "Name": "Lopunny",
+    "InternalName": "LOPUNNY",
+    "Type1": "NORMAL",
+    "BaseStats": [65, 76, 84, 105, 54, 96],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "168",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "60",
+    "Happiness": "140",
+    "Abilities": ["CUTECHARM","KLUTZ"],
+    "HiddenAbility": "LIMBER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MIRRORCOAT"
+    },
+    {
+        "level": 1,
+        "move": "MAGICCOAT"
+    },
+    {
+        "level": 1,
+        "move": "SPLASH"
+    },
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 6,
+        "move": "ENDURE"
+    },
+    {
+        "level": 13,
+        "move": "RETURN"
+    },
+    {
+        "level": 16,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 23,
+        "move": "JUMPKICK"
+    },
+    {
+        "level": 26,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 33,
+        "move": "AGILITY"
+    },
+    {
+        "level": 36,
+        "move": "DIZZYPUNCH"
+    },
+    {
+        "level": 43,
+        "move": "AFTERYOU"
+    },
+    {
+        "level": 46,
+        "move": "CHARM"
+    },
+    {
+        "level": 53,
+        "move": "ENTRAINMENT"
+    },
+    {
+        "level": 56,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 63,
+        "move": "HEALINGWISH"
+    }],
+    "Compatibility": ["Field", "Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "33.3",
+    "Color": "Brown",
+    "Shape": "6",
+    "Kind": "Rabbit",
+    "Pokedex": "An extremely cautious Pokémon. It cloaks its body with its fluffy ear fur when it senses danger.",
+    "WildItemUncommon": "CHOPLEBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

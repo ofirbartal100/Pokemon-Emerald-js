@@ -1,0 +1,83 @@
+{
+    "ID": 413,
+    "Name": "Wormadam",
+    "InternalName": "WORMADAM",
+    "Type1": "BUG",
+    "Type2": "GRASS",
+    "BaseStats": [60, 59, 85, 36, 79, 105],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "148",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "ANTICIPATION",
+    "HiddenAbility": "OVERCOAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 10,
+        "move": "PROTECT"
+    },
+    {
+        "level": 15,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 20,
+        "move": "HIDDENPOWER"
+    },
+    {
+        "level": 23,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 26,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 29,
+        "move": "GROWTH"
+    },
+    {
+        "level": 32,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 35,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 38,
+        "move": "FLAIL"
+    },
+    {
+        "level": 41,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 44,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 47,
+        "move": "LEAFSTORM"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.5",
+    "Weight": "6.5",
+    "Color": "Gray",
+    "Shape": "5",
+    "Kind": "Bagworm",
+    "Pokedex": "When Burmy evolved, its cloak became a part of this Pokémon's body. The cloak is never shed.",
+    "FormName": "Plant Cloak",
+    "WildItemUncommon": "SILVERPOWDER",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

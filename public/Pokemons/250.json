@@ -1,0 +1,98 @@
+{
+    "ID": 250,
+    "Name": "Ho-Oh",
+    "InternalName": "HOOH",
+    "Type1": "FIRE",
+    "Type2": "FLYING",
+    "BaseStats": [106, 130, 90, 90, 110, 154],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "306",
+    "EffortPoints": [0, 0, 0, 0, 0, 3],
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 1,
+        "move": "WEATHERBALL"
+    },
+    {
+        "level": 9,
+        "move": "GUST"
+    },
+    {
+        "level": 15,
+        "move": "BRAVEBIRD"
+    },
+    {
+        "level": 23,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 29,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 37,
+        "move": "FIREBLAST"
+    },
+    {
+        "level": 43,
+        "move": "SACREDFIRE"
+    },
+    {
+        "level": 50,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 57,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 65,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 71,
+        "move": "RECOVER"
+    },
+    {
+        "level": 79,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 85,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 93,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 99,
+        "move": "SKYATTACK"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "3.8",
+    "Weight": "199.0",
+    "Color": "Red",
+    "Shape": "9",
+    "Habitat": "Rare",
+    "RegionalNumbers": [0, 253],
+    "Kind": "Rainbow",
+    "Pokedex": "Its feathers--which glow in seven colors depending on the angle at which they are struck by light--are thought to bring joy. It is said to live at the foot of a rainbow.",
+    "WildItemCommon": "SACREDASH",
+    "WildItemUncommon": "SACREDASH",
+    "WildItemRare": "SACREDASH",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "4",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

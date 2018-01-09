@@ -1,0 +1,85 @@
+{
+    "ID": 350,
+    "Name": "Milotic",
+    "InternalName": "MILOTIC",
+    "Type1": "WATER",
+    "BaseStats": [95, 60, 79, 81, 100, 125],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "189",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": "MARVELSCALE",
+    "HiddenAbility": "CUTECHARM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "WRAP"
+    },
+    {
+        "level": 5,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 9,
+        "move": "REFRESH"
+    },
+    {
+        "level": 13,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 17,
+        "move": "TWISTER"
+    },
+    {
+        "level": 21,
+        "move": "RECOVER"
+    },
+    {
+        "level": 25,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 29,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 33,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 37,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 41,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 45,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 49,
+        "move": "AQUARING"
+    }],
+    "Compatibility": ["Water1", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "6.2",
+    "Weight": "162.0",
+    "Color": "Pink",
+    "Shape": "2",
+    "Habitat": "WatersEdge",
+    "Kind": "Tender",
+    "Pokedex": "It is said to live at the bottom of large lakes. Considered to be the most beautiful of all Pokémon, it has been depicted in paintings and statues.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

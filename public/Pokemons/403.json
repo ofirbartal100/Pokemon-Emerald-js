@@ -1,0 +1,84 @@
+{
+    "ID": 403,
+    "Name": "Shinx",
+    "InternalName": "SHINX",
+    "Type1": "ELECTRIC",
+    "BaseStats": [45, 65, 34, 45, 40, 34],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "53",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "235",
+    "Happiness": "70",
+    "Abilities": ["RIVALRY","INTIMIDATE"],
+    "HiddenAbility": "GUTS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 5,
+        "move": "LEER"
+    },
+    {
+        "level": 9,
+        "move": "CHARGE"
+    },
+    {
+        "level": 13,
+        "move": "SPARK"
+    },
+    {
+        "level": 17,
+        "move": "BITE"
+    },
+    {
+        "level": 21,
+        "move": "ROAR"
+    },
+    {
+        "level": 25,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 29,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 33,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 37,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 41,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 45,
+        "move": "WILDCHARGE"
+    }],
+    "EggMoves": ["DOUBLEKICK", "FIREFANG", "HELPINGHAND", "HOWL", "ICEFANG", "NIGHTSLASH", "QUICKATTACK", "SHOCKWAVE", "SIGNALBEAM", "SWIFT", "TAKEDOWN", "THUNDERFANG"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "9.5",
+    "Color": "Blue",
+    "Shape": "8",
+    "Kind": "Flash",
+    "Pokedex": "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "LUXIO",
+        "by":
+        {
+            "Level": 15
+        }
+    }]
+}

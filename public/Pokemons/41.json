@@ -1,0 +1,91 @@
+{
+    "ID": 41,
+    "Name": "Zubat",
+    "InternalName": "ZUBAT",
+    "Type1": "POISON",
+    "Type2": "FLYING",
+    "BaseStats": [40, 45, 35, 55, 30, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "49",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "INNERFOCUS",
+    "HiddenAbility": "INFILTRATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 4,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 8,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 12,
+        "move": "BITE"
+    },
+    {
+        "level": 15,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 19,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 23,
+        "move": "SWIFT"
+    },
+    {
+        "level": 26,
+        "move": "AIRCUTTER"
+    },
+    {
+        "level": 30,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 34,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 37,
+        "move": "POISONFANG"
+    },
+    {
+        "level": 41,
+        "move": "HAZE"
+    },
+    {
+        "level": 45,
+        "move": "AIRSLASH"
+    }],
+    "EggMoves": ["BRAVEBIRD", "CURSE", "DEFOG", "FEINTATTACK", "GIGADRAIN", "GUST", "HYPNOSIS", "NASTYPLOT", "PURSUIT", "QUICKATTACK", "STEELWING", "WHIRLWIND", "ZENHEADBUTT"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "0.8",
+    "Weight": "7.5",
+    "Color": "Purple",
+    "Shape": "9",
+    "Habitat": "Cave",
+    "RegionalNumbers": [41, 37],
+    "Kind": "Bat",
+    "Pokedex": "While living in pitch-black caverns, their eyes gradually grew shut and deprived them of vision. They use ultrasonic waves to detect obstacles.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "15",
+    "Evolutions": [
+    {
+        "to": "GOLBAT",
+        "by":
+        {
+            "Level": 22
+        }
+    }]
+}

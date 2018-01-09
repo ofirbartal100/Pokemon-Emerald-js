@@ -1,0 +1,97 @@
+{
+    "ID": 594,
+    "Name": "Alomomola",
+    "InternalName": "ALOMOMOLA",
+    "Type1": "WATER",
+    "BaseStats": [165, 75, 80, 65, 40, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "165",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["HYDRATION","HEALER"],
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 5,
+        "move": "AQUARING"
+    },
+    {
+        "level": 9,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 13,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 17,
+        "move": "HEALPULSE"
+    },
+    {
+        "level": 21,
+        "move": "PROTECT"
+    },
+    {
+        "level": 25,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 29,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 33,
+        "move": "SOAK"
+    },
+    {
+        "level": 37,
+        "move": "WISH"
+    },
+    {
+        "level": 41,
+        "move": "BRINE"
+    },
+    {
+        "level": 45,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 49,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 53,
+        "move": "WIDEGUARD"
+    },
+    {
+        "level": 57,
+        "move": "HEALINGWISH"
+    },
+    {
+        "level": 61,
+        "move": "HYDROPUMP"
+    }],
+    "EggMoves": ["ENDURE", "MIRRORCOAT", "MIST", "PAINSPLIT", "REFRESH", "TICKLE"],
+    "Compatibility": ["Water1", "Water2"],
+    "StepsToHatch": "10455",
+    "Height": "1.2",
+    "Weight": "31.6",
+    "Color": "Pink",
+    "Shape": "3",
+    "Kind": "Caring",
+    "Pokedex": "Floating in the open sea is how they live. When they find a wounded Pokémon, they embrace it and bring it to shore.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "1",
+    "Evolutions": []
+}

@@ -1,0 +1,84 @@
+{
+    "ID": 408,
+    "Name": "Cranidos",
+    "InternalName": "CRANIDOS",
+    "Type1": "ROCK",
+    "BaseStats": [67, 125, 40, 58, 30, 30],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "70",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "MOLDBREAKER",
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 6,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 10,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 15,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 19,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 24,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 28,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 33,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 37,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 42,
+        "move": "SCREECH"
+    },
+    {
+        "level": 46,
+        "move": "HEADSMASH"
+    }],
+    "EggMoves": ["CRUNCH", "CURSE", "DOUBLEEDGE", "HAMMERARM", "IRONHEAD", "IRONTAIL", "LEER", "SLAM", "STOMP", "THRASH", "WHIRLWIND"],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "7905",
+    "Height": "0.9",
+    "Weight": "31.5",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Head Butt",
+    "Pokedex": "It lived in jungles around 100 million years ago. Its skull is as hard as iron.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "RAMPARDOS",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

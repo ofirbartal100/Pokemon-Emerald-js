@@ -1,0 +1,77 @@
+{
+    "ID": 292,
+    "Name": "Shedinja",
+    "InternalName": "SHEDINJA",
+    "Type1": "BUG",
+    "Type2": "GHOST",
+    "BaseStats": [1, 90, 45, 40, 30, 30],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "83",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "WONDERGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 5,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 9,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 14,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 19,
+        "move": "MINDREADER"
+    },
+    {
+        "level": 25,
+        "move": "SPITE"
+    },
+    {
+        "level": 31,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 38,
+        "move": "SHADOWSNEAK"
+    },
+    {
+        "level": 45,
+        "move": "GRUDGE"
+    },
+    {
+        "level": 52,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 59,
+        "move": "SHADOWBALL"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "4080",
+    "Height": "0.8",
+    "Weight": "1.2",
+    "Color": "Brown",
+    "Shape": "5",
+    "Habitat": "Forest",
+    "Kind": "Shed",
+    "Pokedex": "A peculiar Pokémon that floats in air even though its wings remain completely still. The inside of its body is hollow and utterly dark.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "12",
+    "Evolutions": []
+}

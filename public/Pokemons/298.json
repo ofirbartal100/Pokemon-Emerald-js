@@ -1,0 +1,78 @@
+{
+    "ID": 298,
+    "Name": "Azurill",
+    "InternalName": "AZURILL",
+    "Type1": "NORMAL",
+    "BaseStats": [50, 20, 40, 20, 20, 40],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "38",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "150",
+    "Happiness": "70",
+    "Abilities": ["THICKFAT","HUGEPOWER"],
+    "HiddenAbility": "SAPSIPPER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SPLASH"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 2,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 5,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 7,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 10,
+        "move": "CHARM"
+    },
+    {
+        "level": 13,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 16,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 20,
+        "move": "SLAM"
+    },
+    {
+        "level": 23,
+        "move": "BOUNCE"
+    }],
+    "EggMoves": ["BODYSLAM", "ENCORE", "FAKETEARS", "MUDDYWATER", "REFRESH", "SING", "SLAM", "SOAK", "TICKLE", "WATERSPORT"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "2805",
+    "Height": "0.2",
+    "Weight": "2.0",
+    "Color": "Blue",
+    "Shape": "7",
+    "Habitat": "WatersEdge",
+    "Kind": "Polka Dot",
+    "Pokedex": "Its tail, which is packed with nutrition, is very bouncy like a rubber ball. On sunny days they gather at the edge of water and splash about for fun.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MARILL",
+        "by":
+        {
+            "Happiness": "Happiness"
+        }
+    }],
+    "Incense": "SEAINCENSE"
+}

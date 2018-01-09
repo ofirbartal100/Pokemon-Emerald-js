@@ -1,0 +1,111 @@
+{
+    "ID": 187,
+    "Name": "Hoppip",
+    "InternalName": "HOPPIP",
+    "Type1": "GRASS",
+    "Type2": "FLYING",
+    "BaseStats": [35, 35, 40, 50, 35, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "50",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","LEAFGUARD"],
+    "HiddenAbility": "INFILTRATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SPLASH"
+    },
+    {
+        "level": 4,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 7,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 10,
+        "move": "TACKLE"
+    },
+    {
+        "level": 12,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 14,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 16,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 19,
+        "move": "BULLETSEED"
+    },
+    {
+        "level": 22,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 25,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 28,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 31,
+        "move": "RAGEPOWDER"
+    },
+    {
+        "level": 34,
+        "move": "COTTONSPORE"
+    },
+    {
+        "level": 37,
+        "move": "UTURN"
+    },
+    {
+        "level": 40,
+        "move": "WORRYSEED"
+    },
+    {
+        "level": 43,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 46,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 49,
+        "move": "MEMENTO"
+    }],
+    "EggMoves": ["AMNESIA", "AROMATHERAPY", "CONFUSION", "COTTONGUARD", "DOUBLEEDGE", "ENCORE", "ENDURE", "HELPINGHAND", "SEEDBOMB", "WORRYSEED"],
+    "Compatibility": ["Fairy", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "0.5",
+    "Color": "Pink",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 67],
+    "Kind": "Cottonweed",
+    "Pokedex": "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, a Hoppip links leaves with others to prepare against being blown away.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "13",
+    "Evolutions": [
+    {
+        "to": "SKIPLOOM",
+        "by":
+        {
+            "Level": 18
+        }
+    }]
+}

@@ -1,0 +1,107 @@
+{
+    "ID": 213,
+    "Name": "Shuckle",
+    "InternalName": "SHUCKLE",
+    "Type1": "BUG",
+    "Type2": "ROCK",
+    "BaseStats": [20, 10, 230, 5, 10, 230],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "177",
+    "EffortPoints": [0, 0, 1, 0, 0, 1],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["STURDY","GLUTTONY"],
+    "HiddenAbility": "CONTRARY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 1,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 1,
+        "move": "BIDE"
+    },
+    {
+        "level": 1,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 5,
+        "move": "ENCORE"
+    },
+    {
+        "level": 9,
+        "move": "WRAP"
+    },
+    {
+        "level": 12,
+        "move": "STRUGGLEBUG"
+    },
+    {
+        "level": 16,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 20,
+        "move": "REST"
+    },
+    {
+        "level": 23,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 27,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 31,
+        "move": "POWERTRICK"
+    },
+    {
+        "level": 34,
+        "move": "SHELLSMASH"
+    },
+    {
+        "level": 38,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 42,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 45,
+        "move": "POWERSPLIT"
+    },
+    {
+        "level": 45,
+        "move": "GUARDSPLIT"
+    },
+    {
+        "level": 49,
+        "move": "STONEEDGE"
+    }],
+    "EggMoves": ["ACID", "ACUPRESSURE", "FINALGAMBIT", "HELPINGHAND", "KNOCKOFF", "MUDSLAP", "ROCKBLAST", "SANDTOMB", "SWEETSCENT"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "20.5",
+    "Color": "Yellow",
+    "Shape": "14",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [0, 168],
+    "Kind": "Mold",
+    "Pokedex": "A Shuckle hides under rocks, keeping its body concealed inside its shell while eating stored berries. The berries mix with its body fluids to become a juice.",
+    "WildItemCommon": "BERRYJUICE",
+    "WildItemUncommon": "BERRYJUICE",
+    "WildItemRare": "BERRYJUICE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

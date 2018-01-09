@@ -1,0 +1,105 @@
+{
+    "ID": 323,
+    "Name": "Camerupt",
+    "InternalName": "CAMERUPT",
+    "Type1": "FIRE",
+    "Type2": "GROUND",
+    "BaseStats": [70, 100, 70, 40, 105, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "161",
+    "EffortPoints": [0, 1, 0, 0, 1, 0],
+    "Rareness": "150",
+    "Happiness": "70",
+    "Abilities": ["MAGMAARMOR","SOLIDROCK"],
+    "HiddenAbility": "ANGERPOINT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 1,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 5,
+        "move": "EMBER"
+    },
+    {
+        "level": 8,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 12,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 15,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 19,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 22,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 26,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 29,
+        "move": "CURSE"
+    },
+    {
+        "level": 31,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 33,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 39,
+        "move": "YAWN"
+    },
+    {
+        "level": 46,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 52,
+        "move": "ERUPTION"
+    },
+    {
+        "level": 59,
+        "move": "FISSURE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.9",
+    "Weight": "220.0",
+    "Color": "Red",
+    "Shape": "8",
+    "Habitat": "Mountain",
+    "Kind": "Eruption",
+    "Pokedex": "A Pokémon that lives in the crater of a volcano. Every 10 years, the volcanoes on its back erupt violently. Research is under way on the cause of eruption.",
+    "WildItemCommon": "RAWSTBERRY",
+    "WildItemUncommon": "RAWSTBERRY",
+    "WildItemRare": "RAWSTBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

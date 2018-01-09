@@ -1,0 +1,70 @@
+{
+    "ID": 540,
+    "Name": "Sewaddle",
+    "InternalName": "SEWADDLE",
+    "Type1": "BUG",
+    "Type2": "GRASS",
+    "BaseStats": [45, 53, 70, 42, 40, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "62",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["SWARM","CHLOROPHYLL"],
+    "HiddenAbility": "OVERCOAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "STRINGSHOT"
+    },
+    {
+        "level": 8,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 15,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 22,
+        "move": "STRUGGLEBUG"
+    },
+    {
+        "level": 29,
+        "move": "ENDURE"
+    },
+    {
+        "level": 36,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 43,
+        "move": "FLAIL"
+    }],
+    "EggMoves": ["AGILITY", "AIRSLASH", "BATONPASS", "CAMOUFLAGE", "MEFIRST", "MINDREADER", "RAZORWIND", "SCREECH", "SILVERWIND"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.3",
+    "Weight": "2.5",
+    "Color": "Yellow",
+    "Shape": "14",
+    "Kind": "Sewing",
+    "Pokedex": "This Pokémon makes clothes for itself. It chews up leaves and sews them with sticky thread extruded from its mouth.",
+    "WildItemUncommon": "MENTALHERB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "33",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SWADLOON",
+        "by":
+        {
+            "Level": 20
+        }
+    }]
+}

@@ -1,0 +1,94 @@
+{
+    "ID": 261,
+    "Name": "Poochyena",
+    "InternalName": "POOCHYENA",
+    "Type1": "DARK",
+    "BaseStats": [35, 55, 35, 35, 30, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "44",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["RUNAWAY","QUICKFEET"],
+    "HiddenAbility": "RATTLED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 5,
+        "move": "HOWL"
+    },
+    {
+        "level": 9,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 13,
+        "move": "BITE"
+    },
+    {
+        "level": 17,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 21,
+        "move": "ROAR"
+    },
+    {
+        "level": 25,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 29,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 33,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 37,
+        "move": "TAUNT"
+    },
+    {
+        "level": 41,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 45,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 49,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 53,
+        "move": "CRUNCH"
+    }],
+    "EggMoves": ["ASTONISH", "COVET", "FIREFANG", "ICEFANG", "LEER", "MEFIRST", "POISONFANG", "SLEEPTALK", "SNATCH", "SUCKERPUNCH", "THUNDERFANG", "YAWN"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.5",
+    "Weight": "13.6",
+    "Color": "Gray",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "Kind": "Bite",
+    "Pokedex": "It savagely threatens foes with bared fangs. It chases after fleeing targets tenaciously. It turns tail and runs, however, if the foe strikes back.",
+    "WildItemUncommon": "PECHABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MIGHTYENA",
+        "by":
+        {
+            "Level": 18
+        }
+    }]
+}

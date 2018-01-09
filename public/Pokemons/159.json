@@ -1,0 +1,105 @@
+{
+    "ID": 159,
+    "Name": "Croconaw",
+    "InternalName": "CROCONAW",
+    "Type1": "WATER",
+    "BaseStats": [65, 80, 80, 58, 59, 63],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 1, 1, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TORRENT",
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 6,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 8,
+        "move": "RAGE"
+    },
+    {
+        "level": 13,
+        "move": "BITE"
+    },
+    {
+        "level": 15,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 21,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 24,
+        "move": "FLAIL"
+    },
+    {
+        "level": 30,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 33,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 39,
+        "move": "SLASH"
+    },
+    {
+        "level": 42,
+        "move": "SCREECH"
+    },
+    {
+        "level": 48,
+        "move": "THRASH"
+    },
+    {
+        "level": 51,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 57,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 60,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Monster", "Water1"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "25.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [0, 8],
+    "Kind": "Big Jaw",
+    "Pokedex": "Once its jaws clamp down on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like fishhooks, they become irremovably embedded.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "FERALIGATR",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

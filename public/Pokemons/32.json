@@ -1,0 +1,90 @@
+{
+    "ID": 32,
+    "Name": "Nidoran",
+    "InternalName": "NIDORANmA",
+    "Type1": "POISON",
+    "BaseStats": [46, 57, 40, 50, 40, 40],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "55",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "235",
+    "Happiness": "70",
+    "Abilities": ["POISONPOINT","RIVALRY"],
+    "HiddenAbility": "HUSTLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 7,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 9,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 13,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 19,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 21,
+        "move": "HORNATTACK"
+    },
+    {
+        "level": 25,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 31,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 33,
+        "move": "FLATTER"
+    },
+    {
+        "level": 37,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 43,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 45,
+        "move": "HORNDRILL"
+    }],
+    "EggMoves": ["AMNESIA", "BEATUP", "CHIPAWAY", "CONFUSION", "COUNTER", "DISABLE", "ENDURE", "HEADSMASH", "IRONTAIL", "POISONTAIL", "SUCKERPUNCH", "SUPERSONIC", "TAKEDOWN"],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "9.0",
+    "Color": "Purple",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [32, 98],
+    "Kind": "Poison Pin",
+    "Pokedex": "The male Nidoran has developed muscles that freely move its ears in any direction. Even the slightest sound does not escape this Pokémon's notice.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "NIDORINO",
+        "by":
+        {
+            "Level": 16
+        }
+    }]
+}

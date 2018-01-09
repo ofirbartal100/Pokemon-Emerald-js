@@ -1,0 +1,96 @@
+{
+    "ID": 616,
+    "Name": "Shelmet",
+    "InternalName": "SHELMET",
+    "Type1": "BUG",
+    "BaseStats": [50, 40, 85, 25, 40, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": ["HYDRATION","SHELLARMOR"],
+    "HiddenAbility": "OVERCOAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 4,
+        "move": "ACID"
+    },
+    {
+        "level": 8,
+        "move": "BIDE"
+    },
+    {
+        "level": 13,
+        "move": "CURSE"
+    },
+    {
+        "level": 16,
+        "move": "STRUGGLEBUG"
+    },
+    {
+        "level": 20,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 25,
+        "move": "YAWN"
+    },
+    {
+        "level": 28,
+        "move": "PROTECT"
+    },
+    {
+        "level": 32,
+        "move": "ACIDARMOR"
+    },
+    {
+        "level": 37,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 40,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 44,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 49,
+        "move": "RECOVER"
+    },
+    {
+        "level": 52,
+        "move": "GUARDSWAP"
+    },
+    {
+        "level": 56,
+        "move": "FINALGAMBIT"
+    }],
+    "EggMoves": ["BATONPASS", "DOUBLEEDGE", "ENCORE", "ENDURE", "FEINT", "GUARDSPLIT", "MINDREADER", "MUDSLAP", "PURSUIT", "SPIKES"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.4",
+    "Weight": "7.7",
+    "Color": "Red",
+    "Shape": "1",
+    "Kind": "Snail",
+    "Pokedex": "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "37",
+    "BattlerAltitude": "11",
+    "Evolutions": [
+    {
+        "to": "ACCELGOR",
+        "by":
+        {
+            "TradeSpecies": "KARRABLAST"
+        }
+    }]
+}

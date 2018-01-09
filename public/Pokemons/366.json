@@ -1,0 +1,65 @@
+{
+    "ID": 366,
+    "Name": "Clamperl",
+    "InternalName": "CLAMPERL",
+    "Type1": "WATER",
+    "BaseStats": [35, 64, 85, 32, 74, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "69",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "SHELLARMOR",
+    "HiddenAbility": "RATTLED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CLAMP"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 1,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 51,
+        "move": "SHELLSMASH"
+    }],
+    "EggMoves": ["AQUARING", "BARRIER", "BODYSLAM", "BRINE", "CONFUSERAY", "ENDURE", "MUDSPORT", "MUDDYWATER", "REFRESH", "SUPERSONIC", "WATERPULSE"],
+    "Compatibility": ["Water1"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "52.5",
+    "Color": "Blue",
+    "Shape": "1",
+    "Habitat": "Sea",
+    "Kind": "Bivalve",
+    "Pokedex": "A Clamperl slams its shell closed on prey to prevent escape. The pearl it creates upon evolution is said to be infused with a mysterious energy.",
+    "WildItemUncommon": "BIGPEARL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "HUNTAIL",
+        "by":
+        {
+            "TradeItem": "DEEPSEATOOTH"
+        }
+    },
+    {
+        "to": "GOREBYSS",
+        "by":
+        {
+            "TradeItem": "DEEPSEASCALE"
+        }
+    }]
+}

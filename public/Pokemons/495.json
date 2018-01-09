@@ -1,0 +1,96 @@
+{
+    "ID": 495,
+    "Name": "Snivy",
+    "InternalName": "SNIVY",
+    "Type1": "GRASS",
+    "BaseStats": [45, 45, 55, 63, 45, 55],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "28",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "CONTRARY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 10,
+        "move": "WRAP"
+    },
+    {
+        "level": 13,
+        "move": "GROWTH"
+    },
+    {
+        "level": 16,
+        "move": "LEAFTORNADO"
+    },
+    {
+        "level": 19,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 22,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 25,
+        "move": "SLAM"
+    },
+    {
+        "level": 28,
+        "move": "LEAFBLADE"
+    },
+    {
+        "level": 31,
+        "move": "COIL"
+    },
+    {
+        "level": 34,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 37,
+        "move": "WRINGOUT"
+    },
+    {
+        "level": 40,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 43,
+        "move": "LEAFSTORM"
+    }],
+    "EggMoves": ["CAPTIVATE", "GLARE", "IRONTAIL", "MAGICALLEAF", "MEANLOOK", "MIRRORCOAT", "NATURALGIFT", "PURSUIT", "SWEETSCENT", "TWISTER"],
+    "Compatibility": ["Field", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "8.1",
+    "Color": "Green",
+    "Shape": "6",
+    "Kind": "Grass Snake",
+    "Pokedex": "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "32",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SERVINE",
+        "by":
+        {
+            "Level": 17
+        }
+    }]
+}

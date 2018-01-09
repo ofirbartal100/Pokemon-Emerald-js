@@ -1,0 +1,96 @@
+{
+    "ID": 85,
+    "Name": "Dodrio",
+    "InternalName": "DODRIO",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [60, 110, 70, 100, 60, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "161",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["RUNAWAY","EARLYBIRD"],
+    "HiddenAbility": "TANGLEDFEET",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PLUCK"
+    },
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "RAGE"
+    },
+    {
+        "level": 5,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 10,
+        "move": "RAGE"
+    },
+    {
+        "level": 14,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 19,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 23,
+        "move": "UPROAR"
+    },
+    {
+        "level": 28,
+        "move": "ACUPRESSURE"
+    },
+    {
+        "level": 34,
+        "move": "TRIATTACK"
+    },
+    {
+        "level": 41,
+        "move": "AGILITY"
+    },
+    {
+        "level": 47,
+        "move": "DRILLPECK"
+    },
+    {
+        "level": 54,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 60,
+        "move": "THRASH"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "5355",
+    "Height": "1.8",
+    "Weight": "85.2",
+    "Color": "Brown",
+    "Shape": "7",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [85, 205],
+    "Kind": "Triple Bird",
+    "Pokedex": "A peculiar Pokémon species with three heads. It vigorously races across grassy plains even in arid seasons with little rainfall.",
+    "WildItemUncommon": "SHARPBEAK",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "5",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

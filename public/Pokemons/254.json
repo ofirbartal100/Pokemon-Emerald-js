@@ -1,0 +1,93 @@
+{
+    "ID": 254,
+    "Name": "Sceptile",
+    "InternalName": "SCEPTILE",
+    "Type1": "GRASS",
+    "BaseStats": [70, 85, 65, 120, 105, 85],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "239",
+    "EffortPoints": [0, 0, 0, 3, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "UNBURDEN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 6,
+        "move": "ABSORB"
+    },
+    {
+        "level": 11,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 16,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 17,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 23,
+        "move": "SCREECH"
+    },
+    {
+        "level": 29,
+        "move": "LEAFBLADE"
+    },
+    {
+        "level": 35,
+        "move": "AGILITY"
+    },
+    {
+        "level": 43,
+        "move": "SLAM"
+    },
+    {
+        "level": 51,
+        "move": "DETECT"
+    },
+    {
+        "level": 59,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 67,
+        "move": "LEAFSTORM"
+    }],
+    "Compatibility": ["Monster", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "1.7",
+    "Weight": "52.2",
+    "Color": "Green",
+    "Shape": "6",
+    "Habitat": "Forest",
+    "Kind": "Forest",
+    "Pokedex": "In the jungle, its power is without equal. This Pokémon carefully grows trees and plants. It regulates its body temperature by basking in sunlight.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

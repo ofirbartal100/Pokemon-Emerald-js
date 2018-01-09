@@ -1,0 +1,100 @@
+{
+    "ID": 170,
+    "Name": "Chinchou",
+    "InternalName": "CHINCHOU",
+    "Type1": "WATER",
+    "Type2": "ELECTRIC",
+    "BaseStats": [75, 38, 38, 67, 56, 56],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "66",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["VOLTABSORB","ILLUMINATE"],
+    "HiddenAbility": "WATERABSORB",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 6,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 9,
+        "move": "FLAIL"
+    },
+    {
+        "level": 12,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 17,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 20,
+        "move": "SPARK"
+    },
+    {
+        "level": 23,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 28,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 31,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 34,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 39,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 42,
+        "move": "AQUARING"
+    },
+    {
+        "level": 45,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 50,
+        "move": "CHARGE"
+    }],
+    "EggMoves": ["AGILITY", "AMNESIA", "BRINE", "FLAIL", "MIST", "PSYBEAM", "SCREECH", "SHOCKWAVE", "WATERPULSE", "WHIRLPOOL"],
+    "Compatibility": ["Water2"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "12.0",
+    "Color": "Blue",
+    "Shape": "3",
+    "Habitat": "Sea",
+    "RegionalNumbers": [0, 176],
+    "Kind": "Angler",
+    "Pokedex": "When it senses danger, it discharges positive and negative electricity from its two antennae. It lives in depths beyond sunlight's reach.",
+    "WildItemUncommon": "DEEPSEASCALE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "10",
+    "Evolutions": [
+    {
+        "to": "LANTURN",
+        "by":
+        {
+            "Level": 27
+        }
+    }]
+}

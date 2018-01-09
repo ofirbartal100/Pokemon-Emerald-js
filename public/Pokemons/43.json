@@ -1,0 +1,87 @@
+{
+    "ID": 43,
+    "Name": "Oddish",
+    "InternalName": "ODDISH",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": [45, 50, 55, 30, 75, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "64",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "CHLOROPHYLL",
+    "HiddenAbility": "RUNAWAY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 5,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 9,
+        "move": "ACID"
+    },
+    {
+        "level": 13,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 15,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 17,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 21,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 25,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 29,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 33,
+        "move": "MOONLIGHT"
+    },
+    {
+        "level": 37,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 41,
+        "move": "PETALDANCE"
+    }],
+    "EggMoves": ["AFTERYOU", "CHARM", "FLAIL", "INGRAIN", "NATUREPOWER", "RAZORLEAF", "SECRETPOWER", "SYNTHESIS", "TEETERDANCE", "TICKLE"],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "5.4",
+    "Color": "Blue",
+    "Shape": "7",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [43, 83],
+    "Kind": "Weed",
+    "Pokedex": "This Pokémon grows by absorbing moonlight. During the daytime, it buries itself in the ground, leaving only its leaves exposed to avoid detection by its enemies.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GLOOM",
+        "by":
+        {
+            "Level": 21
+        }
+    }]
+}

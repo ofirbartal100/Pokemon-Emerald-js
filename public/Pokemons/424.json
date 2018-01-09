@@ -1,0 +1,93 @@
+{
+    "ID": 424,
+    "Name": "Ambipom",
+    "InternalName": "AMBIPOM",
+    "Type1": "NORMAL",
+    "BaseStats": [75, 100, 66, 115, 60, 66],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "169",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "45",
+    "Happiness": "100",
+    "Abilities": ["TECHNICIAN","PICKUP"],
+    "HiddenAbility": "SKILLLINK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 4,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 8,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 11,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 15,
+        "move": "TICKLE"
+    },
+    {
+        "level": 18,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 22,
+        "move": "SWIFT"
+    },
+    {
+        "level": 25,
+        "move": "SCREECH"
+    },
+    {
+        "level": 29,
+        "move": "AGILITY"
+    },
+    {
+        "level": 32,
+        "move": "DOUBLEHIT"
+    },
+    {
+        "level": 36,
+        "move": "FLING"
+    },
+    {
+        "level": 39,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 43,
+        "move": "LASTRESORT"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "20.3",
+    "Color": "Purple",
+    "Shape": "6",
+    "RegionalNumbers": [0, 124],
+    "Kind": "Long Tail",
+    "Pokedex": "To eat, it deftly shucks nuts with its two tails. It rarely uses its arms now.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

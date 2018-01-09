@@ -1,0 +1,111 @@
+{
+    "ID": 578,
+    "Name": "Duosion",
+    "InternalName": "DUOSION",
+    "Type1": "PSYCHIC",
+    "BaseStats": [65, 40, 50, 30, 125, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "130",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "100",
+    "Happiness": "70",
+    "Abilities": ["OVERCOAT","MAGICGUARD"],
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 1,
+        "move": "REFLECT"
+    },
+    {
+        "level": 1,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 1,
+        "move": "SNATCH"
+    },
+    {
+        "level": 3,
+        "move": "REFLECT"
+    },
+    {
+        "level": 7,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 10,
+        "move": "SNATCH"
+    },
+    {
+        "level": 14,
+        "move": "HIDDENPOWER"
+    },
+    {
+        "level": 16,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 19,
+        "move": "CHARM"
+    },
+    {
+        "level": 24,
+        "move": "RECOVER"
+    },
+    {
+        "level": 25,
+        "move": "PSYSHOCK"
+    },
+    {
+        "level": 28,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 31,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 34,
+        "move": "PAINSPLIT"
+    },
+    {
+        "level": 39,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 43,
+        "move": "SKILLSWAP"
+    },
+    {
+        "level": 50,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 53,
+        "move": "WONDERROOM"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "8.0",
+    "Color": "Green",
+    "Shape": "1",
+    "Kind": "Mitosis",
+    "Pokedex": "When their brains, now divided in two, are thinking the same thoughts, these Pokémon exhibit their maximum power.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "31",
+    "BattlerAltitude": "13",
+    "Evolutions": [
+    {
+        "to": "REUNICLUS",
+        "by":
+        {
+            "Level": 41
+        }
+    }]
+}

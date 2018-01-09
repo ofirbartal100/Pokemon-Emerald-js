@@ -1,0 +1,84 @@
+{
+    "ID": 405,
+    "Name": "Luxray",
+    "InternalName": "LUXRAY",
+    "Type1": "ELECTRIC",
+    "BaseStats": [80, 120, 79, 70, 95, 79],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "235",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["RIVALRY","INTIMIDATE"],
+    "HiddenAbility": "GUTS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "CHARGE"
+    },
+    {
+        "level": 5,
+        "move": "LEER"
+    },
+    {
+        "level": 9,
+        "move": "CHARGE"
+    },
+    {
+        "level": 13,
+        "move": "SPARK"
+    },
+    {
+        "level": 18,
+        "move": "BITE"
+    },
+    {
+        "level": 23,
+        "move": "ROAR"
+    },
+    {
+        "level": 28,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 35,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 42,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 49,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 56,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 63,
+        "move": "WILDCHARGE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "42.0",
+    "Color": "Blue",
+    "Shape": "8",
+    "Kind": "Gleam Eyes",
+    "Pokedex": "It has eyes that can see through anything. It spots and captures prey hiding behind objects.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

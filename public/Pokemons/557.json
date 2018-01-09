@@ -1,0 +1,99 @@
+{
+    "ID": 557,
+    "Name": "Dwebble",
+    "InternalName": "DWEBBLE",
+    "Type1": "BUG",
+    "Type2": "ROCK",
+    "BaseStats": [50, 65, 85, 55, 35, 35],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "65",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["STURDY","SHELLARMOR"],
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 5,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 7,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 11,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 13,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 17,
+        "move": "SMACKDOWN"
+    },
+    {
+        "level": 19,
+        "move": "ROCKPOLISH"
+    },
+    {
+        "level": 23,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 24,
+        "move": "STEALTHROCK"
+    },
+    {
+        "level": 29,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 31,
+        "move": "SLASH"
+    },
+    {
+        "level": 35,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 37,
+        "move": "SHELLSMASH"
+    },
+    {
+        "level": 41,
+        "move": "FLAIL"
+    },
+    {
+        "level": 43,
+        "move": "ROCKWRECKER"
+    }],
+    "EggMoves": ["BLOCK", "COUNTER", "CURSE", "ENDURE", "IRONDEFENSE", "NIGHTSLASH", "SANDTOMB", "SPIKES"],
+    "Compatibility": ["Bug", "Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "14.5",
+    "Color": "Red",
+    "Shape": "14",
+    "Kind": "Rock Inn",
+    "Pokedex": "It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.",
+    "WildItemUncommon": "HARDSTONE",
+    "WildItemRare": "RAREBONE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "36",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CRUSTLE",
+        "by":
+        {
+            "Level": 34
+        }
+    }]
+}

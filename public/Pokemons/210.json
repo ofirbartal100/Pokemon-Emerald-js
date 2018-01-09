@@ -1,0 +1,94 @@
+{
+    "ID": 210,
+    "Name": "Granbull",
+    "InternalName": "GRANBULL",
+    "Type1": "NORMAL",
+    "BaseStats": [90, 120, 75, 45, 60, 60],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "158",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","QUICKFEET"],
+    "HiddenAbility": "RATTLED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "CHARM"
+    },
+    {
+        "level": 7,
+        "move": "BITE"
+    },
+    {
+        "level": 13,
+        "move": "LICK"
+    },
+    {
+        "level": 19,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 27,
+        "move": "ROAR"
+    },
+    {
+        "level": 35,
+        "move": "RAGE"
+    },
+    {
+        "level": 43,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 51,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 59,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 67,
+        "move": "OUTRAGE"
+    }],
+    "Compatibility": ["Field", "Fairy"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "48.7",
+    "Color": "Purple",
+    "Shape": "6",
+    "Habitat": "Urban",
+    "RegionalNumbers": [0, 126],
+    "Kind": "Fairy",
+    "Pokedex": "It has a particularly well-developed lower jaw. The huge fangs are heavy, causing it to tilt its head. Unless it is startled, it will not try to bite.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

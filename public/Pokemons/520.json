@@ -1,0 +1,108 @@
+{
+    "ID": 520,
+    "Name": "Tranquill",
+    "InternalName": "TRANQUILL",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [62, 77, 62, 65, 50, 42],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "125",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["BIGPECKS","SUPERLUCK"],
+    "HiddenAbility": "RIVALRY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 8,
+        "move": "LEER"
+    },
+    {
+        "level": 11,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 15,
+        "move": "AIRCUTTER"
+    },
+    {
+        "level": 18,
+        "move": "ROOST"
+    },
+    {
+        "level": 23,
+        "move": "DETECT"
+    },
+    {
+        "level": 27,
+        "move": "TAUNT"
+    },
+    {
+        "level": 32,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 36,
+        "move": "RAZORWIND"
+    },
+    {
+        "level": 41,
+        "move": "FEATHERDANCE"
+    },
+    {
+        "level": 45,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 50,
+        "move": "FACADE"
+    },
+    {
+        "level": 54,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 59,
+        "move": "SKYATTACK"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "0.6",
+    "Weight": "15.0",
+    "Color": "Gray",
+    "Shape": "9",
+    "Kind": "Wild Pigeon",
+    "Pokedex": "Many people believe that, deep in the forest where Tranquill live, there is a peaceful place where there is no war.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "UNFEZANT",
+        "by":
+        {
+            "Level": 32
+        }
+    }]
+}

@@ -1,0 +1,78 @@
+{
+    "ID": 443,
+    "Name": "Gible",
+    "InternalName": "GIBLE",
+    "Type1": "DRAGON",
+    "Type2": "GROUND",
+    "BaseStats": [58, 70, 45, 42, 40, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "SANDVEIL",
+    "HiddenAbility": "ROUGHSKIN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 3,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 7,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 13,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 15,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 19,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 25,
+        "move": "SLASH"
+    },
+    {
+        "level": 27,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 31,
+        "move": "DIG"
+    },
+    {
+        "level": 37,
+        "move": "DRAGONRUSH"
+    }],
+    "EggMoves": ["BODYSLAM", "DOUBLEEDGE", "DRAGONBREATH", "IRONHEAD", "IRONTAIL", "METALCLAW", "MUDSHOT", "OUTRAGE", "ROCKCLIMB", "SANDTOMB", "SCARYFACE", "THRASH", "TWISTER"],
+    "Compatibility": ["Monster", "Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "0.7",
+    "Weight": "20.5",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Land Shark",
+    "Pokedex": "It nests in small, horizontal holes in cave walls. It pounces to catch prey that stray too close.",
+    "WildItemUncommon": "HABANBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GABITE",
+        "by":
+        {
+            "Level": 24
+        }
+    }]
+}

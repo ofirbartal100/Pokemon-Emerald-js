@@ -1,0 +1,97 @@
+{
+    "ID": 389,
+    "Name": "Torterra",
+    "InternalName": "TORTERRA",
+    "Type1": "GRASS",
+    "Type2": "GROUND",
+    "BaseStats": [95, 109, 105, 56, 75, 85],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "236",
+    "EffortPoints": [0, 2, 1, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "SHELLARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WOODHAMMER"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 1,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 5,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 9,
+        "move": "ABSORB"
+    },
+    {
+        "level": 13,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 17,
+        "move": "CURSE"
+    },
+    {
+        "level": 22,
+        "move": "BITE"
+    },
+    {
+        "level": 27,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 32,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 33,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 39,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 45,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 51,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 57,
+        "move": "LEAFSTORM"
+    }],
+    "Compatibility": ["Monster", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "2.2",
+    "Weight": "310.0",
+    "Color": "Green",
+    "Shape": "8",
+    "Kind": "Continent",
+    "Pokedex": "Small Pokémon occasionally gather on its unmoving back to begin building their nests.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "8",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

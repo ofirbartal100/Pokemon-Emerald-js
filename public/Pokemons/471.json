@@ -1,0 +1,84 @@
+{
+    "ID": 471,
+    "Name": "Glaceon",
+    "InternalName": "GLACEON",
+    "Type1": "ICE",
+    "BaseStats": [65, 60, 110, 65, 130, 95],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "184",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "SNOWCLOAK",
+    "HiddenAbility": "ICEBODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 5,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 12,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 17,
+        "move": "BITE"
+    },
+    {
+        "level": 21,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 25,
+        "move": "ICESHARD"
+    },
+    {
+        "level": 29,
+        "move": "BARRIER"
+    },
+    {
+        "level": 33,
+        "move": "MIRRORCOAT"
+    },
+    {
+        "level": 37,
+        "move": "HAIL"
+    },
+    {
+        "level": 41,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 45,
+        "move": "BLIZZARD"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "9180",
+    "Height": "0.8",
+    "Weight": "25.9",
+    "Color": "Blue",
+    "Shape": "8",
+    "Kind": "Fresh Snow",
+    "Pokedex": "As a protective technique, it can completely freeze its fur to make its hairs stand like needles.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

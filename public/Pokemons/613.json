@@ -1,0 +1,97 @@
+{
+    "ID": 613,
+    "Name": "Cubchoo",
+    "InternalName": "CUBCHOO",
+    "Type1": "ICE",
+    "BaseStats": [55, 70, 40, 40, 60, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "SNOWCLOAK",
+    "HiddenAbility": "RATTLED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 5,
+        "move": "GROWL"
+    },
+    {
+        "level": 9,
+        "move": "BIDE"
+    },
+    {
+        "level": 13,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 17,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 21,
+        "move": "BRINE"
+    },
+    {
+        "level": 25,
+        "move": "ENDURE"
+    },
+    {
+        "level": 29,
+        "move": "CHARM"
+    },
+    {
+        "level": 33,
+        "move": "SLASH"
+    },
+    {
+        "level": 36,
+        "move": "FLAIL"
+    },
+    {
+        "level": 41,
+        "move": "REST"
+    },
+    {
+        "level": 45,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 49,
+        "move": "HAIL"
+    },
+    {
+        "level": 53,
+        "move": "THRASH"
+    },
+    {
+        "level": 57,
+        "move": "SHEERCOLD"
+    }],
+    "EggMoves": ["ASSURANCE", "AVALANCHE", "ENCORE", "FOCUSPUNCH", "ICEPUNCH", "NIGHTSLASH", "SLEEPTALK", "YAWN"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "8.5",
+    "Color": "White",
+    "Shape": "6",
+    "Kind": "Chill",
+    "Pokedex": "Its nose is always running. It sniffs the snot back up because the mucus provides the raw material for its moves.",
+    "WildItemCommon": "ASPEARBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "35",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BEARTIC",
+        "by":
+        {
+            "Level": 37
+        }
+    }]
+}

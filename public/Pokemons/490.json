@@ -1,0 +1,79 @@
+{
+    "ID": 490,
+    "Name": "Manaphy",
+    "InternalName": "MANAPHY",
+    "Type1": "WATER",
+    "BaseStats": [100, 100, 100, 100, 100, 100],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "70",
+    "Abilities": "HYDRATION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TAILGLOW"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 9,
+        "move": "CHARM"
+    },
+    {
+        "level": 16,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 24,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 31,
+        "move": "ACIDARMOR"
+    },
+    {
+        "level": 39,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 46,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 54,
+        "move": "AQUARING"
+    },
+    {
+        "level": 61,
+        "move": "DIVE"
+    },
+    {
+        "level": 69,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 76,
+        "move": "HEARTSWAP"
+    }],
+    "Compatibility": ["Water1", "Fairy"],
+    "StepsToHatch": "2805",
+    "Height": "0.3",
+    "Weight": "1.4",
+    "Color": "Blue",
+    "Shape": "12",
+    "Kind": "Seafaring",
+    "Pokedex": "Born on a cold seafloor, it will swim great distances to return to its birthplace.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "12",
+    "Evolutions": []
+}

@@ -1,0 +1,119 @@
+{
+    "ID": 205,
+    "Name": "Forretress",
+    "InternalName": "FORRETRESS",
+    "Type1": "BUG",
+    "Type2": "STEEL",
+    "BaseStats": [75, 90, 140, 40, 60, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "163",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "STURDY",
+    "HiddenAbility": "OVERCOAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "PROTECT"
+    },
+    {
+        "level": 1,
+        "move": "SELFDESTRUCT"
+    },
+    {
+        "level": 1,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 6,
+        "move": "SELFDESTRUCT"
+    },
+    {
+        "level": 9,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 12,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 17,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 20,
+        "move": "BIDE"
+    },
+    {
+        "level": 23,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 28,
+        "move": "SPIKES"
+    },
+    {
+        "level": 31,
+        "move": "MIRRORSHOT"
+    },
+    {
+        "level": 32,
+        "move": "AUTOTOMIZE"
+    },
+    {
+        "level": 36,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 42,
+        "move": "EXPLOSION"
+    },
+    {
+        "level": 46,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 50,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 56,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 60,
+        "move": "MAGNETRISE"
+    },
+    {
+        "level": 64,
+        "move": "ZAPCANNON"
+    },
+    {
+        "level": 70,
+        "move": "HEAVYSLAM"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "125.8",
+    "Color": "Purple",
+    "Shape": "1",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 94],
+    "Kind": "Bagworm",
+    "Pokedex": "It keeps itself inside its steel shell. The shell is opened when it is catching prey, but it is so quick that the shell's inside cannot be seen.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

@@ -1,0 +1,88 @@
+{
+    "ID": 646,
+    "Name": "Kyurem",
+    "InternalName": "KYUREM",
+    "Type1": "DRAGON",
+    "Type2": "ICE",
+    "BaseStats": [125, 130, 90, 95, 130, 90],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "41",
+    "EffortPoints": [1, 1, 0, 0, 1, 0],
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "PRESSURE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 1,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 8,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 15,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 22,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 29,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 36,
+        "move": "SLASH"
+    },
+    {
+        "level": 43,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 50,
+        "move": "GLACIATE"
+    },
+    {
+        "level": 57,
+        "move": "DRAGONPULSE"
+    },
+    {
+        "level": 64,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 71,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 78,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 85,
+        "move": "OUTRAGE"
+    },
+    {
+        "level": 92,
+        "move": "HYPERVOICE"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "3.0",
+    "Weight": "325.0",
+    "Color": "Gray",
+    "Shape": "6",
+    "Kind": "Boundary",
+    "Pokedex": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

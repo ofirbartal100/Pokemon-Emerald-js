@@ -1,0 +1,98 @@
+{
+    "ID": 291,
+    "Name": "Ninjask",
+    "InternalName": "NINJASK",
+    "Type1": "BUG",
+    "Type2": "FLYING",
+    "BaseStats": [61, 90, 45, 160, 50, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "160",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "SPEEDBOOST",
+    "HiddenAbility": "INFILTRATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 5,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 9,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 14,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 19,
+        "move": "MINDREADER"
+    },
+    {
+        "level": 20,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 20,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 20,
+        "move": "SCREECH"
+    },
+    {
+        "level": 25,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 31,
+        "move": "SLASH"
+    },
+    {
+        "level": 38,
+        "move": "AGILITY"
+    },
+    {
+        "level": 45,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 52,
+        "move": "XSCISSOR"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.8",
+    "Weight": "12.0",
+    "Color": "Yellow",
+    "Shape": "13",
+    "Habitat": "Forest",
+    "Kind": "Ninja",
+    "Pokedex": "Because it darts about vigorously at high speed, it is very difficult to see. Hearing its distinctive cries for too long induces a headache.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "12",
+    "Evolutions": []
+}

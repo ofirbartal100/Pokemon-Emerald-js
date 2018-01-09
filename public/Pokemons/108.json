@@ -1,0 +1,99 @@
+{
+    "ID": 108,
+    "Name": "Lickitung",
+    "InternalName": "LICKITUNG",
+    "Type1": "NORMAL",
+    "BaseStats": [90, 55, 75, 30, 60, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "77",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["OWNTEMPO","OBLIVIOUS"],
+    "HiddenAbility": "CLOUDNINE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LICK"
+    },
+    {
+        "level": 5,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 9,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 13,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 17,
+        "move": "WRAP"
+    },
+    {
+        "level": 21,
+        "move": "STOMP"
+    },
+    {
+        "level": 25,
+        "move": "DISABLE"
+    },
+    {
+        "level": 29,
+        "move": "SLAM"
+    },
+    {
+        "level": 33,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 37,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 41,
+        "move": "MEFIRST"
+    },
+    {
+        "level": 45,
+        "move": "REFRESH"
+    },
+    {
+        "level": 49,
+        "move": "SCREECH"
+    },
+    {
+        "level": 53,
+        "move": "POWERWHIP"
+    },
+    {
+        "level": 57,
+        "move": "WRINGOUT"
+    }],
+    "EggMoves": ["AMNESIA", "BELLYDRUM", "BODYSLAM", "CURSE", "HAMMERARM", "MAGNITUDE", "MUDDYWATER", "SLEEPTALK", "SMELLINGSALTS", "SNORE", "ZENHEADBUTT"],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "65.5",
+    "Color": "Pink",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [108, 180],
+    "Kind": "Licking",
+    "Pokedex": "Whenever it sees something unfamiliar, it always licks the object because it memorizes things by texture and taste. It is somewhat put off by sour things.",
+    "WildItemUncommon": "LAGGINGTAIL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "LICKILICKY",
+        "by":
+        {
+            "HasMove": "ROLLOUT"
+        }
+    }]
+}

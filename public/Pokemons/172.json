@@ -1,0 +1,63 @@
+{
+    "ID": 172,
+    "Name": "Pichu",
+    "InternalName": "PICHU",
+    "Type1": "ELECTRIC",
+    "BaseStats": [20, 40, 15, 60, 35, 35],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "41",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "STATIC",
+    "HiddenAbility": "LIGHTNINGROD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 1,
+        "move": "CHARM"
+    },
+    {
+        "level": 5,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 10,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 13,
+        "move": "SWEETKISS"
+    },
+    {
+        "level": 18,
+        "move": "NASTYPLOT"
+    }],
+    "EggMoves": ["BESTOW", "BIDE", "CHARGE", "DOUBLESLAP", "ENCORE", "ENDURE", "FAKEOUT", "FLAIL", "LUCKYCHANT", "PRESENT", "REVERSAL", "THUNDERPUNCH", "TICKLE", "WISH"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "2805",
+    "Height": "0.3",
+    "Weight": "2.0",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 21],
+    "Kind": "Tiny Mouse",
+    "Pokedex": "It is still inept at retaining electricity. When it is startled, it discharges power accidentally. It gets better at holding power as it grows older.",
+    "WildItemCommon": "ORANBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "PIKACHU",
+        "by":
+        {
+            "Happiness": "Happiness"
+        }
+    }]
+}

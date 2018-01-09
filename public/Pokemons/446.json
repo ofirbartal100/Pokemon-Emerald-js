@@ -1,0 +1,108 @@
+{
+    "ID": 446,
+    "Name": "Munchlax",
+    "InternalName": "MUNCHLAX",
+    "Type1": "NORMAL",
+    "BaseStats": [135, 85, 40, 5, 40, 85],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Slow",
+    "BaseEXP": "78",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "50",
+    "Happiness": "70",
+    "Abilities": ["PICKUP","THICKFAT"],
+    "HiddenAbility": "GLUTTONY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "METRONOME"
+    },
+    {
+        "level": 1,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 9,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 12,
+        "move": "LICK"
+    },
+    {
+        "level": 17,
+        "move": "RECYCLE"
+    },
+    {
+        "level": 20,
+        "move": "SCREECH"
+    },
+    {
+        "level": 25,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 28,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 33,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 36,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 41,
+        "move": "FLING"
+    },
+    {
+        "level": 44,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 49,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 52,
+        "move": "SNATCH"
+    },
+    {
+        "level": 57,
+        "move": "LASTRESORT"
+    }],
+    "EggMoves": ["AFTERYOU", "CHARM", "COUNTER", "CURSE", "DOUBLEEDGE", "FISSURE", "LICK", "NATURALGIFT", "PURSUIT", "SELFDESTRUCT", "WHIRLWIND", "ZENHEADBUTT"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "10455",
+    "Height": "0.6",
+    "Weight": "105.0",
+    "Color": "Black",
+    "Shape": "12",
+    "Kind": "Big Eater",
+    "Pokedex": "It wolfs down its weight in food once a day, swallowing food whole with almost no chewing.",
+    "WildItemCommon": "LEFTOVERS",
+    "WildItemUncommon": "LEFTOVERS",
+    "WildItemRare": "LEFTOVERS",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SNORLAX",
+        "by":
+        {
+            "Happiness": "Happiness"
+        }
+    }],
+    "Incense": "FULLINCENSE"
+}

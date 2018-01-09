@@ -1,0 +1,94 @@
+{
+    "ID": 118,
+    "Name": "Goldeen",
+    "InternalName": "GOLDEEN",
+    "Type1": "WATER",
+    "BaseStats": [45, 67, 60, 63, 35, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "64",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "225",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","WATERVEIL"],
+    "HiddenAbility": "LIGHTNINGROD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 7,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 11,
+        "move": "HORNATTACK"
+    },
+    {
+        "level": 17,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 21,
+        "move": "FLAIL"
+    },
+    {
+        "level": 27,
+        "move": "AQUARING"
+    },
+    {
+        "level": 31,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 37,
+        "move": "WATERFALL"
+    },
+    {
+        "level": 41,
+        "move": "HORNDRILL"
+    },
+    {
+        "level": 47,
+        "move": "AGILITY"
+    },
+    {
+        "level": 51,
+        "move": "SOAK"
+    },
+    {
+        "level": 57,
+        "move": "MEGAHORN"
+    }],
+    "EggMoves": ["AQUATAIL", "BODYSLAM", "HAZE", "HYDROPUMP", "MUDSHOT", "MUDSPORT", "MUDSLAP", "PSYBEAM", "SIGNALBEAM", "SKULLBASH", "SLEEPTALK"],
+    "Compatibility": ["Water2"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "15.0",
+    "Color": "Red",
+    "Shape": "3",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [118, 78],
+    "Kind": "Goldfish",
+    "Pokedex": "In the springtime, schools of Goldeen can be seen swimming up falls and rivers. It metes out staggering damage with its single horn.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "11",
+    "Evolutions": [
+    {
+        "to": "SEAKING",
+        "by":
+        {
+            "Level": 33
+        }
+    }]
+}

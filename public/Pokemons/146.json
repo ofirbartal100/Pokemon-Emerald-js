@@ -1,0 +1,91 @@
+{
+    "ID": 146,
+    "Name": "Moltres",
+    "InternalName": "MOLTRES",
+    "Type1": "FIRE",
+    "Type2": "FLYING",
+    "BaseStats": [90, 100, 90, 90, 125, 85],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "FLAMEBODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 8,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 15,
+        "move": "AGILITY"
+    },
+    {
+        "level": 22,
+        "move": "ENDURE"
+    },
+    {
+        "level": 29,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 36,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 43,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 50,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 57,
+        "move": "ROOST"
+    },
+    {
+        "level": 64,
+        "move": "HEATWAVE"
+    },
+    {
+        "level": 71,
+        "move": "SOLARBEAM"
+    },
+    {
+        "level": 78,
+        "move": "SKYATTACK"
+    },
+    {
+        "level": 85,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 92,
+        "move": "HURRICANE"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "2.0",
+    "Weight": "60.0",
+    "Color": "Yellow",
+    "Shape": "9",
+    "Habitat": "Rare",
+    "RegionalNumbers": [146, 242],
+    "Kind": "Flame",
+    "Pokedex": "Moltres is a legendary bird Pokémon that can control fire. If injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "7",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

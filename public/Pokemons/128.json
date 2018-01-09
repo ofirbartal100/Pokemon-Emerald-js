@@ -1,0 +1,86 @@
+{
+    "ID": 128,
+    "Name": "Tauros",
+    "InternalName": "TAUROS",
+    "Type1": "NORMAL",
+    "BaseStats": [75, 100, 95, 110, 40, 70],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "172",
+    "EffortPoints": [0, 1, 0, 1, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","ANGERPOINT"],
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 3,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 5,
+        "move": "RAGE"
+    },
+    {
+        "level": 8,
+        "move": "HORNATTACK"
+    },
+    {
+        "level": 11,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 15,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 19,
+        "move": "REST"
+    },
+    {
+        "level": 24,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 29,
+        "move": "WORKUP"
+    },
+    {
+        "level": 35,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 41,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 48,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 55,
+        "move": "THRASH"
+    },
+    {
+        "level": 63,
+        "move": "GIGAIMPACT"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "88.4",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [128, 150],
+    "Kind": "Wild Bull",
+    "Pokedex": "It is not satisfied unless it is rampaging at all times. If there is no opponent for Tauros to battle, it will charge at thick trees and knock them down to calm itself.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

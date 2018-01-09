@@ -1,0 +1,97 @@
+{
+    "ID": 528,
+    "Name": "Swoobat",
+    "InternalName": "SWOOBAT",
+    "Type1": "PSYCHIC",
+    "Type2": "FLYING",
+    "BaseStats": [67, 57, 55, 114, 77, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "149",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["UNAWARE","KLUTZ"],
+    "HiddenAbility": "SIMPLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 1,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 4,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 8,
+        "move": "GUST"
+    },
+    {
+        "level": 12,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 15,
+        "move": "HEARTSTAMP"
+    },
+    {
+        "level": 19,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 21,
+        "move": "AIRCUTTER"
+    },
+    {
+        "level": 25,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 29,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 29,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 32,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 36,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 41,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 47,
+        "move": "ENDEAVOR"
+    }],
+    "Compatibility": ["Flying", "Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.9",
+    "Weight": "10.5",
+    "Color": "Blue",
+    "Shape": "9",
+    "Kind": "Courting",
+    "Pokedex": "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "18",
+    "Evolutions": []
+}

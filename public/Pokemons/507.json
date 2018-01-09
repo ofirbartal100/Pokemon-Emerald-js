@@ -1,0 +1,95 @@
+{
+    "ID": 507,
+    "Name": "Herdier",
+    "InternalName": "HERDIER",
+    "Type1": "NORMAL",
+    "BaseStats": [65, 80, 65, 60, 35, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "130",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","SANDRUSH"],
+    "HiddenAbility": "SCRAPPY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 5,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 8,
+        "move": "BITE"
+    },
+    {
+        "level": 12,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 15,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 20,
+        "move": "WORKUP"
+    },
+    {
+        "level": 24,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 29,
+        "move": "ROAR"
+    },
+    {
+        "level": 33,
+        "move": "RETALIATE"
+    },
+    {
+        "level": 38,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 42,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 47,
+        "move": "GIGAIMPACT"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.9",
+    "Weight": "14.7",
+    "Color": "Gray",
+    "Shape": "8",
+    "Kind": "Loyal Dog",
+    "Pokedex": "It loyally follows its Trainer's orders. For ages, they have helped Trainers raise Pokémon.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "STOUTLAND",
+        "by":
+        {
+            "Level": 32
+        }
+    }]
+}

@@ -1,0 +1,80 @@
+{
+    "ID": 420,
+    "Name": "Cherubi",
+    "InternalName": "CHERUBI",
+    "Type1": "GRASS",
+    "BaseStats": [45, 35, 45, 35, 62, 53],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "55",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "CHLOROPHYLL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MORNINGSUN"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 7,
+        "move": "GROWTH"
+    },
+    {
+        "level": 10,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 13,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 19,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 22,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 28,
+        "move": "WORRYSEED"
+    },
+    {
+        "level": 31,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 37,
+        "move": "SOLARBEAM"
+    },
+    {
+        "level": 40,
+        "move": "LUCKYCHANT"
+    }],
+    "EggMoves": ["AROMATHERAPY", "DEFENSECURL", "GRASSWHISTLE", "HEALPULSE", "HEALINGWISH", "NATURALGIFT", "NATUREPOWER", "RAZORLEAF", "ROLLOUT", "SEEDBOMB", "SWEETSCENT", "TICKLE", "WEATHERBALL"],
+    "Compatibility": ["Fairy", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "3.3",
+    "Color": "Pink",
+    "Shape": "11",
+    "Kind": "Cherry",
+    "Pokedex": "The small ball holds the nutrients needed for evolution. Apparently, it is very sweet and tasty.",
+    "WildItemUncommon": "MIRACLESEED",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CHERRIM",
+        "by":
+        {
+            "Level": 25
+        }
+    }]
+}

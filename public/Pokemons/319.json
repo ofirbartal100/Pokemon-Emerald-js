@@ -1,0 +1,107 @@
+{
+    "ID": 319,
+    "Name": "Sharpedo",
+    "InternalName": "SHARPEDO",
+    "Type1": "WATER",
+    "Type2": "DARK",
+    "BaseStats": [70, 120, 40, 95, 95, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "161",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "35",
+    "Abilities": "ROUGHSKIN",
+    "HiddenAbility": "SPEEDBOOST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FEINT"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "RAGE"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 6,
+        "move": "RAGE"
+    },
+    {
+        "level": 8,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 11,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 16,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 18,
+        "move": "SCREECH"
+    },
+    {
+        "level": 21,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 26,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 28,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 30,
+        "move": "SLASH"
+    },
+    {
+        "level": 34,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 40,
+        "move": "TAUNT"
+    },
+    {
+        "level": 45,
+        "move": "AGILITY"
+    },
+    {
+        "level": 50,
+        "move": "SKULLBASH"
+    },
+    {
+        "level": 56,
+        "move": "NIGHTSLASH"
+    }],
+    "Compatibility": ["Water2"],
+    "StepsToHatch": "5355",
+    "Height": "1.8",
+    "Weight": "88.8",
+    "Color": "Blue",
+    "Shape": "3",
+    "Habitat": "Sea",
+    "Kind": "Brutal",
+    "Pokedex": "The vicious and sly gangster of the sea. Its skin is specially textured to minimize drag in water. Its speed tops out at over 75 miles per hour.",
+    "WildItemUncommon": "DEEPSEATOOTH",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "10",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

@@ -1,0 +1,107 @@
+{
+    "ID": 163,
+    "Name": "Hoothoot",
+    "InternalName": "HOOTHOOT",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [60, 30, 30, 50, 36, 56],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "52",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["INSOMNIA","KEENEYE"],
+    "HiddenAbility": "TINTEDLENS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 5,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 9,
+        "move": "PECK"
+    },
+    {
+        "level": 13,
+        "move": "UPROAR"
+    },
+    {
+        "level": 17,
+        "move": "REFLECT"
+    },
+    {
+        "level": 21,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 25,
+        "move": "ECHOEDVOICE"
+    },
+    {
+        "level": 29,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 33,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 37,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 41,
+        "move": "SYNCHRONOISE"
+    },
+    {
+        "level": 45,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 49,
+        "move": "PSYCHOSHIFT"
+    },
+    {
+        "level": 53,
+        "move": "ROOST"
+    },
+    {
+        "level": 57,
+        "move": "DREAMEATER"
+    }],
+    "EggMoves": ["AGILITY", "DEFOG", "FEINTATTACK", "FEATHERDANCE", "MIRRORMOVE", "NIGHTSHADE", "SKYATTACK", "SUPERSONIC", "WHIRLWIND", "WINGATTACK"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "0.7",
+    "Weight": "21.2",
+    "Color": "Brown",
+    "Shape": "9",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 15],
+    "Kind": "Owl",
+    "Pokedex": "It has an internal organ that senses the earth's rotation. Using this special organ, a Hoothoot begins hooting at precisely the same time every day.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "NOCTOWL",
+        "by":
+        {
+            "Level": 20
+        }
+    }]
+}

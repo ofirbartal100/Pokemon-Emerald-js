@@ -1,0 +1,95 @@
+{
+    "ID": 599,
+    "Name": "Klink",
+    "InternalName": "KLINK",
+    "Type1": "STEEL",
+    "BaseStats": [40, 55, 70, 30, 45, 60],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "130",
+    "Happiness": "70",
+    "Abilities": ["PLUS","MINUS"],
+    "HiddenAbility": "CLEARBODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "VICEGRIP"
+    },
+    {
+        "level": 6,
+        "move": "CHARGE"
+    },
+    {
+        "level": 11,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 16,
+        "move": "GEARGRIND"
+    },
+    {
+        "level": 21,
+        "move": "BIND"
+    },
+    {
+        "level": 26,
+        "move": "CHARGEBEAM"
+    },
+    {
+        "level": 31,
+        "move": "AUTOTOMIZE"
+    },
+    {
+        "level": 36,
+        "move": "MIRRORSHOT"
+    },
+    {
+        "level": 39,
+        "move": "SCREECH"
+    },
+    {
+        "level": 42,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 45,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 48,
+        "move": "SHIFTGEAR"
+    },
+    {
+        "level": 51,
+        "move": "LOCKON"
+    },
+    {
+        "level": 54,
+        "move": "ZAPCANNON"
+    },
+    {
+        "level": 57,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "21.0",
+    "Color": "Gray",
+    "Shape": "11",
+    "Kind": "Gear",
+    "Pokedex": "Interlocking two bodies and spinning around generates the energy they need to live.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "33",
+    "BattlerAltitude": "12",
+    "Evolutions": [
+    {
+        "to": "KLANG",
+        "by":
+        {
+            "Level": 38
+        }
+    }]
+}

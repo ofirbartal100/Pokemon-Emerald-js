@@ -1,0 +1,69 @@
+{
+    "ID": 430,
+    "Name": "Honchkrow",
+    "InternalName": "HONCHKROW",
+    "Type1": "DARK",
+    "Type2": "FLYING",
+    "BaseStats": [100, 125, 52, 71, 105, 52],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "177",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "30",
+    "Happiness": "35",
+    "Abilities": ["INSOMNIA","SUPERLUCK"],
+    "HiddenAbility": "MOXIE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 1,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 1,
+        "move": "HAZE"
+    },
+    {
+        "level": 1,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 25,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 35,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 45,
+        "move": "FOULPLAY"
+    },
+    {
+        "level": 55,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 65,
+        "move": "QUASH"
+    },
+    {
+        "level": 75,
+        "move": "DARKPULSE"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "27.3",
+    "Color": "Black",
+    "Shape": "9",
+    "Kind": "Big Boss",
+    "Pokedex": "Becoming active at night, it is known to swarm with numerous Murkrow in tow.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,99 @@
+{
+    "ID": 570,
+    "Name": "Zorua",
+    "InternalName": "ZORUA",
+    "Type1": "DARK",
+    "BaseStats": [40, 65, 40, 65, 80, 40],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "ILLUSION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 9,
+        "move": "FAKETEARS"
+    },
+    {
+        "level": 13,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 17,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 21,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 25,
+        "move": "TAUNT"
+    },
+    {
+        "level": 29,
+        "move": "FOULPLAY"
+    },
+    {
+        "level": 33,
+        "move": "TORMENT"
+    },
+    {
+        "level": 37,
+        "move": "AGILITY"
+    },
+    {
+        "level": 41,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 45,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 49,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 53,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 57,
+        "move": "NIGHTDAZE"
+    }],
+    "EggMoves": ["CAPTIVATE", "COUNTER", "DARKPULSE", "DETECT", "EXTRASENSORY", "MEMENTO", "SNATCH", "SUCKERPUNCH"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "6630",
+    "Height": "0.7",
+    "Weight": "12.5",
+    "Color": "Gray",
+    "Shape": "8",
+    "Kind": "Tricky Fox",
+    "Pokedex": "To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ZOROARK",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

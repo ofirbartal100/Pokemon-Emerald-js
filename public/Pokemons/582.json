@@ -1,0 +1,96 @@
+{
+    "ID": 582,
+    "Name": "Vanillite",
+    "InternalName": "VANILLITE",
+    "Type1": "ICE",
+    "BaseStats": [36, 50, 50, 44, 65, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "ICEBODY",
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ICICLESPEAR"
+    },
+    {
+        "level": 4,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 10,
+        "move": "UPROAR"
+    },
+    {
+        "level": 13,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 16,
+        "move": "MIST"
+    },
+    {
+        "level": 19,
+        "move": "AVALANCHE"
+    },
+    {
+        "level": 22,
+        "move": "TAUNT"
+    },
+    {
+        "level": 26,
+        "move": "MIRRORSHOT"
+    },
+    {
+        "level": 31,
+        "move": "ACIDARMOR"
+    },
+    {
+        "level": 35,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 40,
+        "move": "HAIL"
+    },
+    {
+        "level": 44,
+        "move": "MIRRORCOAT"
+    },
+    {
+        "level": 49,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 53,
+        "move": "SHEERCOLD"
+    }],
+    "EggMoves": ["AUTOTOMIZE", "ICESHARD", "IMPRISON", "IRONDEFENSE", "MAGNETRISE", "NATURALGIFT", "POWDERSNOW", "WATERPULSE"],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "5.7",
+    "Color": "White",
+    "Shape": "5",
+    "Kind": "Fresh Snow",
+    "Pokedex": "This Pokémon formed from icicles bathed in energy from the morning sun. It sleeps buried in snow.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "36",
+    "BattlerAltitude": "12",
+    "Evolutions": [
+    {
+        "to": "VANILLISH",
+        "by":
+        {
+            "Level": 35
+        }
+    }]
+}

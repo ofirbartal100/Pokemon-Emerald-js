@@ -1,0 +1,92 @@
+{
+    "ID": 289,
+    "Name": "Slaking",
+    "InternalName": "SLAKING",
+    "Type1": "NORMAL",
+    "BaseStats": [150, 160, 100, 100, 95, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "252",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "TRUANT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "YAWN"
+    },
+    {
+        "level": 1,
+        "move": "ENCORE"
+    },
+    {
+        "level": 1,
+        "move": "SLACKOFF"
+    },
+    {
+        "level": 7,
+        "move": "ENCORE"
+    },
+    {
+        "level": 13,
+        "move": "SLACKOFF"
+    },
+    {
+        "level": 19,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 25,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 31,
+        "move": "COVET"
+    },
+    {
+        "level": 36,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 37,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 43,
+        "move": "COUNTER"
+    },
+    {
+        "level": 49,
+        "move": "FLAIL"
+    },
+    {
+        "level": 55,
+        "move": "FLING"
+    },
+    {
+        "level": 61,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 67,
+        "move": "HAMMERARM"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "2.0",
+    "Weight": "130.5",
+    "Color": "Brown",
+    "Shape": "12",
+    "Habitat": "Forest",
+    "Kind": "Lazy",
+    "Pokedex": "Hordes of Slaking gather around trees when fruits come into season. They wait around patiently for ripened fruits to fall out of the trees.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

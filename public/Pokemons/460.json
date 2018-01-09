@@ -1,0 +1,90 @@
+{
+    "ID": 460,
+    "Name": "Abomasnow",
+    "InternalName": "ABOMASNOW",
+    "Type1": "GRASS",
+    "Type2": "ICE",
+    "BaseStats": [90, 92, 75, 60, 92, 85],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 1, 0, 0, 1, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": "SNOWWARNING",
+    "HiddenAbility": "SOUNDPROOF",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ICEPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 1,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 5,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 9,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 13,
+        "move": "GRASSWHISTLE"
+    },
+    {
+        "level": 17,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 21,
+        "move": "MIST"
+    },
+    {
+        "level": 26,
+        "move": "ICESHARD"
+    },
+    {
+        "level": 31,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 36,
+        "move": "WOODHAMMER"
+    },
+    {
+        "level": 47,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 58,
+        "move": "SHEERCOLD"
+    }],
+    "Compatibility": ["Monster", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "2.2",
+    "Weight": "135.5",
+    "Color": "White",
+    "Shape": "6",
+    "Kind": "Frost Tree",
+    "Pokedex": "It whips up blizzards in mountains that are always buried in snow. It is the abominable snowman.",
+    "WildItemUncommon": "NEVERMELTICE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "9",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

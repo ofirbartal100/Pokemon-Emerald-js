@@ -1,0 +1,65 @@
+{
+    "ID": 273,
+    "Name": "Seedot",
+    "InternalName": "SEEDOT",
+    "Type1": "GRASS",
+    "BaseStats": [40, 40, 50, 30, 30, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "44",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","EARLYBIRD"],
+    "HiddenAbility": "PICKPOCKET",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BIDE"
+    },
+    {
+        "level": 3,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "GROWTH"
+    },
+    {
+        "level": 13,
+        "move": "NATUREPOWER"
+    },
+    {
+        "level": 21,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 31,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 43,
+        "move": "EXPLOSION"
+    }],
+    "EggMoves": ["AMNESIA", "BEATUP", "BULLETSEED", "DEFOG", "FOULPLAY", "LEECHSEED", "NASTYPLOT", "POWERSWAP", "QUICKATTACK", "RAZORWIND", "TAKEDOWN", "WORRYSEED"],
+    "Compatibility": ["Field", "Grass"],
+    "StepsToHatch": "4080",
+    "Height": "0.5",
+    "Weight": "4.0",
+    "Color": "Brown",
+    "Shape": "7",
+    "Habitat": "Forest",
+    "Kind": "Acorn",
+    "Pokedex": "It hangs off branches and absorbs nutrients. When it finishes eating, its body becomes so heavy that it drops to the ground with a thump.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "NUZLEAF",
+        "by":
+        {
+            "Level": 14
+        }
+    }]
+}

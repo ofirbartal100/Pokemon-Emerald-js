@@ -1,0 +1,81 @@
+{
+    "ID": 402,
+    "Name": "Kricketune",
+    "InternalName": "KRICKETUNE",
+    "Type1": "BUG",
+    "BaseStats": [77, 85, 51, 65, 55, 51],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "134",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "SWARM",
+    "HiddenAbility": "TECHNICIAN",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "BIDE"
+    },
+    {
+        "level": 10,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 14,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 18,
+        "move": "SING"
+    },
+    {
+        "level": 22,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 26,
+        "move": "SLASH"
+    },
+    {
+        "level": 30,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 34,
+        "move": "SCREECH"
+    },
+    {
+        "level": 38,
+        "move": "TAUNT"
+    },
+    {
+        "level": 42,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 46,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 50,
+        "move": "PERISHSONG"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "1.0",
+    "Weight": "25.5",
+    "Color": "Red",
+    "Shape": "13",
+    "Kind": "Cricket",
+    "Pokedex": "It crosses its knifelike arms in front of its chest when it cries. It can compose melodies ad lib.",
+    "WildItemUncommon": "METRONOME",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,115 @@
+{
+    "ID": 87,
+    "Name": "Dewgong",
+    "InternalName": "DEWGONG",
+    "Type1": "WATER",
+    "Type2": "ICE",
+    "BaseStats": [90, 70, 80, 70, 70, 95],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "166",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["THICKFAT","HYDRATION"],
+    "HiddenAbility": "ICEBODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 1,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 3,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 11,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 13,
+        "move": "ENCORE"
+    },
+    {
+        "level": 17,
+        "move": "ICESHARD"
+    },
+    {
+        "level": 21,
+        "move": "REST"
+    },
+    {
+        "level": 23,
+        "move": "AQUARING"
+    },
+    {
+        "level": 27,
+        "move": "AURORABEAM"
+    },
+    {
+        "level": 31,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 33,
+        "move": "BRINE"
+    },
+    {
+        "level": 34,
+        "move": "SHEERCOLD"
+    },
+    {
+        "level": 39,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 45,
+        "move": "DIVE"
+    },
+    {
+        "level": 49,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 55,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 61,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 65,
+        "move": "HAIL"
+    }],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.7",
+    "Weight": "120.0",
+    "Color": "White",
+    "Shape": "3",
+    "Habitat": "Sea",
+    "RegionalNumbers": [87, 179],
+    "Kind": "Sea Lion",
+    "Pokedex": "It loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

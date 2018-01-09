@@ -1,0 +1,111 @@
+{
+    "ID": 461,
+    "Name": "Weavile",
+    "InternalName": "WEAVILE",
+    "Type1": "DARK",
+    "Type2": "ICE",
+    "BaseStats": [70, 120, 65, 125, 45, 85],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "179",
+    "EffortPoints": [0, 1, 0, 1, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "PICKPOCKET",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 1,
+        "move": "REVENGE"
+    },
+    {
+        "level": 1,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "TAUNT"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 8,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 10,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 14,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 16,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 20,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 22,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 25,
+        "move": "HONECLAWS"
+    },
+    {
+        "level": 28,
+        "move": "FLING"
+    },
+    {
+        "level": 32,
+        "move": "SCREECH"
+    },
+    {
+        "level": 35,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 40,
+        "move": "SNATCH"
+    },
+    {
+        "level": 44,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 47,
+        "move": "DARKPULSE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "34.0",
+    "Color": "Black",
+    "Shape": "6",
+    "Kind": "Sharp Claw",
+    "Pokedex": "They live in cold regions, forming groups of four or five that hunt prey with impressive coordination.",
+    "WildItemCommon": "GRIPCLAW",
+    "WildItemUncommon": "QUICKCLAW",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

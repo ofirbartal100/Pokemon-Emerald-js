@@ -1,0 +1,113 @@
+{
+    "ID": 472,
+    "Name": "Gliscor",
+    "InternalName": "GLISCOR",
+    "Type1": "GROUND",
+    "Type2": "FLYING",
+    "BaseStats": [75, 95, 125, 95, 45, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "179",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": ["HYPERCUTTER","SANDVEIL"],
+    "HiddenAbility": "POISONHEAL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 4,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 7,
+        "move": "HARDEN"
+    },
+    {
+        "level": 10,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 16,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 19,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 22,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 27,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 30,
+        "move": "UTURN"
+    },
+    {
+        "level": 35,
+        "move": "SCREECH"
+    },
+    {
+        "level": 40,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 45,
+        "move": "SKYUPPERCUT"
+    },
+    {
+        "level": 50,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 55,
+        "move": "GUILLOTINE"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "2.0",
+    "Weight": "42.5",
+    "Color": "Purple",
+    "Shape": "9",
+    "Kind": "Fang Scorp",
+    "Pokedex": "It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "11",
+    "Evolutions": []
+}

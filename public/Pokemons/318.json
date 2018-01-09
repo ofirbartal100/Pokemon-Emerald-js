@@ -1,0 +1,91 @@
+{
+    "ID": 318,
+    "Name": "Carvanha",
+    "InternalName": "CARVANHA",
+    "Type1": "WATER",
+    "Type2": "DARK",
+    "BaseStats": [45, 90, 20, 65, 65, 20],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "225",
+    "Happiness": "35",
+    "Abilities": "ROUGHSKIN",
+    "HiddenAbility": "SPEEDBOOST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 6,
+        "move": "RAGE"
+    },
+    {
+        "level": 8,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 11,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 16,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 18,
+        "move": "SCREECH"
+    },
+    {
+        "level": 21,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 26,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 28,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 31,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 36,
+        "move": "AGILITY"
+    },
+    {
+        "level": 38,
+        "move": "TAKEDOWN"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "BRINE", "DOUBLEEDGE", "HYDROPUMP", "SWIFT", "THRASH"],
+    "Compatibility": ["Water2"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "20.8",
+    "Color": "Red",
+    "Shape": "3",
+    "Habitat": "Sea",
+    "Kind": "Savage",
+    "Pokedex": "Carvanha attack ships in swarms, making them sink. Although it is said to be a very vicious Pokémon, it timidly flees as soon as it finds itself alone.",
+    "WildItemUncommon": "DEEPSEATOOTH",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "10",
+    "Evolutions": [
+    {
+        "to": "SHARPEDO",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

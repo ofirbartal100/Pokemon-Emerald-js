@@ -1,0 +1,114 @@
+{
+    "ID": 476,
+    "Name": "Probopass",
+    "InternalName": "PROBOPASS",
+    "Type1": "ROCK",
+    "Type2": "STEEL",
+    "BaseStats": [60, 55, 145, 40, 75, 150],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "184",
+    "EffortPoints": [0, 0, 1, 0, 0, 2],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["STURDY","MAGNETPULL"],
+    "HiddenAbility": "SANDFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MAGNETRISE"
+    },
+    {
+        "level": 1,
+        "move": "GRAVITY"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 1,
+        "move": "BLOCK"
+    },
+    {
+        "level": 1,
+        "move": "MAGNETBOMB"
+    },
+    {
+        "level": 4,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 8,
+        "move": "BLOCK"
+    },
+    {
+        "level": 11,
+        "move": "MAGNETBOMB"
+    },
+    {
+        "level": 15,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 18,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 22,
+        "move": "REST"
+    },
+    {
+        "level": 25,
+        "move": "SPARK"
+    },
+    {
+        "level": 29,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 32,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 36,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 39,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 43,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 46,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 50,
+        "move": "LOCKON"
+    },
+    {
+        "level": 50,
+        "move": "ZAPCANNON"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "340.0",
+    "Color": "Gray",
+    "Shape": "11",
+    "Kind": "Compass",
+    "Pokedex": "It exudes strong magnetism from all over. It controls three small units called Mini-Noses.",
+    "WildItemUncommon": "HARDSTONE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

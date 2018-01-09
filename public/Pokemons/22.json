@@ -1,0 +1,92 @@
+{
+    "ID": 22,
+    "Name": "Fearow",
+    "InternalName": "FEAROW",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [65, 90, 65, 100, 61, 61],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "155",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": "KEENEYE",
+    "HiddenAbility": "SNIPER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PLUCK"
+    },
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 5,
+        "move": "LEER"
+    },
+    {
+        "level": 9,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 13,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 17,
+        "move": "AERIALACE"
+    },
+    {
+        "level": 23,
+        "move": "MIRRORMOVE"
+    },
+    {
+        "level": 29,
+        "move": "AGILITY"
+    },
+    {
+        "level": 35,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 41,
+        "move": "ROOST"
+    },
+    {
+        "level": 47,
+        "move": "DRILLPECK"
+    },
+    {
+        "level": 53,
+        "move": "DRILLRUN"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "1.2",
+    "Weight": "38.0",
+    "Color": "Brown",
+    "Shape": "9",
+    "Habitat": "RoughTerrain",
+    "RegionalNumbers": [22, 14],
+    "Kind": "Beak",
+    "Pokedex": "Its long neck and elongated beak are ideal for catching prey in soil or water. It deftly moves this extended and skinny beak to pluck prey.",
+    "WildItemUncommon": "SHARPBEAK",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "6",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

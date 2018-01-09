@@ -1,0 +1,81 @@
+{
+    "ID": 384,
+    "Name": "Rayquaza",
+    "InternalName": "RAYQUAZA",
+    "Type1": "DRAGON",
+    "Type2": "FLYING",
+    "BaseStats": [105, 150, 90, 95, 150, 90],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "306",
+    "EffortPoints": [0, 2, 0, 0, 1, 0],
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "AIRLOCK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TWISTER"
+    },
+    {
+        "level": 5,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 15,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 20,
+        "move": "HYPERVOICE"
+    },
+    {
+        "level": 30,
+        "move": "REST"
+    },
+    {
+        "level": 35,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 45,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 50,
+        "move": "OUTRAGE"
+    },
+    {
+        "level": 60,
+        "move": "DRAGONDANCE"
+    },
+    {
+        "level": 65,
+        "move": "FLY"
+    },
+    {
+        "level": 75,
+        "move": "EXTREMESPEED"
+    },
+    {
+        "level": 80,
+        "move": "HYPERBEAM"
+    },
+    {
+        "level": 90,
+        "move": "DRAGONPULSE"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "7.0",
+    "Weight": "206.5",
+    "Color": "Green",
+    "Shape": "2",
+    "Habitat": "Rare",
+    "Kind": "Sky High",
+    "Pokedex": "A Pokémon that flies endlessly in the ozone layer. It is said it would descend to the ground if Kyogre and Groudon were to fight.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "4",
+    "BattlerAltitude": "6",
+    "Evolutions": []
+}

@@ -1,0 +1,102 @@
+{
+    "ID": 354,
+    "Name": "Banette",
+    "InternalName": "BANETTE",
+    "Type1": "GHOST",
+    "BaseStats": [64, 115, 65, 65, 83, 63],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "159",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": ["INSOMNIA","FRISK"],
+    "HiddenAbility": "CURSEDBODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 1,
+        "move": "SCREECH"
+    },
+    {
+        "level": 1,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 1,
+        "move": "CURSE"
+    },
+    {
+        "level": 4,
+        "move": "SCREECH"
+    },
+    {
+        "level": 7,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 10,
+        "move": "SPITE"
+    },
+    {
+        "level": 13,
+        "move": "WILLOWISP"
+    },
+    {
+        "level": 16,
+        "move": "SHADOWSNEAK"
+    },
+    {
+        "level": 19,
+        "move": "CURSE"
+    },
+    {
+        "level": 22,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 26,
+        "move": "HEX"
+    },
+    {
+        "level": 30,
+        "move": "SHADOWBALL"
+    },
+    {
+        "level": 34,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 40,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 46,
+        "move": "SNATCH"
+    },
+    {
+        "level": 52,
+        "move": "GRUDGE"
+    },
+    {
+        "level": 58,
+        "move": "TRICK"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "6630",
+    "Height": "1.1",
+    "Weight": "12.5",
+    "Color": "Black",
+    "Shape": "6",
+    "Habitat": "Urban",
+    "Kind": "Marionette",
+    "Pokedex": "An abandoned plush doll became this Pokémon. They are said to live in garbage dumps and wander about in search of the children that threw them away.",
+    "WildItemUncommon": "SPELLTAG",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

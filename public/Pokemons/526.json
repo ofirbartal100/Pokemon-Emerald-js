@@ -1,0 +1,98 @@
+{
+    "ID": 526,
+    "Name": "Gigalith",
+    "InternalName": "GIGALITH",
+    "Type1": "ROCK",
+    "BaseStats": [85, 135, 130, 25, 60, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "227",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "STURDY",
+    "HiddenAbility": "SANDFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 4,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 10,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 14,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 17,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 20,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 23,
+        "move": "SMACKDOWN"
+    },
+    {
+        "level": 25,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 30,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 36,
+        "move": "STEALTHROCK"
+    },
+    {
+        "level": 42,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 48,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 55,
+        "move": "EXPLOSION"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "4080",
+    "Height": "1.7",
+    "Weight": "260.0",
+    "Color": "Blue",
+    "Shape": "10",
+    "Kind": "Compressed",
+    "Pokedex": "The solar energy absorbed by its body's orange crystals is magnified internally and fired from its mouth.",
+    "WildItemCommon": "EVERSTONE",
+    "WildItemUncommon": "HARDSTONE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

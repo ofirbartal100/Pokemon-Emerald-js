@@ -1,0 +1,106 @@
+{
+    "ID": 224,
+    "Name": "Octillery",
+    "InternalName": "OCTILLERY",
+    "Type1": "WATER",
+    "BaseStats": [75, 105, 75, 45, 105, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "168",
+    "EffortPoints": [0, 1, 0, 0, 1, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["SUCTIONCUPS","SNIPER"],
+    "HiddenAbility": "MOODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GUNKSHOT"
+    },
+    {
+        "level": 1,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 1,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 1,
+        "move": "AURORABEAM"
+    },
+    {
+        "level": 6,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 10,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 14,
+        "move": "AURORABEAM"
+    },
+    {
+        "level": 18,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 22,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 25,
+        "move": "OCTAZOOKA"
+    },
+    {
+        "level": 28,
+        "move": "WRINGOUT"
+    },
+    {
+        "level": 34,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 40,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 46,
+        "move": "BULLETSEED"
+    },
+    {
+        "level": 52,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 58,
+        "move": "HYPERBEAM"
+    },
+    {
+        "level": 64,
+        "move": "SOAK"
+    }],
+    "Compatibility": ["Water1", "Water2"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "28.5",
+    "Color": "Red",
+    "Shape": "10",
+    "Habitat": "Sea",
+    "RegionalNumbers": [0, 175],
+    "Kind": "Jet",
+    "Pokedex": "It ensnares its foe with its suction- cupped tentacles before delivering the finishing blow. If the foe turns out to be too strong, it spews ink to escape.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

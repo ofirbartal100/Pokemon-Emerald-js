@@ -1,0 +1,105 @@
+{
+    "ID": 607,
+    "Name": "Litwick",
+    "InternalName": "LITWICK",
+    "Type1": "GHOST",
+    "Type2": "FIRE",
+    "BaseStats": [50, 30, 55, 20, 65, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "55",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["FLASHFIRE","FLAMEBODY"],
+    "HiddenAbility": "SHADOWTAG",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 3,
+        "move": "MINIMIZE"
+    },
+    {
+        "level": 5,
+        "move": "SMOG"
+    },
+    {
+        "level": 7,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 10,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 13,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 16,
+        "move": "WILLOWISP"
+    },
+    {
+        "level": 20,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 24,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 28,
+        "move": "HEX"
+    },
+    {
+        "level": 33,
+        "move": "MEMENTO"
+    },
+    {
+        "level": 38,
+        "move": "INFERNO"
+    },
+    {
+        "level": 43,
+        "move": "CURSE"
+    },
+    {
+        "level": 49,
+        "move": "SHADOWBALL"
+    },
+    {
+        "level": 55,
+        "move": "PAINSPLIT"
+    },
+    {
+        "level": 61,
+        "move": "OVERHEAT"
+    }],
+    "EggMoves": ["ACID", "ACIDARMOR", "CAPTIVATE", "CLEARSMOG", "ENDURE", "HAZE", "HEATWAVE"],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "3.1",
+    "Color": "White",
+    "Shape": "5",
+    "Kind": "Candle",
+    "Pokedex": "While shining a light and pretending to be a guide, it leeches off the life force of any who follow it.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "34",
+    "BattlerAltitude": "11",
+    "Evolutions": [
+    {
+        "to": "LAMPENT",
+        "by":
+        {
+            "Level": 41
+        }
+    }]
+}

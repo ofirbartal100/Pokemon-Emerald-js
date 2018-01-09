@@ -1,0 +1,98 @@
+{
+    "ID": 316,
+    "Name": "Gulpin",
+    "InternalName": "GULPIN",
+    "Type1": "POISON",
+    "BaseStats": [70, 43, 53, 40, 43, 53],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fluctuating",
+    "BaseEXP": "60",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "225",
+    "Happiness": "70",
+    "Abilities": ["LIQUIDOOZE","STICKYHOLD"],
+    "HiddenAbility": "GLUTTONY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 6,
+        "move": "YAWN"
+    },
+    {
+        "level": 9,
+        "move": "POISONGAS"
+    },
+    {
+        "level": 14,
+        "move": "SLUDGE"
+    },
+    {
+        "level": 17,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 23,
+        "move": "ENCORE"
+    },
+    {
+        "level": 28,
+        "move": "TOXIC"
+    },
+    {
+        "level": 34,
+        "move": "ACIDSPRAY"
+    },
+    {
+        "level": 39,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 39,
+        "move": "SPITUP"
+    },
+    {
+        "level": 39,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 44,
+        "move": "SLUDGEBOMB"
+    },
+    {
+        "level": 49,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 54,
+        "move": "WRINGOUT"
+    },
+    {
+        "level": 59,
+        "move": "GUNKSHOT"
+    }],
+    "EggMoves": ["ACIDARMOR", "CURSE", "DESTINYBOND", "GUNKSHOT", "MUDSLAP", "PAINSPLIT", "SMOG"],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "10.3",
+    "Color": "Green",
+    "Shape": "4",
+    "Habitat": "Grassland",
+    "Kind": "Stomach",
+    "Pokedex": "This Pokémon's stomach fluid can even digest scrap iron. In one gulp, it can swallow something that is as large as itself.",
+    "WildItemUncommon": "BIGPEARL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SWALOT",
+        "by":
+        {
+            "Level": 26
+        }
+    }]
+}

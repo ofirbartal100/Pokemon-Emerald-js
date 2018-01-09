@@ -1,0 +1,103 @@
+{
+    "ID": 299,
+    "Name": "Nosepass",
+    "InternalName": "NOSEPASS",
+    "Type1": "ROCK",
+    "BaseStats": [30, 45, 135, 30, 45, 90],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "75",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["STURDY","MAGNETPULL"],
+    "HiddenAbility": "SANDFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "HARDEN"
+    },
+    {
+        "level": 8,
+        "move": "BLOCK"
+    },
+    {
+        "level": 11,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 15,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 18,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 22,
+        "move": "REST"
+    },
+    {
+        "level": 25,
+        "move": "SPARK"
+    },
+    {
+        "level": 29,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 32,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 36,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 39,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 43,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 46,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 50,
+        "move": "LOCKON"
+    },
+    {
+        "level": 50,
+        "move": "ZAPCANNON"
+    }],
+    "EggMoves": ["BLOCK", "DOUBLEEDGE", "ENDURE", "MAGNITUDE", "ROLLOUT", "STEALTHROCK"],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "97.0",
+    "Color": "Gray",
+    "Shape": "12",
+    "Habitat": "Cave",
+    "Kind": "Compass",
+    "Pokedex": "Its body emits a powerful magnetism. It feeds on prey that is pulled in by the force. Its magnetism is stronger in cold seasons.",
+    "WildItemUncommon": "HARDSTONE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": ["PROBOPASS", "Location",
+    {
+        "level": 49,
+        "move": "PROBOPASS"
+    }, "Location",
+    {
+        "level": 50,
+        "move": "PROBOPASS"
+    }, "Location", 51]
+}

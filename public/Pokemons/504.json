@@ -1,0 +1,96 @@
+{
+    "ID": 504,
+    "Name": "Patrat",
+    "InternalName": "PATRAT",
+    "Type1": "NORMAL",
+    "BaseStats": [45, 55, 39, 42, 35, 39],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "51",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["RUNAWAY","KEENEYE"],
+    "HiddenAbility": "ANALYTIC",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 3,
+        "move": "LEER"
+    },
+    {
+        "level": 6,
+        "move": "BITE"
+    },
+    {
+        "level": 8,
+        "move": "BIDE"
+    },
+    {
+        "level": 11,
+        "move": "DETECT"
+    },
+    {
+        "level": 13,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 16,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 18,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 21,
+        "move": "SUPERFANG"
+    },
+    {
+        "level": 23,
+        "move": "AFTERYOU"
+    },
+    {
+        "level": 26,
+        "move": "WORKUP"
+    },
+    {
+        "level": 28,
+        "move": "HYPERFANG"
+    },
+    {
+        "level": 31,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 33,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 36,
+        "move": "SLAM"
+    }],
+    "EggMoves": ["ASSURANCE", "FLAIL", "FORESIGHT", "IRONTAIL", "PURSUIT", "REVENGE", "SCREECH"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "0.5",
+    "Weight": "11.6",
+    "Color": "Brown",
+    "Shape": "8",
+    "Kind": "Scout",
+    "Pokedex": "Extremely cautious, they take shifts to maintain a constant watch of their nest. They feel insecure without a lookout.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "WATCHOG",
+        "by":
+        {
+            "Level": 20
+        }
+    }]
+}

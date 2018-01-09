@@ -1,0 +1,91 @@
+{
+    "ID": 335,
+    "Name": "Zangoose",
+    "InternalName": "ZANGOOSE",
+    "Type1": "NORMAL",
+    "BaseStats": [73, 115, 60, 90, 60, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "160",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": "IMMUNITY",
+    "HiddenAbility": "TOXICBOOST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 8,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 12,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 15,
+        "move": "SLASH"
+    },
+    {
+        "level": 19,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 22,
+        "move": "CRUSHCLAW"
+    },
+    {
+        "level": 26,
+        "move": "REVENGE"
+    },
+    {
+        "level": 29,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 33,
+        "move": "DETECT"
+    },
+    {
+        "level": 36,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 40,
+        "move": "TAUNT"
+    },
+    {
+        "level": 43,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 47,
+        "move": "CLOSECOMBAT"
+    }],
+    "EggMoves": ["COUNTER", "CURSE", "DISABLE", "DOUBLEHIT", "DOUBLEKICK", "FEINT", "FINALGAMBIT", "FLAIL", "FURYSWIPES", "IRONTAIL", "METALCLAW", "NIGHTSLASH", "RAZORWIND"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "40.3",
+    "Color": "White",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "Kind": "Cat Ferret",
+    "Pokedex": "When it battles, it stands on its hind legs and attacks with its sharply clawed forelegs. Its fur bristles if it encounters any Seviper.",
+    "WildItemUncommon": "QUICKCLAW",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

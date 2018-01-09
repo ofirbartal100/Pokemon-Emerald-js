@@ -1,0 +1,98 @@
+{
+    "ID": 324,
+    "Name": "Torkoal",
+    "InternalName": "TORKOAL",
+    "Type1": "FIRE",
+    "BaseStats": [70, 85, 140, 20, 85, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "165",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": "WHITESMOKE",
+    "HiddenAbility": "SHELLARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 4,
+        "move": "SMOG"
+    },
+    {
+        "level": 7,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 12,
+        "move": "CURSE"
+    },
+    {
+        "level": 17,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 20,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 23,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 28,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 33,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 36,
+        "move": "PROTECT"
+    },
+    {
+        "level": 39,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 44,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 49,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 52,
+        "move": "FLAIL"
+    },
+    {
+        "level": 55,
+        "move": "HEATWAVE"
+    },
+    {
+        "level": 60,
+        "move": "INFERNO"
+    },
+    {
+        "level": 65,
+        "move": "SHELLSMASH"
+    }],
+    "EggMoves": ["CLEARSMOG", "ENDURE", "ERUPTION", "FISSURE", "FLAMEBURST", "SKULLBASH", "SLEEPTALK", "YAWN"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "80.4",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Mountain",
+    "Kind": "Coal",
+    "Pokedex": "It battles using energy it gets from burning coal. When loosing smoke from its nostrils, it lets off a sound that is similar to a locomotive's horn.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

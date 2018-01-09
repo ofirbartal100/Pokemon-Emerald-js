@@ -1,0 +1,110 @@
+{
+    "ID": 452,
+    "Name": "Drapion",
+    "InternalName": "DRAPION",
+    "Type1": "POISON",
+    "Type2": "DARK",
+    "BaseStats": [70, 90, 110, 95, 60, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "175",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["BATTLEARMOR","SNIPER"],
+    "HiddenAbility": "KEENEYE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 5,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 9,
+        "move": "PINMISSILE"
+    },
+    {
+        "level": 13,
+        "move": "ACUPRESSURE"
+    },
+    {
+        "level": 16,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 20,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 23,
+        "move": "POISONFANG"
+    },
+    {
+        "level": 27,
+        "move": "VENOSHOCK"
+    },
+    {
+        "level": 30,
+        "move": "HONECLAWS"
+    },
+    {
+        "level": 34,
+        "move": "TOXICSPIKES"
+    },
+    {
+        "level": 38,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 43,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 49,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 57,
+        "move": "CROSSPOISON"
+    }],
+    "Compatibility": ["Bug", "Water3"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "61.5",
+    "Color": "Purple",
+    "Shape": "14",
+    "Kind": "Ogre Scorp",
+    "Pokedex": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

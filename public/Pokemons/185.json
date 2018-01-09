@@ -1,0 +1,107 @@
+{
+    "ID": 185,
+    "Name": "Sudowoodo",
+    "InternalName": "SUDOWOODO",
+    "Type1": "ROCK",
+    "BaseStats": [70, 100, 115, 30, 30, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "144",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "65",
+    "Happiness": "70",
+    "Abilities": ["STURDY","ROCKHEAD"],
+    "HiddenAbility": "RATTLED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WOODHAMMER"
+    },
+    {
+        "level": 1,
+        "move": "COPYCAT"
+    },
+    {
+        "level": 1,
+        "move": "FLAIL"
+    },
+    {
+        "level": 1,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 1,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 5,
+        "move": "FLAIL"
+    },
+    {
+        "level": 8,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 12,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 15,
+        "move": "MIMIC"
+    },
+    {
+        "level": 15,
+        "move": "SLAM"
+    },
+    {
+        "level": 19,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 22,
+        "move": "ROCKTOMB"
+    },
+    {
+        "level": 26,
+        "move": "BLOCK"
+    },
+    {
+        "level": 29,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 33,
+        "move": "COUNTER"
+    },
+    {
+        "level": 36,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 40,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 43,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 47,
+        "move": "HAMMERARM"
+    }],
+    "EggMoves": ["CURSE", "DEFENSECURL", "ENDURE", "HARDEN", "HEADBUTT", "ROLLOUT", "SANDTOMB", "SELFDESTRUCT", "STEALTHROCK"],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "38.0",
+    "Color": "Brown",
+    "Shape": "12",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 107],
+    "Kind": "Imitation",
+    "Pokedex": "It mimics a tree to avoid being attacked by enemies. But since its forelegs remain green throughout the year, it is easily identified as a fake in the winter.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

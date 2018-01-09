@@ -1,0 +1,103 @@
+{
+    "ID": 558,
+    "Name": "Crustle",
+    "InternalName": "CRUSTLE",
+    "Type1": "BUG",
+    "Type2": "ROCK",
+    "BaseStats": [70, 95, 125, 45, 65, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "166",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["STURDY","SHELLARMOR"],
+    "HiddenAbility": "WEAKARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SHELLSMASH"
+    },
+    {
+        "level": 1,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 1,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 5,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 7,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 11,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 13,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 17,
+        "move": "SMACKDOWN"
+    },
+    {
+        "level": 19,
+        "move": "ROCKPOLISH"
+    },
+    {
+        "level": 23,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 24,
+        "move": "STEALTHROCK"
+    },
+    {
+        "level": 29,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 31,
+        "move": "SLASH"
+    },
+    {
+        "level": 38,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 43,
+        "move": "SHELLSMASH"
+    },
+    {
+        "level": 50,
+        "move": "FLAIL"
+    },
+    {
+        "level": 55,
+        "move": "ROCKWRECKER"
+    }],
+    "Compatibility": ["Bug", "Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "200.0",
+    "Color": "Red",
+    "Shape": "14",
+    "Kind": "Stone Home",
+    "Pokedex": "It possesses legs of enormous strength, enabling it to carry heavy slabs for many days, even when crossing arid land.",
+    "WildItemUncommon": "HARDSTONE",
+    "WildItemRare": "RAREBONE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

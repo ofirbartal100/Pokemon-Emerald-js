@@ -1,0 +1,101 @@
+{
+    "ID": 467,
+    "Name": "Magmortar",
+    "InternalName": "MAGMORTAR",
+    "Type1": "FIRE",
+    "BaseStats": [75, 95, 67, 83, 125, 95],
+    "GenderRate": "Female25Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "243",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": "FLAMEBODY",
+    "HiddenAbility": "VITALSPIRIT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "THUNDERPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "SMOG"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 1,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 5,
+        "move": "EMBER"
+    },
+    {
+        "level": 8,
+        "move": "SMOKESCREEN"
+    },
+    {
+        "level": 12,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 15,
+        "move": "FIRESPIN"
+    },
+    {
+        "level": 19,
+        "move": "CLEARSMOG"
+    },
+    {
+        "level": 22,
+        "move": "FLAMEBURST"
+    },
+    {
+        "level": 26,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 29,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 36,
+        "move": "LAVAPLUME"
+    },
+    {
+        "level": 42,
+        "move": "SUNNYDAY"
+    },
+    {
+        "level": 49,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 55,
+        "move": "FIREBLAST"
+    },
+    {
+        "level": 62,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "6630",
+    "Height": "1.6",
+    "Weight": "68.0",
+    "Color": "Red",
+    "Shape": "6",
+    "Kind": "Blast",
+    "Pokedex": "It blasts fireballs of over 3,600 degrees F from the ends of its arms. It lives in volcanic craters.",
+    "WildItemUncommon": "MAGMARIZER",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "8",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

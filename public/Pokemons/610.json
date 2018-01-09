@@ -1,0 +1,100 @@
+{
+    "ID": 610,
+    "Name": "Axew",
+    "InternalName": "AXEW",
+    "Type1": "DRAGON",
+    "BaseStats": [46, 87, 60, 57, 30, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "64",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "35",
+    "Abilities": ["RIVALRY","MOLDBREAKER"],
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 4,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 10,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 13,
+        "move": "DUALCHOP"
+    },
+    {
+        "level": 16,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 20,
+        "move": "SLASH"
+    },
+    {
+        "level": 24,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 28,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 32,
+        "move": "DRAGONDANCE"
+    },
+    {
+        "level": 36,
+        "move": "TAUNT"
+    },
+    {
+        "level": 41,
+        "move": "DRAGONPULSE"
+    },
+    {
+        "level": 46,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 51,
+        "move": "GUILLOTINE"
+    },
+    {
+        "level": 56,
+        "move": "OUTRAGE"
+    },
+    {
+        "level": 61,
+        "move": "GIGAIMPACT"
+    }],
+    "EggMoves": ["COUNTER", "DRAGONPULSE", "ENDEAVOR", "ENDURE", "FOCUSENERGY", "HARDEN", "IRONTAIL", "NIGHTSLASH", "RAZORWIND", "REVERSAL"],
+    "Compatibility": ["Monster", "Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "0.6",
+    "Weight": "18.0",
+    "Color": "Green",
+    "Shape": "6",
+    "Kind": "Tusk",
+    "Pokedex": "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "32",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "FRAXURE",
+        "by":
+        {
+            "Level": 38
+        }
+    }]
+}

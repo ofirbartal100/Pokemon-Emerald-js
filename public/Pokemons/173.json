@@ -1,0 +1,69 @@
+{
+    "ID": 173,
+    "Name": "Cleffa",
+    "InternalName": "CLEFFA",
+    "Type1": "NORMAL",
+    "BaseStats": [50, 25, 28, 15, 45, 55],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "44",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "150",
+    "Happiness": "140",
+    "Abilities": ["CUTECHARM","MAGICGUARD"],
+    "HiddenAbility": "FRIENDGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "CHARM"
+    },
+    {
+        "level": 4,
+        "move": "ENCORE"
+    },
+    {
+        "level": 7,
+        "move": "SING"
+    },
+    {
+        "level": 10,
+        "move": "SWEETKISS"
+    },
+    {
+        "level": 13,
+        "move": "COPYCAT"
+    },
+    {
+        "level": 16,
+        "move": "MAGICALLEAF"
+    }],
+    "EggMoves": ["AMNESIA", "AROMATHERAPY", "BELLYDRUM", "COVET", "FAKETEARS", "METRONOME", "MIMIC", "PRESENT", "SPLASH", "STOREDPOWER", "TICKLE", "WISH"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "2805",
+    "Height": "0.3",
+    "Weight": "3.0",
+    "Color": "Pink",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [0, 40],
+    "Kind": "Star Shape",
+    "Pokedex": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance until daybreak, when they quench their thirst with the morning dew.",
+    "WildItemCommon": "LEPPABERRY",
+    "WildItemUncommon": "MOONSTONE",
+    "WildItemRare": "COMETSHARD",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CLEFAIRY",
+        "by":
+        {
+            "Happiness": "Happiness"
+        }
+    }]
+}

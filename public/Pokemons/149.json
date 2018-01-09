@@ -1,0 +1,116 @@
+{
+    "ID": 149,
+    "Name": "Dragonite",
+    "InternalName": "DRAGONITE",
+    "Type1": "DRAGON",
+    "Type2": "FLYING",
+    "BaseStats": [91, 134, 95, 80, 100, 100],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "INNERFOCUS",
+    "HiddenAbility": "MULTISCALE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "ROOST"
+    },
+    {
+        "level": 1,
+        "move": "WRAP"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 1,
+        "move": "TWISTER"
+    },
+    {
+        "level": 5,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 11,
+        "move": "TWISTER"
+    },
+    {
+        "level": 15,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 21,
+        "move": "SLAM"
+    },
+    {
+        "level": 25,
+        "move": "AGILITY"
+    },
+    {
+        "level": 33,
+        "move": "DRAGONTAIL"
+    },
+    {
+        "level": 39,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 47,
+        "move": "DRAGONRUSH"
+    },
+    {
+        "level": 53,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 55,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 61,
+        "move": "DRAGONDANCE"
+    },
+    {
+        "level": 67,
+        "move": "OUTRAGE"
+    },
+    {
+        "level": 75,
+        "move": "HYPERBEAM"
+    },
+    {
+        "level": 81,
+        "move": "HURRICANE"
+    }],
+    "Compatibility": ["Water1", "Dragon"],
+    "StepsToHatch": "10455",
+    "Height": "2.2",
+    "Weight": "210.0",
+    "Color": "Brown",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [149, 248],
+    "Kind": "Dragon",
+    "Pokedex": "It can circle the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.",
+    "WildItemUncommon": "DRAGONSCALE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "7",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

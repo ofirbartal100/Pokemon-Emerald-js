@@ -1,0 +1,103 @@
+{
+    "ID": 56,
+    "Name": "Mankey",
+    "InternalName": "MANKEY",
+    "Type1": "FIGHTING",
+    "BaseStats": [40, 80, 35, 70, 35, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["VITALSPIRIT","ANGERPOINT"],
+    "HiddenAbility": "DEFIANT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "COVET"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LOWKICK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 9,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 13,
+        "move": "KARATECHOP"
+    },
+    {
+        "level": 17,
+        "move": "SEISMICTOSS"
+    },
+    {
+        "level": 21,
+        "move": "SCREECH"
+    },
+    {
+        "level": 25,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 33,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 37,
+        "move": "CROSSCHOP"
+    },
+    {
+        "level": 41,
+        "move": "THRASH"
+    },
+    {
+        "level": 45,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 49,
+        "move": "CLOSECOMBAT"
+    },
+    {
+        "level": 53,
+        "move": "FINALGAMBIT"
+    }],
+    "EggMoves": ["BEATUP", "CLOSECOMBAT", "COUNTER", "ENCORE", "FOCUSPUNCH", "FORESIGHT", "MEDITATE", "REVENGE", "REVERSAL", "SLEEPTALK", "SMELLINGSALTS"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "28.0",
+    "Color": "Brown",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [56, 136],
+    "Kind": "Pig Monkey",
+    "Pokedex": "When it starts shaking and its nasal breathing turns rough, it's a sure sign of anger. However, since this happens instantly, there is no time to flee.",
+    "WildItemUncommon": "PAYAPABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "PRIMEAPE",
+        "by":
+        {
+            "Level": 28
+        }
+    }]
+}

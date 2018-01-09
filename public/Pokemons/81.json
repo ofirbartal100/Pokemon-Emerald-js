@@ -1,0 +1,107 @@
+{
+    "ID": 81,
+    "Name": "Magnemite",
+    "InternalName": "MAGNEMITE",
+    "Type1": "ELECTRIC",
+    "Type2": "STEEL",
+    "BaseStats": [25, 35, 70, 45, 95, 55],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "89",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "65",
+    "Happiness": "70",
+    "Abilities": ["MAGNETPULL","STURDY"],
+    "HiddenAbility": "ANALYTIC",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 7,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 11,
+        "move": "SONICBOOM"
+    },
+    {
+        "level": 15,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 18,
+        "move": "MAGNETBOMB"
+    },
+    {
+        "level": 21,
+        "move": "SPARK"
+    },
+    {
+        "level": 25,
+        "move": "MIRRORSHOT"
+    },
+    {
+        "level": 29,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 32,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 35,
+        "move": "FLASHCANNON"
+    },
+    {
+        "level": 39,
+        "move": "SCREECH"
+    },
+    {
+        "level": 43,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 46,
+        "move": "LOCKON"
+    },
+    {
+        "level": 49,
+        "move": "MAGNETRISE"
+    },
+    {
+        "level": 53,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 57,
+        "move": "ZAPCANNON"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "6.0",
+    "Color": "Gray",
+    "Shape": "4",
+    "Habitat": "RoughTerrain",
+    "RegionalNumbers": [81, 119],
+    "Kind": "Magnet",
+    "Pokedex": "The units at its sides are extremely powerful magnets. They generate enough magnetism to draw in iron objects from over 300 feet away.",
+    "WildItemUncommon": "METALCOAT",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "31",
+    "BattlerAltitude": "19",
+    "Evolutions": [
+    {
+        "to": "MAGNETON",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

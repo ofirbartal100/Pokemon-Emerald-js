@@ -1,0 +1,112 @@
+{
+    "ID": 477,
+    "Name": "Dusknoir",
+    "InternalName": "DUSKNOIR",
+    "Type1": "GHOST",
+    "BaseStats": [45, 100, 135, 45, 65, 135],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "236",
+    "EffortPoints": [0, 0, 1, 0, 0, 2],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "PRESSURE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FIREPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "ICEPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERPUNCH"
+    },
+    {
+        "level": 1,
+        "move": "GRAVITY"
+    },
+    {
+        "level": 1,
+        "move": "BIND"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 1,
+        "move": "DISABLE"
+    },
+    {
+        "level": 6,
+        "move": "DISABLE"
+    },
+    {
+        "level": 9,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 14,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 17,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 22,
+        "move": "SHADOWSNEAK"
+    },
+    {
+        "level": 25,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 30,
+        "move": "CURSE"
+    },
+    {
+        "level": 33,
+        "move": "WILLOWISP"
+    },
+    {
+        "level": 37,
+        "move": "SHADOWPUNCH"
+    },
+    {
+        "level": 42,
+        "move": "HEX"
+    },
+    {
+        "level": 49,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 58,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 61,
+        "move": "FUTURESIGHT"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "6630",
+    "Height": "2.2",
+    "Weight": "106.6",
+    "Color": "Black",
+    "Shape": "4",
+    "Kind": "Gripper",
+    "Pokedex": "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
+    "WildItemUncommon": "KASIBBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

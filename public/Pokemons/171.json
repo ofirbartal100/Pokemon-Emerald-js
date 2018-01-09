@@ -1,0 +1,108 @@
+{
+    "ID": 171,
+    "Name": "Lanturn",
+    "InternalName": "LANTURN",
+    "Type1": "WATER",
+    "Type2": "ELECTRIC",
+    "BaseStats": [125, 58, 58, 67, 76, 76],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "161",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["VOLTABSORB","ILLUMINATE"],
+    "HiddenAbility": "WATERABSORB",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 6,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 9,
+        "move": "FLAIL"
+    },
+    {
+        "level": 12,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 17,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 20,
+        "move": "SPARK"
+    },
+    {
+        "level": 23,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 27,
+        "move": "STOCKPILE"
+    },
+    {
+        "level": 27,
+        "move": "SWALLOW"
+    },
+    {
+        "level": 27,
+        "move": "SPITUP"
+    },
+    {
+        "level": 30,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 35,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 40,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 47,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 52,
+        "move": "AQUARING"
+    },
+    {
+        "level": 57,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 64,
+        "move": "CHARGE"
+    }],
+    "Compatibility": ["Water2"],
+    "StepsToHatch": "5355",
+    "Height": "1.2",
+    "Weight": "22.5",
+    "Color": "Blue",
+    "Shape": "3",
+    "Habitat": "Sea",
+    "RegionalNumbers": [0, 177],
+    "Kind": "Light",
+    "Pokedex": "The light-emitting orbs on its back are very bright. They are formed from a part of its dorsal fin. This Pokémon illuminates the inky darkness of deep seas.",
+    "WildItemUncommon": "DEEPSEASCALE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "11",
+    "Evolutions": []
+}

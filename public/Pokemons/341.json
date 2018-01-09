@@ -1,0 +1,89 @@
+{
+    "ID": 341,
+    "Name": "Corphish",
+    "InternalName": "CORPHISH",
+    "Type1": "WATER",
+    "BaseStats": [43, 80, 65, 35, 50, 35],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fluctuating",
+    "BaseEXP": "62",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "205",
+    "Happiness": "70",
+    "Abilities": ["HYPERCUTTER","SHELLARMOR"],
+    "HiddenAbility": "ADAPTABILITY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 7,
+        "move": "HARDEN"
+    },
+    {
+        "level": 10,
+        "move": "VICEGRIP"
+    },
+    {
+        "level": 13,
+        "move": "LEER"
+    },
+    {
+        "level": 20,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 23,
+        "move": "PROTECT"
+    },
+    {
+        "level": 26,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 32,
+        "move": "TAUNT"
+    },
+    {
+        "level": 35,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 38,
+        "move": "CRABHAMMER"
+    },
+    {
+        "level": 44,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 47,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 53,
+        "move": "GUILLOTINE"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "BODYSLAM", "CHIPAWAY", "DOUBLEEDGE", "DRAGONDANCE", "ENDEAVOR", "KNOCKOFF", "METALCLAW", "MUDSPORT", "SUPERPOWER", "TRUMPCARD"],
+    "Compatibility": ["Water1", "Water3"],
+    "StepsToHatch": "4080",
+    "Height": "0.6",
+    "Weight": "11.5",
+    "Color": "Red",
+    "Shape": "14",
+    "Habitat": "WatersEdge",
+    "Kind": "Ruffian",
+    "Pokedex": "Once it grips prey with its large pincers, it will never let go, no matter what. It is a hardy Pokémon that can thrive in any environment.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CRAWDAUNT",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

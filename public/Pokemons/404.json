@@ -1,0 +1,87 @@
+{
+    "ID": 404,
+    "Name": "Luxio",
+    "InternalName": "LUXIO",
+    "Type1": "ELECTRIC",
+    "BaseStats": [60, 85, 49, 60, 60, 49],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "127",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "100",
+    "Abilities": ["RIVALRY","INTIMIDATE"],
+    "HiddenAbility": "GUTS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "LEER"
+    },
+    {
+        "level": 9,
+        "move": "CHARGE"
+    },
+    {
+        "level": 13,
+        "move": "SPARK"
+    },
+    {
+        "level": 18,
+        "move": "BITE"
+    },
+    {
+        "level": 23,
+        "move": "ROAR"
+    },
+    {
+        "level": 28,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 33,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 38,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 43,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 48,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 53,
+        "move": "WILDCHARGE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "30.5",
+    "Color": "Blue",
+    "Shape": "8",
+    "Kind": "Spark",
+    "Pokedex": "Its claws loose electricity with enough amperage to cause fainting. They live in small groups.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "LUXRAY",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

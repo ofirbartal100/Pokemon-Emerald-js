@@ -1,0 +1,59 @@
+{
+    "ID": 186,
+    "Name": "Politoed",
+    "InternalName": "POLITOED",
+    "Type1": "WATER",
+    "BaseStats": [90, 75, 75, 70, 90, 100],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "225",
+    "EffortPoints": [0, 0, 0, 0, 0, 3],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["WATERABSORB","DAMP"],
+    "HiddenAbility": "DRIZZLE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 1,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 1,
+        "move": "PERISHSONG"
+    },
+    {
+        "level": 27,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 37,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 48,
+        "move": "HYPERVOICE"
+    }],
+    "Compatibility": ["Water1"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "33.9",
+    "Color": "Green",
+    "Shape": "12",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [0, 75],
+    "Kind": "Frog",
+    "Pokedex": "The curled hair on its head proves its status as a king. It is said that the longer and curlier the hair, the more respect it earns from its peers.",
+    "WildItemUncommon": "KINGSROCK",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

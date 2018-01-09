@@ -1,0 +1,102 @@
+{
+    "ID": 42,
+    "Name": "Golbat",
+    "InternalName": "GOLBAT",
+    "Type1": "POISON",
+    "Type2": "FLYING",
+    "BaseStats": [75, 80, 70, 90, 65, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "159",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": "INNERFOCUS",
+    "HiddenAbility": "INFILTRATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCREECH"
+    },
+    {
+        "level": 1,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 4,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 8,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 12,
+        "move": "BITE"
+    },
+    {
+        "level": 15,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 19,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 24,
+        "move": "SWIFT"
+    },
+    {
+        "level": 28,
+        "move": "AIRCUTTER"
+    },
+    {
+        "level": 33,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 38,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 42,
+        "move": "POISONFANG"
+    },
+    {
+        "level": 47,
+        "move": "HAZE"
+    },
+    {
+        "level": 52,
+        "move": "AIRSLASH"
+    }],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "4080",
+    "Height": "1.6",
+    "Weight": "55.0",
+    "Color": "Purple",
+    "Shape": "9",
+    "Habitat": "Cave",
+    "RegionalNumbers": [42, 38],
+    "Kind": "Bat",
+    "Pokedex": "Its fangs easily puncture even thick animal hide. It loves to feast on the blood of people and Pokémon. It flits about in darkness and strikes from behind.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "14",
+    "Evolutions": [
+    {
+        "to": "CROBAT",
+        "by":
+        {
+            "Happiness": "Happiness"
+        }
+    }]
+}

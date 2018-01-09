@@ -1,0 +1,107 @@
+{
+    "ID": 571,
+    "Name": "Zoroark",
+    "InternalName": "ZOROARK",
+    "Type1": "DARK",
+    "BaseStats": [60, 105, 60, 105, 120, 60],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "179",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "ILLUSION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "UTURN"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 1,
+        "move": "HONECLAWS"
+    },
+    {
+        "level": 5,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 9,
+        "move": "HONECLAWS"
+    },
+    {
+        "level": 13,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 17,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 21,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 25,
+        "move": "TAUNT"
+    },
+    {
+        "level": 29,
+        "move": "FOULPLAY"
+    },
+    {
+        "level": 30,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 34,
+        "move": "TORMENT"
+    },
+    {
+        "level": 39,
+        "move": "AGILITY"
+    },
+    {
+        "level": 44,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 49,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 54,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 59,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 64,
+        "move": "NIGHTDAZE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.6",
+    "Weight": "81.1",
+    "Color": "Gray",
+    "Shape": "6",
+    "Kind": "Illusion Fox",
+    "Pokedex": "Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

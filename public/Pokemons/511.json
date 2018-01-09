@@ -1,0 +1,98 @@
+{
+    "ID": 511,
+    "Name": "Pansage",
+    "InternalName": "PANSAGE",
+    "Type1": "GRASS",
+    "BaseStats": [50, 53, 48, 64, 53, 48],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "63",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "GLUTTONY",
+    "HiddenAbility": "OVERGROW",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 4,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "LICK"
+    },
+    {
+        "level": 10,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 13,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 16,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 19,
+        "move": "BITE"
+    },
+    {
+        "level": 22,
+        "move": "SEEDBOMB"
+    },
+    {
+        "level": 25,
+        "move": "TORMENT"
+    },
+    {
+        "level": 28,
+        "move": "FLING"
+    },
+    {
+        "level": 31,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 34,
+        "move": "GRASSKNOT"
+    },
+    {
+        "level": 37,
+        "move": "RECYCLE"
+    },
+    {
+        "level": 40,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 43,
+        "move": "CRUNCH"
+    }],
+    "EggMoves": ["ASTONISH", "BULLETSEED", "COVET", "GRASSWHISTLE", "LEAFSTORM", "LOWKICK", "MAGICALLEAF", "NASTYPLOT", "ROLEPLAY", "TICKLE"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "10.5",
+    "Color": "Green",
+    "Shape": "6",
+    "Kind": "Grass Monkey",
+    "Pokedex": "It shares the leaf on its head with weary-looking Pokémon. These leaves are known to relieve stress.",
+    "WildItemCommon": "ORANBERRY",
+    "WildItemUncommon": "OCCABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "30",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SIMISAGE",
+        "by":
+        {
+            "Item": "LEAFSTONE"
+        }
+    }]
+}

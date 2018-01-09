@@ -1,0 +1,103 @@
+{
+    "ID": 105,
+    "Name": "Marowak",
+    "InternalName": "MAROWAK",
+    "Type1": "GROUND",
+    "BaseStats": [60, 80, 110, 45, 50, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "149",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["ROCKHEAD","LIGHTNINGROD"],
+    "HiddenAbility": "BATTLEARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "BONECLUB"
+    },
+    {
+        "level": 1,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 3,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 7,
+        "move": "BONECLUB"
+    },
+    {
+        "level": 11,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 13,
+        "move": "LEER"
+    },
+    {
+        "level": 17,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 21,
+        "move": "BONEMERANG"
+    },
+    {
+        "level": 23,
+        "move": "RAGE"
+    },
+    {
+        "level": 27,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 33,
+        "move": "THRASH"
+    },
+    {
+        "level": 37,
+        "move": "FLING"
+    },
+    {
+        "level": 43,
+        "move": "BONERUSH"
+    },
+    {
+        "level": 49,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 53,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 59,
+        "move": "RETALIATE"
+    }],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "45.0",
+    "Color": "Brown",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [105, 209],
+    "Kind": "Bone Keeper",
+    "Pokedex": "A Marowak is the evolved form of a Cubone that has grown tough by overcoming the grief of losing its mother. Its tempered and hardened spirit is not easily broken.",
+    "WildItemUncommon": "THICKCLUB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

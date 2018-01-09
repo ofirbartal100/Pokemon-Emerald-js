@@ -1,0 +1,96 @@
+{
+    "ID": 12,
+    "Name": "Butterfree",
+    "InternalName": "BUTTERFREE",
+    "Type1": "BUG",
+    "Type2": "FLYING",
+    "BaseStats": [60, 45, 50, 70, 80, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 0, 0, 0, 2, 1],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "COMPOUNDEYES",
+    "HiddenAbility": "TINTEDLENS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 10,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 12,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 12,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 12,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 16,
+        "move": "GUST"
+    },
+    {
+        "level": 18,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 22,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 24,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 28,
+        "move": "SILVERWIND"
+    },
+    {
+        "level": 30,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 34,
+        "move": "RAGEPOWDER"
+    },
+    {
+        "level": 36,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 40,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 42,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 46,
+        "move": "QUIVERDANCE"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "1.1",
+    "Weight": "32.0",
+    "Color": "White",
+    "Shape": "13",
+    "Habitat": "Forest",
+    "RegionalNumbers": [12, 26],
+    "Kind": "Butterfly",
+    "Pokedex": "It has a superior ability to search for delicious honey from flowers. It can seek, extract, and carry honey from flowers blooming over six miles away.",
+    "WildItemUncommon": "SILVERPOWDER",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "15",
+    "Evolutions": []
+}

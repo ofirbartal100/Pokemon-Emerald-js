@@ -1,0 +1,98 @@
+{
+    "ID": 47,
+    "Name": "Parasect",
+    "InternalName": "PARASECT",
+    "Type1": "BUG",
+    "Type2": "GRASS",
+    "BaseStats": [60, 95, 80, 30, 60, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 2, 1, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["EFFECTSPORE","DRYSKIN"],
+    "HiddenAbility": "DAMP",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CROSSPOISON"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 1,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 1,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 6,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 6,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 11,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 17,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 22,
+        "move": "SPORE"
+    },
+    {
+        "level": 29,
+        "move": "SLASH"
+    },
+    {
+        "level": 37,
+        "move": "GROWTH"
+    },
+    {
+        "level": 44,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 51,
+        "move": "AROMATHERAPY"
+    },
+    {
+        "level": 59,
+        "move": "RAGEPOWDER"
+    },
+    {
+        "level": 66,
+        "move": "XSCISSOR"
+    }],
+    "Compatibility": ["Bug", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "29.5",
+    "Color": "Red",
+    "Shape": "14",
+    "Habitat": "Forest",
+    "RegionalNumbers": [47, 71],
+    "Kind": "Mushroom",
+    "Pokedex": "Parasect are known to infest the roots of large trees en masse and drain nutrients. When an infested tree dies, they move onto another tree all at once.",
+    "WildItemCommon": "TINYMUSHROOM",
+    "WildItemUncommon": "BIGMUSHROOM",
+    "WildItemRare": "BALMMUSHROOM",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

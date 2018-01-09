@@ -1,0 +1,46 @@
+{
+    "ID": 202,
+    "Name": "Wobbuffet",
+    "InternalName": "WOBBUFFET",
+    "Type1": "PSYCHIC",
+    "BaseStats": [190, 33, 58, 33, 33, 58],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "142",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "SHADOWTAG",
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "COUNTER"
+    },
+    {
+        "level": 1,
+        "move": "MIRRORCOAT"
+    },
+    {
+        "level": 1,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 1,
+        "move": "DESTINYBOND"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "28.5",
+    "Color": "Blue",
+    "Shape": "5",
+    "Habitat": "Cave",
+    "RegionalNumbers": [0, 108],
+    "Kind": "Patient",
+    "Pokedex": "Usually docile, a Wobbuffet strikes back ferociously if its black tail is attacked. It makes its lair in caves where it waits for nightfall.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,93 @@
+{
+    "ID": 39,
+    "Name": "Jigglypuff",
+    "InternalName": "JIGGLYPUFF",
+    "Type1": "NORMAL",
+    "BaseStats": [115, 45, 20, 20, 45, 25],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "95",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "170",
+    "Happiness": "70",
+    "Abilities": "CUTECHARM",
+    "HiddenAbility": "FRIENDGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SING"
+    },
+    {
+        "level": 5,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 9,
+        "move": "POUND"
+    },
+    {
+        "level": 13,
+        "move": "DISABLE"
+    },
+    {
+        "level": 17,
+        "move": "ROUND"
+    },
+    {
+        "level": 21,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 25,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 29,
+        "move": "REST"
+    },
+    {
+        "level": 33,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 37,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 41,
+        "move": "WAKEUPSLAP"
+    },
+    {
+        "level": 45,
+        "move": "MIMIC"
+    },
+    {
+        "level": 49,
+        "move": "HYPERVOICE"
+    },
+    {
+        "level": 53,
+        "move": "DOUBLEEDGE"
+    }],
+    "Compatibility": ["Fairy"],
+    "StepsToHatch": "2805",
+    "Height": "0.5",
+    "Weight": "5.5",
+    "Color": "Pink",
+    "Shape": "12",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [39, 44],
+    "Kind": "Balloon",
+    "Pokedex": "Nothing can avoid falling asleep hearing a Jigglypuff's song. The sound waves of its singing voice match the brain waves of someone in a deep sleep.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "WIGGLYTUFF",
+        "by":
+        {
+            "Item": "MOONSTONE"
+        }
+    }]
+}

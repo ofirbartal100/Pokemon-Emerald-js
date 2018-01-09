@@ -1,0 +1,101 @@
+{
+    "ID": 464,
+    "Name": "Rhyperior",
+    "InternalName": "RHYPERIOR",
+    "Type1": "GROUND",
+    "Type2": "ROCK",
+    "BaseStats": [115, 140, 130, 40, 55, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "241",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "30",
+    "Happiness": "70",
+    "Abilities": ["LIGHTNINGROD","SOLIDROCK"],
+    "HiddenAbility": "RECKLESS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 1,
+        "move": "HORNATTACK"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "STOMP"
+    },
+    {
+        "level": 1,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 9,
+        "move": "STOMP"
+    },
+    {
+        "level": 19,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 19,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 23,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 30,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 41,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 42,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 47,
+        "move": "DRILLRUN"
+    },
+    {
+        "level": 56,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 62,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 71,
+        "move": "HORNDRILL"
+    },
+    {
+        "level": 77,
+        "move": "MEGAHORN"
+    },
+    {
+        "level": 86,
+        "move": "ROCKWRECKER"
+    }],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "2.4",
+    "Weight": "282.8",
+    "Color": "Gray",
+    "Shape": "6",
+    "Kind": "Drill",
+    "Pokedex": "It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

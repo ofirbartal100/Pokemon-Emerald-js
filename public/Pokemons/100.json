@@ -1,0 +1,97 @@
+{
+    "ID": 100,
+    "Name": "Voltorb",
+    "InternalName": "VOLTORB",
+    "Type1": "ELECTRIC",
+    "BaseStats": [40, 30, 50, 100, 55, 55],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["SOUNDPROOF","STATIC"],
+    "HiddenAbility": "AFTERMATH",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CHARGE"
+    },
+    {
+        "level": 5,
+        "move": "TACKLE"
+    },
+    {
+        "level": 8,
+        "move": "SONICBOOM"
+    },
+    {
+        "level": 12,
+        "move": "SPARK"
+    },
+    {
+        "level": 15,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 19,
+        "move": "SCREECH"
+    },
+    {
+        "level": 22,
+        "move": "CHARGEBEAM"
+    },
+    {
+        "level": 26,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 29,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 33,
+        "move": "SELFDESTRUCT"
+    },
+    {
+        "level": 36,
+        "move": "SWIFT"
+    },
+    {
+        "level": 40,
+        "move": "MAGNETRISE"
+    },
+    {
+        "level": 43,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 47,
+        "move": "EXPLOSION"
+    },
+    {
+        "level": 50,
+        "move": "MIRRORCOAT"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "10.4",
+    "Color": "Red",
+    "Shape": "1",
+    "Habitat": "Urban",
+    "RegionalNumbers": [100, 121],
+    "Kind": "Ball",
+    "Pokedex": "It bears an uncanny and unexplained resemblance to a Poké Ball. Because it explodes at the slightest shock, even veteran trainers treat it with caution.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ELECTRODE",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

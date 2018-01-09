@@ -1,0 +1,94 @@
+{
+    "ID": 152,
+    "Name": "Chikorita",
+    "InternalName": "CHIKORITA",
+    "Type1": "GRASS",
+    "BaseStats": [45, 49, 65, 45, 49, 65],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "64",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "LEAFGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 6,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 9,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 12,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 17,
+        "move": "REFLECT"
+    },
+    {
+        "level": 20,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 23,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 28,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 31,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 34,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 39,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 42,
+        "move": "AROMATHERAPY"
+    },
+    {
+        "level": 45,
+        "move": "SOLARBEAM"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "AROMATHERAPY", "BODYSLAM", "COUNTER", "FLAIL", "GRASSWHISTLE", "HEALPULSE", "INGRAIN", "LEAFSTORM", "LEECHSEED", "NATUREPOWER", "REFRESH", "VINEWHIP", "WRINGOUT"],
+    "Compatibility": ["Monster", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "6.4",
+    "Color": "Green",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 1],
+    "Kind": "Leaf",
+    "Pokedex": "It waves its leaf around to keep foes at bay. However, a sweet fragrance also wafts from the leaf, creating a friendly atmosphere that becalms the battlers.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BAYLEEF",
+        "by":
+        {
+            "Level": 16
+        }
+    }]
+}

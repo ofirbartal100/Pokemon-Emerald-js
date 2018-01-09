@@ -1,0 +1,103 @@
+{
+    "ID": 228,
+    "Name": "Houndour",
+    "InternalName": "HOUNDOUR",
+    "Type1": "DARK",
+    "Type2": "FIRE",
+    "BaseStats": [45, 60, 30, 65, 80, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "120",
+    "Happiness": "35",
+    "Abilities": ["EARLYBIRD","FLASHFIRE"],
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 4,
+        "move": "HOWL"
+    },
+    {
+        "level": 8,
+        "move": "SMOG"
+    },
+    {
+        "level": 13,
+        "move": "ROAR"
+    },
+    {
+        "level": 16,
+        "move": "BITE"
+    },
+    {
+        "level": 20,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 25,
+        "move": "BEATUP"
+    },
+    {
+        "level": 28,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 32,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 37,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 40,
+        "move": "FOULPLAY"
+    },
+    {
+        "level": 44,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 49,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 52,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 56,
+        "move": "INFERNO"
+    }],
+    "EggMoves": ["BEATUP", "COUNTER", "FEINT", "FIREFANG", "FIRESPIN", "NASTYPLOT", "PUNISHMENT", "PURSUIT", "RAGE", "REVERSAL", "SPITE", "SUCKERPUNCH", "THUNDERFANG"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "10.8",
+    "Color": "Black",
+    "Shape": "8",
+    "Habitat": "RoughTerrain",
+    "RegionalNumbers": [0, 214],
+    "Kind": "Dark",
+    "Pokedex": "Houndour communicate with each other using a variety of cries to corner their prey. This Pokémon's remarkable teamwork is simply unparalleled.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "HOUNDOOM",
+        "by":
+        {
+            "Level": 24
+        }
+    }]
+}

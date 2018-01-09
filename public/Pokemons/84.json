@@ -1,0 +1,92 @@
+{
+    "ID": 84,
+    "Name": "Doduo",
+    "InternalName": "DODUO",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [35, 85, 45, 75, 35, 35],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "62",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["RUNAWAY","EARLYBIRD"],
+    "HiddenAbility": "TANGLEDFEET",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 5,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 10,
+        "move": "RAGE"
+    },
+    {
+        "level": 14,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 19,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 23,
+        "move": "UPROAR"
+    },
+    {
+        "level": 28,
+        "move": "ACUPRESSURE"
+    },
+    {
+        "level": 32,
+        "move": "DOUBLEHIT"
+    },
+    {
+        "level": 37,
+        "move": "AGILITY"
+    },
+    {
+        "level": 41,
+        "move": "DRILLPECK"
+    },
+    {
+        "level": 46,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 50,
+        "move": "THRASH"
+    }],
+    "EggMoves": ["ASSURANCE", "BRAVEBIRD", "ENDEAVOR", "FEINTATTACK", "FLAIL", "HAZE", "MIRRORMOVE", "NATURALGIFT", "QUICKATTACK", "SUPERSONIC"],
+    "Compatibility": ["Flying"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "39.2",
+    "Color": "Brown",
+    "Shape": "7",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [84, 204],
+    "Kind": "Twin Bird",
+    "Pokedex": "Even while eating or sleeping, one of the heads remains always vigilant for any sign of danger. When threatened, it flees at over 60 miles per hour.",
+    "WildItemUncommon": "SHARPBEAK",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "DODRIO",
+        "by":
+        {
+            "Level": 31
+        }
+    }]
+}

@@ -1,0 +1,49 @@
+{
+    "ID": 412,
+    "Name": "Burmy",
+    "InternalName": "BURMY",
+    "Type1": "BUG",
+    "BaseStats": [40, 29, 45, 36, 29, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "45",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "SHEDSKIN",
+    "HiddenAbility": "OVERCOAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PROTECT"
+    },
+    {
+        "level": 10,
+        "move": "TACKLE"
+    },
+    {
+        "level": 15,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 20,
+        "move": "HIDDENPOWER"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.2",
+    "Weight": "3.4",
+    "Color": "Gray",
+    "Shape": "5",
+    "Kind": "Bagworm",
+    "Pokedex": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+    "FormName": "Plant Cloak",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "15",
+    "Evolutions": ["WORMADAM", "LevelFemale",
+    {
+        "level": 20,
+        "move": "MOTHIM"
+    }, "LevelMale", 20]
+}

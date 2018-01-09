@@ -1,0 +1,110 @@
+{
+    "ID": 114,
+    "Name": "Tangela",
+    "InternalName": "TANGELA",
+    "Type1": "GRASS",
+    "BaseStats": [65, 55, 115, 60, 100, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "87",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","LEAFGUARD"],
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "INGRAIN"
+    },
+    {
+        "level": 1,
+        "move": "CONSTRICT"
+    },
+    {
+        "level": 4,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 7,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 10,
+        "move": "ABSORB"
+    },
+    {
+        "level": 14,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 17,
+        "move": "BIND"
+    },
+    {
+        "level": 20,
+        "move": "GROWTH"
+    },
+    {
+        "level": 23,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 27,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 30,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 33,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 36,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 40,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 43,
+        "move": "SLAM"
+    },
+    {
+        "level": 46,
+        "move": "TICKLE"
+    },
+    {
+        "level": 49,
+        "move": "WRINGOUT"
+    },
+    {
+        "level": 53,
+        "move": "POWERWHIP"
+    }],
+    "EggMoves": ["AMNESIA", "CONFUSION", "ENDEAVOR", "FLAIL", "GIGADRAIN", "LEAFSTORM", "LEECHSEED", "MEGADRAIN", "NATURALGIFT", "NATUREPOWER", "POWERSWAP", "RAGEPOWDER"],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "35.0",
+    "Color": "Blue",
+    "Shape": "7",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [114, 182],
+    "Kind": "Vine",
+    "Pokedex": "Its vines snap off easily and painlessly if they are grabbed, allowing it to make a quick getaway. The lost vines are replaced by new growth the very next day.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "TANGROWTH",
+        "by":
+        {
+            "HasMove": "ANCIENTPOWER"
+        }
+    }]
+}

@@ -1,0 +1,36 @@
+{
+    "ID": 225,
+    "Name": "Delibird",
+    "InternalName": "DELIBIRD",
+    "Type1": "ICE",
+    "Type2": "FLYING",
+    "BaseStats": [45, 55, 45, 75, 65, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "116",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["VITALSPIRIT","HUSTLE"],
+    "HiddenAbility": "INSOMNIA",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PRESENT"
+    }],
+    "EggMoves": ["AURORABEAM", "BESTOW", "FAKEOUT", "FUTURESIGHT", "ICEBALL", "ICEPUNCH", "ICESHARD", "ICYWIND", "QUICKATTACK", "RAPIDSPIN", "SPLASH"],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "16.0",
+    "Color": "Red",
+    "Shape": "9",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [0, 194],
+    "Kind": "Delivery",
+    "Pokedex": "It carries food bundled up in its tail. There was a famous explorer who managed to scale Mt. Everest thanks to a Delibird sharing its food.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

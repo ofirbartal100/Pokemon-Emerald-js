@@ -1,0 +1,85 @@
+{
+    "ID": 647,
+    "Name": "Keldeo",
+    "InternalName": "KELDEO",
+    "Type1": "WATER",
+    "Type2": "FIGHTING",
+    "BaseStats": [91, 72, 90, 108, 129, 90],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "5",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "JUSTIFIED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 13,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 19,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 25,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 31,
+        "move": "RETALIATE"
+    },
+    {
+        "level": 37,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 43,
+        "move": "SACREDSWORD"
+    },
+    {
+        "level": 49,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 55,
+        "move": "QUICKGUARD"
+    },
+    {
+        "level": 61,
+        "move": "WORKUP"
+    },
+    {
+        "level": 67,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 73,
+        "move": "CLOSECOMBAT"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "1.4",
+    "Weight": "48.5",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Kind": "Colt",
+    "Pokedex": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
+    "FormName": "Ordinary Form",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

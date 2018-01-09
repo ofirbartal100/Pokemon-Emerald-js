@@ -1,0 +1,86 @@
+{
+    "ID": 285,
+    "Name": "Shroomish",
+    "InternalName": "SHROOMISH",
+    "Type1": "GRASS",
+    "BaseStats": [60, 40, 60, 35, 40, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fluctuating",
+    "BaseEXP": "59",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["EFFECTSPORE","POISONHEAL"],
+    "HiddenAbility": "QUICKFEET",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ABSORB"
+    },
+    {
+        "level": 5,
+        "move": "TACKLE"
+    },
+    {
+        "level": 9,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 13,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 17,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 21,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 25,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 29,
+        "move": "WORRYSEED"
+    },
+    {
+        "level": 33,
+        "move": "GROWTH"
+    },
+    {
+        "level": 37,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 41,
+        "move": "SEEDBOMB"
+    },
+    {
+        "level": 45,
+        "move": "SPORE"
+    }],
+    "EggMoves": ["BULLETSEED", "CHARM", "DRAINPUNCH", "FAKETEARS", "FOCUSPUNCH", "HELPINGHAND", "NATURALGIFT", "SEEDBOMB", "WAKEUPSLAP", "WORRYSEED"],
+    "Compatibility": ["Fairy", "Grass"],
+    "StepsToHatch": "4080",
+    "Height": "0.4",
+    "Weight": "4.5",
+    "Color": "Brown",
+    "Shape": "7",
+    "Habitat": "Forest",
+    "Kind": "Mushroom",
+    "Pokedex": "It loves to eat damp, composted soil in forests. If you enter a forest after a long rain, you can see many Shroomish feasting on composted soil.",
+    "WildItemUncommon": "KEBIABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BRELOOM",
+        "by":
+        {
+            "Level": 23
+        }
+    }]
+}

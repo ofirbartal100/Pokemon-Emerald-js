@@ -1,0 +1,95 @@
+{
+    "ID": 337,
+    "Name": "Lunatone",
+    "InternalName": "LUNATONE",
+    "Type1": "ROCK",
+    "Type2": "PSYCHIC",
+    "BaseStats": [70, 55, 65, 70, 95, 85],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Fast",
+    "BaseEXP": "154",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 5,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 9,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 13,
+        "move": "ROCKPOLISH"
+    },
+    {
+        "level": 17,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 21,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 25,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 29,
+        "move": "COSMICPOWER"
+    },
+    {
+        "level": 33,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 37,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 41,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 45,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 49,
+        "move": "EXPLOSION"
+    },
+    {
+        "level": 53,
+        "move": "MAGICROOM"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "6630",
+    "Height": "1.0",
+    "Weight": "168.0",
+    "Color": "Yellow",
+    "Shape": "1",
+    "Habitat": "Cave",
+    "Kind": "Meteorite",
+    "Pokedex": "It becomes very active on the night of a full moon. This Pokémon was first discovered 40 years ago at the site of a meteor strike.",
+    "WildItemUncommon": "MOONSTONE",
+    "WildItemRare": "COMETSHARD",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "14",
+    "Evolutions": []
+}

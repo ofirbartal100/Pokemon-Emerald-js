@@ -1,0 +1,84 @@
+{
+    "ID": 638,
+    "Name": "Cobalion",
+    "InternalName": "COBALION",
+    "Type1": "STEEL",
+    "Type2": "FIGHTING",
+    "BaseStats": [91, 90, 129, 108, 90, 72],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "5",
+    "EffortPoints": [0, 0, 3, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "JUSTIFIED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 13,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 19,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 25,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 31,
+        "move": "RETALIATE"
+    },
+    {
+        "level": 37,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 42,
+        "move": "SACREDSWORD"
+    },
+    {
+        "level": 49,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 55,
+        "move": "QUICKGUARD"
+    },
+    {
+        "level": 61,
+        "move": "WORKUP"
+    },
+    {
+        "level": 67,
+        "move": "METALBURST"
+    },
+    {
+        "level": 73,
+        "move": "CLOSECOMBAT"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "2.1",
+    "Weight": "250.0",
+    "Color": "Blue",
+    "Shape": "8",
+    "Kind": "Iron Will",
+    "Pokedex": "It has a body and heart of steel. Its glare is sufficient to make even an unruly Pokémon obey it.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

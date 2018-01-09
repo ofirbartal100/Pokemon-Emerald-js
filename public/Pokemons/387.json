@@ -1,0 +1,84 @@
+{
+    "ID": 387,
+    "Name": "Turtwig",
+    "InternalName": "TURTWIG",
+    "Type1": "GRASS",
+    "BaseStats": [55, 68, 64, 31, 45, 55],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "64",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "SHELLARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 5,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 9,
+        "move": "ABSORB"
+    },
+    {
+        "level": 13,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 17,
+        "move": "CURSE"
+    },
+    {
+        "level": 21,
+        "move": "BITE"
+    },
+    {
+        "level": 25,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 29,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 33,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 37,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 41,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 45,
+        "move": "LEAFSTORM"
+    }],
+    "EggMoves": ["AMNESIA", "BODYSLAM", "DOUBLEEDGE", "EARTHPOWER", "GROWTH", "SANDTOMB", "SEEDBOMB", "SPITUP", "STOCKPILE", "SUPERPOWER", "SWALLOW", "THRASH", "TICKLE", "WIDEGUARD", "WORRYSEED"],
+    "Compatibility": ["Monster", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "10.2",
+    "Color": "Green",
+    "Shape": "8",
+    "Kind": "Tiny Leaf",
+    "Pokedex": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GROTLE",
+        "by":
+        {
+            "Level": 18
+        }
+    }]
+}

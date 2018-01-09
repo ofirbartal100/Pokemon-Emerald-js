@@ -1,0 +1,34 @@
+{
+    "ID": 201,
+    "Name": "Unown",
+    "InternalName": "UNOWN",
+    "Type1": "PSYCHIC",
+    "BaseStats": [48, 72, 48, 48, 72, 48],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "118",
+    "EffortPoints": [0, 1, 0, 0, 1, 0],
+    "Rareness": "225",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HIDDENPOWER"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "10455",
+    "Height": "0.5",
+    "Weight": "5.0",
+    "Color": "Black",
+    "Shape": "1",
+    "Habitat": "Rare",
+    "RegionalNumbers": [0, 61],
+    "Kind": "Symbol",
+    "Pokedex": "This Pokémon is shaped like ancient text characters. Although research is ongoing, it is a mystery as to which came first, the ancient writings or the various Unown.",
+    "FormName": "Anger",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "19",
+    "Evolutions": []
+}

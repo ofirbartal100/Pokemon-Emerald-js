@@ -1,0 +1,105 @@
+{
+    "ID": 565,
+    "Name": "Carracosta",
+    "InternalName": "CARRACOSTA",
+    "Type1": "WATER",
+    "Type2": "ROCK",
+    "BaseStats": [74, 108, 133, 32, 83, 65],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["SOLIDROCK","STURDY"],
+    "HiddenAbility": "SWIFTSWIM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BIDE"
+    },
+    {
+        "level": 1,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 5,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 8,
+        "move": "BITE"
+    },
+    {
+        "level": 11,
+        "move": "PROTECT"
+    },
+    {
+        "level": 15,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 18,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 21,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 25,
+        "move": "WIDEGUARD"
+    },
+    {
+        "level": 28,
+        "move": "BRINE"
+    },
+    {
+        "level": 31,
+        "move": "SMACKDOWN"
+    },
+    {
+        "level": 35,
+        "move": "CURSE"
+    },
+    {
+        "level": 40,
+        "move": "SHELLSMASH"
+    },
+    {
+        "level": 45,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 51,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 56,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 61,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Water1", "Water3"],
+    "StepsToHatch": "7905",
+    "Height": "1.2",
+    "Weight": "81.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Prototurtle",
+    "Pokedex": "Incredible jaw strength enables them to chew up steel beams and rocks along with their prey.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

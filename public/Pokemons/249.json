@@ -1,0 +1,95 @@
+{
+    "ID": 249,
+    "Name": "Lugia",
+    "InternalName": "LUGIA",
+    "Type1": "PSYCHIC",
+    "Type2": "FLYING",
+    "BaseStats": [106, 90, 130, 110, 90, 154],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "306",
+    "EffortPoints": [0, 0, 0, 0, 0, 3],
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "MULTISCALE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 1,
+        "move": "WEATHERBALL"
+    },
+    {
+        "level": 9,
+        "move": "GUST"
+    },
+    {
+        "level": 15,
+        "move": "DRAGONRUSH"
+    },
+    {
+        "level": 23,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 29,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 37,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 43,
+        "move": "AEROBLAST"
+    },
+    {
+        "level": 50,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 57,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 65,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 71,
+        "move": "RECOVER"
+    },
+    {
+        "level": 79,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 85,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 93,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 99,
+        "move": "SKYATTACK"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "5.2",
+    "Weight": "216.0",
+    "Color": "White",
+    "Shape": "9",
+    "Habitat": "Rare",
+    "RegionalNumbers": [0, 252],
+    "Kind": "Diving",
+    "Pokedex": "Lugia is so powerful even a light fluttering of its wings can blow apart houses. As a result, it chooses to live out of sight deep under the sea.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "7",
+    "BattlerAltitude": "7",
+    "Evolutions": []
+}

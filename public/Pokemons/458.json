@@ -1,0 +1,98 @@
+{
+    "ID": 458,
+    "Name": "Mantyke",
+    "InternalName": "MANTYKE",
+    "Type1": "WATER",
+    "Type2": "FLYING",
+    "BaseStats": [45, 20, 50, 50, 60, 120],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "69",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "25",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","WATERABSORB"],
+    "HiddenAbility": "WATERVEIL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 3,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 7,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 11,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 14,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 16,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 19,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 23,
+        "move": "WIDEGUARD"
+    },
+    {
+        "level": 27,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 32,
+        "move": "AGILITY"
+    },
+    {
+        "level": 36,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 39,
+        "move": "AQUARING"
+    },
+    {
+        "level": 46,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 49,
+        "move": "HYDROPUMP"
+    }],
+    "EggMoves": ["AMNESIA", "HAZE", "HYDROPUMP", "MIRRORCOAT", "MUDSPORT", "SIGNALBEAM", "SLAM", "SPLASH", "TWISTER", "WATERSPORT", "WIDEGUARD"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "6630",
+    "Height": "1.0",
+    "Weight": "65.0",
+    "Color": "Blue",
+    "Shape": "9",
+    "Kind": "Kite",
+    "Pokedex": "A friendly Pokémon that captures the subtle flows of seawater using its two antennae.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "14",
+    "Evolutions": [
+    {
+        "to": "MANTINE",
+        "by":
+        {
+            "HasInParty": "REMORAID"
+        }
+    }],
+    "Incense": "WAVEINCENSE"
+}

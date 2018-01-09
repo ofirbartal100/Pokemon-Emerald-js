@@ -1,0 +1,104 @@
+{
+    "ID": 90,
+    "Name": "Shellder",
+    "InternalName": "SHELLDER",
+    "Type1": "WATER",
+    "BaseStats": [30, 65, 100, 40, 45, 25],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["SHELLARMOR","SKILLLINK"],
+    "HiddenAbility": "OVERCOAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 4,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 8,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 13,
+        "move": "ICICLESPEAR"
+    },
+    {
+        "level": 16,
+        "move": "PROTECT"
+    },
+    {
+        "level": 20,
+        "move": "LEER"
+    },
+    {
+        "level": 25,
+        "move": "CLAMP"
+    },
+    {
+        "level": 28,
+        "move": "ICESHARD"
+    },
+    {
+        "level": 32,
+        "move": "RAZORSHELL"
+    },
+    {
+        "level": 37,
+        "move": "AURORABEAM"
+    },
+    {
+        "level": 40,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 44,
+        "move": "BRINE"
+    },
+    {
+        "level": 49,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 52,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 56,
+        "move": "SHELLSMASH"
+    },
+    {
+        "level": 61,
+        "move": "HYDROPUMP"
+    }],
+    "EggMoves": ["AQUARING", "AVALANCHE", "BARRIER", "BUBBLEBEAM", "ICICLESPEAR", "MUDSHOT", "RAPIDSPIN", "ROCKBLAST", "SCREECH", "TAKEDOWN", "TWINEEDLE", "WATERPULSE"],
+    "Compatibility": ["Water3"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "4.0",
+    "Color": "Purple",
+    "Shape": "1",
+    "Habitat": "Sea",
+    "RegionalNumbers": [90, 171],
+    "Kind": "Bivalve",
+    "Pokedex": "At night, it burrows a hole in the seafloor with its broad tongue to make a place to sleep. While asleep, it closes its shell, but leaves its tongue hanging out.",
+    "WildItemCommon": "PEARL",
+    "WildItemUncommon": "BIGPEARL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "29",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CLOYSTER",
+        "by":
+        {
+            "Item": "WATERSTONE"
+        }
+    }]
+}

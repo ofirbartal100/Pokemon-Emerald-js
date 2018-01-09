@@ -1,0 +1,91 @@
+{
+    "ID": 144,
+    "Name": "Articuno",
+    "InternalName": "ARTICUNO",
+    "Type1": "ICE",
+    "Type2": "FLYING",
+    "BaseStats": [90, 85, 100, 85, 95, 125],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "261",
+    "EffortPoints": [0, 0, 0, 0, 0, 3],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "SNOWCLOAK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 1,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 8,
+        "move": "MIST"
+    },
+    {
+        "level": 15,
+        "move": "ICESHARD"
+    },
+    {
+        "level": 22,
+        "move": "MINDREADER"
+    },
+    {
+        "level": 29,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 36,
+        "move": "AGILITY"
+    },
+    {
+        "level": 43,
+        "move": "ICEBEAM"
+    },
+    {
+        "level": 50,
+        "move": "REFLECT"
+    },
+    {
+        "level": 57,
+        "move": "ROOST"
+    },
+    {
+        "level": 64,
+        "move": "TAILWIND"
+    },
+    {
+        "level": 71,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 78,
+        "move": "SHEERCOLD"
+    },
+    {
+        "level": 85,
+        "move": "HAIL"
+    },
+    {
+        "level": 92,
+        "move": "HURRICANE"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "20655",
+    "Height": "1.7",
+    "Weight": "55.4",
+    "Color": "Blue",
+    "Shape": "9",
+    "Habitat": "Rare",
+    "RegionalNumbers": [144, 240],
+    "Kind": "Freeze",
+    "Pokedex": "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "8",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

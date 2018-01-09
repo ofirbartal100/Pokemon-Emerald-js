@@ -1,0 +1,89 @@
+{
+    "ID": 522,
+    "Name": "Blitzle",
+    "InternalName": "BLITZLE",
+    "Type1": "ELECTRIC",
+    "BaseStats": [45, 60, 32, 76, 50, 32],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "59",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["LIGHTNINGROD","MOTORDRIVE"],
+    "HiddenAbility": "SAPSIPPER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 4,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 8,
+        "move": "CHARGE"
+    },
+    {
+        "level": 11,
+        "move": "SHOCKWAVE"
+    },
+    {
+        "level": 15,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 18,
+        "move": "FLAMECHARGE"
+    },
+    {
+        "level": 22,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 25,
+        "move": "SPARK"
+    },
+    {
+        "level": 29,
+        "move": "STOMP"
+    },
+    {
+        "level": 32,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 36,
+        "move": "AGILITY"
+    },
+    {
+        "level": 39,
+        "move": "WILDCHARGE"
+    },
+    {
+        "level": 43,
+        "move": "THRASH"
+    }],
+    "EggMoves": ["DOUBLEKICK", "DOUBLEEDGE", "ENDURE", "MEFIRST", "RAGE", "SANDATTACK", "SCREECH", "SHOCKWAVE", "TAKEDOWN"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "29.8",
+    "Color": "Black",
+    "Shape": "8",
+    "Kind": "Electrified",
+    "Pokedex": "When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.",
+    "WildItemCommon": "CHERIBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "ZEBSTRIKA",
+        "by":
+        {
+            "Level": 27
+        }
+    }]
+}

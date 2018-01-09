@@ -1,0 +1,67 @@
+{
+    "ID": 103,
+    "Name": "Exeggutor",
+    "InternalName": "EXEGGUTOR",
+    "Type1": "GRASS",
+    "Type2": "PSYCHIC",
+    "BaseStats": [95, 95, 85, 55, 125, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "182",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "CHLOROPHYLL",
+    "HiddenAbility": "HARVEST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SEEDBOMB"
+    },
+    {
+        "level": 1,
+        "move": "BARRAGE"
+    },
+    {
+        "level": 1,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "STOMP"
+    },
+    {
+        "level": 17,
+        "move": "PSYSHOCK"
+    },
+    {
+        "level": 27,
+        "move": "EGGBOMB"
+    },
+    {
+        "level": 37,
+        "move": "WOODHAMMER"
+    },
+    {
+        "level": 47,
+        "move": "LEAFSTORM"
+    }],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "2.0",
+    "Weight": "120.0",
+    "Color": "Yellow",
+    "Shape": "7",
+    "Habitat": "Forest",
+    "RegionalNumbers": [103, 106],
+    "Kind": "Coconut",
+    "Pokedex": "Originally from the tropics, Exeggutor's heads grow larger from exposure to strong sunlight. It is said that when the heads fall, they group to form an Exeggcute.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "7",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

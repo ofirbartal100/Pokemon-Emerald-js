@@ -1,0 +1,95 @@
+{
+    "ID": 284,
+    "Name": "Masquerain",
+    "InternalName": "MASQUERAIN",
+    "Type1": "BUG",
+    "Type2": "FLYING",
+    "BaseStats": [70, 60, 62, 60, 80, 82],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "145",
+    "EffortPoints": [0, 0, 0, 0, 1, 1],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": "INTIMIDATE",
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "OMINOUSWIND"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 7,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 13,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 19,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 22,
+        "move": "GUST"
+    },
+    {
+        "level": 26,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 33,
+        "move": "STUNSPORE"
+    },
+    {
+        "level": 40,
+        "move": "SILVERWIND"
+    },
+    {
+        "level": 47,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 54,
+        "move": "WHIRLWIND"
+    },
+    {
+        "level": 61,
+        "move": "BUGBUZZ"
+    },
+    {
+        "level": 68,
+        "move": "QUIVERDANCE"
+    }],
+    "Compatibility": ["Water1", "Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.8",
+    "Weight": "3.6",
+    "Color": "Blue",
+    "Shape": "13",
+    "Habitat": "WatersEdge",
+    "Kind": "Eyeball",
+    "Pokedex": "It intimidates foes with the large eyelike patterns on its antennae. Because it can't fly if its wings get wet, it shelters itself from rain under large trees and eaves.",
+    "WildItemUncommon": "SILVERPOWDER",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "9",
+    "BattlerAltitude": "11",
+    "Evolutions": []
+}

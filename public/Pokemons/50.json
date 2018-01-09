@@ -1,0 +1,95 @@
+{
+    "ID": 50,
+    "Name": "Diglett",
+    "InternalName": "DIGLETT",
+    "Type1": "GROUND",
+    "BaseStats": [10, 55, 25, 95, 35, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "53",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["SANDVEIL","ARENATRAP"],
+    "HiddenAbility": "SANDFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 12,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 15,
+        "move": "MAGNITUDE"
+    },
+    {
+        "level": 18,
+        "move": "BULLDOZE"
+    },
+    {
+        "level": 23,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 26,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 29,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 34,
+        "move": "DIG"
+    },
+    {
+        "level": 37,
+        "move": "SLASH"
+    },
+    {
+        "level": 40,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 45,
+        "move": "FISSURE"
+    }],
+    "EggMoves": ["ANCIENTPOWER", "ASTONISH", "BEATUP", "ENDURE", "FEINTATTACK", "FINALGAMBIT", "HEADBUTT", "MEMENTO", "MUDBOMB", "PURSUIT", "REVERSAL", "SCREECH", "UPROAR"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.2",
+    "Weight": "0.8",
+    "Color": "Brown",
+    "Shape": "5",
+    "Habitat": "Cave",
+    "RegionalNumbers": [50, 134],
+    "Kind": "Mole",
+    "Pokedex": "Diglett are raised in most farms. The reason is simple--wherever they burrow, the soil is left perfectly tilled for growing delicious crops.",
+    "WildItemUncommon": "SOFTSAND",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "31",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "DUGTRIO",
+        "by":
+        {
+            "Level": 26
+        }
+    }]
+}

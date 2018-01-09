@@ -1,0 +1,94 @@
+{
+    "ID": 621,
+    "Name": "Druddigon",
+    "InternalName": "DRUDDIGON",
+    "Type1": "DRAGON",
+    "BaseStats": [77, 120, 90, 48, 60, 90],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "170",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["ROUGHSKIN","SHEERFORCE"],
+    "HiddenAbility": "MOLDBREAKER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 5,
+        "move": "HONECLAWS"
+    },
+    {
+        "level": 9,
+        "move": "BITE"
+    },
+    {
+        "level": 13,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 18,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 21,
+        "move": "SLASH"
+    },
+    {
+        "level": 25,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 27,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 31,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 35,
+        "move": "REVENGE"
+    },
+    {
+        "level": 40,
+        "move": "NIGHTSLASH"
+    },
+    {
+        "level": 45,
+        "move": "DRAGONTAIL"
+    },
+    {
+        "level": 49,
+        "move": "ROCKCLIMB"
+    },
+    {
+        "level": 55,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 62,
+        "move": "OUTRAGE"
+    }],
+    "EggMoves": ["CRUSHCLAW", "FEINTATTACK", "FIREFANG", "GLARE", "IRONTAIL", "METALCLAW", "POISONTAIL", "PURSUIT", "SNATCH", "SUCKERPUNCH", "THUNDERFANG"],
+    "Compatibility": ["Monster", "Dragon"],
+    "StepsToHatch": "7905",
+    "Height": "1.6",
+    "Weight": "139.0",
+    "Color": "Red",
+    "Shape": "6",
+    "Kind": "Cave",
+    "Pokedex": "It races through narrow caves, using its sharp claws to catch prey. Then skin on its face is harder than a rock.",
+    "WildItemUncommon": "DRAGONFANG",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

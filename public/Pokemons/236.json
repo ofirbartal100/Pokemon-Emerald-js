@@ -1,0 +1,55 @@
+{
+    "ID": 236,
+    "Name": "Tyrogue",
+    "InternalName": "TYROGUE",
+    "Type1": "FIGHTING",
+    "BaseStats": [35, 35, 35, 35, 35, 35],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "42",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["GUTS","STEADFAST"],
+    "HiddenAbility": "VITALSPIRIT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 1,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    }],
+    "EggMoves": ["BULLETPUNCH", "COUNTER", "ENDURE", "FEINT", "HELPINGHAND", "HIGHJUMPKICK", "MACHPUNCH", "MINDREADER", "PURSUIT", "RAPIDSPIN", "VACUUMWAVE"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "6630",
+    "Height": "0.7",
+    "Weight": "21.0",
+    "Color": "Purple",
+    "Shape": "12",
+    "Habitat": "Urban",
+    "RegionalNumbers": [0, 145],
+    "Kind": "Scuffle",
+    "Pokedex": "Tyrogue become stressed out if they do not get to train every day. When raising this Pokémon, the trainer must establish a regular training schedule.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": ["HITMONLEE", "AttackGreater",
+    {
+        "level": 20,
+        "move": "HITMONCHAN"
+    }, "DefenseGreater",
+    {
+        "level": 20,
+        "move": "HITMONTOP"
+    }, "AtkDefEqual", 20]
+}

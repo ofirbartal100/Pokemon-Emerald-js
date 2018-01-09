@@ -1,0 +1,86 @@
+{
+    "ID": 135,
+    "Name": "Jolteon",
+    "InternalName": "JOLTEON",
+    "Type1": "ELECTRIC",
+    "BaseStats": [65, 65, 60, 130, 110, 95],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "184",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "VOLTABSORB",
+    "HiddenAbility": "QUICKFEET",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 5,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 17,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 21,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 25,
+        "move": "PINMISSILE"
+    },
+    {
+        "level": 29,
+        "move": "AGILITY"
+    },
+    {
+        "level": 33,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 37,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 41,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 45,
+        "move": "THUNDER"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "9180",
+    "Height": "0.8",
+    "Weight": "24.5",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Urban",
+    "RegionalNumbers": [135, 186],
+    "Kind": "Lightning",
+    "Pokedex": "Its cells generate weak power that is amplified by its fur's static electricity to drop thunderbolts. The bristling fur is made of electrically charged needles.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

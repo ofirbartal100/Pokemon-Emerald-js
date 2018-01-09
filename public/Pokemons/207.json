@@ -1,0 +1,99 @@
+{
+    "ID": 207,
+    "Name": "Gligar",
+    "InternalName": "GLIGAR",
+    "Type1": "GROUND",
+    "Type2": "FLYING",
+    "BaseStats": [65, 75, 105, 85, 35, 65],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "86",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["HYPERCUTTER","SANDVEIL"],
+    "HiddenAbility": "IMMUNITY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 4,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 7,
+        "move": "HARDEN"
+    },
+    {
+        "level": 10,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 16,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 19,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 22,
+        "move": "ACROBATICS"
+    },
+    {
+        "level": 27,
+        "move": "SLASH"
+    },
+    {
+        "level": 30,
+        "move": "UTURN"
+    },
+    {
+        "level": 35,
+        "move": "SCREECH"
+    },
+    {
+        "level": 40,
+        "move": "XSCISSOR"
+    },
+    {
+        "level": 45,
+        "move": "SKYUPPERCUT"
+    },
+    {
+        "level": 50,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 55,
+        "move": "GUILLOTINE"
+    }],
+    "EggMoves": ["AGILITY", "BATONPASS", "COUNTER", "CROSSPOISON", "DOUBLEEDGE", "FEINT", "METALCLAW", "NIGHTSLASH", "POISONTAIL", "POWERTRICK", "RAZORWIND", "ROCKCLIMB", "SANDTOMB", "WINGATTACK"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "64.8",
+    "Color": "Purple",
+    "Shape": "9",
+    "Habitat": "Mountain",
+    "RegionalNumbers": [0, 193],
+    "Kind": "FlyScorpion",
+    "Pokedex": "It glides without making a single sound. It grasps the face of its foe using its hind and large front claws, then stabs with its poison barb.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "11",
+    "BattlerAltitude": "10",
+    "Evolutions": [
+    {
+        "to": "GLISCOR",
+        "by":
+        {
+            "NightHoldItem": "RAZORFANG"
+        }
+    }]
+}

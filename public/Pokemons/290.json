@@ -1,0 +1,75 @@
+{
+    "ID": 290,
+    "Name": "Nincada",
+    "InternalName": "NINCADA",
+    "Type1": "BUG",
+    "Type2": "GROUND",
+    "BaseStats": [31, 45, 90, 40, 30, 30],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "53",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "COMPOUNDEYES",
+    "HiddenAbility": "RUNAWAY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 5,
+        "move": "LEECHLIFE"
+    },
+    {
+        "level": 9,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 14,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 19,
+        "move": "MINDREADER"
+    },
+    {
+        "level": 25,
+        "move": "FALSESWIPE"
+    },
+    {
+        "level": 31,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 38,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 45,
+        "move": "DIG"
+    }],
+    "EggMoves": ["BUGBITE", "BUGBUZZ", "ENDURE", "FEINTATTACK", "FINALGAMBIT", "GUST", "NIGHTSLASH", "SILVERWIND"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.5",
+    "Weight": "5.5",
+    "Color": "Gray",
+    "Shape": "14",
+    "Habitat": "Forest",
+    "Kind": "Trainee",
+    "Pokedex": "It makes its nest at the roots of a mighty tree. Using its whiskerlike antennae, it probes its surroundings in the pitch-black darkness of soil.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "30",
+    "BattlerAltitude": "0",
+    "Evolutions": ["NINJASK", "Ninjask",
+    {
+        "level": 20,
+        "move": "SHEDINJA"
+    }, "Shedinja", 20]
+}

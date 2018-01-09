@@ -1,0 +1,97 @@
+{
+    "ID": 280,
+    "Name": "Ralts",
+    "InternalName": "RALTS",
+    "Type1": "PSYCHIC",
+    "BaseStats": [28, 25, 25, 40, 45, 35],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "40",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "235",
+    "Happiness": "35",
+    "Abilities": ["SYNCHRONIZE","TRACE"],
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 6,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 10,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 12,
+        "move": "TELEPORT"
+    },
+    {
+        "level": 17,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 21,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 23,
+        "move": "HEALPULSE"
+    },
+    {
+        "level": 28,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 32,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 34,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 39,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 43,
+        "move": "CHARM"
+    },
+    {
+        "level": 45,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 50,
+        "move": "DREAMEATER"
+    },
+    {
+        "level": 54,
+        "move": "STOREDPOWER"
+    }],
+    "EggMoves": ["CONFUSERAY", "DESTINYBOND", "DISABLE", "ENCORE", "GRUDGE", "MEANLOOK", "MEMENTO", "SHADOWSNEAK", "SKILLSWAP", "SYNCHRONOISE"],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "6.6",
+    "Color": "White",
+    "Shape": "12",
+    "Habitat": "Urban",
+    "Kind": "Feeling",
+    "Pokedex": "A Ralts has the power to sense the emotions of people and Pokémon with the horns on its head. It takes cover if it senses any hostility.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "KIRLIA",
+        "by":
+        {
+            "Level": 20
+        }
+    }]
+}

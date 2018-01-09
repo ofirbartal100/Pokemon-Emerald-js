@@ -1,0 +1,91 @@
+{
+    "ID": 166,
+    "Name": "Ledian",
+    "InternalName": "LEDIAN",
+    "Type1": "BUG",
+    "Type2": "FLYING",
+    "BaseStats": [55, 35, 50, 85, 55, 110],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "137",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["SWARM","EARLYBIRD"],
+    "HiddenAbility": "IRONFIST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 1,
+        "move": "COMETPUNCH"
+    },
+    {
+        "level": 6,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 9,
+        "move": "COMETPUNCH"
+    },
+    {
+        "level": 14,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 14,
+        "move": "REFLECT"
+    },
+    {
+        "level": 14,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 17,
+        "move": "MACHPUNCH"
+    },
+    {
+        "level": 24,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 29,
+        "move": "SILVERWIND"
+    },
+    {
+        "level": 36,
+        "move": "AGILITY"
+    },
+    {
+        "level": 41,
+        "move": "SWIFT"
+    },
+    {
+        "level": 48,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 53,
+        "move": "BUGBUZZ"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "1.4",
+    "Weight": "35.6",
+    "Color": "Red",
+    "Shape": "9",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 31],
+    "Kind": "Five Star",
+    "Pokedex": "It is said that in lands with clean air, where the stars fill the sky, there live many Ledian. For good reason, they use the light of the stars as energy.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

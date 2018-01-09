@@ -1,0 +1,102 @@
+{
+    "ID": 2,
+    "Name": "Ivysaur",
+    "InternalName": "IVYSAUR",
+    "Type1": "GRASS",
+    "Type2": "POISON",
+    "BaseStats": [60, 62, 63, 60, 80, 80],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 0, 0, 0, 1, 1],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "CHLOROPHYLL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 3,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 9,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 13,
+        "move": "POISONPOWDER"
+    },
+    {
+        "level": 13,
+        "move": "SLEEPPOWDER"
+    },
+    {
+        "level": 15,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 20,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 23,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 28,
+        "move": "GROWTH"
+    },
+    {
+        "level": 31,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 36,
+        "move": "WORRYSEED"
+    },
+    {
+        "level": 39,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 44,
+        "move": "SOLARBEAM"
+    }],
+    "Compatibility": ["Monster", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "1.0",
+    "Weight": "13.0",
+    "Color": "Green",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [2, 232],
+    "Kind": "Seed",
+    "Pokedex": "To support its bulb, Ivysaur's legs grow sturdy. If it spends more time lying in the sunlight, the bud will soon bloom into a large flower.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "23",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "VENUSAUR",
+        "by":
+        {
+            "Level": 32
+        }
+    }]
+}

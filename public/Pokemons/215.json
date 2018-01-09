@@ -1,0 +1,105 @@
+{
+    "ID": 215,
+    "Name": "Sneasel",
+    "InternalName": "SNEASEL",
+    "Type1": "DARK",
+    "Type2": "ICE",
+    "BaseStats": [55, 95, 55, 115, 35, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "86",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "60",
+    "Happiness": "35",
+    "Abilities": ["INNERFOCUS","KEENEYE"],
+    "HiddenAbility": "PICKPOCKET",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "TAUNT"
+    },
+    {
+        "level": 8,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 10,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 14,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 16,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 20,
+        "move": "AGILITY"
+    },
+    {
+        "level": 22,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 25,
+        "move": "HONECLAWS"
+    },
+    {
+        "level": 28,
+        "move": "BEATUP"
+    },
+    {
+        "level": 32,
+        "move": "SCREECH"
+    },
+    {
+        "level": 35,
+        "move": "SLASH"
+    },
+    {
+        "level": 40,
+        "move": "SNATCH"
+    },
+    {
+        "level": 44,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 47,
+        "move": "ICESHARD"
+    }],
+    "EggMoves": ["ASSIST", "AVALANCHE", "BITE", "COUNTER", "CRUSHCLAW", "DOUBLEHIT", "FAKEOUT", "FEINT", "FORESIGHT", "ICEPUNCH", "ICESHARD", "PUNISHMENT", "PURSUIT", "SPITE"],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "28.0",
+    "Color": "Black",
+    "Shape": "6",
+    "Habitat": "Forest",
+    "RegionalNumbers": [0, 218],
+    "Kind": "Sharp Claw",
+    "Pokedex": "A Sneasel scales trees by punching its hooked claws into the bark. It seeks out unguarded nests and steals eggs for food while the parents are away.",
+    "WildItemCommon": "GRIPCLAW",
+    "WildItemUncommon": "QUICKCLAW",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "WEAVILE",
+        "by":
+        {
+            "NightHoldItem": "RAZORCLAW"
+        }
+    }]
+}

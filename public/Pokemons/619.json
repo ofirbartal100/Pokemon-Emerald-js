@@ -1,0 +1,100 @@
+{
+    "ID": 619,
+    "Name": "Mienfoo",
+    "InternalName": "MIENFOO",
+    "Type1": "FIGHTING",
+    "BaseStats": [45, 85, 50, 65, 55, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "70",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "180",
+    "Happiness": "70",
+    "Abilities": ["INNERFOCUS","REGENERATOR"],
+    "HiddenAbility": "RECKLESS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 5,
+        "move": "MEDITATE"
+    },
+    {
+        "level": 9,
+        "move": "DETECT"
+    },
+    {
+        "level": 13,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 17,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 21,
+        "move": "SWIFT"
+    },
+    {
+        "level": 25,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 29,
+        "move": "FORCEPALM"
+    },
+    {
+        "level": 33,
+        "move": "DRAINPUNCH"
+    },
+    {
+        "level": 37,
+        "move": "JUMPKICK"
+    },
+    {
+        "level": 41,
+        "move": "UTURN"
+    },
+    {
+        "level": 45,
+        "move": "QUICKGUARD"
+    },
+    {
+        "level": 49,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 53,
+        "move": "HIGHJUMPKICK"
+    },
+    {
+        "level": 57,
+        "move": "REVERSAL"
+    },
+    {
+        "level": 61,
+        "move": "AURASPHERE"
+    }],
+    "EggMoves": ["BATONPASS", "ENDURE", "FEINT", "KNOCKOFF", "LOWKICK", "MEFIRST", "SMELLINGSALTS", "VITALTHROW"],
+    "Compatibility": ["Field", "Humanlike"],
+    "StepsToHatch": "6630",
+    "Height": "0.9",
+    "Weight": "20.0",
+    "Color": "Yellow",
+    "Shape": "6",
+    "Kind": "Martial Arts",
+    "Pokedex": "They have mastered elegant combos. As they concentrate, their battle moves become swifter and more precise.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MIENSHAO",
+        "by":
+        {
+            "Level": 50
+        }
+    }]
+}

@@ -1,0 +1,98 @@
+{
+    "ID": 333,
+    "Name": "Swablu",
+    "InternalName": "SWABLU",
+    "Type1": "NORMAL",
+    "Type2": "FLYING",
+    "BaseStats": [45, 40, 60, 50, 40, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "62",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "NATURALCURE",
+    "HiddenAbility": "CLOUDNINE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 4,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 8,
+        "move": "SING"
+    },
+    {
+        "level": 10,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 13,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 15,
+        "move": "MIST"
+    },
+    {
+        "level": 18,
+        "move": "ROUND"
+    },
+    {
+        "level": 21,
+        "move": "NATURALGIFT"
+    },
+    {
+        "level": 25,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 29,
+        "move": "REFRESH"
+    },
+    {
+        "level": 34,
+        "move": "MIRRORMOVE"
+    },
+    {
+        "level": 39,
+        "move": "COTTONGUARD"
+    },
+    {
+        "level": 42,
+        "move": "DRAGONPULSE"
+    },
+    {
+        "level": 48,
+        "move": "PERISHSONG"
+    }],
+    "EggMoves": ["AGILITY", "DRAGONRUSH", "FEATHERDANCE", "HAZE", "HYPERVOICE", "POWERSWAP", "PURSUIT", "RAGE", "ROOST", "STEELWING"],
+    "Compatibility": ["Flying", "Dragon"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "1.2",
+    "Color": "Blue",
+    "Shape": "9",
+    "Habitat": "Forest",
+    "Kind": "Cotton Bird",
+    "Pokedex": "A Pokémon that has wings like cottony clouds. After enduring winter, in which little food is available, Swablu flocks move closer to towns in the spring.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "17",
+    "Evolutions": [
+    {
+        "to": "ALTARIA",
+        "by":
+        {
+            "Level": 35
+        }
+    }]
+}

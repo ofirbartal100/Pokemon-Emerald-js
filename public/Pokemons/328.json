@@ -1,0 +1,106 @@
+{
+    "ID": 328,
+    "Name": "Trapinch",
+    "InternalName": "TRAPINCH",
+    "Type1": "GROUND",
+    "BaseStats": [45, 100, 45, 10, 45, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "58",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["HYPERCUTTER","ARENATRAP"],
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 4,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 7,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 10,
+        "move": "SANDTOMB"
+    },
+    {
+        "level": 13,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 17,
+        "move": "BIDE"
+    },
+    {
+        "level": 21,
+        "move": "BULLDOZE"
+    },
+    {
+        "level": 25,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 29,
+        "move": "DIG"
+    },
+    {
+        "level": 34,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 39,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 44,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 49,
+        "move": "HYPERBEAM"
+    },
+    {
+        "level": 55,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 61,
+        "move": "FEINT"
+    },
+    {
+        "level": 67,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 73,
+        "move": "FISSURE"
+    }],
+    "EggMoves": ["BUGBITE", "EARTHPOWER", "ENDURE", "FLAIL", "FOCUSENERGY", "FURYCUTTER", "GUST", "MUDSHOT", "QUICKATTACK", "SIGNALBEAM"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "5355",
+    "Height": "0.7",
+    "Weight": "15.0",
+    "Color": "Brown",
+    "Shape": "14",
+    "Habitat": "RoughTerrain",
+    "Kind": "Ant Pit",
+    "Pokedex": "Its big jaws crunch through boulders. Because its head is so big, it has a hard time getting back upright if it tips over onto its back.",
+    "WildItemUncommon": "SOFTSAND",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "VIBRAVA",
+        "by":
+        {
+            "Level": 35
+        }
+    }]
+}

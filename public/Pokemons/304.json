@@ -1,0 +1,103 @@
+{
+    "ID": 304,
+    "Name": "Aron",
+    "InternalName": "ARON",
+    "Type1": "STEEL",
+    "Type2": "ROCK",
+    "BaseStats": [50, 70, 100, 30, 40, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "66",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "180",
+    "Happiness": "35",
+    "Abilities": ["STURDY","ROCKHEAD"],
+    "HiddenAbility": "HEAVYMETAL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 4,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 8,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 11,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 15,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 18,
+        "move": "ROAR"
+    },
+    {
+        "level": 22,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 25,
+        "move": "IRONHEAD"
+    },
+    {
+        "level": 29,
+        "move": "PROTECT"
+    },
+    {
+        "level": 32,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 36,
+        "move": "IRONTAIL"
+    },
+    {
+        "level": 39,
+        "move": "AUTOTOMIZE"
+    },
+    {
+        "level": 43,
+        "move": "HEAVYSLAM"
+    },
+    {
+        "level": 46,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 50,
+        "move": "METALBURST"
+    }],
+    "EggMoves": ["BODYSLAM", "CURSE", "DRAGONRUSH", "ENDEAVOR", "HEADSMASH", "IRONHEAD", "SCREECH", "SMELLINGSALTS", "STEALTHROCK", "STOMP", "SUPERPOWER"],
+    "Compatibility": ["Monster"],
+    "StepsToHatch": "9180",
+    "Height": "0.4",
+    "Weight": "60.0",
+    "Color": "Gray",
+    "Shape": "8",
+    "Habitat": "Mountain",
+    "Kind": "Iron Armor",
+    "Pokedex": "A Pokémon that is clad in steel armor. A new suit of armor is made when it evolves. The old, discarded armor is salvaged as metal for making iron products.",
+    "WildItemUncommon": "HARDSTONE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "29",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "LAIRON",
+        "by":
+        {
+            "Level": 32
+        }
+    }]
+}

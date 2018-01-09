@@ -1,0 +1,86 @@
+{
+    "ID": 348,
+    "Name": "Armaldo",
+    "InternalName": "ARMALDO",
+    "Type1": "ROCK",
+    "Type2": "BUG",
+    "BaseStats": [75, 125, 100, 45, 70, 80],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BATTLEARMOR",
+    "HiddenAbility": "SWIFTSWIM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 7,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 13,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 19,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 25,
+        "move": "PROTECT"
+    },
+    {
+        "level": 31,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 37,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 46,
+        "move": "SLASH"
+    },
+    {
+        "level": 55,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 67,
+        "move": "CRUSHCLAW"
+    },
+    {
+        "level": 73,
+        "move": "XSCISSOR"
+    }],
+    "Compatibility": ["Water3"],
+    "StepsToHatch": "7905",
+    "Height": "1.5",
+    "Weight": "68.2",
+    "Color": "Gray",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "Kind": "Plate",
+    "Pokedex": "Armaldo usually lives on land. However, when it hunts for prey, it dives beneath the ocean. It swims around using its two large wings.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

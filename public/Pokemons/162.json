@@ -1,0 +1,96 @@
+{
+    "ID": 162,
+    "Name": "Furret",
+    "InternalName": "FURRET",
+    "Type1": "NORMAL",
+    "BaseStats": [85, 76, 64, 90, 45, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "145",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "90",
+    "Happiness": "70",
+    "Abilities": ["RUNAWAY","KEENEYE"],
+    "HiddenAbility": "FRISK",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 4,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 7,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 13,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 17,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 21,
+        "move": "FOLLOWME"
+    },
+    {
+        "level": 28,
+        "move": "SLAM"
+    },
+    {
+        "level": 32,
+        "move": "REST"
+    },
+    {
+        "level": 36,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 42,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 46,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 50,
+        "move": "MEFIRST"
+    },
+    {
+        "level": 56,
+        "move": "HYPERVOICE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "1.8",
+    "Weight": "32.5",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 20],
+    "Kind": "Long Body",
+    "Pokedex": "A Furret has a very slim build. When under attack, it can squirm through narrow spaces and get away. In spite of its short limbs, it is very nimble and fleet.",
+    "WildItemCommon": "ORANBERRY",
+    "WildItemUncommon": "SITRUSBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

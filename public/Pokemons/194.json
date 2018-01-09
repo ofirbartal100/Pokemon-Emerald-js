@@ -1,0 +1,91 @@
+{
+    "ID": 194,
+    "Name": "Wooper",
+    "InternalName": "WOOPER",
+    "Type1": "WATER",
+    "Type2": "GROUND",
+    "BaseStats": [55, 45, 45, 15, 25, 25],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "42",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["DAMP","WATERABSORB"],
+    "HiddenAbility": "UNAWARE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 5,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 9,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 15,
+        "move": "SLAM"
+    },
+    {
+        "level": 19,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 23,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 29,
+        "move": "YAWN"
+    },
+    {
+        "level": 33,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 37,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 43,
+        "move": "MIST"
+    },
+    {
+        "level": 43,
+        "move": "HAZE"
+    },
+    {
+        "level": 47,
+        "move": "MUDDYWATER"
+    }],
+    "EggMoves": ["ACIDSPRAY", "AFTERYOU", "ANCIENTPOWER", "BODYSLAM", "COUNTER", "CURSE", "DOUBLEKICK", "ENCORE", "MUDSPORT", "RECOVER", "SLEEPTALK", "SPITUP", "STOCKPILE", "SWALLOW"],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.4",
+    "Weight": "8.5",
+    "Color": "Blue",
+    "Shape": "7",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [0, 56],
+    "Kind": "Water Fish",
+    "Pokedex": "Wooper usually live in water but come out onto land seeking food occasionally. On land, they coat their bodies with a gooey, toxic film.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "QUAGSIRE",
+        "by":
+        {
+            "Level": 20
+        }
+    }]
+}

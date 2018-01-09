@@ -1,0 +1,105 @@
+{
+    "ID": 448,
+    "Name": "Lucario",
+    "InternalName": "LUCARIO",
+    "Type1": "FIGHTING",
+    "Type2": "STEEL",
+    "BaseStats": [70, 110, 70, 90, 115, 70],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "184",
+    "EffortPoints": [0, 1, 0, 0, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["STEADFAST","INNERFOCUS"],
+    "HiddenAbility": "JUSTIFIED",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "DARKPULSE"
+    },
+    {
+        "level": 1,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 1,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 1,
+        "move": "DETECT"
+    },
+    {
+        "level": 1,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 6,
+        "move": "COUNTER"
+    },
+    {
+        "level": 11,
+        "move": "FEINT"
+    },
+    {
+        "level": 15,
+        "move": "FORCEPALM"
+    },
+    {
+        "level": 19,
+        "move": "MEFIRST"
+    },
+    {
+        "level": 24,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 29,
+        "move": "BONERUSH"
+    },
+    {
+        "level": 33,
+        "move": "QUICKGUARD"
+    },
+    {
+        "level": 37,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 42,
+        "move": "HEALPULSE"
+    },
+    {
+        "level": 47,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 51,
+        "move": "AURASPHERE"
+    },
+    {
+        "level": 55,
+        "move": "CLOSECOMBAT"
+    },
+    {
+        "level": 60,
+        "move": "DRAGONPULSE"
+    },
+    {
+        "level": 65,
+        "move": "EXTREMESPEED"
+    }],
+    "Compatibility": ["Field", "Humanlike"],
+    "StepsToHatch": "6630",
+    "Height": "1.2",
+    "Weight": "54.0",
+    "Color": "Blue",
+    "Shape": "6",
+    "Kind": "Aura",
+    "Pokedex": "It has the ability to sense the auras of all things. It understands human speech.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

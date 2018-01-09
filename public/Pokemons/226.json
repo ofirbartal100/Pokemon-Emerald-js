@@ -1,0 +1,112 @@
+{
+    "ID": 226,
+    "Name": "Mantine",
+    "InternalName": "MANTINE",
+    "Type1": "WATER",
+    "Type2": "FLYING",
+    "BaseStats": [65, 40, 70, 70, 80, 140],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "163",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "25",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","WATERABSORB"],
+    "HiddenAbility": "WATERVEIL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 1,
+        "move": "BULLETSEED"
+    },
+    {
+        "level": 1,
+        "move": "SIGNALBEAM"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLE"
+    },
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 1,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 3,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 7,
+        "move": "BUBBLEBEAM"
+    },
+    {
+        "level": 11,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 14,
+        "move": "WINGATTACK"
+    },
+    {
+        "level": 16,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 19,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 23,
+        "move": "WIDEGUARD"
+    },
+    {
+        "level": 27,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 32,
+        "move": "AGILITY"
+    },
+    {
+        "level": 36,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 39,
+        "move": "AQUARING"
+    },
+    {
+        "level": 46,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 49,
+        "move": "HYDROPUMP"
+    }],
+    "EggMoves": ["AMNESIA", "HAZE", "HYDROPUMP", "MIRRORCOAT", "MUDSPORT", "SLAM", "SPLASH", "TWISTER", "WATERSPORT", "WIDEGUARD"],
+    "Compatibility": ["Water1"],
+    "StepsToHatch": "6630",
+    "Height": "2.1",
+    "Weight": "220.0",
+    "Color": "Purple",
+    "Shape": "9",
+    "Habitat": "Sea",
+    "RegionalNumbers": [0, 202],
+    "Kind": "Kite",
+    "Pokedex": "On sunny days, schools of Mantine can be seen elegantly leaping over the waves. It is not bothered by the Remoraid that hitches rides.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "15",
+    "Evolutions": []
+}

@@ -1,0 +1,97 @@
+{
+    "ID": 256,
+    "Name": "Combusken",
+    "InternalName": "COMBUSKEN",
+    "Type1": "FIRE",
+    "Type2": "FIGHTING",
+    "BaseStats": [60, 85, 60, 55, 85, 60],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 1, 0, 0, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "BLAZE",
+    "HiddenAbility": "SPEEDBOOST",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 7,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 13,
+        "move": "EMBER"
+    },
+    {
+        "level": 16,
+        "move": "DOUBLEKICK"
+    },
+    {
+        "level": 17,
+        "move": "PECK"
+    },
+    {
+        "level": 21,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 28,
+        "move": "BULKUP"
+    },
+    {
+        "level": 32,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 39,
+        "move": "SLASH"
+    },
+    {
+        "level": 43,
+        "move": "MIRRORMOVE"
+    },
+    {
+        "level": 50,
+        "move": "SKYUPPERCUT"
+    },
+    {
+        "level": 54,
+        "move": "FLAREBLITZ"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "19.5",
+    "Color": "Red",
+    "Shape": "6",
+    "Habitat": "Grassland",
+    "Kind": "Young Fowl",
+    "Pokedex": "It lashes out with 10 kicks per second. Its strong fighting instinct compels it to keep up its offensive until the opponent gives up.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "13",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "BLAZIKEN",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

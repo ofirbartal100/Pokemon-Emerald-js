@@ -1,4 +1,5 @@
 import Entity , {Sides} from '../Entity.js'
+import Trainer from '../Trainer.js'
 import Walk from '../traits/Walk.js'
 import Talk from '../traits/Talk.js'
 import { Vec2 } from '../math.js'
@@ -43,7 +44,7 @@ function createBrendanFactory(sprite) {
 
 
     return function createBrendan() {
-        const brendan = new Entity()
+        const brendan = new Trainer()
         brendan.size.set(16, 16)
         brendan.heading = Sides.BOTTOM
         brendan.addTrait(new Walk())

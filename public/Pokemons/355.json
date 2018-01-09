@@ -1,0 +1,93 @@
+{
+    "ID": 355,
+    "Name": "Duskull",
+    "InternalName": "DUSKULL",
+    "Type1": "GHOST",
+    "BaseStats": [20, 40, 90, 25, 30, 90],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "59",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "190",
+    "Happiness": "35",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 6,
+        "move": "DISABLE"
+    },
+    {
+        "level": 9,
+        "move": "FORESIGHT"
+    },
+    {
+        "level": 14,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 17,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 22,
+        "move": "SHADOWSNEAK"
+    },
+    {
+        "level": 25,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 30,
+        "move": "CURSE"
+    },
+    {
+        "level": 33,
+        "move": "WILLOWISP"
+    },
+    {
+        "level": 38,
+        "move": "HEX"
+    },
+    {
+        "level": 41,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 46,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 49,
+        "move": "FUTURESIGHT"
+    }],
+    "EggMoves": ["DARKPULSE", "DESTINYBOND", "FEINTATTACK", "GRUDGE", "IMPRISON", "MEMENTO", "OMINOUSWIND", "PAINSPLIT", "SKILLSWAP"],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "6630",
+    "Height": "0.8",
+    "Weight": "15.0",
+    "Color": "Black",
+    "Shape": "4",
+    "Habitat": "Forest",
+    "Kind": "Requiem",
+    "Pokedex": "A glare from its single scarlet eye makes even burly grown-ups freeze in utter fear. It is a nocturnal Pokémon that roams about under the cloak of darkness.",
+    "WildItemUncommon": "KASIBBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "26",
+    "BattlerAltitude": "11",
+    "Evolutions": [
+    {
+        "to": "DUSCLOPS",
+        "by":
+        {
+            "Level": 37
+        }
+    }]
+}

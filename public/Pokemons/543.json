@@ -1,0 +1,95 @@
+{
+    "ID": 543,
+    "Name": "Venipede",
+    "InternalName": "VENIPEDE",
+    "Type1": "BUG",
+    "Type2": "POISON",
+    "BaseStats": [30, 45, 59, 57, 30, 39],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "52",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["POISONPOINT","SWARM"],
+    "HiddenAbility": "QUICKFEET",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 1,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 5,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 8,
+        "move": "SCREECH"
+    },
+    {
+        "level": 12,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 15,
+        "move": "PROTECT"
+    },
+    {
+        "level": 19,
+        "move": "POISONTAIL"
+    },
+    {
+        "level": 22,
+        "move": "BUGBITE"
+    },
+    {
+        "level": 26,
+        "move": "VENOSHOCK"
+    },
+    {
+        "level": 29,
+        "move": "AGILITY"
+    },
+    {
+        "level": 33,
+        "move": "STEAMROLLER"
+    },
+    {
+        "level": 36,
+        "move": "TOXIC"
+    },
+    {
+        "level": 40,
+        "move": "ROCKCLIMB"
+    },
+    {
+        "level": 43,
+        "move": "DOUBLEEDGE"
+    }],
+    "EggMoves": ["PINMISSILE", "ROCKCLIMB", "SPIKES", "TAKEDOWN", "TOXICSPIKES", "TWINEEDLE"],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "0.4",
+    "Weight": "5.3",
+    "Color": "Red",
+    "Shape": "14",
+    "Kind": "Centipede",
+    "Pokedex": "It discovers what is going on around it by using the feelers on its head and tail. It is brutally aggresive.",
+    "WildItemCommon": "PECHABERRY",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "36",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "WHIRLIPEDE",
+        "by":
+        {
+            "Level": 22
+        }
+    }]
+}

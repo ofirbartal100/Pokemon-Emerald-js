@@ -1,0 +1,86 @@
+{
+    "ID": 197,
+    "Name": "Umbreon",
+    "InternalName": "UMBREON",
+    "Type1": "DARK",
+    "BaseStats": [95, 65, 110, 65, 60, 130],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Medium",
+    "BaseEXP": "184",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "SYNCHRONIZE",
+    "HiddenAbility": "INNERFOCUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 5,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 9,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 17,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 21,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 25,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 29,
+        "move": "SCREECH"
+    },
+    {
+        "level": 33,
+        "move": "MOONLIGHT"
+    },
+    {
+        "level": 37,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 41,
+        "move": "LASTRESORT"
+    },
+    {
+        "level": 45,
+        "move": "GUARDSWAP"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "9180",
+    "Height": "1.0",
+    "Weight": "27.0",
+    "Color": "Black",
+    "Shape": "8",
+    "Habitat": "Urban",
+    "RegionalNumbers": [0, 189],
+    "Kind": "Moonlight",
+    "Pokedex": "Umbreon evolved from exposure to the moon's energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

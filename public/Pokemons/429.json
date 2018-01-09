@@ -1,0 +1,51 @@
+{
+    "ID": 429,
+    "Name": "Mismagius",
+    "InternalName": "MISMAGIUS",
+    "Type1": "GHOST",
+    "BaseStats": [60, 60, 60, 105, 105, 105],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "173",
+    "EffortPoints": [0, 0, 0, 0, 1, 1],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 1,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 1,
+        "move": "SPITE"
+    },
+    {
+        "level": 1,
+        "move": "ASTONISH"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "6630",
+    "Height": "0.9",
+    "Weight": "4.4",
+    "Color": "Purple",
+    "Shape": "1",
+    "Kind": "Magical",
+    "Pokedex": "Its cries sound like incantations. Those hearing it are tormented by headaches and hallucinations.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "9",
+    "Evolutions": []
+}

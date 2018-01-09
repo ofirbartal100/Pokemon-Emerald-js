@@ -1,0 +1,114 @@
+{
+    "ID": 221,
+    "Name": "Piloswine",
+    "InternalName": "PILOSWINE",
+    "Type1": "ICE",
+    "Type2": "GROUND",
+    "BaseStats": [100, 100, 80, 50, 60, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "158",
+    "EffortPoints": [1, 1, 0, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["OBLIVIOUS","SNOWCLOAK"],
+    "HiddenAbility": "THICKFAT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 1,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 1,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 5,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 8,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 11,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 14,
+        "move": "ENDURE"
+    },
+    {
+        "level": 18,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 21,
+        "move": "ICYWIND"
+    },
+    {
+        "level": 24,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 28,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 33,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 37,
+        "move": "MIST"
+    },
+    {
+        "level": 41,
+        "move": "THRASH"
+    },
+    {
+        "level": 46,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 52,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 58,
+        "move": "AMNESIA"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "55.8",
+    "Color": "Brown",
+    "Shape": "8",
+    "Habitat": "Cave",
+    "RegionalNumbers": [0, 196],
+    "Kind": "Swine",
+    "Pokedex": "A Piloswine is covered by a thick coat of long hair for enduring freezing cold. It uses its tusks to dig up food that has been buried under ice.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "MAMOSWINE",
+        "by":
+        {
+            "HasMove": "ANCIENTPOWER"
+        }
+    }]
+}

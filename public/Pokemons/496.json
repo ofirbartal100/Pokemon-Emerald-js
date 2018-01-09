@@ -1,0 +1,107 @@
+{
+    "ID": 496,
+    "Name": "Servine",
+    "InternalName": "SERVINE",
+    "Type1": "GRASS",
+    "BaseStats": [60, 60, 75, 83, 60, 75],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "145",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "CONTRARY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 1,
+        "move": "WRAP"
+    },
+    {
+        "level": 4,
+        "move": "LEER"
+    },
+    {
+        "level": 7,
+        "move": "VINEWHIP"
+    },
+    {
+        "level": 10,
+        "move": "WRAP"
+    },
+    {
+        "level": 13,
+        "move": "GROWTH"
+    },
+    {
+        "level": 16,
+        "move": "LEAFTORNADO"
+    },
+    {
+        "level": 20,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 24,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 28,
+        "move": "SLAM"
+    },
+    {
+        "level": 32,
+        "move": "LEAFBLADE"
+    },
+    {
+        "level": 36,
+        "move": "COIL"
+    },
+    {
+        "level": 40,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 44,
+        "move": "WRINGOUT"
+    },
+    {
+        "level": 48,
+        "move": "GASTROACID"
+    },
+    {
+        "level": 52,
+        "move": "LEAFSTORM"
+    }],
+    "Compatibility": ["Field", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "16.0",
+    "Color": "Green",
+    "Shape": "6",
+    "Kind": "Grass Snake",
+    "Pokedex": "They avoid attacks by sinking into the shadows of thick foliage. They retaliate with masterful whipping techniques.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SERPERIOR",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

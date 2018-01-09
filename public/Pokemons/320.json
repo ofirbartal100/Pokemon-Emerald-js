@@ -1,0 +1,101 @@
+{
+    "ID": 320,
+    "Name": "Wailmer",
+    "InternalName": "WAILMER",
+    "Type1": "WATER",
+    "BaseStats": [130, 70, 35, 60, 70, 35],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fluctuating",
+    "BaseEXP": "80",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "125",
+    "Happiness": "70",
+    "Abilities": ["WATERVEIL","OBLIVIOUS"],
+    "HiddenAbility": "PRESSURE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SPLASH"
+    },
+    {
+        "level": 4,
+        "move": "GROWL"
+    },
+    {
+        "level": 7,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 11,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 14,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 17,
+        "move": "ASTONISH"
+    },
+    {
+        "level": 21,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 24,
+        "move": "MIST"
+    },
+    {
+        "level": 27,
+        "move": "REST"
+    },
+    {
+        "level": 31,
+        "move": "BRINE"
+    },
+    {
+        "level": 34,
+        "move": "WATERSPOUT"
+    },
+    {
+        "level": 37,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 41,
+        "move": "DIVE"
+    },
+    {
+        "level": 44,
+        "move": "BOUNCE"
+    },
+    {
+        "level": 47,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 50,
+        "move": "HEAVYSLAM"
+    }],
+    "EggMoves": ["AQUARING", "BODYSLAM", "CURSE", "DEFENSECURL", "DOUBLEEDGE", "FISSURE", "SLEEPTALK", "SNORE", "SOAK", "THRASH", "TICKLE", "ZENHEADBUTT"],
+    "Compatibility": ["Field", "Water2"],
+    "StepsToHatch": "10455",
+    "Height": "2.0",
+    "Weight": "130.0",
+    "Color": "Blue",
+    "Shape": "3",
+    "Habitat": "Sea",
+    "Kind": "Ball Whale",
+    "Pokedex": "While this Pokémon usually lives in the sea, it can survive on land, although not too long. It loses vitality if its body becomes dried out.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "WAILORD",
+        "by":
+        {
+            "Level": 40
+        }
+    }]
+}

@@ -1,0 +1,102 @@
+{
+    "ID": 326,
+    "Name": "Grumpig",
+    "InternalName": "GRUMPIG",
+    "Type1": "PSYCHIC",
+    "BaseStats": [80, 45, 65, 80, 90, 110],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "165",
+    "EffortPoints": [0, 0, 0, 0, 0, 2],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["THICKFAT","OWNTEMPO"],
+    "HiddenAbility": "GLUTTONY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SPLASH"
+    },
+    {
+        "level": 1,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 1,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 1,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 7,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 10,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 14,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 15,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 18,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 21,
+        "move": "MAGICCOAT"
+    },
+    {
+        "level": 26,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 29,
+        "move": "REST"
+    },
+    {
+        "level": 29,
+        "move": "SNORE"
+    },
+    {
+        "level": 35,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 42,
+        "move": "PSYSHOCK"
+    },
+    {
+        "level": 46,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 52,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 60,
+        "move": "BOUNCE"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "0.9",
+    "Weight": "71.5",
+    "Color": "Purple",
+    "Shape": "6",
+    "Habitat": "Mountain",
+    "Kind": "Manipulate",
+    "Pokedex": "It stores power in the black pearls on its forehead. When it uses psychic power, it performs an odd dance step. Its style of dancing became hugely popular overseas.",
+    "WildItemUncommon": "TANGABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

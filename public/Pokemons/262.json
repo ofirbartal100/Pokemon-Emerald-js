@@ -1,0 +1,98 @@
+{
+    "ID": 262,
+    "Name": "Mightyena",
+    "InternalName": "MIGHTYENA",
+    "Type1": "DARK",
+    "BaseStats": [70, 90, 70, 70, 60, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "147",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "127",
+    "Happiness": "70",
+    "Abilities": ["INTIMIDATE","QUICKFEET"],
+    "HiddenAbility": "MOXIE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "HOWL"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "BITE"
+    },
+    {
+        "level": 5,
+        "move": "HOWL"
+    },
+    {
+        "level": 9,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 13,
+        "move": "BITE"
+    },
+    {
+        "level": 17,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 22,
+        "move": "ROAR"
+    },
+    {
+        "level": 27,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 32,
+        "move": "ASSURANCE"
+    },
+    {
+        "level": 37,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 42,
+        "move": "TAUNT"
+    },
+    {
+        "level": 47,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 52,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 57,
+        "move": "THIEF"
+    },
+    {
+        "level": 62,
+        "move": "SUCKERPUNCH"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "4080",
+    "Height": "1.0",
+    "Weight": "37.0",
+    "Color": "Gray",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "Kind": "Bite",
+    "Pokedex": "In the wild, Mightyena live in a pack. They never defy their leader's orders. They defeat foes with perfectly coordinated teamwork.",
+    "WildItemUncommon": "PECHABERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

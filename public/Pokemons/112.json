@@ -1,0 +1,106 @@
+{
+    "ID": 112,
+    "Name": "Rhydon",
+    "InternalName": "RHYDON",
+    "Type1": "GROUND",
+    "Type2": "ROCK",
+    "BaseStats": [105, 130, 120, 40, 45, 45],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "170",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["LIGHTNINGROD","ROCKHEAD"],
+    "HiddenAbility": "RECKLESS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HORNATTACK"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "STOMP"
+    },
+    {
+        "level": 1,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 9,
+        "move": "STOMP"
+    },
+    {
+        "level": 12,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 19,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 23,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 30,
+        "move": "BULLDOZE"
+    },
+    {
+        "level": 34,
+        "move": "CHIPAWAY"
+    },
+    {
+        "level": 41,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 42,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 47,
+        "move": "DRILLRUN"
+    },
+    {
+        "level": 56,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 62,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 71,
+        "move": "HORNDRILL"
+    },
+    {
+        "level": 77,
+        "move": "MEGAHORN"
+    }],
+    "Compatibility": ["Monster", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.9",
+    "Weight": "120.0",
+    "Color": "Gray",
+    "Shape": "6",
+    "Habitat": "RoughTerrain",
+    "RegionalNumbers": [112, 212],
+    "Kind": "Drill",
+    "Pokedex": "Its horn, which rotates like a drill, destroys tall buildings with one strike. It stands on its hind legs, and its brain is well developed.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "RHYPERIOR",
+        "by":
+        {
+            "TradeItem": "PROTECTOR"
+        }
+    }]
+}

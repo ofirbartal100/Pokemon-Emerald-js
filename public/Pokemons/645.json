@@ -1,0 +1,98 @@
+{
+    "ID": 645,
+    "Name": "Landorus",
+    "InternalName": "LANDORUS",
+    "Type1": "GROUND",
+    "Type2": "FLYING",
+    "BaseStats": [89, 125, 90, 101, 115, 80],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Slow",
+    "BaseEXP": "14",
+    "EffortPoints": [0, 0, 0, 0, 3, 0],
+    "Rareness": "3",
+    "Happiness": "90",
+    "Abilities": "SANDFORCE",
+    "HiddenAbility": "SHEERFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BLOCK"
+    },
+    {
+        "level": 1,
+        "move": "MUDSHOT"
+    },
+    {
+        "level": 1,
+        "move": "ROCKTOMB"
+    },
+    {
+        "level": 7,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 13,
+        "move": "PUNISHMENT"
+    },
+    {
+        "level": 19,
+        "move": "BULLDOZE"
+    },
+    {
+        "level": 25,
+        "move": "ROCKTHROW"
+    },
+    {
+        "level": 31,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 37,
+        "move": "SWORDSDANCE"
+    },
+    {
+        "level": 43,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 49,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 55,
+        "move": "EARTHQUAKE"
+    },
+    {
+        "level": 61,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 67,
+        "move": "FISSURE"
+    },
+    {
+        "level": 73,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 79,
+        "move": "HAMMERARM"
+    },
+    {
+        "level": 85,
+        "move": "OUTRAGE"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "1.5",
+    "Weight": "68.0",
+    "Color": "Brown",
+    "Shape": "4",
+    "Kind": "Abundance",
+    "Pokedex": "The energy that comes pouring from its tail increases the nutrition in the soil, making crops grow to great size.",
+    "FormName": "Incarnate Forme",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

@@ -1,0 +1,77 @@
+{
+    "ID": 422,
+    "Name": "Shellos",
+    "InternalName": "SHELLOS",
+    "Type1": "WATER",
+    "BaseStats": [76, 48, 48, 34, 57, 62],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "65",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": ["STICKYHOLD","STORMDRAIN"],
+    "HiddenAbility": "SANDFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 2,
+        "move": "MUDSPORT"
+    },
+    {
+        "level": 4,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 11,
+        "move": "MUDBOMB"
+    },
+    {
+        "level": 16,
+        "move": "HIDDENPOWER"
+    },
+    {
+        "level": 22,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 29,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 37,
+        "move": "MUDDYWATER"
+    },
+    {
+        "level": 46,
+        "move": "RECOVER"
+    }],
+    "EggMoves": ["AMNESIA", "BRINE", "CLEARSMOG", "COUNTER", "CURSE", "FISSURE", "MEMENTO", "MIRRORCOAT", "MIST", "SLUDGE", "SPITUP", "STOCKPILE", "SWALLOW", "TRUMPCARD", "YAWN"],
+    "Compatibility": ["Water1", "Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "6.3",
+    "Color": "Purple",
+    "Shape": "2",
+    "Kind": "Sea Slug",
+    "Pokedex": "Its colors and shapes differ from region to region. In the Sinnoh region, two types are confirmed.",
+    "FormName": "West Sea",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GASTRODON",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

@@ -1,0 +1,107 @@
+{
+    "ID": 600,
+    "Name": "Klang",
+    "InternalName": "KLANG",
+    "Type1": "STEEL",
+    "BaseStats": [60, 80, 95, 50, 70, 85],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "154",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["PLUS","MINUS"],
+    "HiddenAbility": "CLEARBODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "VICEGRIP"
+    },
+    {
+        "level": 1,
+        "move": "CHARGE"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 1,
+        "move": "GEARGRIND"
+    },
+    {
+        "level": 6,
+        "move": "CHARGE"
+    },
+    {
+        "level": 11,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 16,
+        "move": "GEARGRIND"
+    },
+    {
+        "level": 21,
+        "move": "BIND"
+    },
+    {
+        "level": 26,
+        "move": "CHARGEBEAM"
+    },
+    {
+        "level": 31,
+        "move": "AUTOTOMIZE"
+    },
+    {
+        "level": 36,
+        "move": "MIRRORSHOT"
+    },
+    {
+        "level": 40,
+        "move": "SCREECH"
+    },
+    {
+        "level": 44,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 48,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 52,
+        "move": "SHIFTGEAR"
+    },
+    {
+        "level": 56,
+        "move": "LOCKON"
+    },
+    {
+        "level": 60,
+        "move": "ZAPCANNON"
+    },
+    {
+        "level": 64,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.6",
+    "Weight": "51.0",
+    "Color": "Gray",
+    "Shape": "11",
+    "Kind": "Gear",
+    "Pokedex": "Spinning minigears are rotated at high speed and repeatedly fired away. It is dangerous if the gears don't return.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "11",
+    "Evolutions": [
+    {
+        "to": "KLINKLANG",
+        "by":
+        {
+            "Level": 49
+        }
+    }]
+}

@@ -1,0 +1,104 @@
+{
+    "ID": 343,
+    "Name": "Baltoy",
+    "InternalName": "BALTOY",
+    "Type1": "GROUND",
+    "Type2": "PSYCHIC",
+    "BaseStats": [40, 40, 55, 55, 40, 70],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 0, 0, 0, 0, 1],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 4,
+        "move": "RAPIDSPIN"
+    },
+    {
+        "level": 7,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 10,
+        "move": "ROCKTOMB"
+    },
+    {
+        "level": 13,
+        "move": "PSYBEAM"
+    },
+    {
+        "level": 17,
+        "move": "POWERTRICK"
+    },
+    {
+        "level": 21,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 25,
+        "move": "SELFDESTRUCT"
+    },
+    {
+        "level": 28,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 31,
+        "move": "COSMICPOWER"
+    },
+    {
+        "level": 34,
+        "move": "GUARDSPLIT"
+    },
+    {
+        "level": 34,
+        "move": "POWERSPLIT"
+    },
+    {
+        "level": 37,
+        "move": "EARTHPOWER"
+    },
+    {
+        "level": 41,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 45,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 49,
+        "move": "EXPLOSION"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "21.5",
+    "Color": "Brown",
+    "Shape": "4",
+    "Habitat": "RoughTerrain",
+    "Kind": "Clay Doll",
+    "Pokedex": "A Baltoy moves by spinning on its single foot. It has been depicted in murals adorning the walls of a once-bustling city in an ancient age.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "30",
+    "BattlerAltitude": "11",
+    "Evolutions": [
+    {
+        "to": "CLAYDOL",
+        "by":
+        {
+            "Level": 36
+        }
+    }]
+}

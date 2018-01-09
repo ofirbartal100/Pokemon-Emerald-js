@@ -1,0 +1,92 @@
+{
+    "ID": 644,
+    "Name": "Zekrom",
+    "InternalName": "ZEKROM",
+    "Type1": "DRAGON",
+    "Type2": "ELECTRIC",
+    "BaseStats": [100, 150, 120, 90, 120, 100],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "50",
+    "EffortPoints": [0, 3, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "0",
+    "Abilities": "TERAVOLT",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "DRAGONRAGE"
+    },
+    {
+        "level": 8,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 15,
+        "move": "ANCIENTPOWER"
+    },
+    {
+        "level": 22,
+        "move": "THUNDERBOLT"
+    },
+    {
+        "level": 29,
+        "move": "DRAGONBREATH"
+    },
+    {
+        "level": 36,
+        "move": "SLASH"
+    },
+    {
+        "level": 43,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 50,
+        "move": "FUSIONBOLT"
+    },
+    {
+        "level": 54,
+        "move": "DRAGONCLAW"
+    },
+    {
+        "level": 64,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 71,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 78,
+        "move": "THUNDER"
+    },
+    {
+        "level": 85,
+        "move": "OUTRAGE"
+    },
+    {
+        "level": 92,
+        "move": "HYPERVOICE"
+    },
+    {
+        "level": 100,
+        "move": "BOLTSTRIKE"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "2.9",
+    "Weight": "345.0",
+    "Color": "Black",
+    "Shape": "6",
+    "Kind": "Deep Black",
+    "Pokedex": "This Pokémon appears in legends. In its tail, it has a giant generator that creates electricity.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "8",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

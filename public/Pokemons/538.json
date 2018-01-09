@@ -1,0 +1,90 @@
+{
+    "ID": 538,
+    "Name": "Throh",
+    "InternalName": "THROH",
+    "Type1": "FIGHTING",
+    "BaseStats": [120, 100, 85, 45, 30, 85],
+    "GenderRate": "AlwaysMale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "163",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["GUTS","INNERFOCUS"],
+    "HiddenAbility": "MOLDBREAKER",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "BIND"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 5,
+        "move": "BIDE"
+    },
+    {
+        "level": 9,
+        "move": "FOCUSENERGY"
+    },
+    {
+        "level": 13,
+        "move": "SEISMICTOSS"
+    },
+    {
+        "level": 17,
+        "move": "VITALTHROW"
+    },
+    {
+        "level": 21,
+        "move": "REVENGE"
+    },
+    {
+        "level": 25,
+        "move": "STORMTHROW"
+    },
+    {
+        "level": 29,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 33,
+        "move": "BULKUP"
+    },
+    {
+        "level": 37,
+        "move": "CIRCLETHROW"
+    },
+    {
+        "level": 41,
+        "move": "ENDURE"
+    },
+    {
+        "level": 45,
+        "move": "WIDEGUARD"
+    },
+    {
+        "level": 49,
+        "move": "SUPERPOWER"
+    },
+    {
+        "level": 53,
+        "move": "REVERSAL"
+    }],
+    "Compatibility": ["Humanlike"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "55.5",
+    "Color": "Red",
+    "Shape": "12",
+    "Kind": "Judo",
+    "Pokedex": "When they encounter foes bigger than themselves, they try to throw them. They always travel in packs of five.",
+    "WildItemUncommon": "BLACKBELT",
+    "WildItemRare": "BLACKBELT",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "28",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

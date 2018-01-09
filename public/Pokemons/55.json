@@ -1,0 +1,106 @@
+{
+    "ID": 55,
+    "Name": "Golduck",
+    "InternalName": "GOLDUCK",
+    "Type1": "WATER",
+    "BaseStats": [80, 82, 78, 85, 95, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "175",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["DAMP","CLOUDNINE"],
+    "HiddenAbility": "SWIFTSWIM",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "AQUAJET"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 1,
+        "move": "SCRATCH"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 4,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 8,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 11,
+        "move": "DISABLE"
+    },
+    {
+        "level": 15,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 18,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 22,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 25,
+        "move": "SCREECH"
+    },
+    {
+        "level": 29,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 32,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 38,
+        "move": "SOAK"
+    },
+    {
+        "level": 43,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 49,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 54,
+        "move": "HYDROPUMP"
+    },
+    {
+        "level": 60,
+        "move": "WONDERROOM"
+    }],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.7",
+    "Weight": "76.6",
+    "Color": "Blue",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [55, 141],
+    "Kind": "Duck",
+    "Pokedex": "A Golduck is an adept swimmer. It sometimes joins competitive swimmers in training. It uses psychic powers when its forehead shimmers with light.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

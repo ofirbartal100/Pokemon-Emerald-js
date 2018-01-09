@@ -1,0 +1,98 @@
+{
+    "ID": 416,
+    "Name": "Vespiquen",
+    "InternalName": "VESPIQUEN",
+    "Type1": "BUG",
+    "Type2": "FLYING",
+    "BaseStats": [70, 80, 102, 40, 80, 102],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "166",
+    "EffortPoints": [0, 0, 1, 0, 0, 1],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "PRESSURE",
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SWEETSCENT"
+    },
+    {
+        "level": 1,
+        "move": "GUST"
+    },
+    {
+        "level": 1,
+        "move": "POISONSTING"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 5,
+        "move": "FURYCUTTER"
+    },
+    {
+        "level": 9,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 13,
+        "move": "FURYSWIPES"
+    },
+    {
+        "level": 17,
+        "move": "DEFENDORDER"
+    },
+    {
+        "level": 21,
+        "move": "SLASH"
+    },
+    {
+        "level": 25,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 29,
+        "move": "HEALORDER"
+    },
+    {
+        "level": 33,
+        "move": "TOXIC"
+    },
+    {
+        "level": 37,
+        "move": "AIRSLASH"
+    },
+    {
+        "level": 41,
+        "move": "CAPTIVATE"
+    },
+    {
+        "level": 45,
+        "move": "ATTACKORDER"
+    },
+    {
+        "level": 49,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 53,
+        "move": "DESTINYBOND"
+    }],
+    "Compatibility": ["Bug"],
+    "StepsToHatch": "4080",
+    "Height": "1.2",
+    "Weight": "38.5",
+    "Color": "Yellow",
+    "Shape": "13",
+    "Kind": "Beehive",
+    "Pokedex": "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
+    "WildItemUncommon": "POISONBARB",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "15",
+    "BattlerAltitude": "12",
+    "Evolutions": []
+}

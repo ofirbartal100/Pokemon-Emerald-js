@@ -1,0 +1,93 @@
+{
+    "ID": 364,
+    "Name": "Sealeo",
+    "InternalName": "SEALEO",
+    "Type1": "ICE",
+    "Type2": "WATER",
+    "BaseStats": [90, 60, 70, 45, 75, 70],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "144",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["THICKFAT","ICEBODY"],
+    "HiddenAbility": "OBLIVIOUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "ENCORE"
+    },
+    {
+        "level": 7,
+        "move": "ENCORE"
+    },
+    {
+        "level": 13,
+        "move": "ICEBALL"
+    },
+    {
+        "level": 19,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 25,
+        "move": "AURORABEAM"
+    },
+    {
+        "level": 31,
+        "move": "HAIL"
+    },
+    {
+        "level": 32,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 39,
+        "move": "REST"
+    },
+    {
+        "level": 39,
+        "move": "SNORE"
+    },
+    {
+        "level": 47,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 55,
+        "move": "SHEERCOLD"
+    }],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "87.6",
+    "Color": "Blue",
+    "Shape": "3",
+    "Habitat": "Sea",
+    "Kind": "Ball Roll",
+    "Pokedex": "Sealeo live in herds on ice floes. Using its powerful flippers, it shatters ice. It dives into the sea to hunt prey five times a day.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "21",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "WALREIN",
+        "by":
+        {
+            "Level": 44
+        }
+    }]
+}

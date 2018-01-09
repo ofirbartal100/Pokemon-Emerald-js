@@ -1,0 +1,104 @@
+{
+    "ID": 80,
+    "Name": "Slowbro",
+    "InternalName": "SLOWBRO",
+    "Type1": "WATER",
+    "Type2": "PSYCHIC",
+    "BaseStats": [95, 75, 110, 30, 100, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "172",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["OBLIVIOUS","OWNTEMPO"],
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CURSE"
+    },
+    {
+        "level": 1,
+        "move": "YAWN"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 5,
+        "move": "GROWL"
+    },
+    {
+        "level": 9,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 14,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 19,
+        "move": "DISABLE"
+    },
+    {
+        "level": 23,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 28,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 32,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 36,
+        "move": "SLACKOFF"
+    },
+    {
+        "level": 37,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 43,
+        "move": "AMNESIA"
+    },
+    {
+        "level": 49,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 55,
+        "move": "RAINDANCE"
+    },
+    {
+        "level": 62,
+        "move": "PSYCHUP"
+    },
+    {
+        "level": 68,
+        "move": "HEALPULSE"
+    }],
+    "Compatibility": ["Monster", "Water1"],
+    "StepsToHatch": "5355",
+    "Height": "1.6",
+    "Weight": "78.5",
+    "Color": "Pink",
+    "Shape": "6",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [80, 81],
+    "Kind": "Hermit Crab",
+    "Pokedex": "Its tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This forces it to reluctantly swim and catch prey.",
+    "WildItemUncommon": "KINGSROCK",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

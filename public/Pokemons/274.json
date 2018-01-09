@@ -1,0 +1,81 @@
+{
+    "ID": 274,
+    "Name": "Nuzleaf",
+    "InternalName": "NUZLEAF",
+    "Type1": "GRASS",
+    "Type2": "DARK",
+    "BaseStats": [70, 70, 40, 60, 60, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "119",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","EARLYBIRD"],
+    "HiddenAbility": "PICKPOCKET",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 3,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "GROWTH"
+    },
+    {
+        "level": 13,
+        "move": "NATUREPOWER"
+    },
+    {
+        "level": 19,
+        "move": "FAKEOUT"
+    },
+    {
+        "level": 25,
+        "move": "TORMENT"
+    },
+    {
+        "level": 31,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 37,
+        "move": "RAZORWIND"
+    },
+    {
+        "level": 43,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 49,
+        "move": "EXTRASENSORY"
+    }],
+    "Compatibility": ["Field", "Grass"],
+    "StepsToHatch": "4080",
+    "Height": "1.0",
+    "Weight": "28.0",
+    "Color": "Brown",
+    "Shape": "12",
+    "Habitat": "Forest",
+    "Kind": "Wily",
+    "Pokedex": "A forest-dwelling Pokémon that is skilled at climbing trees. Its long and pointed nose is its weak point. It loses power if the nose is gripped.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "20",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "SHIFTRY",
+        "by":
+        {
+            "Item": "LEAFSTONE"
+        }
+    }]
+}

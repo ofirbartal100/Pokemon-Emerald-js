@@ -1,0 +1,105 @@
+{
+    "ID": 281,
+    "Name": "Kirlia",
+    "InternalName": "KIRLIA",
+    "Type1": "PSYCHIC",
+    "BaseStats": [38, 35, 35, 50, 65, 55],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "97",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "120",
+    "Happiness": "35",
+    "Abilities": ["SYNCHRONIZE","TRACE"],
+    "HiddenAbility": "TELEPATHY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 1,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 1,
+        "move": "TELEPORT"
+    },
+    {
+        "level": 6,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 10,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 12,
+        "move": "TELEPORT"
+    },
+    {
+        "level": 17,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 22,
+        "move": "MAGICALLEAF"
+    },
+    {
+        "level": 25,
+        "move": "HEALPULSE"
+    },
+    {
+        "level": 31,
+        "move": "CALMMIND"
+    },
+    {
+        "level": 36,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 39,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 45,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 50,
+        "move": "CHARM"
+    },
+    {
+        "level": 53,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 59,
+        "move": "DREAMEATER"
+    },
+    {
+        "level": 64,
+        "move": "STOREDPOWER"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.8",
+    "Weight": "20.2",
+    "Color": "White",
+    "Shape": "12",
+    "Habitat": "Urban",
+    "Kind": "Emotion",
+    "Pokedex": "A Kirlia has the psychic power to create a rip in the dimensions and see into the future. It is said to dance with pleasure on sunny mornings.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": ["GARDEVOIR", "Level",
+    {
+        "level": 30,
+        "move": "GALLADE"
+    }, "ItemMale", "DAWNSTONE"]
+}

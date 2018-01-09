@@ -1,0 +1,59 @@
+{
+    "ID": 440,
+    "Name": "Happiny",
+    "InternalName": "HAPPINY",
+    "Type1": "NORMAL",
+    "BaseStats": [100, 5, 5, 30, 15, 65],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Fast",
+    "BaseEXP": "110",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "130",
+    "Happiness": "140",
+    "Abilities": ["NATURALCURE","SERENEGRACE"],
+    "HiddenAbility": "FRIENDGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "CHARM"
+    },
+    {
+        "level": 5,
+        "move": "COPYCAT"
+    },
+    {
+        "level": 9,
+        "move": "REFRESH"
+    },
+    {
+        "level": 12,
+        "move": "SWEETKISS"
+    }],
+    "EggMoves": ["AROMATHERAPY", "COUNTER", "ENDURE", "GRAVITY", "HEALBELL", "HELPINGHAND", "LASTRESORT", "METRONOME", "MUDBOMB", "NATURALGIFT", "PRESENT"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "10455",
+    "Height": "0.6",
+    "Weight": "24.4",
+    "Color": "Pink",
+    "Shape": "12",
+    "Kind": "Playhouse",
+    "Pokedex": "It loves round white things. It carries an egg-shaped rock in imitation of Chansey.",
+    "WildItemCommon": "OVALSTONE",
+    "WildItemUncommon": "LUCKYEGG",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "22",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "CHANSEY",
+        "by":
+        {
+            "DayHoldItem": "OVALSTONE"
+        }
+    }],
+    "Incense": "LUCKINCENSE"
+}

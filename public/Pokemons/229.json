@@ -1,0 +1,107 @@
+{
+    "ID": 229,
+    "Name": "Houndoom",
+    "InternalName": "HOUNDOOM",
+    "Type1": "DARK",
+    "Type2": "FIRE",
+    "BaseStats": [75, 90, 50, 95, 110, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "175",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "45",
+    "Happiness": "35",
+    "Abilities": ["EARLYBIRD","FLASHFIRE"],
+    "HiddenAbility": "UNNERVE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "EMBER"
+    },
+    {
+        "level": 1,
+        "move": "HOWL"
+    },
+    {
+        "level": 1,
+        "move": "SMOG"
+    },
+    {
+        "level": 4,
+        "move": "HOWL"
+    },
+    {
+        "level": 8,
+        "move": "SMOG"
+    },
+    {
+        "level": 13,
+        "move": "ROAR"
+    },
+    {
+        "level": 16,
+        "move": "BITE"
+    },
+    {
+        "level": 20,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 26,
+        "move": "BEATUP"
+    },
+    {
+        "level": 30,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 35,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 41,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 45,
+        "move": "FOULPLAY"
+    },
+    {
+        "level": 50,
+        "move": "FLAMETHROWER"
+    },
+    {
+        "level": 56,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 60,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 65,
+        "move": "INFERNO"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "35.0",
+    "Color": "Black",
+    "Shape": "8",
+    "Habitat": "RoughTerrain",
+    "RegionalNumbers": [0, 215],
+    "Kind": "Dark",
+    "Pokedex": "In a Houndoom pack, the one with its horns raked sharply back serves a leadership role. They choose their leader by fighting among themselves.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

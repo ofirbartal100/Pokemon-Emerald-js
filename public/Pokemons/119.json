@@ -1,0 +1,94 @@
+{
+    "ID": 119,
+    "Name": "Seaking",
+    "InternalName": "SEAKING",
+    "Type1": "WATER",
+    "BaseStats": [80, 92, 65, 68, 65, 80],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "158",
+    "EffortPoints": [0, 2, 0, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": ["SWIFTSWIM","WATERVEIL"],
+    "HiddenAbility": "LIGHTNINGROD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POISONJAB"
+    },
+    {
+        "level": 1,
+        "move": "PECK"
+    },
+    {
+        "level": 1,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 1,
+        "move": "WATERSPORT"
+    },
+    {
+        "level": 1,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 7,
+        "move": "SUPERSONIC"
+    },
+    {
+        "level": 11,
+        "move": "HORNATTACK"
+    },
+    {
+        "level": 17,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 21,
+        "move": "FLAIL"
+    },
+    {
+        "level": 27,
+        "move": "AQUARING"
+    },
+    {
+        "level": 31,
+        "move": "FURYATTACK"
+    },
+    {
+        "level": 40,
+        "move": "WATERFALL"
+    },
+    {
+        "level": 47,
+        "move": "HORNDRILL"
+    },
+    {
+        "level": 56,
+        "move": "AGILITY"
+    },
+    {
+        "level": 63,
+        "move": "SOAK"
+    },
+    {
+        "level": 72,
+        "move": "MEGAHORN"
+    }],
+    "Compatibility": ["Water2"],
+    "StepsToHatch": "5355",
+    "Height": "1.3",
+    "Weight": "39.0",
+    "Color": "Red",
+    "Shape": "3",
+    "Habitat": "WatersEdge",
+    "RegionalNumbers": [119, 79],
+    "Kind": "Goldfish",
+    "Pokedex": "It punches holes in boulders on stream- beds. This is a clever innovation that prevents its eggs from being attacked or washed away by the current.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "10",
+    "Evolutions": []
+}

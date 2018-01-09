@@ -1,0 +1,87 @@
+{
+    "ID": 531,
+    "Name": "Audino",
+    "InternalName": "AUDINO",
+    "Type1": "NORMAL",
+    "BaseStats": [103, 60, 86, 50, 60, 86],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "134",
+    "EffortPoints": [2, 0, 0, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["HEALER","REGENERATOR"],
+    "HiddenAbility": "KLUTZ",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "HELPINGHAND"
+    },
+    {
+        "level": 5,
+        "move": "REFRESH"
+    },
+    {
+        "level": 10,
+        "move": "DOUBLESLAP"
+    },
+    {
+        "level": 15,
+        "move": "ATTRACT"
+    },
+    {
+        "level": 20,
+        "move": "SECRETPOWER"
+    },
+    {
+        "level": 25,
+        "move": "ENTRAINMENT"
+    },
+    {
+        "level": 30,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 35,
+        "move": "HEALPULSE"
+    },
+    {
+        "level": 40,
+        "move": "AFTERYOU"
+    },
+    {
+        "level": 45,
+        "move": "SIMPLEBEAM"
+    },
+    {
+        "level": 50,
+        "move": "DOUBLEEDGE"
+    },
+    {
+        "level": 55,
+        "move": "LASTRESORT"
+    }],
+    "EggMoves": ["AMNESIA", "BESTOW", "ENCORE", "HEALBELL", "HEALINGWISH", "LUCKYCHANT", "SLEEPTALK", "SWEETKISS", "WISH", "YAWN"],
+    "Compatibility": ["Fairy"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "31.0",
+    "Color": "Pink",
+    "Shape": "6",
+    "Kind": "Hearing",
+    "Pokedex": "Its auditory sense is astounding. It has a radar-like ability to understand its surrounding through slight sounds.",
+    "WildItemCommon": "ORANBERRY",
+    "WildItemUncommon": "SITRUSBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "29",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

@@ -1,0 +1,87 @@
+{
+    "ID": 388,
+    "Name": "Grotle",
+    "InternalName": "GROTLE",
+    "Type1": "GRASS",
+    "BaseStats": [75, 89, 85, 36, 55, 65],
+    "GenderRate": "FemaleOneEighth",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "142",
+    "EffortPoints": [0, 1, 1, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": "OVERGROW",
+    "HiddenAbility": "SHELLARMOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 5,
+        "move": "WITHDRAW"
+    },
+    {
+        "level": 9,
+        "move": "ABSORB"
+    },
+    {
+        "level": 13,
+        "move": "RAZORLEAF"
+    },
+    {
+        "level": 17,
+        "move": "CURSE"
+    },
+    {
+        "level": 22,
+        "move": "BITE"
+    },
+    {
+        "level": 27,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 32,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 37,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 42,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 47,
+        "move": "GIGADRAIN"
+    },
+    {
+        "level": 52,
+        "move": "LEAFSTORM"
+    }],
+    "Compatibility": ["Monster", "Grass"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "97.0",
+    "Color": "Green",
+    "Shape": "8",
+    "Kind": "Grove",
+    "Pokedex": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "17",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "TORTERRA",
+        "by":
+        {
+            "Level": 32
+        }
+    }]
+}

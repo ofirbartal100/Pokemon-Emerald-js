@@ -1,0 +1,50 @@
+{
+    "ID": 602,
+    "Name": "Tynamo",
+    "InternalName": "TYNAMO",
+    "Type1": "ELECTRIC",
+    "BaseStats": [35, 55, 40, 60, 45, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "55",
+    "EffortPoints": [0, 0, 0, 1, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "LEVITATE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 1,
+        "move": "SPARK"
+    },
+    {
+        "level": 1,
+        "move": "CHARGEBEAM"
+    }],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.2",
+    "Weight": "0.3",
+    "Color": "White",
+    "Shape": "3",
+    "Kind": "EleFish",
+    "Pokedex": "These Pokémon move in schools. They have an electricity-generating organ, so they discharge electricity if in danger.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "43",
+    "BattlerAltitude": "16",
+    "Evolutions": [
+    {
+        "to": "EELEKTRIK",
+        "by":
+        {
+            "Level": 39
+        }
+    }]
+}

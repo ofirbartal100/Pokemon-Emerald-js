@@ -1,0 +1,75 @@
+{
+    "ID": 491,
+    "Name": "Darkrai",
+    "InternalName": "DARKRAI",
+    "Type1": "DARK",
+    "BaseStats": [70, 90, 90, 125, 135, 90],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "270",
+    "EffortPoints": [0, 0, 0, 1, 2, 0],
+    "Rareness": "3",
+    "Happiness": "0",
+    "Abilities": "BADDREAMS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "OMINOUSWIND"
+    },
+    {
+        "level": 1,
+        "move": "DISABLE"
+    },
+    {
+        "level": 11,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 20,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 29,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 38,
+        "move": "NIGHTMARE"
+    },
+    {
+        "level": 47,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 57,
+        "move": "HAZE"
+    },
+    {
+        "level": 66,
+        "move": "DARKVOID"
+    },
+    {
+        "level": 75,
+        "move": "NASTYPLOT"
+    },
+    {
+        "level": 84,
+        "move": "DREAMEATER"
+    },
+    {
+        "level": 93,
+        "move": "DARKPULSE"
+    }],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "30855",
+    "Height": "1.5",
+    "Weight": "50.5",
+    "Color": "Black",
+    "Shape": "12",
+    "Kind": "Pitch-Black",
+    "Pokedex": "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "14",
+    "BattlerAltitude": "11",
+    "Evolutions": []
+}

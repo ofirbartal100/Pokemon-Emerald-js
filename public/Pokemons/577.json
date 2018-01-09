@@ -1,0 +1,100 @@
+{
+    "ID": 577,
+    "Name": "Solosis",
+    "InternalName": "SOLOSIS",
+    "Type1": "PSYCHIC",
+    "BaseStats": [45, 30, 40, 20, 105, 50],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "58",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "200",
+    "Happiness": "70",
+    "Abilities": ["OVERCOAT","MAGICGUARD"],
+    "HiddenAbility": "REGENERATOR",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 3,
+        "move": "REFLECT"
+    },
+    {
+        "level": 7,
+        "move": "ROLLOUT"
+    },
+    {
+        "level": 10,
+        "move": "SNATCH"
+    },
+    {
+        "level": 14,
+        "move": "HIDDENPOWER"
+    },
+    {
+        "level": 16,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 19,
+        "move": "CHARM"
+    },
+    {
+        "level": 24,
+        "move": "RECOVER"
+    },
+    {
+        "level": 25,
+        "move": "PSYSHOCK"
+    },
+    {
+        "level": 28,
+        "move": "ENDEAVOR"
+    },
+    {
+        "level": 31,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 33,
+        "move": "PAINSPLIT"
+    },
+    {
+        "level": 37,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 40,
+        "move": "SKILLSWAP"
+    },
+    {
+        "level": 46,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 48,
+        "move": "WONDERROOM"
+    }],
+    "EggMoves": ["ACIDARMOR", "ASTONISH", "CONFUSERAY", "IMPRISON", "NIGHTSHADE", "SECRETPOWER", "TRICK"],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "5355",
+    "Height": "0.3",
+    "Weight": "1.0",
+    "Color": "Green",
+    "Shape": "1",
+    "Kind": "Cell",
+    "Pokedex": "Because their bodies are enveloped in a special liquid, they can survive in any environment.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "37",
+    "BattlerAltitude": "15",
+    "Evolutions": [
+    {
+        "to": "DUOSION",
+        "by":
+        {
+            "Level": 32
+        }
+    }]
+}

@@ -1,0 +1,95 @@
+{
+    "ID": 25,
+    "Name": "Pikachu",
+    "InternalName": "PIKACHU",
+    "Type1": "ELECTRIC",
+    "BaseStats": [35, 55, 30, 90, 50, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Medium",
+    "BaseEXP": "105",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "190",
+    "Happiness": "70",
+    "Abilities": "STATIC",
+    "HiddenAbility": "LIGHTNINGROD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERSHOCK"
+    },
+    {
+        "level": 5,
+        "move": "TAILWHIP"
+    },
+    {
+        "level": 10,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 13,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 18,
+        "move": "ELECTROBALL"
+    },
+    {
+        "level": 21,
+        "move": "DOUBLETEAM"
+    },
+    {
+        "level": 26,
+        "move": "SLAM"
+    },
+    {
+        "level": 29,
+        "move": "THUNDERBOLT"
+    },
+    {
+        "level": 34,
+        "move": "FEINT"
+    },
+    {
+        "level": 37,
+        "move": "AGILITY"
+    },
+    {
+        "level": 42,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 45,
+        "move": "LIGHTSCREEN"
+    },
+    {
+        "level": 50,
+        "move": "THUNDER"
+    }],
+    "Compatibility": ["Field", "Fairy"],
+    "StepsToHatch": "2805",
+    "Height": "0.4",
+    "Weight": "6.0",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Forest",
+    "RegionalNumbers": [25, 22],
+    "Kind": "Mouse",
+    "Pokedex": "It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.",
+    "WildItemCommon": "ORANBERRY",
+    "WildItemRare": "LIGHTBALL",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "RAICHU",
+        "by":
+        {
+            "Item": "THUNDERSTONE"
+        }
+    }]
+}

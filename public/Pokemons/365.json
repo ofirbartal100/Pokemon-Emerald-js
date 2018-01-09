@@ -1,0 +1,94 @@
+{
+    "ID": 365,
+    "Name": "Walrein",
+    "InternalName": "WALREIN",
+    "Type1": "ICE",
+    "Type2": "WATER",
+    "BaseStats": [110, 80, 90, 65, 95, 90],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "239",
+    "EffortPoints": [3, 0, 0, 0, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["THICKFAT","ICEBODY"],
+    "HiddenAbility": "OBLIVIOUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 1,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 1,
+        "move": "GROWL"
+    },
+    {
+        "level": 1,
+        "move": "WATERGUN"
+    },
+    {
+        "level": 1,
+        "move": "ENCORE"
+    },
+    {
+        "level": 7,
+        "move": "ENCORE"
+    },
+    {
+        "level": 13,
+        "move": "ICEBALL"
+    },
+    {
+        "level": 19,
+        "move": "BODYSLAM"
+    },
+    {
+        "level": 25,
+        "move": "AURORABEAM"
+    },
+    {
+        "level": 31,
+        "move": "HAIL"
+    },
+    {
+        "level": 32,
+        "move": "SWAGGER"
+    },
+    {
+        "level": 39,
+        "move": "REST"
+    },
+    {
+        "level": 39,
+        "move": "SNORE"
+    },
+    {
+        "level": 44,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 52,
+        "move": "BLIZZARD"
+    },
+    {
+        "level": 65,
+        "move": "SHEERCOLD"
+    }],
+    "Compatibility": ["Water1", "Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.4",
+    "Weight": "150.6",
+    "Color": "Blue",
+    "Shape": "8",
+    "Habitat": "Sea",
+    "Kind": "Ice Break",
+    "Pokedex": "To protect its herd, the leader battles anything that invades its territory, even at the cost of its life. Its tusks may snap off in battle.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

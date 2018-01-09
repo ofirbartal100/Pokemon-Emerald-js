@@ -1,0 +1,105 @@
+{
+    "ID": 525,
+    "Name": "Boldore",
+    "InternalName": "BOLDORE",
+    "Type1": "ROCK",
+    "BaseStats": [70, 105, 105, 20, 50, 40],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Parabolic",
+    "BaseEXP": "137",
+    "EffortPoints": [0, 1, 1, 0, 0, 0],
+    "Rareness": "120",
+    "Happiness": "70",
+    "Abilities": "STURDY",
+    "HiddenAbility": "SANDFORCE",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "HARDEN"
+    },
+    {
+        "level": 1,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 1,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 4,
+        "move": "HARDEN"
+    },
+    {
+        "level": 7,
+        "move": "SANDATTACK"
+    },
+    {
+        "level": 10,
+        "move": "HEADBUTT"
+    },
+    {
+        "level": 14,
+        "move": "ROCKBLAST"
+    },
+    {
+        "level": 17,
+        "move": "MUDSLAP"
+    },
+    {
+        "level": 20,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 23,
+        "move": "SMACKDOWN"
+    },
+    {
+        "level": 25,
+        "move": "POWERGEM"
+    },
+    {
+        "level": 30,
+        "move": "ROCKSLIDE"
+    },
+    {
+        "level": 36,
+        "move": "STEALTHROCK"
+    },
+    {
+        "level": 42,
+        "move": "SANDSTORM"
+    },
+    {
+        "level": 48,
+        "move": "STONEEDGE"
+    },
+    {
+        "level": 55,
+        "move": "EXPLOSION"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "4080",
+    "Height": "0.9",
+    "Weight": "102.0",
+    "Color": "Blue",
+    "Shape": "10",
+    "Kind": "Ore",
+    "Pokedex": "Because its energy was too great to be contained, the energy leaked and formed orange crystals.",
+    "WildItemCommon": "EVERSTONE",
+    "WildItemUncommon": "HARDSTONE",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "31",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "GIGALITH",
+        "by":
+        {
+            "Trade": "Trade"
+        }
+    }]
+}

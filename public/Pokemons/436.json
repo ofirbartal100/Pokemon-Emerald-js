@@ -1,0 +1,101 @@
+{
+    "ID": 436,
+    "Name": "Bronzor",
+    "InternalName": "BRONZOR",
+    "Type1": "STEEL",
+    "Type2": "PSYCHIC",
+    "BaseStats": [57, 24, 86, 23, 24, 86],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Medium",
+    "BaseEXP": "60",
+    "EffortPoints": [0, 0, 1, 0, 0, 0],
+    "Rareness": "255",
+    "Happiness": "70",
+    "Abilities": ["LEVITATE","HEATPROOF"],
+    "HiddenAbility": "HEAVYMETAL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 5,
+        "move": "HYPNOSIS"
+    },
+    {
+        "level": 9,
+        "move": "IMPRISON"
+    },
+    {
+        "level": 11,
+        "move": "CONFUSERAY"
+    },
+    {
+        "level": 15,
+        "move": "PSYWAVE"
+    },
+    {
+        "level": 19,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 21,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 25,
+        "move": "SAFEGUARD"
+    },
+    {
+        "level": 29,
+        "move": "FUTURESIGHT"
+    },
+    {
+        "level": 31,
+        "move": "METALSOUND"
+    },
+    {
+        "level": 35,
+        "move": "GYROBALL"
+    },
+    {
+        "level": 39,
+        "move": "EXTRASENSORY"
+    },
+    {
+        "level": 41,
+        "move": "PAYBACK"
+    },
+    {
+        "level": 45,
+        "move": "HEALBLOCK"
+    },
+    {
+        "level": 49,
+        "move": "HEAVYSLAM"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "5355",
+    "Height": "0.5",
+    "Weight": "60.5",
+    "Color": "Green",
+    "Shape": "1",
+    "Kind": "Bronze",
+    "Pokedex": "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
+    "WildItemUncommon": "METALCOAT",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "13",
+    "Evolutions": [
+    {
+        "to": "BRONZONG",
+        "by":
+        {
+            "Level": 33
+        }
+    }]
+}

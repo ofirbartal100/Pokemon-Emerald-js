@@ -1,0 +1,101 @@
+{
+    "ID": 310,
+    "Name": "Manectric",
+    "InternalName": "MANECTRIC",
+    "Type1": "ELECTRIC",
+    "BaseStats": [70, 75, 60, 105, 105, 60],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Slow",
+    "BaseEXP": "166",
+    "EffortPoints": [0, 0, 0, 2, 0, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["STATIC","LIGHTNINGROD"],
+    "HiddenAbility": "MINUS",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "FIREFANG"
+    },
+    {
+        "level": 1,
+        "move": "TACKLE"
+    },
+    {
+        "level": 1,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 1,
+        "move": "LEER"
+    },
+    {
+        "level": 1,
+        "move": "HOWL"
+    },
+    {
+        "level": 4,
+        "move": "THUNDERWAVE"
+    },
+    {
+        "level": 9,
+        "move": "LEER"
+    },
+    {
+        "level": 12,
+        "move": "HOWL"
+    },
+    {
+        "level": 17,
+        "move": "QUICKATTACK"
+    },
+    {
+        "level": 20,
+        "move": "SPARK"
+    },
+    {
+        "level": 25,
+        "move": "ODORSLEUTH"
+    },
+    {
+        "level": 30,
+        "move": "BITE"
+    },
+    {
+        "level": 37,
+        "move": "THUNDERFANG"
+    },
+    {
+        "level": 42,
+        "move": "ROAR"
+    },
+    {
+        "level": 49,
+        "move": "DISCHARGE"
+    },
+    {
+        "level": 54,
+        "move": "CHARGE"
+    },
+    {
+        "level": 61,
+        "move": "WILDCHARGE"
+    },
+    {
+        "level": 66,
+        "move": "THUNDER"
+    }],
+    "Compatibility": ["Field"],
+    "StepsToHatch": "5355",
+    "Height": "1.5",
+    "Weight": "40.2",
+    "Color": "Yellow",
+    "Shape": "8",
+    "Habitat": "Grassland",
+    "Kind": "Discharge",
+    "Pokedex": "Because lightning falls in their vicinities, Manectric were thought to have been born from lightning. In battle, they create thunderclouds.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "12",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

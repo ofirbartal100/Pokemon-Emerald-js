@@ -1,0 +1,102 @@
+{
+    "ID": 238,
+    "Name": "Smoochum",
+    "InternalName": "SMOOCHUM",
+    "Type1": "ICE",
+    "Type2": "PSYCHIC",
+    "BaseStats": [45, 30, 15, 65, 85, 65],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "61",
+    "EffortPoints": [0, 0, 0, 0, 1, 0],
+    "Rareness": "45",
+    "Happiness": "70",
+    "Abilities": ["OBLIVIOUS","FOREWARN"],
+    "HiddenAbility": "HYDRATION",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "POUND"
+    },
+    {
+        "level": 5,
+        "move": "LICK"
+    },
+    {
+        "level": 8,
+        "move": "SWEETKISS"
+    },
+    {
+        "level": 11,
+        "move": "POWDERSNOW"
+    },
+    {
+        "level": 15,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 18,
+        "move": "SING"
+    },
+    {
+        "level": 21,
+        "move": "HEARTSTAMP"
+    },
+    {
+        "level": 25,
+        "move": "MEANLOOK"
+    },
+    {
+        "level": 28,
+        "move": "FAKETEARS"
+    },
+    {
+        "level": 31,
+        "move": "LUCKYCHANT"
+    },
+    {
+        "level": 35,
+        "move": "AVALANCHE"
+    },
+    {
+        "level": 38,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 41,
+        "move": "COPYCAT"
+    },
+    {
+        "level": 45,
+        "move": "PERISHSONG"
+    },
+    {
+        "level": 48,
+        "move": "BLIZZARD"
+    }],
+    "EggMoves": ["CAPTIVATE", "FAKEOUT", "ICEPUNCH", "MEDITATE", "MIRACLEEYE", "NASTYPLOT", "WAKEUPSLAP", "WISH"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "6630",
+    "Height": "0.4",
+    "Weight": "6.0",
+    "Color": "Pink",
+    "Shape": "12",
+    "Habitat": "Urban",
+    "RegionalNumbers": [0, 154],
+    "Kind": "Kiss",
+    "Pokedex": "It actively runs about, but also falls often. Whenever it falls, it will check its reflection on a lake's surface to make sure its face hasn't become dirty.",
+    "WildItemCommon": "ASPEARBERRY",
+    "WildItemUncommon": "ASPEARBERRY",
+    "WildItemRare": "ASPEARBERRY",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "24",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "JYNX",
+        "by":
+        {
+            "Level": 30
+        }
+    }]
+}

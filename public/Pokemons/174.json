@@ -1,0 +1,62 @@
+{
+    "ID": 174,
+    "Name": "Igglybuff",
+    "InternalName": "IGGLYBUFF",
+    "Type1": "NORMAL",
+    "BaseStats": [90, 30, 15, 15, 40, 20],
+    "GenderRate": "Female75Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "42",
+    "EffortPoints": [1, 0, 0, 0, 0, 0],
+    "Rareness": "170",
+    "Happiness": "70",
+    "Abilities": "CUTECHARM",
+    "HiddenAbility": "FRIENDGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "SING"
+    },
+    {
+        "level": 1,
+        "move": "CHARM"
+    },
+    {
+        "level": 5,
+        "move": "DEFENSECURL"
+    },
+    {
+        "level": 9,
+        "move": "POUND"
+    },
+    {
+        "level": 13,
+        "move": "SWEETKISS"
+    },
+    {
+        "level": 17,
+        "move": "COPYCAT"
+    }],
+    "EggMoves": ["CAPTIVATE", "COVET", "FEINTATTACK", "FAKETEARS", "GRAVITY", "LASTRESORT", "PERISHSONG", "PRESENT", "PUNISHMENT", "SLEEPTALK", "WISH"],
+    "Compatibility": ["Undiscovered"],
+    "StepsToHatch": "2805",
+    "Height": "0.3",
+    "Weight": "1.0",
+    "Color": "Pink",
+    "Shape": "12",
+    "Habitat": "Grassland",
+    "RegionalNumbers": [0, 43],
+    "Kind": "Balloon",
+    "Pokedex": "Its soft and pliable body is very bouncy. When it sings continuously with all its might, its body steadily turns a deepening pink color.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "27",
+    "BattlerAltitude": "0",
+    "Evolutions": [
+    {
+        "to": "JIGGLYPUFF",
+        "by":
+        {
+            "Happiness": "Happiness"
+        }
+    }]
+}

@@ -13,30 +13,43 @@ export function setupGameKeyboard(game) {
 
     input.addMapping(Start, keyState => {
         game.menu.active = keyState ? !game.menu.active : game.menu.active
+        game.player.walk.cancel()
     })
 
     Directions.forEach(direction => {
         input.addMapping(direction, keyState => {
-            if (!game.menu.active) {
+            if (!game.menu.active && !game.player.inBattle) {
                 if (keyState) {
                     game.player.walk.enqueue(direction)
                 } else {
                     game.player.walk.cancel(direction)
                 }
-            } else {
+            } else if (game.menu.active) {
                 game.menu.move(direction, keyState)
+                game.player.walk.cancel()
+            } else if (game.player.inBattle) {
+                game.player.walk.cancel()
             }
         })
     })
 
     Commands.forEach(command => {
         input.addMapping(command, keyState => {
-            if (!game.menu.active) {
+            if (!game.menu.active && !game.battleStage.active) {
                 game.player.interact(command, keyState, game)
-            } else {
+            } else if (game.battleStage.active) {
+                game.battleStage.dialog.choose(command, keyState)
+            } else if (game.menu.active) {
                 game.menu.choose(command, keyState)
             }
         })
+    })
+
+    input.addMapping(Select, keyState => {
+        if (game.battleStage.active) {
+            game.battleStage.end()
+            game.player.inBattle = false
+        }
     })
 
     input.listenTo(window)

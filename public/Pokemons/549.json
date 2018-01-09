@@ -1,0 +1,56 @@
+{
+    "ID": 549,
+    "Name": "Lilligant",
+    "InternalName": "LILLIGANT",
+    "Type1": "GRASS",
+    "BaseStats": [70, 60, 75, 90, 110, 75],
+    "GenderRate": "AlwaysFemale",
+    "GrowthRate": "Medium",
+    "BaseEXP": "168",
+    "EffortPoints": [0, 0, 0, 0, 2, 0],
+    "Rareness": "75",
+    "Happiness": "70",
+    "Abilities": ["CHLOROPHYLL","OWNTEMPO"],
+    "HiddenAbility": "LEAFGUARD",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "GROWTH"
+    },
+    {
+        "level": 1,
+        "move": "LEECHSEED"
+    },
+    {
+        "level": 1,
+        "move": "MEGADRAIN"
+    },
+    {
+        "level": 1,
+        "move": "SYNTHESIS"
+    },
+    {
+        "level": 10,
+        "move": "TEETERDANCE"
+    },
+    {
+        "level": 28,
+        "move": "QUIVERDANCE"
+    },
+    {
+        "level": 46,
+        "move": "PETALDANCE"
+    }],
+    "Compatibility": ["Grass"],
+    "StepsToHatch": "5355",
+    "Height": "1.1",
+    "Weight": "16.3",
+    "Color": "Green",
+    "Shape": "5",
+    "Kind": "Flowering",
+    "Pokedex": "The fragrance of the garland on its head has a relaxing effect. It withers if a Trainer does not take good care of it.",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "19",
+    "BattlerAltitude": "0",
+    "Evolutions": []
+}

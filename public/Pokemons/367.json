@@ -1,0 +1,78 @@
+{
+    "ID": 367,
+    "Name": "Huntail",
+    "InternalName": "HUNTAIL",
+    "Type1": "WATER",
+    "BaseStats": [55, 104, 105, 52, 94, 75],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Erratic",
+    "BaseEXP": "170",
+    "EffortPoints": [0, 1, 1, 0, 0, 0],
+    "Rareness": "60",
+    "Happiness": "70",
+    "Abilities": "SWIFTSWIM",
+    "HiddenAbility": "WATERVEIL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "WHIRLPOOL"
+    },
+    {
+        "level": 6,
+        "move": "BITE"
+    },
+    {
+        "level": 10,
+        "move": "SCREECH"
+    },
+    {
+        "level": 15,
+        "move": "WATERPULSE"
+    },
+    {
+        "level": 19,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 24,
+        "move": "ICEFANG"
+    },
+    {
+        "level": 28,
+        "move": "BRINE"
+    },
+    {
+        "level": 33,
+        "move": "BATONPASS"
+    },
+    {
+        "level": 37,
+        "move": "DIVE"
+    },
+    {
+        "level": 42,
+        "move": "CRUNCH"
+    },
+    {
+        "level": 46,
+        "move": "AQUATAIL"
+    },
+    {
+        "level": 51,
+        "move": "HYDROPUMP"
+    }],
+    "Compatibility": ["Water1"],
+    "StepsToHatch": "5355",
+    "Height": "1.7",
+    "Weight": "27.0",
+    "Color": "Blue",
+    "Shape": "2",
+    "Habitat": "Sea",
+    "Kind": "Deep Sea",
+    "Pokedex": "To withstand the crushing pressure of water deep under the sea, its spine is very thick and sturdy. Its tail, which is shaped like a small fish, has eyes that light up.",
+    "WildItemUncommon": "DEEPSEATOOTH",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "16",
+    "BattlerAltitude": "8",
+    "Evolutions": []
+}

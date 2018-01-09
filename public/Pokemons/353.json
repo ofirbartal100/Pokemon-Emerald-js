@@ -1,0 +1,98 @@
+{
+    "ID": 353,
+    "Name": "Shuppet",
+    "InternalName": "SHUPPET",
+    "Type1": "GHOST",
+    "BaseStats": [44, 75, 35, 45, 63, 33],
+    "GenderRate": "Female50Percent",
+    "GrowthRate": "Fast",
+    "BaseEXP": "59",
+    "EffortPoints": [0, 1, 0, 0, 0, 0],
+    "Rareness": "225",
+    "Happiness": "35",
+    "Abilities": ["INSOMNIA","FRISK"],
+    "HiddenAbility": "CURSEDBODY",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "KNOCKOFF"
+    },
+    {
+        "level": 4,
+        "move": "SCREECH"
+    },
+    {
+        "level": 7,
+        "move": "NIGHTSHADE"
+    },
+    {
+        "level": 10,
+        "move": "SPITE"
+    },
+    {
+        "level": 13,
+        "move": "WILLOWISP"
+    },
+    {
+        "level": 16,
+        "move": "SHADOWSNEAK"
+    },
+    {
+        "level": 19,
+        "move": "CURSE"
+    },
+    {
+        "level": 22,
+        "move": "FEINTATTACK"
+    },
+    {
+        "level": 26,
+        "move": "HEX"
+    },
+    {
+        "level": 30,
+        "move": "SHADOWBALL"
+    },
+    {
+        "level": 34,
+        "move": "SUCKERPUNCH"
+    },
+    {
+        "level": 38,
+        "move": "EMBARGO"
+    },
+    {
+        "level": 42,
+        "move": "SNATCH"
+    },
+    {
+        "level": 46,
+        "move": "GRUDGE"
+    },
+    {
+        "level": 50,
+        "move": "TRICK"
+    }],
+    "EggMoves": ["ASTONISH", "CONFUSERAY", "DESTINYBOND", "DISABLE", "FORESIGHT", "GUNKSHOT", "IMPRISON", "OMINOUSWIND", "PURSUIT", "SHADOWSNEAK"],
+    "Compatibility": ["Amorphous"],
+    "StepsToHatch": "6630",
+    "Height": "0.6",
+    "Weight": "2.3",
+    "Color": "Black",
+    "Shape": "1",
+    "Habitat": "Urban",
+    "Kind": "Puppet",
+    "Pokedex": "This Pokémon roams about deep in the night seeking such negative emotions as grudges and envy. It retreats to its nest when the sun begins to rise.",
+    "WildItemUncommon": "SPELLTAG",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "25",
+    "BattlerAltitude": "17",
+    "Evolutions": [
+    {
+        "to": "BANETTE",
+        "by":
+        {
+            "Level": 37
+        }
+    }]
+}

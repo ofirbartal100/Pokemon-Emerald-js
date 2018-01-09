@@ -1,0 +1,102 @@
+{
+    "ID": 375,
+    "Name": "Metang",
+    "InternalName": "METANG",
+    "Type1": "STEEL",
+    "Type2": "PSYCHIC",
+    "BaseStats": [60, 75, 100, 50, 55, 80],
+    "GenderRate": "Genderless",
+    "GrowthRate": "Slow",
+    "BaseEXP": "147",
+    "EffortPoints": [0, 0, 2, 0, 0, 0],
+    "Rareness": "3",
+    "Happiness": "35",
+    "Abilities": "CLEARBODY",
+    "HiddenAbility": "LIGHTMETAL",
+    "Moves": [
+    {
+        "level": 1,
+        "move": "MAGNETRISE"
+    },
+    {
+        "level": 1,
+        "move": "TAKEDOWN"
+    },
+    {
+        "level": 1,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 1,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 20,
+        "move": "CONFUSION"
+    },
+    {
+        "level": 20,
+        "move": "METALCLAW"
+    },
+    {
+        "level": 23,
+        "move": "PURSUIT"
+    },
+    {
+        "level": 26,
+        "move": "MIRACLEEYE"
+    },
+    {
+        "level": 29,
+        "move": "ZENHEADBUTT"
+    },
+    {
+        "level": 32,
+        "move": "BULLETPUNCH"
+    },
+    {
+        "level": 35,
+        "move": "SCARYFACE"
+    },
+    {
+        "level": 38,
+        "move": "AGILITY"
+    },
+    {
+        "level": 41,
+        "move": "PSYCHIC"
+    },
+    {
+        "level": 44,
+        "move": "METEORMASH"
+    },
+    {
+        "level": 47,
+        "move": "IRONDEFENSE"
+    },
+    {
+        "level": 50,
+        "move": "HYPERBEAM"
+    }],
+    "Compatibility": ["Mineral"],
+    "StepsToHatch": "10455",
+    "Height": "1.2",
+    "Weight": "202.5",
+    "Color": "Blue",
+    "Shape": "4",
+    "Habitat": "RoughTerrain",
+    "Kind": "Iron Claw",
+    "Pokedex": "The claws tipping its arms pack the destructive power to tear through thick iron sheets as if they were silk. It flies at over 60 miles per hour.",
+    "WildItemUncommon": "METALCOAT",
+    "BattlerPlayerY": "0",
+    "BattlerEnemyY": "18",
+    "BattlerAltitude": "1",
+    "Evolutions": [
+    {
+        "to": "METAGROSS",
+        "by":
+        {
+            "Level": 45
+        }
+    }]
+}
