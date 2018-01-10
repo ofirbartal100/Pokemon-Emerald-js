@@ -41,8 +41,8 @@ export default class Talk extends Trait {
 
     start(entity, game) {
         this.dialog = game.dialog
-        this.dialog.messages = this.poi.messages
-        this.dialog.active = true
+        this.dialog.initMessages(-1)
+        this.dialog.addMessages(this.poi.messages)
         this.talking = true
         this.poi.heading = oppositeHeading(this.collideHeading)
         entity.hold()
@@ -50,11 +50,10 @@ export default class Talk extends Trait {
     }
 
     next(entity) {
-        if (this.phase == this.poi.messages.length) {
+
+        this.dialog.nextMessage()
+        if (!this.dialog.active) {
             this.finish(entity)
-        } else {
-            this.dialog.phase += 1
-            this.phase += 1
         }
     }
 
@@ -70,8 +69,6 @@ export default class Talk extends Trait {
 
 
     finish(entity) {
-        this.dialog.phase = -1
-        this.dialog.active = false
         this.talking = false
         this.poi.resume()
         entity.resume()

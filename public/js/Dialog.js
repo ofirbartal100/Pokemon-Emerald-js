@@ -5,8 +5,35 @@ export default class Dialog {
     constructor() {
         this.messages = []
         this.options = ['Yes','No']
-        this.phase = -1
+        this.messagePhase = -1
         this.focus = 0
+        this.active = false
+    }
+
+    initMessages(offset = 0){
+        this.active = true
+        this.messagePhase = offset
+    }
+
+    addMessages(messages){
+        for(let message of messages){
+            this.messages.push(message)
+        }
+    }
+
+    clearMessages(){
+        this.messagePhase = 0
+        this.messages = []
+    }
+
+    nextMessage(){
+        this.messagePhase = this.messagePhase + 1
+        if(this.messages[this.messagePhase]==undefined){
+            this.endOfMessageHandler()
+        }
+    }
+
+    endOfMessageHandler(){
         this.active = false
     }
 
@@ -22,43 +49,32 @@ export default class Dialog {
         }
     }
 
-    choose(command, state) {
+    action(command, state) {
         if (command == Commands[0]) {
             if (state) {
-                this.phase = this.phase + 1
+                this.nextMessage()
             }
         } else if (command == Commands[1]) {
             if (state) {
-                this.phase = this.phase + 1
+                this.nextMessage()
             }
         } else if (command == Commands[2]) {
             if (state) {
-                this.phase = this.phase + 1
+                this.nextMessage()
             }
         }
     }
 
-    loadBattle(battle){
-        if(this.phase >= 0){
-            return
-        }
-        this.battle = battle
-        this.phase = 0
-        this.messages.push(`A wild ${battle.pokemon.name} appeared!`)
-        this.messages.push(`I choose you! ${battle.player.party.pokemons[0].name}!`)
-        this.messages.push(`What will\n${battle.player.party.pokemons[0].name} do?`)
-    }
-
     update(deltaTime) {
-        this.layer = createDialogLayer(this.messages[this.phase])
+        this.layer = createDialogLayer(this.messages[this.messagePhase])
     }
 
     updateComponent(deltaTime) {
-        //this.layer = createDialogLayer(this.messages[this.phase])
+        //this.layer = createDialogLayer(this.messages[this.messagePhase])
     }
 
     drawComponent(context){
-        createDialogLayer(this.messages[this.phase])(context)
+        createDialogLayer(this.messages[this.messagePhase])(context)
         // createBattleMenu(context)
     }
 

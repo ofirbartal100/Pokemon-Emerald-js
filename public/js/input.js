@@ -12,6 +12,10 @@ export function setupGameKeyboard(game) {
     const input = new KeyboardState()
 
     input.addMapping(Start, keyState => {
+        if (game.battleStage.active ||
+            game.dialog.active) {
+            return
+        }
         game.menu.active = keyState ? !game.menu.active : game.menu.active
         game.player.walk.cancel()
     })
@@ -28,6 +32,7 @@ export function setupGameKeyboard(game) {
                 game.menu.move(direction, keyState)
                 game.player.walk.cancel()
             } else if (game.player.inBattle) {
+                game.battleStage.dialog.move(direction, keyState)
                 game.player.walk.cancel()
             }
         })
@@ -38,7 +43,7 @@ export function setupGameKeyboard(game) {
             if (!game.menu.active && !game.battleStage.active) {
                 game.player.interact(command, keyState, game)
             } else if (game.battleStage.active) {
-                game.battleStage.dialog.choose(command, keyState)
+                game.battleStage.dialog.action(command, keyState)
             } else if (game.menu.active) {
                 game.menu.choose(command, keyState)
             }

@@ -29,7 +29,7 @@ export default class Game {
                     let portals = game.location.tileCollider.tiles.searchByType("portal")
                     for (let portal of portals) {
                         if (portal.portal == fromLocation) {
-                            entity.move(portal.x*16, portal.y*16)
+                            trainer.move(portal.x*16, portal.y*16)
                         }
                     }
                 }

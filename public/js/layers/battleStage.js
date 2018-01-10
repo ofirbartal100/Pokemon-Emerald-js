@@ -28,7 +28,7 @@ export function createBattleStageLayer(battle, dialog) {
 
         //dialog
         if (battle.pokemon) {
-            if(dialog.phase < 0){
+            if(dialog.stage == -1){
                 dialog.loadBattle(battle)
             }
             dialog.drawComponent(context)

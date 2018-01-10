@@ -1,10 +1,10 @@
 import { createBattleStageLayer } from './layers/battleStage.js'
 import { Commands } from './input.js'
-import Dialog from './Dialog.js'
+import BattleDialog from './BattleDialog.js'
 
 export default class BattleStage {
     constructor() {
-        this.dialog = new Dialog()
+        this.dialog = new BattleDialog()
         this.active = false
         this.battle = null
     }
@@ -12,7 +12,7 @@ export default class BattleStage {
     end(){
         this.active = false
         this.battle = null
-        this.dialog = new Dialog()
+        this.dialog = new BattleDialog()
     }
 
     drawBackground(context){
