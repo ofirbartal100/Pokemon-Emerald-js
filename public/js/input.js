@@ -45,7 +45,7 @@ export function setupGameKeyboard(game) {
             } else if (game.battleStage.active) {
                 game.battleStage.dialog.action(command, keyState)
             } else if (game.menu.active) {
-                game.menu.choose(command, keyState)
+                game.menu.action(command, keyState)
             }
         })
     })

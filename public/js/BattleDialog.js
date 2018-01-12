@@ -7,7 +7,12 @@ const UNINITIALIZED = -1
 const INTRO = 0
 const FIGHTING_MENU = 1
 const MOVES_MENU = 2
-const ACTION = 2
+const ACTION = 3
+
+const PARTY_MENU = 10
+const BAG_MENU = 11
+
+
 export default class BattleDialog extends Dialog {
     constructor(battleStage) {
         super()
@@ -19,6 +24,7 @@ export default class BattleDialog extends Dialog {
         this.fightingMenu = ['Fight', 'Pokemon', 'Bag', 'Run']
 
         this.movesCursor = new Vec2(0, 0)
+        this.partyIndex = new Vec2(0, 0)
     }
 
     move(direction, state) {
@@ -33,21 +39,13 @@ export default class BattleDialog extends Dialog {
         } else { return }
 
         if (direction == 'ArrowUp') {
-            if (state) {
-                cursor.y = 0
-            }
+            cursor.y = 0
         } else if (direction == 'ArrowDown') {
-            if (state) {
-                cursor.y = 1
-            }
+            cursor.y = 1
         } else if (direction == 'ArrowLeft') {
-            if (state) {
-                cursor.x = 0
-            }
+            cursor.x = 0
         } else if (direction == 'ArrowRight') {
-            if (state) {
-                cursor.x = 1
-            }
+            cursor.x = 1
         }
     }
 
@@ -58,11 +56,15 @@ export default class BattleDialog extends Dialog {
         if (command == Commands[0]) { // choose
             this.choose()
         } else if (command == Commands[1]) { // back
-            if (this.stage == INTRO) {
+            this.back()
+        }
+    }
 
-            } else {
-                this.stage = this.stage - 1 > FIGHTING_MENU ? this.stage - 1 : FIGHTING_MENU
-            }
+    back() {
+        if (this.stage == INTRO || this.stage == ACTION) {
+
+        } else {
+            this.stage = FIGHTING_MENU
         }
     }
 
@@ -77,34 +79,40 @@ export default class BattleDialog extends Dialog {
     }
 
     endOfMessageHandler() {
-        if (this.stage < ACTION) {
-            this.stage++
+        if (this.stage == INTRO) {
+            this.stage = FIGHTING_MENU
         }
     }
 
     chooseFromFightingMenu() {
         const optionIndex = this.fightingMenuCursor.x + this.fightingMenuCursor.y * 2
         const option = this.fightingMenu[optionIndex]
-        console.log(option)
-        if (this.stage < ACTION) {
-            this.stage++
-        }
-        if(option == "Run"){
+
+        if (option == 'Fight') {
+            this.stage = MOVES_MENU
+        } else if (option == "Pokemon") {
+            this.stage = PARTY_MENU
+            this.battleStage.drawParty()
+        } else if (option == "Bag") {
+            this.stage = BAG_MENU
+            this.battleStage.drawBag()
+        } else if (option == "Run") {
             this.battleStage.end()
         }
     }
 
     chooseFromMoves() {
         const optionIndex = this.movesCursor.x + this.movesCursor.y * 2
-        const option = this.fightingPokemon.attacks[optionIndex]
+        const option = this.fightingPokemon.attacks[this.partyIndex]
         console.log(option)
     }
+
 
     drawComponent(context) {
         if (this.stage == INTRO) {
             createWindowLayer(0, 160 - 48, 240, 48, this.messages[this.messagePhase])(context)
         } else if (this.stage == FIGHTING_MENU) {
-            createWindowLayer(0, 160 - 48, 240, 48)(context)
+            createWindowLayer(0, 160 - 48, 240, 48, this.fightingMenuMessage)(context)
             let cursorIndex = this.fightingMenuCursor.x + this.fightingMenuCursor.y * 2
             drawMenu(this.fightingMenu, cursorIndex, 80, 48, context)
         } else if (this.stage == MOVES_MENU) {

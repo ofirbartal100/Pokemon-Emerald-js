@@ -19,6 +19,7 @@ export default class Game {
         if (this.location) {
             this.player = trainer
             const self = this
+            this.menu.player = this.player
 
             this.player.warp = function warpToLocation(location) {
                 const game = self

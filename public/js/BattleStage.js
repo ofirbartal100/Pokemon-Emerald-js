@@ -9,18 +9,34 @@ export default class BattleStage {
         this.battle = null
     }
 
-    end(){
+    move(direction, keyState) {
+        this.dialog.move(direction, keyState)
+    }
+
+    action(command, state) {
+        this.dialog.action(command, state)
+    }
+
+    drawBag() {
+
+    }
+    drawParty() {
+
+    }
+
+
+    end() {
         this.active = false
         this.battle.end()
         this.battle = null
         this.dialog = new BattleDialog(this)
     }
 
-    drawBackground(context){
+    drawBackground(context) {
 
     }
 
-    drawDialog(context){
+    drawDialog(context) {
         this.dialog.draw(context)
     }
 

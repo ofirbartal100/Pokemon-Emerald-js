@@ -1,6 +1,11 @@
 export default class Party {
     constructor() {
         this.pokemons = []
+        this.fightingPokemon = 0
+    }
+
+    getFightingPokemon(){
+        return this.pokemons[this.fightingPokemon]
     }
 
     addPokemon(pokemon) {

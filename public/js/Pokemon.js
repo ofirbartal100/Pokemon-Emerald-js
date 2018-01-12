@@ -2,6 +2,20 @@ export default class Pokemon {
     constructor(id, level) {
         this.id = id
         this.level = level
+        this.status = null
+        this.currHP = 0
+        this.boosts = [0,0,0,0,0,0,0]
+    }
+
+    heal(amount,status){
+        if(amount){
+            this.currHP += amount
+        }
+        if(status){
+            if(this.status == status){
+                this.status = null
+            }
+        }
     }
 
     load(pokemonSpec) {
@@ -21,6 +35,9 @@ export default class Pokemon {
         this.setHoldItem(pokemonSpec)
         this.type1 = pokemonSpec.Type1
         this.type2 = pokemonSpec.Type2
+
+        //init HP
+        this.heal(this.HP)
     }
 
     setAbility(ablities, hidden) {

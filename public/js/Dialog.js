@@ -34,6 +34,7 @@ export default class Dialog {
     }
 
     endOfMessageHandler(){
+        this.clearMessages()
         this.active = false
     }
 
