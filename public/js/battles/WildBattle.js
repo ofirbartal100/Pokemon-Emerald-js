@@ -12,4 +12,7 @@ export default class WildBattle {
         })
     }
 
+    end(){
+    	this.player.inBattle = false
+    }
 }

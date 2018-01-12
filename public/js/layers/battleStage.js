@@ -1,4 +1,4 @@
-export function createBattleStageLayer(battle, dialog) {
+export function createBattleStageLayer(battle, battleDialog) {
     const buffer = document.createElement('canvas')
     buffer.width = 240
     buffer.height = 160
@@ -26,12 +26,12 @@ export function createBattleStageLayer(battle, dialog) {
         }
         //details
 
-        //dialog
+        //battleDialog
         if (battle.pokemon) {
-            if(dialog.stage == -1){
-                dialog.loadBattle(battle)
+            if(battleDialog.stage == -1){
+                battleDialog.loadBattle(battle)
             }
-            dialog.drawComponent(context)
+            battleDialog.drawComponent(context)
         }
 
         canvasContext.drawImage(buffer, 0, 0)

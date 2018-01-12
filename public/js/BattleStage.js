@@ -4,15 +4,16 @@ import BattleDialog from './BattleDialog.js'
 
 export default class BattleStage {
     constructor() {
-        this.dialog = new BattleDialog()
+        this.dialog = new BattleDialog(this)
         this.active = false
         this.battle = null
     }
 
     end(){
         this.active = false
+        this.battle.end()
         this.battle = null
-        this.dialog = new BattleDialog()
+        this.dialog = new BattleDialog(this)
     }
 
     drawBackground(context){

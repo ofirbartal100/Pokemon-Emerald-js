@@ -1,4 +1,9 @@
 -menu
+	-functionality
 -battle
--houses
+	-menu functionallity
+	-mechanics
 -interaction
+	-objects
+-bag
+
