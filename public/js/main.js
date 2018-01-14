@@ -8,23 +8,35 @@ import { loadPokemon } from './loaders/pokemon.js'
 
 async function main(canvas) {
     var context = canvas.getContext('2d')
+    const game = new Game()
 
     const entityFactory = await loadEntities()
-    const loadLocation = await createLocationLoader(entityFactory)
-    // const location = await loadLocation('littleroot-town')
-    const location = await loadLocation('101')
+    const loadLocation = await createLocationLoader(entityFactory,game.dataBase)
+    const location = await loadLocation('littleroot-town')
+    // const location = await loadLocation('101')
 
-    const game = new Game()
     game.location = location
 
     const brendan = entityFactory.brendan()
     game.setPlayer(brendan)
     brendan.pos.set(96, 176)
     loadPokemon(150, 70).then(pokemon => {
+        pokemon.currHP = 100
+        brendan.party.addPokemon(pokemon)
+    })
+    loadPokemon(134, 60).then(pokemon => {
+        brendan.party.addPokemon(pokemon)
+    })
+    loadPokemon(500, 70).then(pokemon => {
+        brendan.party.addPokemon(pokemon)
+    })
+    loadPokemon(400, 70).then(pokemon => {
+        pokemon.currHP = 10
         brendan.party.addPokemon(pokemon)
     })
 
     // brendan.pos.set(96, 48)
+    window.game = game
 
     setupGameKeyboard(game)
     indexLogger(canvas, game.camera)

@@ -23,6 +23,10 @@ export default class Location {
         this.active = false
     }
 
+    addToDataBase(){
+        //interface
+    }
+
     next(nextLocation, fromDirection) {
         const player = Array.from(this.entities).pop()
         this.entities.delete(player)
@@ -84,6 +88,7 @@ export default class Location {
             for (let area in locationSpec.encounters) {
                 for (let pokemon of locationSpec.encounters[area]) {
                     this.tileCollider.addToArea(area, pokemon)
+                    this.addToDataBase('pokemon',pokemon.id)
                 }
             }
         }

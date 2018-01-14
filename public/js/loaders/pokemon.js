@@ -10,14 +10,18 @@ export function loadPokemon(id,level) {
     return Promise.all([
             loadJSON(`/Pokemons/${id}.json`),
             loadImage(`/img/pokemon/Battlers/${pad(id)}.png`),
-            loadImage(`/img/pokemon/Battlers/${pad(id)}b.png`)           
+            loadImage(`/img/pokemon/Battlers/${pad(id)}b.png`),
+            loadImage(`/img/pokemon/Battlers/icon${pad(id)}.png`)
         ])
-        .then(([pokemonSpec, frontImage, backImage]) => {
-            // .then(pokemonSpec =>{
-            const pokemon = new Pokemon(id,level)
-            pokemon.load(pokemonSpec)
+        .then(([pokemonSpec, frontImage, backImage, iconImage]) => {
+            const pokemon = new Pokemon(id)
+            pokemon.specs = pokemonSpec
             pokemon.front = frontImage
             pokemon.back = backImage
+            pokemon.icon = iconImage
+            if(level){
+                pokemon.setLevel(level)
+            }
             return pokemon
         })
 }

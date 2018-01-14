@@ -2,7 +2,7 @@ import Location from '../Location.js'
 import { Matrix } from '../math.js'
 import { loadSpriteSheet, loadJSON } from './spriteSheet.js'
 
-export function createLocationLoader(entityFactory) {
+export function createLocationLoader(entityFactory,dataBase) {
     return function loadLocation(name) {
         return loadJSON(`/locations/${name}.json`)
             .then(locationSpec => Promise.all([
@@ -11,6 +11,9 @@ export function createLocationLoader(entityFactory) {
             ]))
             .then(([locationSpec, backgroundSprites]) => {
                 const location = new Location(name)
+                location.addToDataBase = function(item,data){
+                    dataBase.add.call(dataBase,item,data)
+                }
                 location.setup(locationSpec, entityFactory, loadLocation, backgroundSprites)
 
                 return location

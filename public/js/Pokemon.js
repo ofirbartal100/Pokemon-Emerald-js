@@ -1,7 +1,7 @@
 export default class Pokemon {
-    constructor(id, level) {
+    constructor(id) {
         this.id = id
-        this.level = level
+        // this.level = level
         this.status = null
         this.currHP = 0
         this.boosts = [0,0,0,0,0,0,0]
@@ -16,6 +16,11 @@ export default class Pokemon {
                 this.status = null
             }
         }
+    }
+
+    setLevel(level){
+        this.level = level
+        this.load(this.specs)
     }
 
     load(pokemonSpec) {

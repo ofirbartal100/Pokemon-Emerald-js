@@ -20,6 +20,7 @@ export default class BattleStage {
     drawBag() {
 
     }
+    
     drawParty() {
 
     }

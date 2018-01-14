@@ -38,22 +38,8 @@ export default class TileCollider {
                 return
             }
 
-            if (entity.role == "Player"  && !entity.inBattle && this.battleAreas.has(match.tile.type)) {
-                const encounter = Math.random() * 16
-                const encounterRate = 0.2
-                if (encounter < encounterRate) {
-                    const areaMap = this.battleAreas.get(match.tile.type)
-                    let randPokemon = Math.random()
-                    for (let [name, encounterPokemonSpec] of areaMap) {
-                        if (randPokemon < encounterPokemonSpec.rate) {
-                            let randPokemonLevel = Math.round(Math.random() * (encounterPokemonSpec.levels[1] - encounterPokemonSpec.levels[0])) + encounterPokemonSpec.levels[0]
-                            entity.battle(new WildBattle(match.tile.type, encounterPokemonSpec.id, randPokemonLevel, entity))
-                            return
-                        } else {
-                            randPokemon -= encounterPokemonSpec.rate
-                        }
-                    }
-                }
+            if (entity.role == "Player" && !entity.inBattle && this.battleAreas.has(match.tile.type)) {
+                this.encounter(entity, match.tile.type)
                 return
             }
 
@@ -93,21 +79,7 @@ export default class TileCollider {
             }
 
             if (entity.role == "Player" && !entity.inBattle && this.battleAreas.has(match.tile.type)) {
-                const encounter = Math.random() * 16
-                const encounterRate = 0.2
-                if (encounter < encounterRate) {
-                    const areaMap = this.battleAreas.get(match.tile.type)
-                    let randPokemon = Math.random()
-                    for (let [name, encounterPokemonSpec] of areaMap) {
-                        if (randPokemon < encounterPokemonSpec.rate) {
-                            let randPokemonLevel = Math.round(Math.random() * (encounterPokemonSpec.levels[1] - encounterPokemonSpec.levels[0])) + encounterPokemonSpec.levels[0]
-                            entity.battle(new WildBattle(match.tile.type, encounterPokemonSpec.id, randPokemonLevel, entity))
-                            return
-                        } else {
-                            randPokemon -= encounterPokemonSpec.rate
-                        }
-                    }
-                }
+                this.encounter(entity, match.tile.type)
                 return
             }
 
@@ -129,5 +101,24 @@ export default class TileCollider {
             this.checkY(entity)
         if (entity.vel.x != 0)
             this.checkX(entity)
+    }
+
+
+    encounter(entity, tileType) {
+        const encounter = Math.random() * 16
+        const encounterRate = 0.2
+        if (encounter < encounterRate) {
+            const areaMap = this.battleAreas.get(tileType)
+            let randPokemon = Math.random()
+            for (let [name, encounterPokemonSpec] of areaMap) {
+                if (randPokemon < encounterPokemonSpec.rate) {
+                    let randPokemonLevel = Math.round(Math.random() * (encounterPokemonSpec.levels[1] - encounterPokemonSpec.levels[0])) + encounterPokemonSpec.levels[0]
+                    entity.battle(new WildBattle(tileType, encounterPokemonSpec.id, randPokemonLevel, entity))
+                    return
+                } else {
+                    randPokemon -= encounterPokemonSpec.rate
+                }
+            }
+        }
     }
 }

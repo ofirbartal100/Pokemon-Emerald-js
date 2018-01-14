@@ -1,4 +1,4 @@
-export default class Party {
+export default class PokemonParty {
     constructor() {
         this.pokemons = []
         this.fightingPokemon = 0

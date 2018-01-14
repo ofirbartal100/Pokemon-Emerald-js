@@ -3,7 +3,7 @@ import { Commands } from './input.js'
 
 export default class Menu {
     constructor() {
-        this.items = ['Bag','Pokemon', 'Brendan', 'Save', 'Settings']
+        this.items = ['Bag','Pokemons', 'Brendan', 'Save', 'Settings']
         this.focus = 0
         this.active = false
         this.player
@@ -33,11 +33,15 @@ export default class Menu {
     }
 
     choose(){
-        
+        if(this.items[this.focus] == 'Pokemons'){
+            this.pokemonsAction(true)
+        }
     }
 
     back(){
-        
+        if(this.items[this.focus] == 'Pokemons'){
+            this.pokemonsAction(false)
+        }
     }
 
     update(deltaTime) {
