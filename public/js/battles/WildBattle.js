@@ -13,9 +13,9 @@ export default class WildBattle {
         this.pokemonID = pokemonID
     }
 
-    init(pokemon){
+    init(pokemon,moves){
         this.pokemon = Object.assign(new Pokemon, pokemon)
-        this.pokemon.setLevel(this.pokemonLevel)
+        this.pokemon.setLevel(this.pokemonLevel,moves)
     }
 
     end(){

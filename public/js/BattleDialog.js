@@ -102,9 +102,9 @@ export default class BattleDialog extends Dialog {
     }
 
     chooseFromMoves() {
-        const optionIndex = this.movesCursor.x + this.movesCursor.y * 2
-        const option = this.fightingPokemon.attacks[this.partyIndex]
-        console.log(option)
+        const moveIndex = this.movesCursor.x + this.movesCursor.y * 2
+        const move = this.fightingPokemon.moves[moveIndex]
+        this.fightingPokemon.attack(move, this.battle.pokemon)
     }
 
 
@@ -117,7 +117,7 @@ export default class BattleDialog extends Dialog {
             drawMenu(this.fightingMenu, cursorIndex, 80, 48, context)
         } else if (this.stage == MOVES_MENU) {
             let cursorIndex = this.movesCursor.x + this.movesCursor.y * 2
-            drawMenu(this.fightingPokemon.attacks, cursorIndex, 240, 48, context)
+            drawMenu(this.fightingPokemon.moves, cursorIndex, 240, 48, context)
         }
     }
 
@@ -137,10 +137,21 @@ export default class BattleDialog extends Dialog {
     }
 }
 
-function drawMenu(menu, menuCursor, windowWidth, windowHeight, context) {
+function drawMenu(menuObjects, menuCursor, windowWidth, windowHeight, context) {
     createWindowLayer(240 - windowWidth, 160 - windowHeight, windowWidth, windowHeight)(context)
     const cursorStyle = { font: "7px Arial", fill: "#FFF", border: "#F00" }
     let itemStyle
+
+    let menu = []
+    if (menuObjects[0].name) {
+        for (let object of menuObjects) {
+            menu.push(object.name)
+        }
+    } else {
+        for (let string of menuObjects) {
+            menu.push(string)
+        }
+    }
 
     itemStyle = 0 == menuCursor ? cursorStyle : undefined
     createWindowLayer(

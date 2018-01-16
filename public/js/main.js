@@ -11,29 +11,32 @@ async function main(canvas) {
     const game = new Game()
 
     const entityFactory = await loadEntities()
-    const loadLocation = await createLocationLoader(entityFactory,game.dataBase)
+    const loadLocation = await createLocationLoader(entityFactory, game.dataBase)
     const location = await loadLocation('littleroot-town')
     // const location = await loadLocation('101')
-
+    game.loadComponents()
+        .then(() => {
+            loadPokemon(150, 70, game.dataBase.moves).then(pokemon => {
+                pokemon.currHP = 100
+                brendan.party.addPokemon(pokemon)
+            })
+            loadPokemon(134, 60, game.dataBase.moves).then(pokemon => {
+                brendan.party.addPokemon(pokemon)
+            })
+            loadPokemon(500, 70, game.dataBase.moves).then(pokemon => {
+                brendan.party.addPokemon(pokemon)
+            })
+            loadPokemon(400, 70, game.dataBase.moves).then(pokemon => {
+                pokemon.currHP = 10
+                brendan.party.addPokemon(pokemon)
+            })
+        })
     game.location = location
 
     const brendan = entityFactory.brendan()
     game.setPlayer(brendan)
     brendan.pos.set(96, 176)
-    loadPokemon(150, 70).then(pokemon => {
-        pokemon.currHP = 100
-        brendan.party.addPokemon(pokemon)
-    })
-    loadPokemon(134, 60).then(pokemon => {
-        brendan.party.addPokemon(pokemon)
-    })
-    loadPokemon(500, 70).then(pokemon => {
-        brendan.party.addPokemon(pokemon)
-    })
-    loadPokemon(400, 70).then(pokemon => {
-        pokemon.currHP = 10
-        brendan.party.addPokemon(pokemon)
-    })
+
 
     // brendan.pos.set(96, 48)
     window.game = game

@@ -3,7 +3,7 @@ import { Commands } from './input.js'
 
 export default class Menu {
     constructor() {
-        this.items = ['Bag','Pokemons', 'Brendan', 'Save', 'Settings']
+        this.items = ['Bag', 'Pokemons', 'Brendan', 'Save', 'Settings']
         this.focus = 0
         this.active = false
         this.player
@@ -28,24 +28,26 @@ export default class Menu {
         if (command == Commands[0]) { // choose
             this.choose()
         } else if (command == Commands[1]) { // back
-           this.back()
+            this.back()
         }
     }
 
-    choose(){
-        if(this.items[this.focus] == 'Pokemons'){
+    choose() {
+        if (this.items[this.focus] == 'Pokemons') {
             this.pokemonsAction(true)
         }
     }
 
-    back(){
-        if(this.items[this.focus] == 'Pokemons'){
+    back() {
+        if (this.items[this.focus] == 'Pokemons') {
             this.pokemonsAction(false)
         }
     }
 
     update(deltaTime) {
-        this.layer = createMenuLayer(this)
+        if (this.active) {
+            this.layer = createMenuLayer(this)
+        }
     }
 
     draw(context) {

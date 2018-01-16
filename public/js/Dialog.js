@@ -4,36 +4,36 @@ import { Commands } from './input.js'
 export default class Dialog {
     constructor() {
         this.messages = []
-        this.options = ['Yes','No']
+        this.options = ['Yes', 'No']
         this.messagePhase = -1
         this.focus = 0
         this.active = false
     }
 
-    initMessages(offset = 0){
+    initMessages(offset = 0) {
         this.active = true
         this.messagePhase = offset
     }
 
-    addMessages(messages){
-        for(let message of messages){
+    addMessages(messages) {
+        for (let message of messages) {
             this.messages.push(message)
         }
     }
 
-    clearMessages(){
+    clearMessages() {
         this.messagePhase = 0
         this.messages = []
     }
 
-    nextMessage(){
+    nextMessage() {
         this.messagePhase = this.messagePhase + 1
-        if(this.messages[this.messagePhase]==undefined){
+        if (this.messages[this.messagePhase] == undefined) {
             this.endOfMessageHandler()
         }
     }
 
-    endOfMessageHandler(){
+    endOfMessageHandler() {
         this.clearMessages()
         this.active = false
     }
@@ -67,14 +67,16 @@ export default class Dialog {
     }
 
     update(deltaTime) {
-        this.layer = createDialogLayer(this.messages[this.messagePhase])
+        if (this.active) {
+            this.layer = createDialogLayer(this.messages[this.messagePhase])
+        }
     }
 
     updateComponent(deltaTime) {
         //this.layer = createDialogLayer(this.messages[this.messagePhase])
     }
 
-    drawComponent(context){
+    drawComponent(context) {
         createDialogLayer(this.messages[this.messagePhase])(context)
         // createBattleMenu(context)
     }

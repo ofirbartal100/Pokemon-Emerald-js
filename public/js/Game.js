@@ -6,12 +6,14 @@ import PartyPage from './PartyPage.js'
 import BagPage from './BagPage.js'
 import BattleStage from './BattleStage.js'
 import DataBase from './DataBase.js'
+import { loadDataBase } from './loaders/dataBase.js'
+import { loadPartyPage } from './loaders/partyPage.js'
+import { loadBagPage } from './loaders/bagPage.js'
 
 export default class Game {
     constructor() {
         this.timer = new Timer(1 / 60)
         this.dataBase = new DataBase()
-
         this.menu = new Menu()
         this.dialog = new Dialog()
 
@@ -24,14 +26,40 @@ export default class Game {
         this.player = null
     }
 
+    loadComponents() {
+        return Promise.all([
+            this.loadDataBase(),
+            this.loadPartyPage(),
+            this.loadBagPage()
+        ])
+    }
+
+    loadDataBase() {
+        return loadDataBase().then(database => {
+            Object.assign(this.dataBase, database)
+        })
+    }
+
+    loadPartyPage() {
+        return loadPartyPage().then(partyPage => {
+            Object.assign(this.partyPage, partyPage)
+        })
+    }
+
+    loadBagPage() {
+        return loadBagPage().then(bagPage => {
+            Object.assign(this.bagPage, bagPage)
+        })
+    }
+
     setPlayer(trainer) {
         if (this.location) {
             this.player = trainer
             const self = this
             this.menu.player = this.player
             this.partyPage.party = this.player.party
-            this.menu.pokemonsAction = function(state){
-                self.partyPage.active = state 
+            this.menu.pokemonsAction = function(state) {
+                self.partyPage.active = state
             }
 
             this.player.warp = function warpToLocation(location) {
@@ -51,7 +79,7 @@ export default class Game {
 
             this.player.battle = function pokemonEncount(battle) {
                 const game = self
-                battle.init(self.dataBase.getPokemon(battle.pokemonID))
+                battle.init(self.dataBase.getPokemon(battle.pokemonID), self.dataBase.moves)
                 game.battleStage.battle = battle
                 game.battleStage.active = true
                 this.inBattle = true

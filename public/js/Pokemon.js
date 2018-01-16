@@ -1,26 +1,35 @@
+import Move from './Move.js'
+
 export default class Pokemon {
     constructor(id) {
         this.id = id
         // this.level = level
         this.status = null
         this.currHP = 0
-        this.boosts = [0,0,0,0,0,0,0]
+        this.boosts = [0, 0, 0, 0, 0, 0, 0]
+        this.moves = []
+        this.attacks = []
     }
 
-    heal(amount,status){
-        if(amount){
+    attack(move, foe) {
+        console.log(move, foe)
+    }
+
+    heal(amount, status) {
+        if (amount) {
             this.currHP += amount
         }
-        if(status){
-            if(this.status == status){
+        if (status) {
+            if (this.status == status) {
                 this.status = null
             }
         }
     }
 
-    setLevel(level){
+    setLevel(level, databaseMoves) {
         this.level = level
         this.load(this.specs)
+        this.loadMoves(databaseMoves)
     }
 
     load(pokemonSpec) {
@@ -46,9 +55,9 @@ export default class Pokemon {
     }
 
     setAbility(ablities, hidden) {
-        if(ablities[0].length == 1){
+        if (ablities[0].length == 1) {
             this.ability = ablities
-        } else{
+        } else {
             this.ability = ablities[Math.floor(Math.random() * ablities.length)]
         }
     }
@@ -125,7 +134,6 @@ export default class Pokemon {
     }
 
     setMoves(moves) {
-        this.attacks = ['', '', '', '']
         let potentialAttaks = []
         for (let move of moves) {
             if (move.level <= this.level) {
@@ -134,8 +142,20 @@ export default class Pokemon {
         }
 
         for (let i = 0; i < (4 < potentialAttaks.length ? 4 : potentialAttaks.length); i++) {
-            this.attacks[i] = potentialAttaks.splice(Math.floor(Math.random() * potentialAttaks.length), 1)[0];
+            let attack = potentialAttaks.splice(Math.floor(Math.random() * potentialAttaks.length), 1)[0];
+            this.attacks.push(attack)
         }
+
     }
 
+    loadMoves(databaseMoves) {
+        for (let attack of this.attacks) {
+            if (attack == '') {
+                this.moves.push(new Move())
+            } else {
+                if (databaseMoves && databaseMoves.has(attack))
+                    this.moves.push(new Move(databaseMoves.get(attack)))
+            }
+        }
+    }
 }

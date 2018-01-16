@@ -1,4 +1,5 @@
 import { loadPokemon } from './loaders/pokemon.js'
+import { loadMoves } from './loaders/moves.js'
 
 export default class DataBase {
     constructor() {
@@ -26,6 +27,14 @@ export default class DataBase {
         if(item == 'pokemon'){
             this.setPokemon(data)
         }
+    }
+
+    loadMoves(){
+        return loadMoves().then(moves=>{
+            for(let move of moves){
+                this.moves.set(move.InternalName,move)
+            }
+        })
     }
 
 }

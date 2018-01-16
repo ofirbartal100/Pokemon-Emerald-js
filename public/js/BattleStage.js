@@ -20,7 +20,7 @@ export default class BattleStage {
     drawBag() {
 
     }
-    
+
     drawParty() {
 
     }
@@ -42,8 +42,10 @@ export default class BattleStage {
     }
 
     update(deltaTime) {
-        this.dialog.updateComponent(deltaTime)
-        this.layer = createBattleStageLayer(this.battle, this.dialog)
+        if (this.active) {
+            this.dialog.updateComponent(deltaTime)
+            this.layer = createBattleStageLayer(this.battle, this.dialog)
+        }
     }
 
     draw(context) {

@@ -1,4 +1,3 @@
-import { loadJSON, loadImage } from './loaders/spriteSheet.js'
 import { createPartyPageLayer } from './layers/partyPage.js'
 import { createPartyPokemonLayer } from './layers/partyPokemon.js'
 const BATTLE = 0
@@ -8,19 +7,9 @@ export default class PartyPage {
     constructor() {
         this.active = false
         this.menuType = INFO
-        this.loadGraphics()
+        this.graphics
         this.party
         window.pp = this
-    }
-
-    loadGraphics() {
-        loadJSON('../pokemon/partyGraphics.json').then(graphicsUrls => {
-            Promise.all(graphicsUrls.urls.map(loadImage))
-                .then(images => {
-                    this.graphics = images
-                })
-        })
-
     }
 
     move(direction, state) {
@@ -54,13 +43,15 @@ export default class PartyPage {
     drawComponents(context) {
         if (this.party) {
             for (let i = 0; i < 6; i++) {
-                createPartyPokemonLayer(i, this.party.pokemons[i],this.graphics)(context)
+                createPartyPokemonLayer(i, this.party.pokemons[i], this.graphics)(context)
             }
         }
     }
 
     update(deltaTime) {
-        this.layer = createPartyPageLayer(this.party, this.graphics)
+        if (this.active) {
+            this.layer = createPartyPageLayer(this.party, this.graphics)
+        }
     }
 
     draw(context) {

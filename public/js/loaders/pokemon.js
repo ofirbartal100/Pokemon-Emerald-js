@@ -6,7 +6,7 @@ function pad(num, size=3) {
     return s.substr(s.length-size);
 }
 
-export function loadPokemon(id,level) {
+export function loadPokemon(id,level,databaseMoves) {
     return Promise.all([
             loadJSON(`/Pokemons/${id}.json`),
             loadImage(`/img/pokemon/Battlers/${pad(id)}.png`),
@@ -19,8 +19,8 @@ export function loadPokemon(id,level) {
             pokemon.front = frontImage
             pokemon.back = backImage
             pokemon.icon = iconImage
-            if(level){
-                pokemon.setLevel(level)
+            if(level && databaseMoves){
+                pokemon.setLevel(level,databaseMoves)
             }
             return pokemon
         })
