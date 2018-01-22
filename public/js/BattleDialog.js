@@ -24,7 +24,6 @@ export default class BattleDialog extends Dialog {
         this.fightingMenu = ['Fight', 'Pokemon', 'Bag', 'Run']
 
         this.movesCursor = new Vec2(0, 0)
-        this.partyIndex = new Vec2(0, 0)
     }
 
     move(direction, state) {
@@ -91,11 +90,9 @@ export default class BattleDialog extends Dialog {
         if (option == 'Fight') {
             this.stage = MOVES_MENU
         } else if (option == "Pokemon") {
-            this.stage = PARTY_MENU
-            this.battleStage.drawParty()
+            this.battleStage.activateParty()
         } else if (option == "Bag") {
-            this.stage = BAG_MENU
-            this.battleStage.drawBag()
+            this.battleStage.activateBag()
         } else if (option == "Run") {
             this.battleStage.end()
         }
@@ -103,8 +100,7 @@ export default class BattleDialog extends Dialog {
 
     chooseFromMoves() {
         const moveIndex = this.movesCursor.x + this.movesCursor.y * 2
-        const move = this.fightingPokemon.moves[moveIndex]
-        this.fightingPokemon.attack(move, this.battle.pokemon)
+        this.fightingPokemon.attack(moveIndex, this.battle.foe.pokemon)
     }
 
 
@@ -130,7 +126,7 @@ export default class BattleDialog extends Dialog {
         this.fightingPokemon = battle.player.party.pokemons[0]
         this.fightingMenuMessage = `What will\n${this.fightingPokemon.name} do?`
         this.initMessages()
-        this.addMessages([`A wild ${battle.pokemon.name} appeared!`,
+        this.addMessages([`A wild ${battle.foe.pokemon.name} appeared!`,
             `I choose you! ${this.fightingPokemon.name}!`
         ])
 
@@ -143,9 +139,9 @@ function drawMenu(menuObjects, menuCursor, windowWidth, windowHeight, context) {
     let itemStyle
 
     let menu = []
-    if (menuObjects[0].name) {
+    if (menuObjects[0].Name) {
         for (let object of menuObjects) {
-            menu.push(object.name)
+            menu.push(object.Name)
         }
     } else {
         for (let string of menuObjects) {

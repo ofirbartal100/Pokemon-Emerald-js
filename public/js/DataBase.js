@@ -1,12 +1,13 @@
 import { loadPokemon } from './loaders/pokemon.js'
-import { loadMoves } from './loaders/moves.js'
 
 export default class DataBase {
     constructor() {
         this.items = new Map()
         this.pokemons = new Map()
         this.entities = new Map()
+        this.areas = new Map()
         this.moves = new Map()
+        this.typeTable = new Map()
     }
 
     setPokemon(id) {
@@ -27,14 +28,6 @@ export default class DataBase {
         if(item == 'pokemon'){
             this.setPokemon(data)
         }
-    }
-
-    loadMoves(){
-        return loadMoves().then(moves=>{
-            for(let move of moves){
-                this.moves.set(move.InternalName,move)
-            }
-        })
     }
 
 }

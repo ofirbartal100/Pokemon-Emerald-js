@@ -8,7 +8,7 @@ export default class Walk extends Trait {
         super('walk')
         this.overrideHold = false
         this.stepWidth = 16
-        this.walkingSpeed = 70
+        this.walkingSpeed = 170
         this.toGo = 0
         this.vel = new Vec2(0, 0)
         this.startPos = new Vec2(-1, -1)

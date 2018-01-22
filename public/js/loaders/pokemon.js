@@ -1,12 +1,12 @@
 import Pokemon from '../Pokemon.js'
-import {loadJSON , loadImage} from './spriteSheet.js'
+import { loadJSON, loadImage } from './spriteSheet.js'
 
-function pad(num, size=3) {
+function pad(num, size = 3) {
     var s = "0000" + num;
-    return s.substr(s.length-size);
+    return s.substr(s.length - size);
 }
 
-export function loadPokemon(id,level,databaseMoves) {
+export function loadPokemon(id, level, databaseMoves, typeTable) {
     return Promise.all([
             loadJSON(`/Pokemons/${id}.json`),
             loadImage(`/img/pokemon/Battlers/${pad(id)}.png`),
@@ -19,8 +19,8 @@ export function loadPokemon(id,level,databaseMoves) {
             pokemon.front = frontImage
             pokemon.back = backImage
             pokemon.icon = iconImage
-            if(level && databaseMoves){
-                pokemon.setLevel(level,databaseMoves)
+            if (level && databaseMoves && typeTable) {
+                pokemon.setLevel(level, databaseMoves, typeTable)
             }
             return pokemon
         })

@@ -1,7 +1,7 @@
 const FOE = 0
 const OWN = 1
 
-export function createBattleStageLayer(battle, battleDialog, details) {
+export function createBattleLayer(battle, details) {
     const buffer = document.createElement('canvas')
     buffer.width = 240
     buffer.height = 160
@@ -13,9 +13,9 @@ export function createBattleStageLayer(battle, battleDialog, details) {
 
 
 
-    return function drawBattleStageLayer(canvasContext) {
-        // if (battle.pokemon && battle.details) {
-        if (battle.pokemon) {
+    return function drawBattleLayer(canvasContext) {
+        // if (battle.foe.pokemon && battle.details) {
+        if (battle.foe.pokemon) {
             context.clearRect(0, 0, buffer.width, buffer.height)
             context.fillRect(0, 0, buffer.width, buffer.height)
             //background
@@ -25,7 +25,7 @@ export function createBattleStageLayer(battle, battleDialog, details) {
             //trainers
 
             //pokemons
-            context.drawImage(battle.pokemon.front, 240 - size - rightMargin, topMargin, size, size)
+            context.drawImage(battle.foe.pokemon.front, 240 - size - rightMargin, topMargin, size, size)
             context.drawImage(battle.player.party.pokemons[0].back, rightMargin, 112 - size, size, size)
 
             //details
@@ -34,10 +34,10 @@ export function createBattleStageLayer(battle, battleDialog, details) {
             drawDatabox(battle, OWN, 240 - 70, 160 - 38 - 48, context)
 
             //battleDialog
-            if (battleDialog.stage == -1) {
-                battleDialog.loadBattle(battle)
+            if (battle.dialog.stage == -1) {
+                battle.dialog.loadBattle(battle)
             }
-            battleDialog.drawComponent(context)
+            battle.dialog.drawComponent(context)
 
             canvasContext.drawImage(buffer, 0, 0)
         }
@@ -71,7 +71,7 @@ function drawDatabox(battle, poi, x, y, context) {
         pkmLevel = own.level
         pkmGender = own.gender
     } else if (poi == FOE) {
-        const foe = battle.pokemon
+        const foe = battle.foe.pokemon
         hpPrcnt = foe.currHP / foe.HP
         pkmName = foe.name
         pkmLevel = foe.level

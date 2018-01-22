@@ -1,107 +1,69 @@
+import { createPartyPokemonLayer } from './partyPokemon.js'
+import { createWindowLayer } from './window.js'
+
 export function createPartyPageLayer(party, graphics) {
     const buffer = document.createElement('canvas')
     buffer.width = 240
     buffer.height = 160
 
     const context = buffer.getContext('2d')
+    const partyBackground = graphics[0]
+    const cancelBtn = graphics[3]
+    const cancelBtnSelected = graphics[6]
 
+    return function drawPartyPageLayer(canvasContext) { //watch out for this!! references the calling object
 
+        context.drawImage(partyBackground, 0, 0, 240, 160)
 
+        let selected = this.partyCursor.x + this.partyCursor.y * 2
+        for (let i = 0; i < 6; i++) {
+            createPartyPokemonLayer(i, this.party.pokemons[i], this.graphics, (selected == i))(context)
+        }
 
-    return function drawPartyPageLayer(canvasContext) {
-        // if (battle.pokemon && battle.details) {
-        // if (battle.pokemon) {
-        //     context.clearRect(0, 0, buffer.width, buffer.height)
-        //     context.fillRect(0, 0, buffer.width, buffer.height)
-        //     //background
-        //     if (battle.arena)
-        //         context.drawImage(battle.arena, 0, 0)
+        if (this.partyCursor.y == Math.min(4, this.party.pokemons.length / 2 + 1) - 1)
+            context.drawImage(cancelBtnSelected, 205, 145, 35, 15)
+        else
+            context.drawImage(cancelBtn, 205, 145, 35, 15)
 
-        //     //trainers
+        context.fillStyle = "#FFF";
+        context.fillText('Cancel', 205 + 1, 145 + 10)
 
-        //     //pokemons
-        //     context.drawImage(battle.pokemon.front, 240 - size - rightMargin, topMargin, size, size)
-        //     context.drawImage(battle.player.party.pokemons[0].back, rightMargin, 112 - size, size, size)
+        createWindowLayer(0, 135, 200, 25, "Choose a Pokemon.")(context)
 
-        //     //details
-        //     // context.drawImage(battle.details.databox_foe , )
-        //     drawDatabox(battle, FOE, 0, 8, context)
-        //     drawDatabox(battle, OWN, 240 - 70, 160 - 38 - 48, context)
+        if (this.stage == 1) {
+            let items = ['SUMMERY', 'SWITCH', 'ITEM', 'CANCEL']
+            drawMenuRaise(items, selected, 200, 160, 40, 20, context)
+        }
 
-        //     //battleDialog
-        //     if (battleDialog.stage == -1) {
-        //         battleDialog.loadBattle(battle)
-        //     }
-        //     battleDialog.drawComponent(context)
-
-        //     canvasContext.drawImage(buffer, 0, 0)
-        // }
-        context.drawImage(graphics[0], 0, 0, 240, 160)
         canvasContext.drawImage(buffer, 0, 0)
     }
 }
 
-// function drawDatabox(battle, poi, x, y, context) {
-//     const width = 70
-//     const height = 40
-//     const hpWidth = 50
-//     const hpHeight = 5
-//     const hpX = x + 10
-//     const hpY = y + 15
-//     context.font = "6px Arial"
-//     //container
-//     context.fillStyle = '#884'
-//     context.fillRect(x, y, width, height)
+function drawMenuRaise(menuObjects, menuCursor, x, y, itemWidth, itemHeight, context) {
+    const cursorStyle = { font: "7px Arial", fill: "#FFF", border: "#F00" }
+    let itemStyle
 
-//     context.strokeStyle = '#000'
-//     context.strokeRect(x, y, width, height)
+    let menu = []
+    if (menuObjects[0].Name) {
+        for (let object of menuObjects) {
+            menu.push(object.Name)
+        }
+    } else {
+        for (let string of menuObjects) {
+            menu.push(string)
+        }
+    }
 
-//     //hp bar
-//     let hpPrcnt
-//     let pkmName
-//     let pkmLevel
-//     let pkmGender
-//     if (poi == OWN) {
-//         const own = battle.player.party.getFightingPokemon()
-//         hpPrcnt = own.currHP / own.HP
-//         pkmName = own.name
-//         pkmLevel = own.level
-//         pkmGender = own.gender
-//     } else if (poi == FOE) {
-//         const foe = battle.pokemon
-//         hpPrcnt = foe.currHP / foe.HP
-//         pkmName = foe.name
-//         pkmLevel = foe.level
-//         pkmGender = foe.gender
-//     }
-//     context.fillStyle = '#000'
-//     context.fillRect(hpX, hpY, hpWidth, hpHeight)
+    for (let i = 0; i < menu.length; i++) {
+        itemStyle = i == menuCursor ? cursorStyle : undefined
+        createWindowLayer(
+            x,
+            y - (i + 1) * itemHeight,
+            itemWidth,
+            itemHeight,
+            menu[menu.length - 1 - i],
+            itemStyle)(context)
+    }
 
 
-//     if (hpPrcnt > 0.5) {
-//         context.fillStyle = '#0F0'
-//     } else if (hpPrcnt >= 0.2) {
-//         context.fillStyle = '#FF4'
-//     } else {
-//         context.fillStyle = '#F00'
-//     }
-//     context.fillRect(hpX, hpY, hpWidth * hpPrcnt, hpHeight)
-
-
-//     //name
-//     context.fillStyle = "#000";
-//     context.fillText(pkmName, x + 2, y + 8)
-
-//     //level
-//     context.fillStyle = "#000";
-//     context.fillText('Lv' + pkmLevel, x + 40, y + 8)
-
-//     //gender
-//     if (pkmGender == 'Male') {
-//         context.fillStyle = '#00F'
-//         context.fillRect(x + 10, y + 30, 3, 3)
-//     } else if (pkmGender == 'Female') {
-//         context.fillStyle = '#F00'
-//         context.fillRect(x + 10, y + 30, 3, 3)
-//     }
-// }
+}

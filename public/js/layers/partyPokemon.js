@@ -1,4 +1,4 @@
-export function createPartyPokemonLayer(index, pokemon, graphics) {
+export function createPartyPokemonLayer(index, pokemon, graphics,selected) {
     const buffer = document.createElement('canvas')
     buffer.width = 120
     buffer.height = 40
@@ -11,7 +11,10 @@ export function createPartyPokemonLayer(index, pokemon, graphics) {
     return function drawPartyPokemonLayer(canvasContext) {
         context.clearRect(0, 0, buffer.width, buffer.height)
         if (pokemon) {
-            context.drawImage(graphics[15], 0, 0, buffer.width, buffer.height) //slot
+            if(selected)
+                context.drawImage(graphics[18], 0, 0, buffer.width, buffer.height) //slot
+            else
+                context.drawImage(graphics[15], 0, 0, buffer.width, buffer.height) //slot
             //to animate
             context.drawImage(pokemon.icon, 0, 0, 64, 64, 0, 0, 32, 32)
 

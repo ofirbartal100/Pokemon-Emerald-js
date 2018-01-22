@@ -1,24 +1,24 @@
-import Pokemon  from '../Pokemon.js'
-import { loadPokemon } from '../loaders/pokemon.js'
-import { loadImage } from '../loaders/spriteSheet.js'
+import Battle from './Battle.js'
+import Pokemon from '../Pokemon.js'
 
-export default class WildBattle {
-    constructor(arena, pokemonID, level, player) {
-        this.player = player
-        loadImage(`/img/battle-arenas/${arena}.png`).then(arenaImg => {
-            this.arena = arenaImg
-        })
-        
-        this.pokemonLevel = level
-        this.pokemonID = pokemonID
+export default class WildBattle extends Battle {
+    constructor(arena, player, pokemonID, level) {
+        super(arena, player)
+
+        this.foe = {
+            type: 'wildSingle',
+            id: pokemonID,
+            level: level
+        }
     }
 
-    init(pokemon,moves){
-        this.pokemon = Object.assign(new Pokemon, pokemon)
-        this.pokemon.setLevel(this.pokemonLevel,moves)
+    init(getPokemon, moves, typeTable) {
+        let foePokemon = getPokemon(this.foe.id)
+        this.foe.pokemon = Object.assign(new Pokemon, foePokemon)
+        this.foe.pokemon.setLevel(this.foe.level, moves, typeTable)
     }
 
-    end(){
-    	this.player.inBattle = false
+    end() {
+        this.player.inBattle = false
     }
 }

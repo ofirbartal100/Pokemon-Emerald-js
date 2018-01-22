@@ -6,19 +6,24 @@ export default class Menu {
         this.items = ['Bag', 'Pokemons', 'Brendan', 'Save', 'Settings']
         this.focus = 0
         this.active = false
+        this.chosenItem = false
         this.player
     }
 
     move(direction, state) {
-        if (direction == 'ArrowUp') {
-            if (state) {
+        if (!state) {
+            return
+        }
+        if (this.chosenItem) {
+            this.feedForward('move', direction)
+        } else {
+            if (direction == 'ArrowUp') {
                 this.focus = ((this.focus - 1) + this.items.length) % this.items.length
-            }
-        } else if (direction == 'ArrowDown') {
-            if (state) {
+            } else if (direction == 'ArrowDown') {
                 this.focus = ((this.focus + 1) + this.items.length) % this.items.length
             }
         }
+
     }
 
     action(command, state) {
@@ -26,22 +31,30 @@ export default class Menu {
             return
         }
         if (command == Commands[0]) { // choose
-            this.choose()
+            if (!this.chosenItem)
+                this.choose()
+            else
+                this.feedForward('action', command)
+
         } else if (command == Commands[1]) { // back
-            this.back()
+            if (!this.chosenItem)
+                this.close()
+            else
+                this.feedForward('action', command)
         }
     }
 
     choose() {
-        if (this.items[this.focus] == 'Pokemons') {
-            this.pokemonsAction(true)
-        }
+        this.chosenItem = this.items[this.focus]
+        this.routAction('init', true)
     }
 
-    back() {
-        if (this.items[this.focus] == 'Pokemons') {
-            this.pokemonsAction(false)
-        }
+    close() {
+        this.active = false
+    }
+
+    feedForward(command, value) {
+        this.routAction(command, value)
     }
 
     update(deltaTime) {

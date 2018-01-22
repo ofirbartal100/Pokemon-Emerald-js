@@ -16,17 +16,17 @@ async function main(canvas) {
     // const location = await loadLocation('101')
     game.loadComponents()
         .then(() => {
-            loadPokemon(150, 70, game.dataBase.moves).then(pokemon => {
+            loadPokemon(150, 70, game.dataBase.moves, game.dataBase.typeTable).then(pokemon => {
                 pokemon.currHP = 100
                 brendan.party.addPokemon(pokemon)
             })
-            loadPokemon(134, 60, game.dataBase.moves).then(pokemon => {
+            loadPokemon(134, 60, game.dataBase.moves, game.dataBase.typeTable).then(pokemon => {
                 brendan.party.addPokemon(pokemon)
             })
-            loadPokemon(500, 70, game.dataBase.moves).then(pokemon => {
+            loadPokemon(500, 70, game.dataBase.moves, game.dataBase.typeTable).then(pokemon => {
                 brendan.party.addPokemon(pokemon)
             })
-            loadPokemon(400, 70, game.dataBase.moves).then(pokemon => {
+            loadPokemon(400, 70, game.dataBase.moves, game.dataBase.typeTable).then(pokemon => {
                 pokemon.currHP = 10
                 brendan.party.addPokemon(pokemon)
             })

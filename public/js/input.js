@@ -22,7 +22,7 @@ export function setupGameKeyboard(game) {
 
     Directions.forEach(direction => {
         input.addMapping(direction, keyState => {
-            if (!game.menu.active && !game.player.inBattle) {
+            if (!game.menu.active && !game.player.inBattle ) {
                 if (keyState) {
                     game.player.walk.enqueue(direction)
                 } else {
@@ -32,7 +32,7 @@ export function setupGameKeyboard(game) {
                 game.menu.move(direction, keyState)
                 game.player.walk.cancel()
             } else if (game.player.inBattle) {
-                game.battleStage.dialog.move(direction, keyState)
+                game.battleStage.move(direction, keyState)
                 game.player.walk.cancel()
             }
         })
@@ -43,7 +43,7 @@ export function setupGameKeyboard(game) {
             if (!game.menu.active && !game.battleStage.active) {
                 game.player.interact(command, keyState, game)
             } else if (game.battleStage.active) {
-                game.battleStage.dialog.action(command, keyState)
+                game.battleStage.action(command, keyState)
             } else if (game.menu.active) {
                 game.menu.action(command, keyState)
             }

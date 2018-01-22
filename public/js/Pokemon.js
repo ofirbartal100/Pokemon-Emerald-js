@@ -11,8 +11,22 @@ export default class Pokemon {
         this.attacks = []
     }
 
-    attack(move, foe) {
-        console.log(move, foe)
+    attack(moveIndex, foe) {
+        this.moves[moveIndex].use(this, foe)
+    }
+
+    hurt(amount, status) {
+        if (amount) {
+            this.currHP -= amount
+            if (this.currHP < 0) {
+                this.currHP = 0
+            }
+        }
+        if (status) {
+            if (this.status == null) {
+                this.status = status
+            }
+        }
     }
 
     heal(amount, status) {
@@ -26,10 +40,10 @@ export default class Pokemon {
         }
     }
 
-    setLevel(level, databaseMoves) {
+    setLevel(level, databaseMoves, databaseTypes) {
         this.level = level
         this.load(this.specs)
-        this.loadMoves(databaseMoves)
+        this.loadMoves(databaseMoves, databaseTypes)
     }
 
     load(pokemonSpec) {
@@ -148,13 +162,13 @@ export default class Pokemon {
 
     }
 
-    loadMoves(databaseMoves) {
+    loadMoves(databaseMoves, databaseTypes) {
         for (let attack of this.attacks) {
             if (attack == '') {
                 this.moves.push(new Move())
             } else {
                 if (databaseMoves && databaseMoves.has(attack))
-                    this.moves.push(new Move(databaseMoves.get(attack)))
+                    this.moves.push(new Move(databaseMoves.get(attack), databaseTypes))
             }
         }
     }

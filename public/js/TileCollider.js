@@ -113,7 +113,8 @@ export default class TileCollider {
             for (let [name, encounterPokemonSpec] of areaMap) {
                 if (randPokemon < encounterPokemonSpec.rate) {
                     let randPokemonLevel = Math.round(Math.random() * (encounterPokemonSpec.levels[1] - encounterPokemonSpec.levels[0])) + encounterPokemonSpec.levels[0]
-                    entity.battle(new WildBattle(tileType, encounterPokemonSpec.id, randPokemonLevel, entity))
+                    let area = entity.getArea(tileType)
+                    entity.battle(new WildBattle(area, entity, encounterPokemonSpec.id, randPokemonLevel))
                     return
                 } else {
                     randPokemon -= encounterPokemonSpec.rate

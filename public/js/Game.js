@@ -31,7 +31,17 @@ export default class Game {
             this.loadDataBase(),
             this.loadPartyPage(),
             this.loadBagPage()
-        ])
+        ]).then(() => {
+            this.battleStage.PartyPage = this.partyPage
+            this.battleStage.BagPage = this.bagPage
+            this.battleStage.getPokemon = function createPokemon(id) {
+                return game.dataBase.getPokemon(id)
+            }
+            this.battleStage.battleData = {
+                typeTable: this.dataBase.typeTable,
+                moves: this.dataBase.moves,
+            }
+        })
     }
 
     loadDataBase() {
@@ -58,8 +68,18 @@ export default class Game {
             const self = this
             this.menu.player = this.player
             this.partyPage.party = this.player.party
-            this.menu.pokemonsAction = function(state) {
-                self.partyPage.active = state
+            this.menu.routAction = function(action, value) {
+                if (this.chosenItem == "Pokemons") {
+                    if (action == 'init')
+                        self.partyPage.active = true
+                    else if (action == 'action')
+                        self.partyPage.action(value,true)
+                    else if(action == 'move')
+                        self.partyPage.move(value,true)
+
+                    if(!self.partyPage.active)
+                        this.chosenItem = null
+                }
             }
 
             this.player.warp = function warpToLocation(location) {
@@ -78,13 +98,15 @@ export default class Game {
             }
 
             this.player.battle = function pokemonEncount(battle) {
-                const game = self
-                battle.init(self.dataBase.getPokemon(battle.pokemonID), self.dataBase.moves)
-                game.battleStage.battle = battle
-                game.battleStage.active = true
+                game.battleStage.init(battle)
                 this.inBattle = true
                 console.log(battle)
             }
+
+            this.player.getArea = function fetchArea(area) {
+                return game.dataBase.areas.get(area);
+            }
+
             this.location.entities.add(this.player)
         }
     }

@@ -1,56 +1,82 @@
-import { createBattleStageLayer } from './layers/battleStage.js'
+import { createBattleLayer } from './layers/battle.js'
 import { Commands } from './input.js'
 import BattleDialog from './BattleDialog.js'
 
 export default class BattleStage {
     constructor() {
-        this.dialog = new BattleDialog(this)
         this.active = false
+
+        this.PartyPage = null
+        this.BagPage = null
         this.battle = null
+
+        this.battleData
     }
 
     move(direction, keyState) {
-        this.dialog.move(direction, keyState)
+        if (this.PartyPage.active) {
+            this.PartyPage.move(direction, keyState)
+        } else if (this.BagPage.active) {
+
+        } else {
+            this.battle.move(direction, keyState)
+        }
     }
 
     action(command, state) {
-        this.dialog.action(command, state)
+        if (this.PartyPage.active) {
+            this.PartyPage.action(command, state)
+        } else if (this.BagPage.active) {
+
+        } else {
+            this.battle.action(command, state)
+        }
     }
 
-    drawBag() {
-
+    init(battle) {
+        battle.dialog = new BattleDialog(this)
+        battle.init(this.getPokemon, this.battleData.moves, this.battleData.typeTable)
+        this.battle = battle
+        this.active = true
     }
-
-    drawParty() {
-
-    }
-
 
     end() {
         this.active = false
         this.battle.end()
         this.battle = null
-        this.dialog = new BattleDialog(this)
     }
 
-    drawBackground(context) {
-
+    activateParty() {
+        this.PartyPage.active = true
     }
 
-    drawDialog(context) {
-        this.dialog.draw(context)
+    activateBag() {
+
     }
 
     update(deltaTime) {
         if (this.active) {
-            this.dialog.updateComponent(deltaTime)
-            this.layer = createBattleStageLayer(this.battle, this.dialog)
+            if (this.PartyPage.active) {
+                this.PartyPage.update(deltaTime)
+                this.layer = this.PartyPage.layer
+            } else if (this.BagPage.active) {
+                //this.layer = createBagLayer(this.battle)
+            } else {
+                this.layer = createBattleLayer(this.battle)
+            }
         }
     }
 
     draw(context) {
-        if (this.active)
-            this.layer(context)
+        if (this.active) {
+            if (this.PartyPage.active) {
+                this.PartyPage.layer(context)
+            } else if (this.BagPage.active) {
+                //this.BagPage.layer(context)
+            } else {
+                this.layer(context)
+            }
+        }
     }
 
 }
