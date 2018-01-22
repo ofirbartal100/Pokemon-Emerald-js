@@ -50,10 +50,9 @@ export default class PartyPage {
     choose() {
         switch (this.stage) {
             case PARTY:
-                if (this.partyCursor.y == Math.min(4, this.party.pokemons.length / 2 + 1) -1 ){
+                if (this.partyCursor.y == Math.min(4, this.party.pokemons.length / 2 + 1) - 1) {
                     this.back()
-                }
-                else{
+                } else {
                     this.openMenu()
                 }
                 break
@@ -72,7 +71,7 @@ export default class PartyPage {
         switch (this.stage) {
             case PARTY:
                 this.active = false
-                this.partyCursor.set(0,0)
+                this.partyCursor.set(0, 0)
                 break
 
             case MENU:
@@ -87,7 +86,7 @@ export default class PartyPage {
 
     update(deltaTime) {
         if (this.active) {
-            this.layer = createPartyPageLayer(this.party, this.graphics)
+            this.layer = createPartyPageLayer(deltaTime, this.party, this.graphics)
         }
     }
 

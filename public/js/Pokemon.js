@@ -3,12 +3,13 @@ import Move from './Move.js'
 export default class Pokemon {
     constructor(id) {
         this.id = id
-        // this.level = level
         this.status = null
         this.currHP = 0
         this.boosts = [0, 0, 0, 0, 0, 0, 0]
         this.moves = []
         this.attacks = []
+
+        this.iconAnimateTime = 0
     }
 
     attack(moveIndex, foe) {

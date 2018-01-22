@@ -12,22 +12,24 @@ async function main(canvas) {
 
     const entityFactory = await loadEntities()
     const loadLocation = await createLocationLoader(entityFactory, game.dataBase)
-    const location = await loadLocation('littleroot-town')
-    // const location = await loadLocation('101')
+    // const location = await loadLocation('littleroot-town')
+    const location = await loadLocation('101')
     game.loadComponents()
         .then(() => {
             loadPokemon(150, 70, game.dataBase.moves, game.dataBase.typeTable).then(pokemon => {
-                pokemon.currHP = 100
+                game.dataBase.setPokemon(pokemon.id, pokemon)
                 brendan.party.addPokemon(pokemon)
             })
             loadPokemon(134, 60, game.dataBase.moves, game.dataBase.typeTable).then(pokemon => {
+                game.dataBase.setPokemon(pokemon.id, pokemon)
                 brendan.party.addPokemon(pokemon)
             })
             loadPokemon(500, 70, game.dataBase.moves, game.dataBase.typeTable).then(pokemon => {
+                game.dataBase.setPokemon(pokemon.id, pokemon)
                 brendan.party.addPokemon(pokemon)
             })
             loadPokemon(400, 70, game.dataBase.moves, game.dataBase.typeTable).then(pokemon => {
-                pokemon.currHP = 10
+                game.dataBase.setPokemon(pokemon.id, pokemon)
                 brendan.party.addPokemon(pokemon)
             })
         })

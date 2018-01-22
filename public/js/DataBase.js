@@ -10,11 +10,16 @@ export default class DataBase {
         this.typeTable = new Map()
     }
 
-    setPokemon(id) {
+    setPokemon(id, pokemon) {
         if (this.pokemons.has(id)) {
             return
         }
-        
+
+        if (pokemon) {
+            this.pokemons.set(id, pokemon)
+            return
+        }
+
         loadPokemon(id).then(pokemon => {
             this.pokemons.set(id, pokemon)
         })
@@ -24,8 +29,8 @@ export default class DataBase {
         return this.pokemons.get(id)
     }
 
-    add(item,data){
-        if(item == 'pokemon'){
+    add(item, data) {
+        if (item == 'pokemon') {
             this.setPokemon(data)
         }
     }

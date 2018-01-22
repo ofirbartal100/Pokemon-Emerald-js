@@ -100,7 +100,10 @@ export default class BattleDialog extends Dialog {
 
     chooseFromMoves() {
         const moveIndex = this.movesCursor.x + this.movesCursor.y * 2
-        this.fightingPokemon.attack(moveIndex, this.battle.foe.pokemon)
+        this.battleStage.battle.startTurn({type:'move',moveIndex:moveIndex})
+        if(this.battleStage.battle.foe.pokemon.currHP == 0){
+            this.battleStage.end()
+        }
     }
 
 

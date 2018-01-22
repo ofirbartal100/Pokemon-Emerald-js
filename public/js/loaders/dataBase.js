@@ -2,8 +2,13 @@ import DataBase from '../DataBase.js'
 import { loadJSON, loadImage } from './spriteSheet.js'
 
 
-export function loadDataBase() {
-    const database = new DataBase()
+export function loadDataBase(db) {
+    let database
+    if (db) {
+        database = db
+    } else {
+        database = new DataBase()
+    }
     return Promise.all([
         loadJSON(`/pokemon/moves.json`),
         loadJSON(`/pokemon/types.json`),

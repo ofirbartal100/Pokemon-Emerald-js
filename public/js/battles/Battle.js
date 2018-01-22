@@ -7,6 +7,23 @@ export default class Battle {
         this.ally = null
     }
 
+    startTurn(properties) {
+        if (properties.type == 'move') {
+            this.moveTurn(properties.moveIndex)
+        }
+    }
+
+    moveTurn(moveIndex) {
+        let fightingPokemon = this.player.party.pokemons[this.player.party.fightingPokemon]
+        fightingPokemon.attack(moveIndex, this.foe.pokemon)
+
+        if(this.foe.pokemon.currHP == 0)
+            return
+        
+        let randomFoeMoveIndex = Math.floor(Math.random() * this.foe.pokemon.attacks.length)
+        this.foe.pokemon.attack(randomFoeMoveIndex, fightingPokemon)
+    }
+
     move(direction, keyState) {
         this.dialog.move(direction, keyState)
     }

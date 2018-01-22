@@ -1,7 +1,7 @@
 import { createPartyPokemonLayer } from './partyPokemon.js'
 import { createWindowLayer } from './window.js'
 
-export function createPartyPageLayer(party, graphics) {
+export function createPartyPageLayer(deltaTime, party, graphics) {
     const buffer = document.createElement('canvas')
     buffer.width = 240
     buffer.height = 160
@@ -17,7 +17,7 @@ export function createPartyPageLayer(party, graphics) {
 
         let selected = this.partyCursor.x + this.partyCursor.y * 2
         for (let i = 0; i < 6; i++) {
-            createPartyPokemonLayer(i, this.party.pokemons[i], this.graphics, (selected == i))(context)
+            createPartyPokemonLayer(deltaTime, i, this.party.pokemons[i], this.graphics, (selected == i))(context)
         }
 
         if (this.partyCursor.y == Math.min(4, this.party.pokemons.length / 2 + 1) - 1)

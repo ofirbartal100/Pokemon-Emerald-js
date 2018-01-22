@@ -45,7 +45,7 @@ export default class Game {
     }
 
     loadDataBase() {
-        return loadDataBase().then(database => {
+        return loadDataBase(this.dataBase).then(database => {
             Object.assign(this.dataBase, database)
         })
     }
