@@ -20,19 +20,20 @@ export function createPartyPageLayer(deltaTime, party, graphics) {
             createPartyPokemonLayer(deltaTime, i, this.party.pokemons[i], this.graphics, (selected == i))(context)
         }
 
-        if (this.partyCursor.y == Math.min(4, this.party.pokemons.length / 2 + 1) - 1)
-            context.drawImage(cancelBtnSelected, 205, 145, 35, 15)
-        else
-            context.drawImage(cancelBtn, 205, 145, 35, 15)
+        if (this.stage == 0) {
+            if (this.partyCursor.y == Math.min(4, this.party.pokemons.length / 2 + 1) - 1)
+                context.drawImage(cancelBtnSelected, 205, 145, 35, 15)
+            else
+                context.drawImage(cancelBtn, 205, 145, 35, 15)
 
-        context.fillStyle = "#FFF";
-        context.fillText('Cancel', 205 + 1, 145 + 10)
+            context.fillStyle = "#FFF";
+            context.fillText('Cancel', 205 + 1, 145 + 10)
 
-        createWindowLayer(0, 135, 200, 25, "Choose a Pokemon.")(context)
-
-        if (this.stage == 1) {
-            let items = ['SUMMERY', 'SWITCH', 'ITEM', 'CANCEL']
-            drawMenuRaise(items, selected, 200, 160, 40, 20, context)
+            createWindowLayer(0, 135, 200, 25, "Choose a Pokemon.")(context)
+        } else if (this.stage == 1) {
+            createWindowLayer(0, 135, 180, 25, `What To Do With ${this.chosenPokemon.name} ?`)(context)
+            this.partyMenuCursor = (this.partyMenuCursor + this.pokemonMenu.length) % this.pokemonMenu.length
+            drawMenuRaise(this.pokemonMenu, this.partyMenuCursor, 190, 160, 50, 20, context)
         }
 
         canvasContext.drawImage(buffer, 0, 0)
@@ -55,7 +56,7 @@ function drawMenuRaise(menuObjects, menuCursor, x, y, itemWidth, itemHeight, con
     }
 
     for (let i = 0; i < menu.length; i++) {
-        itemStyle = i == menuCursor ? cursorStyle : undefined
+        itemStyle = menu.length - 1 - i == menuCursor ? cursorStyle : undefined
         createWindowLayer(
             x,
             y - (i + 1) * itemHeight,

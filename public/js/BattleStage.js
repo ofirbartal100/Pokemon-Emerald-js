@@ -37,13 +37,19 @@ export default class BattleStage {
         battle.dialog = new BattleDialog(this)
         battle.init(this.getPokemon, this.battleData.moves, this.battleData.typeTable)
         this.battle = battle
+        this.PartyPage.battleMod()
         this.active = true
     }
 
     end() {
         this.active = false
+        
         this.battle.end()
         this.battle = null
+
+        this.PartyPage.infoMod()
+        this.PartyPage.party.fightingPokemon = 0
+
     }
 
     activateParty() {
@@ -62,6 +68,7 @@ export default class BattleStage {
             } else if (this.BagPage.active) {
                 //this.layer = createBagLayer(this.battle)
             } else {
+                this.battle.update(deltaTime)
                 this.layer = createBattleLayer(this.battle)
             }
         }

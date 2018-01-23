@@ -26,7 +26,7 @@ export function createBattleLayer(battle, details) {
 
             //pokemons
             context.drawImage(battle.foe.pokemon.front, 240 - size - rightMargin, topMargin, size, size)
-            context.drawImage(battle.player.party.pokemons[0].back, rightMargin, 112 - size, size, size)
+            context.drawImage(battle.player.party.pokemons[battle.player.party.fightingPokemon].back, rightMargin, 112 - size, size, size)
 
             //details
             // context.drawImage(battle.details.databox_foe , )

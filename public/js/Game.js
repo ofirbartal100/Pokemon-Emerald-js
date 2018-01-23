@@ -73,11 +73,11 @@ export default class Game {
                     if (action == 'init')
                         self.partyPage.active = true
                     else if (action == 'action')
-                        self.partyPage.action(value,true)
-                    else if(action == 'move')
-                        self.partyPage.move(value,true)
+                        self.partyPage.action(value, true)
+                    else if (action == 'move')
+                        self.partyPage.move(value, true)
 
-                    if(!self.partyPage.active)
+                    if (!self.partyPage.active)
                         this.chosenItem = null
                 }
             }
@@ -113,6 +113,26 @@ export default class Game {
 
     update(deltaTime) {
         if (this.location) {
+            
+            if (!this.location.change) {
+                const game = this
+                this.location.change = function changeLocation(nextLocation, fromDirection) {
+                    const player = Array.from(this.entities).pop()
+                    this.entities.delete(player)
+                    this.audio.pause()
+                    this.audio.currentTime = 0
+                    this.active = false
+                    this.totalTime = 0
+
+                    game.location = nextLocation
+
+                    if (fromDirection) {
+                        game.location.neighbors.locationsMap.set(fromDirection, this)
+                    }
+                    game.location.entities.add(player)
+                }
+            }
+
             this.location.update(deltaTime)
         }
         this.menu.update(deltaTime)

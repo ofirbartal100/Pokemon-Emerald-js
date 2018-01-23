@@ -41,7 +41,7 @@ export default class Move {
         } else if (this.DamageCategory == "Special") {
             attack = user.SpAttack
             defense = foe.SpDefense
-        } else{
+        } else {
             return 0
         }
 
@@ -79,27 +79,36 @@ export default class Move {
         let multiplier = 1
 
         let typeCol1 = this.typeTable.get(type1)
-        for (let weakness of typeCol1.Weaknesses) {
-            if (this.Type == weakness) {
-                multiplier *= 2
-            }
-        }
-        for (let resistance of typeCol1.Resistances) {
-            if (this.Type == resistance) {
-                multiplier *= 1 / 2
-            }
-        }
-
-        if (type2) {
-            let typeCol2 = this.typeTable.get(type2)
-            for (let weakness of typeCol2.Weaknesses) {
+        if (typeCol1.Weaknesses) {
+            for (let weakness of typeCol1.Weaknesses) {
                 if (this.Type == weakness) {
                     multiplier *= 2
                 }
             }
-            for (let resistance of typeCol2.Resistances) {
+        }
+        if (typeCol1.Resistances) {
+            for (let resistance of typeCol1.Resistances) {
                 if (this.Type == resistance) {
                     multiplier *= 1 / 2
+                }
+            }
+        }
+
+
+        if (type2) {
+            let typeCol2 = this.typeTable.get(type2)
+            if (typeCol2.Weaknesses) {
+                for (let weakness of typeCol2.Weaknesses) {
+                    if (this.Type == weakness) {
+                        multiplier *= 2
+                    }
+                }
+            }
+            if (typeCol2.Resistances) {
+                for (let resistance of typeCol2.Resistances) {
+                    if (this.Type == resistance) {
+                        multiplier *= 1 / 2
+                    }
                 }
             }
         }

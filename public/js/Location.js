@@ -28,18 +28,7 @@ export default class Location {
     }
 
     next(nextLocation, fromDirection) {
-        const player = Array.from(this.entities).pop()
-        this.entities.delete(player)
-        this.audio.pause()
-        this.audio.currentTime = 0
-        const self = Object.assign({}, this)
-        self.active = false
-        self.totalTime = 0
-        Object.assign(this, nextLocation)
-        if(fromDirection){
-            this.neighbors.locationsMap.set(fromDirection, self)
-        }
-        this.entities.add(player)
+        this.change(nextLocation, fromDirection)
     }
 
     moveLocation(entity) {

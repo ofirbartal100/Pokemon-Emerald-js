@@ -20,7 +20,6 @@ export default class BattleDialog extends Dialog {
         this.stage = UNINITIALIZED
 
         this.fightingMenuCursor = new Vec2(0, 0)
-        this.fightingMenuMessage
         this.fightingMenu = ['Fight', 'Pokemon', 'Bag', 'Run']
 
         this.movesCursor = new Vec2(0, 0)
@@ -111,7 +110,7 @@ export default class BattleDialog extends Dialog {
         if (this.stage == INTRO) {
             createWindowLayer(0, 160 - 48, 240, 48, this.messages[this.messagePhase])(context)
         } else if (this.stage == FIGHTING_MENU) {
-            createWindowLayer(0, 160 - 48, 240, 48, this.fightingMenuMessage)(context)
+            createWindowLayer(0, 160 - 48, 240, 48, `What will\n${this.fightingPokemon.name} do?`)(context)
             let cursorIndex = this.fightingMenuCursor.x + this.fightingMenuCursor.y * 2
             drawMenu(this.fightingMenu, cursorIndex, 80, 48, context)
         } else if (this.stage == MOVES_MENU) {
@@ -126,13 +125,17 @@ export default class BattleDialog extends Dialog {
         }
         this.stage = INTRO
         this.battle = battle
-        this.fightingPokemon = battle.player.party.pokemons[0]
-        this.fightingMenuMessage = `What will\n${this.fightingPokemon.name} do?`
+        this.fightingPokemon = battle.player.party.pokemons[battle.player.party.fightingPokemon]
         this.initMessages()
         this.addMessages([`A wild ${battle.foe.pokemon.name} appeared!`,
             `I choose you! ${this.fightingPokemon.name}!`
         ])
 
+    }
+
+    update(deltaTime){
+        if(this.battle)
+            this.fightingPokemon = this.battle.player.party.pokemons[this.battle.player.party.fightingPokemon]
     }
 }
 

@@ -24,6 +24,10 @@ export default class Battle {
         this.foe.pokemon.attack(randomFoeMoveIndex, fightingPokemon)
     }
 
+    update(deltaTime){
+        this.dialog.update(deltaTime)
+    }
+
     move(direction, keyState) {
         this.dialog.move(direction, keyState)
     }
