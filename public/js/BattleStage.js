@@ -69,7 +69,7 @@ export default class BattleStage {
                 //this.layer = createBagLayer(this.battle)
             } else {
                 this.battle.update(deltaTime)
-                this.layer = createBattleLayer(this.battle)
+                this.layer = createBattleLayer(this.battle,this.graphics)
             }
         }
     }

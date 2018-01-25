@@ -6,7 +6,7 @@
 # print(filelist)
 
 import glob
-g = glob.glob('../img/bag/*.png')
-f = open('bagGraphics.json','w')
+g = glob.glob('../img/Battle/*.png')
+f = open('battleGraphics.json','w')
 f.write(str(g))
 f.close()

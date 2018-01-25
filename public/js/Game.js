@@ -9,6 +9,7 @@ import DataBase from './DataBase.js'
 import { loadDataBase } from './loaders/dataBase.js'
 import { loadPartyPage } from './loaders/partyPage.js'
 import { loadBagPage } from './loaders/bagPage.js'
+import { loadBattleStage } from './loaders/battleStage.js'
 
 export default class Game {
     constructor() {
@@ -28,9 +29,10 @@ export default class Game {
 
     loadComponents() {
         return Promise.all([
-            this.loadDataBase(),
-            this.loadPartyPage(),
-            this.loadBagPage()
+            loadDataBase(this.dataBase),
+            loadPartyPage(this.partyPage),
+            loadBagPage(this.bagPage),
+            loadBattleStage(this.battleStage)
         ]).then(() => {
             this.battleStage.PartyPage = this.partyPage
             this.battleStage.BagPage = this.bagPage
@@ -41,24 +43,6 @@ export default class Game {
                 typeTable: this.dataBase.typeTable,
                 moves: this.dataBase.moves,
             }
-        })
-    }
-
-    loadDataBase() {
-        return loadDataBase(this.dataBase).then(database => {
-            Object.assign(this.dataBase, database)
-        })
-    }
-
-    loadPartyPage() {
-        return loadPartyPage().then(partyPage => {
-            Object.assign(this.partyPage, partyPage)
-        })
-    }
-
-    loadBagPage() {
-        return loadBagPage().then(bagPage => {
-            Object.assign(this.bagPage, bagPage)
         })
     }
 
@@ -113,7 +97,7 @@ export default class Game {
 
     update(deltaTime) {
         if (this.location) {
-            
+
             if (!this.location.change) {
                 const game = this
                 this.location.change = function changeLocation(nextLocation, fromDirection) {

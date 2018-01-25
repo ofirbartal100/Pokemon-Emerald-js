@@ -8,8 +8,21 @@ export default class Pokemon {
         this.boosts = [0, 0, 0, 0, 0, 0, 0]
         this.moves = []
         this.attacks = []
-
+        this.levelEXP = 0
+        this.levelUpEXP = 1000
+        this.totalEXP = 0
         this.iconAnimateTime = 0
+    }
+
+    gainEXP(amount) {
+        this.levelEXP += amount
+        this.totalEXP += amount
+
+        //this.levelUp
+        while (this.levelEXP >= this.levelUpEXP) {
+            this.level += 1
+            this.levelEXP = this.levelEXP - this.levelUpEXP
+        }
     }
 
     attack(moveIndex, foe) {

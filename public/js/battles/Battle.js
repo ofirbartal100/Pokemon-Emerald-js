@@ -17,14 +17,24 @@ export default class Battle {
         let fightingPokemon = this.player.party.pokemons[this.player.party.fightingPokemon]
         fightingPokemon.attack(moveIndex, this.foe.pokemon)
 
-        if(this.foe.pokemon.currHP == 0)
+        if (this.foe.pokemon.currHP == 0) {
+            this.rewardExp()
             return
-        
+        }
+
+
         let randomFoeMoveIndex = Math.floor(Math.random() * this.foe.pokemon.attacks.length)
         this.foe.pokemon.attack(randomFoeMoveIndex, fightingPokemon)
     }
 
-    update(deltaTime){
+    rewardExp() {
+        let reward = 0
+        reward = this.foe.pokemon.level * 5
+
+        this.player.party.pokemons[this.player.party.fightingPokemon].gainEXP(reward)
+    }
+
+    update(deltaTime) {
         this.dialog.update(deltaTime)
     }
 

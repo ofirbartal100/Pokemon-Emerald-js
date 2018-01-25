@@ -7,7 +7,9 @@ export function createPartyPokemonLayer(deltaTime, index, pokemon, graphics, sel
     const context = buffer.getContext('2d')
     context.font = 'Ariel 7px black'
     const slotSelected = graphics[18]
+    const slotFaintSelected = graphics[17]
     const slot = graphics[15]
+    const slotFaint = graphics[16]
     const hpBar = graphics[10]
     const hpLife = graphics[9]
     const slotEmpty = graphics[14]
@@ -16,10 +18,18 @@ export function createPartyPokemonLayer(deltaTime, index, pokemon, graphics, sel
     return function drawPartyPokemonLayer(canvasContext) {
         context.clearRect(0, 0, buffer.width, buffer.height)
         if (pokemon) {
-            if (selected)
-                context.drawImage(slotSelected, 0, 0, buffer.width, buffer.height) //slot
-            else
-                context.drawImage(slot, 0, 0, buffer.width, buffer.height) //slot
+
+            let pokemonSlot
+            if (selected && pokemon.currHP > 0)
+                pokemonSlot = slotSelected
+            else if (selected && pokemon.currHP == 0)
+                pokemonSlot = slotFaintSelected
+            else if (!selected && pokemon.currHP > 0)
+                pokemonSlot = slot
+            else if (!selected && pokemon.currHP == 0)
+                pokemonSlot = slotFaint
+
+            context.drawImage(pokemonSlot, 0, 0, buffer.width, buffer.height)
             
             //animate
             let iconXCropOffset = 0
@@ -27,6 +37,9 @@ export function createPartyPokemonLayer(deltaTime, index, pokemon, graphics, sel
             if(pokemon.iconAnimateTime > 0.25 && pokemon.iconAnimateTime < 0.5)
                 iconXCropOffset = 64
             else if(pokemon.iconAnimateTime >= 0.5)
+                pokemon.iconAnimateTime = 0
+
+            if(pokemon.currHP == 0)
                 pokemon.iconAnimateTime = 0
 
             context.drawImage(pokemon.icon, iconXCropOffset, 0, 64, 64, 0, 0, 32, 32)
