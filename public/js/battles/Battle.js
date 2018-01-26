@@ -27,11 +27,53 @@ export default class Battle {
         this.foe.pokemon.attack(randomFoeMoveIndex, fightingPokemon)
     }
 
-    rewardExp() {
+    rewardExp() { 
         let reward = 0
-        reward = this.foe.pokemon.level * 5
+        let rewardedPokemon = this.player.party.pokemons[this.player.party.fightingPokemon]
+        let a, t, b, e, L, p, f, v, s
 
-        this.player.party.pokemons[this.player.party.fightingPokemon].gainEXP(reward)
+        //battle type
+        if (this.foe.type == 'wildSingle') {
+            a = 1
+        } else {
+            a = 1.5
+        }
+
+        //base EXP
+        b = this.foe.pokemon.baseExp
+
+        //lucky egg
+        if (rewardedPokemon.holdItem == 'Lucky Egg') {
+            e = 1.5
+        } else {
+            e = 1
+        }
+
+        //affection
+        f = 1
+
+        //level
+        L = this.foe.pokemon.level
+
+        //point power
+        p = 1
+
+        //EXP Sharing
+        s = 1
+
+        //is traded pokemon
+        t = 1
+
+        //should evolve
+        v = 1
+
+        //unscaled formula
+        reward = (a * t * b * e * L * p * f * v) / (7 * s)
+        
+        //scaled formula
+        //reward = (( (a * b * L)/(5 * s) ) * ( (Math.power((2 * L + 10),2.5))/(Math.power((L + Lp + 10),2.5)) ) + 1) *t * e * p
+        
+        rewardedPokemon.gainEXP(reward)
     }
 
     update(deltaTime) {

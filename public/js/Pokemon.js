@@ -18,11 +18,15 @@ export default class Pokemon {
         this.levelEXP += amount
         this.totalEXP += amount
 
-        //this.levelUp
         while (this.levelEXP >= this.levelUpEXP) {
-            this.level += 1
             this.levelEXP = this.levelEXP - this.levelUpEXP
+            this.levelUp()
         }
+    }
+
+    levelUp() {
+        this.level += 1
+        this.levelUpEXP = this.growthRate(this.level)
     }
 
     attack(moveIndex, foe) {
@@ -64,12 +68,13 @@ export default class Pokemon {
         this.setAbility(pokemonSpec.Abilities, pokemonSpec.HiddenAbility)
         this.setStats(...pokemonSpec.BaseStats)
         this.effortPoints = pokemonSpec.EffortPoints
+        this.baseExp = pokemonSpec.BaseEXP
         //this.setPos(pokemonSpec.BattlerAltitude, pokemonSpec.BattlerEnemyY, pokemonSpec.BattlerPlayerY)
         //this.setData(pokemonSpec.Color, pokemonSpec.Compatibility, pokemonSpec.Habitat, pokemonSpec.Height, pokemonSpec.Weight, pokemonSpec.Kind, pokemonSpec.Pokedex, pokemonSpec.Rareness, pokemonSpec.Shape)
         this.eggMoves = pokemonSpec.EggMoves
         this.evolutions = pokemonSpec.Evolutions
         this.setGender(pokemonSpec.GenderRate)
-        this.growthRate = pokemonSpec.GrowthRate
+        this.growthRate = this.setGrowth(pokemonSpec.GrowthRate)
         this.happiness = pokemonSpec.Happiness
         this.name = pokemonSpec.Name
         this.setMoves(pokemonSpec.Moves)
@@ -80,6 +85,51 @@ export default class Pokemon {
 
         //init HP
         this.heal(this.HP)
+        this.totalEXP = this.growthRate(this.level)
+        this.levelUpEXP = this.growthRate(this.level + 1) - this.growthRate(this.level)
+    }
+
+    setGrowth(rate) {
+        if (rate == 'Erratic') {
+            return function(n) {
+                if (n <= 50) {
+                    return (n * n * n * (100 - n) / 50)
+                } else if (n > 50 && n <= 68) {
+                    return (n * n * n * (150 - n) / 100)
+                } else if (n > 68 && n <= 98) {
+                    return (n * n * n * (Math.floor((1911 - 10 * n) / 3)) / 500)
+                } else if (n > 980 && n <= 100) {
+                    return (n * n * n * (160 - n) / 100)
+                }
+            }
+        } else if (rate == 'Fast') {
+            return function(n) {
+                return (4 * n * n * n / 5)
+            }
+        } else if (rate == 'Medium') {
+            return function(n) {
+                return (n * n * n)
+            }
+        } else if (rate == 'Parabolic') {
+            return function(n) {
+                return (6 / 5 * n * n * n - 15 * n * n + 100 * n - 140)
+            }
+        } else if (rate == 'Slow') {
+            return function(n) {
+                return (5 * n * n * n / 4)
+            }
+        } else if (rate == 'Fluctuating') {
+            return function(n) {
+                let n3 = n * n * n
+                if (n <= 15) {
+                    return (n3 * ((Math.floor(n + 1 / 3) + 24) / 50))
+                } else if (n > 15 && n <= 36) {
+                    return (n3 * ((n + 14) / 50))
+                } else if (n > 36 && n <= 100) {
+                    return (n3 * ((Math.floor(n / 2) + 32) / 50))
+                }
+            }
+        }
     }
 
     setAbility(ablities, hidden) {
