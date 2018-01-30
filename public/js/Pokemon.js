@@ -30,7 +30,8 @@ export default class Pokemon {
     }
 
     attack(moveIndex, foe) {
-        this.moves[moveIndex].use(this, foe)
+        let moveMessages = this.moves[moveIndex].use(this, foe)
+        return moveMessages
     }
 
     hurt(amount, status) {

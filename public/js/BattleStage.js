@@ -1,6 +1,5 @@
 import { createBattleLayer } from './layers/battle.js'
 import { Commands } from './input.js'
-import BattleDialog from './BattleDialog.js'
 
 export default class BattleStage {
     constructor() {
@@ -34,8 +33,7 @@ export default class BattleStage {
     }
 
     init(battle) {
-        battle.dialog = new BattleDialog(this)
-        battle.init(this.getPokemon, this.battleData.moves, this.battleData.typeTable)
+        battle.init(this)
         this.battle = battle
         this.PartyPage.battleMod()
         this.active = true

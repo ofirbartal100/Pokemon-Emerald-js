@@ -12,7 +12,7 @@ export default class Move {
 
     use(user, foe) {
         console.log(user, foe)
-
+        let moveMessages = []
         let damage, modifier = 0
         let attack, defense
         let targets, weather, critical, random, STAB, type, burn, other
@@ -42,11 +42,36 @@ export default class Move {
             attack = user.SpAttack
             defense = foe.SpDefense
         } else {
-            return 0
+           
         }
 
         damage = ((((2 * user.level) / 5 + 2) * power * attack / defense) / 50 + 2) * modifier
         foe.hurt(damage)
+
+        moveMessages.push(`${user.name} used ${this.Name}`)
+
+        if(critical > 1){
+            moveMessages.push(`Its a Critical Hit!!`)
+        }
+
+        if (type == 2) {
+            moveMessages.push('it\'s super effective!!')
+        } else if (type == 4) {
+            moveMessages.push('it\'s mega effective!!')
+        } else if (type == 0.5) {
+            moveMessages.push('it\'s not very effective..')
+        } else if (type == 0.25) {
+            moveMessages.push(`but it\'s almost nothing for ${foe.pokemon.name}..`)
+        } else if (type == 0) {
+            moveMessages.push(`it dosent work on ${foe.name}..`)
+        }
+
+        if(foe.currHP == 0){
+            moveMessages.push(`${foe.name} fainted..`)
+        }
+
+        return moveMessages;
+
     }
 
     generateCritical(user, foe) {
@@ -79,6 +104,15 @@ export default class Move {
         let multiplier = 1
 
         let typeCol1 = this.typeTable.get(type1)
+
+        if (typeCol1.Immunities) {
+            //for (let immunity of typeCol1.Immunities) {
+            if (this.Type == typeCol1.Immunities) {
+                return 0
+            }
+            //}
+        }
+
         if (typeCol1.Weaknesses) {
             for (let weakness of typeCol1.Weaknesses) {
                 if (this.Type == weakness) {
@@ -97,6 +131,15 @@ export default class Move {
 
         if (type2) {
             let typeCol2 = this.typeTable.get(type2)
+
+            if (typeCol2.Immunities) {
+                //for (let immunity of typeCol1.Immunities) {
+                if (this.Type == typeCol2.Immunities) {
+                    return 0
+                }
+                //}
+            }
+
             if (typeCol2.Weaknesses) {
                 for (let weakness of typeCol2.Weaknesses) {
                     if (this.Type == weakness) {

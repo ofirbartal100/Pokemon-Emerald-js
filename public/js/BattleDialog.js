@@ -7,16 +7,13 @@ const UNINITIALIZED = -1
 const INTRO = 0
 const FIGHTING_MENU = 1
 const MOVES_MENU = 2
-const ACTION = 3
-
-const PARTY_MENU = 10
-const BAG_MENU = 11
+const TURN = 3
 
 
 export default class BattleDialog extends Dialog {
-    constructor(battleStage) {
+    constructor() {
         super()
-        this.battleStage = battleStage
+        this.battleStage
         this.stage = UNINITIALIZED
 
         this.fightingMenuCursor = new Vec2(0, 0)
@@ -59,7 +56,7 @@ export default class BattleDialog extends Dialog {
     }
 
     back() {
-        if (this.stage == INTRO || this.stage == ACTION) {
+        if (this.stage == INTRO || this.stage == TURN) {
 
         } else {
             this.stage = FIGHTING_MENU
@@ -73,19 +70,24 @@ export default class BattleDialog extends Dialog {
             this.chooseFromFightingMenu()
         } else if (this.stage == MOVES_MENU) {
             this.chooseFromMoves()
+        } else if (this.stage == TURN) {
+            this.turnAction()
         }
     }
 
     endOfMessageHandler() {
+        this.clearMessages()
         if (this.stage == INTRO) {
             this.stage = FIGHTING_MENU
+        } else if (this.stage == TURN) {
+            this.turnAction()
         }
     }
 
     chooseFromFightingMenu() {
         const optionIndex = this.fightingMenuCursor.x + this.fightingMenuCursor.y * 2
         const option = this.fightingMenu[optionIndex]
-
+        this.turnIndex = 0
         if (option == 'Fight') {
             this.stage = MOVES_MENU
         } else if (option == "Pokemon") {
@@ -99,15 +101,43 @@ export default class BattleDialog extends Dialog {
 
     chooseFromMoves() {
         const moveIndex = this.movesCursor.x + this.movesCursor.y * 2
-        this.battleStage.battle.startTurn({type:'move',moveIndex:moveIndex})
-        if(this.battleStage.battle.foe.pokemon.currHP == 0){
-            this.battleStage.end()
+        this.stage = TURN
+        this.clearMessages()
+        this.turnAction()
+    }
+
+    turnAction() {
+        if (this.messages.length > 1) {
+            this.nextMessage()
+            return
         }
+        if (this.battleStage.battle.foe.pokemon.currHP == 0) {
+            this.battleStage.end()
+            return
+        }
+        if (this.battle.turnIndex < this.battle.turnNum) {
+            this.startTurn()
+        } else if (this.battle.turnIndex == this.battle.turnNum) {
+            this.stage = FIGHTING_MENU
+            this.battle.turnIndex = 0 // move to an appropriate place..
+        }
+        
+
+    }
+
+    startTurn() {
+        const moveIndex = this.movesCursor.x + this.movesCursor.y * 2
+        let fightingPokemon = this.battleStage.battle.player.party.pokemons[this.battleStage.battle.player.party.fightingPokemon]
+        let moveMessages = []
+        moveMessages = this.battleStage.battle.startTurn({ type: 'move', moveIndex: moveIndex })
+        this.clearMessages()
+        this.addMessages(moveMessages)
+
     }
 
 
     drawComponent(context) {
-        if (this.stage == INTRO) {
+        if (this.stage == INTRO || this.stage == TURN) {
             createWindowLayer(0, 160 - 48, 240, 48, this.messages[this.messagePhase])(context)
         } else if (this.stage == FIGHTING_MENU) {
             createWindowLayer(0, 160 - 48, 240, 48, `What will\n${this.fightingPokemon.name} do?`)(context)
@@ -133,8 +163,8 @@ export default class BattleDialog extends Dialog {
 
     }
 
-    update(deltaTime){
-        if(this.battle)
+    update(deltaTime) {
+        if (this.battle)
             this.fightingPokemon = this.battle.player.party.pokemons[this.battle.player.party.fightingPokemon]
     }
 }
