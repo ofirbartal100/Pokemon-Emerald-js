@@ -86,6 +86,11 @@ export default class SpriteSheet {
         context.drawImage(buffer, x, y)
     }
 
+    drawInSize(name, context, x, y, size = 1, flip = false) {
+        const buffer = this.tiles.get(name)[flip ? 1 : 0]
+        context.drawImage(buffer, x, y, buffer.width * size, buffer.height * size)
+    }
+
     drawTile(name, context, x, y) {
         this.draw(name, context, x * this.width, y * this.height)
     }

@@ -14,6 +14,7 @@ export default class WildBattle extends Battle {
 
     init(battleStage) {
         super.init()
+        this.dialog.font = battleStage.font
         this.dialog.battleStage = battleStage
         let foePokemon = battleStage.getPokemon(this.foe.id)
         this.foe.pokemon = Object.assign(new Pokemon, foePokemon)

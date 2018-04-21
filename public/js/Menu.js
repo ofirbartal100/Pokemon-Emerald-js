@@ -8,6 +8,7 @@ export default class Menu {
         this.active = false
         this.chosenItem = false
         this.player
+        this.font
     }
 
     move(direction, state) {

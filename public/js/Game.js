@@ -10,6 +10,7 @@ import { loadDataBase } from './loaders/dataBase.js'
 import { loadPartyPage } from './loaders/partyPage.js'
 import { loadBagPage } from './loaders/bagPage.js'
 import { loadBattleStage } from './loaders/battleStage.js'
+import { loadFont } from './loaders/font.js'
 
 export default class Game {
     constructor() {
@@ -32,8 +33,9 @@ export default class Game {
             loadDataBase(this.dataBase),
             loadPartyPage(this.partyPage),
             loadBagPage(this.bagPage),
-            loadBattleStage(this.battleStage)
-        ]).then(() => {
+            loadBattleStage(this.battleStage),
+            loadFont()
+        ]).then((args) => {
             this.battleStage.PartyPage = this.partyPage
             this.battleStage.BagPage = this.bagPage
             this.battleStage.getPokemon = function createPokemon(id) {
@@ -43,6 +45,10 @@ export default class Game {
                 typeTable: this.dataBase.typeTable,
                 moves: this.dataBase.moves,
             }
+
+            this.menu.font = args[4]
+            this.battleStage.font = args[4]
+
         })
     }
 

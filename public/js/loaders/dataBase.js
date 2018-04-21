@@ -16,7 +16,7 @@ export function loadDataBase(db) {
             loadImage(`/img/battle-arenas/grass.png`),
             loadImage(`/img/battle-arenas/land.png`),
         ])
-    ]).then(([moves, types, areas]) => {
+    ]).then(([moves, types, areas, font]) => {
         for (let move of moves) {
             database.moves.set(move.InternalName, move)
         }

@@ -139,7 +139,7 @@ function drawDatabox(battle, poi, graphics, context) {
 
         //hp
         context.fillStyle = "#000";
-        context.fillText(Math.floor(currHP) + '/' + HP, x +((134 / 260) * container.width) * factor, y + ((55 / 85) * container.height) * factor + 6)
+        context.fillText(Math.floor(currHP) + '/' + HP, x + ((134 / 260) * container.width) * factor, y + ((55 / 85) * container.height) * factor + 6)
 
         //exp
         context.drawImage(exp,
@@ -150,8 +150,9 @@ function drawDatabox(battle, poi, graphics, context) {
     }
 
     //name
-    context.fillStyle = "#000";
-    context.fillText(pkmName, x + nameOffset, y + 14)
+    //context.fillStyle = "#000";
+    //context.fillText(pkmName, x + nameOffset, y + 14)
+    battle.dialog.font.putText(pkmName, x + nameOffset, y + 5, context)
 
     //level
     context.fillStyle = "#000";
