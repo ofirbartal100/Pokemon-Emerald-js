@@ -19,7 +19,7 @@ export function createMenuLayer(menu) {
             //write
             menu.font.putText(item, 0, margin + (buffer.height * i / 5), context)
             //select
-            if (i == menu.focus) {
+            if (i == menu.controller.menuCursor) {
                 context.strokeStyle = "red";
                 context.strokeRect(0, margin + (buffer.height * i / 5), buffer.width - margin, 13)
             }

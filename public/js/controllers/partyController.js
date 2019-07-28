@@ -30,7 +30,7 @@ export default class PartyController extends Controller {
             this.partyMenuCursor = (this.partyMenuCursor + pMod - 1) % pMod
         } else if (this.stage == SUMMERY) {
             let pokemonSummeryIndex = this.partyCursor.y * 2 + this.partyCursor.x
-            pokemonSummeryIndex = (pokemonSummeryIndex - 1) % pMod
+            pokemonSummeryIndex = (pokemonSummeryIndex + (pMod - 1) ) % pMod
             this.partyCursor.y = Math.floor(pokemonSummeryIndex / 2)
             this.partyCursor.x = pokemonSummeryIndex % 2
         }

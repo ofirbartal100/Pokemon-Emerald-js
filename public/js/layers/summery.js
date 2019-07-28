@@ -9,6 +9,9 @@ export function createSummeryLayer(pokemon,graphics) {
         context.clearRect(0, 0, buffer.width, buffer.height)
         context.drawImage(summerys[index], 0, 0, buffer.width, buffer.height)
         context.drawImage(pokemon.front, 15, 60, 64, 64)
+
+        context.fillText(pokemon.name,15,35)
+        context.fillText(pokemon.level,22,48)
         canvasContext.drawImage(buffer, 0, 0)
     }
 }

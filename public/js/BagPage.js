@@ -1,11 +1,11 @@
 const BATTLE = 0
 const INFO = 1
+import GraphicPage from './GraphicPage.js'
 
-export default class BagPage {
+export default class BagPage extends GraphicPage{
     constructor() {
-        this.active = false
+        super()
         this.menuType = INFO
-        this.graphics
         this.bag
         window.bb = this
     }

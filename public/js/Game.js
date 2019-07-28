@@ -4,11 +4,11 @@ import Menu from './Menu.js'
 import Dialog from './Dialog.js'
 import PartyPage from './PartyPage.js'
 import BagPage from './BagPage.js'
+import TrainerCardPage from './TrainerCardPage.js'
 import BattleStage from './BattleStage.js'
 import DataBase from './DataBase.js'
 import { loadDataBase } from './loaders/dataBase.js'
-import { loadPartyPage } from './loaders/partyPage.js'
-import { loadBagPage } from './loaders/bagPage.js'
+import { loadGraphicPage } from './loaders/graphicPage.js'
 import { loadBattleStage } from './loaders/battleStage.js'
 import { loadFont } from './loaders/font.js'
 
@@ -22,6 +22,7 @@ export default class Game {
         this.battleStage = new BattleStage()
         this.partyPage = new PartyPage()
         this.bagPage = new BagPage()
+        this.trainerCardPage = new TrainerCardPage()
 
         this.camera = new Camera()
         this.location = null
@@ -31,8 +32,9 @@ export default class Game {
     loadComponents() {
         return Promise.all([
             loadDataBase(this.dataBase),
-            loadPartyPage(this.partyPage),
-            loadBagPage(this.bagPage),
+            loadGraphicPage(this.partyPage,'party'),
+            loadGraphicPage(this.bagPage,'bag'),
+            loadGraphicPage(this.trainerCardPage,'trainerCard'),
             loadBattleStage(this.battleStage),
             loadFont()
         ]).then((args) => {
@@ -46,8 +48,8 @@ export default class Game {
                 moves: this.dataBase.moves,
             }
 
-            this.menu.font = args[4]
-            this.battleStage.font = args[4]
+            this.menu.font = args[5]
+            this.battleStage.font = args[5]
 
         })
     }

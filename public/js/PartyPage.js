@@ -1,17 +1,17 @@
 import { createPartyPageLayer } from './layers/partyPage.js'
 import PartyController from './controllers/partyController.js'
+import GraphicPage from './GraphicPage.js'
 import { Commands } from './input.js'
 import { Vec2 } from './math.js'
 
 const DEFAULT = 0
 const INFO = 1
 
-export default class PartyPage {
+export default class PartyPage extends GraphicPage {
     constructor() {
+        super()
         this.controller = new PartyController(this)
-        this.active = false
         this.mode = INFO
-        this.graphics
         this.party
         this.pokemonMenu = ['SUMMERY', 'SWITCH', 'ITEM', 'CANCEL']
         this.chosenPokemon

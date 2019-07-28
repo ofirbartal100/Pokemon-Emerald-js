@@ -1,3 +1,4 @@
+//need to add z index and maybe move all graphical objects into the compositor handler
 export default class Compositor {
     constructor() {
         this.layers = []
