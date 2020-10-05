@@ -1,27 +1,102 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Pokemon Emerald</title>
-	<style>
-		body {
-			/*background:black;*/
-			margin:0;
-			display:flex;
-			align-items:center;
-			justify-content:center;
-		}
 
+<head>
+    <meta charset="UTF-8">
+    <title>Pokemon Emerald</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        
+		body{
+			background: #272822;
+		}
 		#screen {
 			display:block;
 			image-rendering:pixelated;
 			height:60vh;
 			margin:auto;
+			margin-top :10vh;
+			box-shadow: 0px 6px 8px 3px #3c5432;
+    		border-radius: 10px;
 		}
+
+		/* Footer */
+		section {
+		    padding: 10px 0;
+		    font-size:0.8rem;
+		    position: fixed;
+		    bottom:0;
+		    right:0;
+		    left:0;
+		}
+
+		
+		#footer {
+		    background: #363731 !important;
+		}
+		
+		#footer a {
+		    color: #ffffff;
+		    text-decoration: none !important;
+		    background-color: transparent;
+		    -webkit-text-decoration-skip: objects;
+		}
+		#footer ul.social li{
+			padding: 3px 0;
+		}
+		#footer ul.social li a i {
+		    margin-right: 5px;
+			font-size:25px;
+			-webkit-transition: .3s all linear;
+			-moz-transition: .3s all linear;
+			transition: .3s all linear;
+		}
+		#footer ul.social li:hover a i {
+			font-size:30px;
+			margin-top:-10px;
+		}
+		#footer ul.social li a,
+		
+		#footer ul.social li a:hover{
+			color:#eeeeee;
+		}
+
 	</style>
-	<script type="module" src="/js/main.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+    <script type="module" src="/js/main.js"></script>
 </head>
+
 <body>
-	<canvas id="screen" width="240" height="160"></canvas>
+	<div class="container">
+		<div class="row">
+	    	<canvas id="screen" width="240" height="160"></canvas>
+		</div>
+	</div>
+
+    <section id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12">
+                    <ul class="list-unstyled list-inline social text-center">
+                        <li class="list-inline-item"><a href="https://www.linkedin.com/in/ofir-bartal-9a2311117" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                        <li class="list-inline-item"><a href="https://github.com/ofirbartal100" target="_blank"><i class="fa fa-github" ></i></a></li>
+                        <li class="list-inline-item"><a href="mailto:ofirbartal100@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                </div>
+                <hr>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
+                    <p>This project was greatly influenced by <b><a target="_blank" href="https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ">#methmethmethod</a></b> and his Mario Bros development series.</p>
+                    <p class="h6">Developed By Ofir Bar Tal. 2018</p>
+                </div>
+                <hr>
+            </div>
+        </div>
+    </section>
 </body>
+
 </html>
